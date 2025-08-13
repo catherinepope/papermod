@@ -1,4 +1,4 @@
-baseURL: http://localhost:1313
+baseURL: https://merry-centaur-f519fc.netlify.app
 languageCode: en-gb
 title: Catherine Pope
 theme: ["PaperMod"]
