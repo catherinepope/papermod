@@ -1,4 +1,88 @@
-baseURL: https://example.org/
-languageCode: en-us
-title: My New Hugo Site
+baseURL: http://localhost:1313
+languageCode: en-gb
+title: Catherine Pope
 theme: ["PaperMod"]
+enableEmoji: true
+enableGitInfo: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Catherine Pope
+  description: "Catherine Pope's Personal Website"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Catherine Pope
+  # author: ["Me", "You"] # multiple authors
+  # images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "2 January , 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  socialIcons:
+    - name: x
+      url: "https://x.com/"
+    - name: stackoverflow
+      url: "https://stackoverflow.com"
+    - name: github
+      url: "https://github.com/"
+
+  editPost:
+    URL: "https://github.com/<path_to_repo>/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+  
+  profileMode:
+    enabled: true
+    title: "Catherine Pope"
+    subtitle: "Trainer, coach, and writer"
+    imageUrl: "/images/Catherine-Pope.png"
+    buttons:
+      - name: About
+        url: /about/
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 20
+    
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 30
+    
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 40
