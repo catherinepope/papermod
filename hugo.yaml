@@ -86,3 +86,8 @@ menu:
       name: Search
       url: /search/
       weight: 40
+
+    - identifier: kit
+      name: "Kit List"
+      url: /kit-list/
+      weight: 40
