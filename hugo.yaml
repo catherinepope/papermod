@@ -5,6 +5,10 @@ theme: ["PaperMod"]
 enableEmoji: true
 enableGitInfo: true
 
+taxonomies:
+  category: categories
+  tag: tags
+
 minify:
   disableXML: true
   minifyOutput: true
@@ -43,21 +47,25 @@ params:
   showtoc: false
   tocopen: false
 
+  homeInfoParams:
+    Title: Hi there wave
+    Content: Can be Info, links, about...
+  
   socialIcons:
-    - name: x
-      url: "https://x.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/catherinepope"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/drcatherinepope/"
+    - name: youtube
+      url: "https://www.youtube.com/@drcatherinepope"
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/catherinepope/papermod/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
   
   profileMode:
-    enabled: true
+    enabled: false
     title: "Catherine Pope"
     subtitle: "Trainer, coach, and writer"
     imageUrl: "/images/Catherine-Pope.png"
@@ -90,4 +98,4 @@ menu:
     - identifier: kit
       name: "Kit List"
       url: /kit-list/
-      weight: 40
+      weight: 50
