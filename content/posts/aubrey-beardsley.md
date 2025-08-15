@@ -6,7 +6,7 @@ tags:
   -  Victorian
   -  biography
 # ShowToc: true
-# OpenToc: true  
+# OpenToc: true
 ---
 
 {{< figure
