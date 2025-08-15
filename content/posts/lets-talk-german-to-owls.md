@@ -1,0 +1,28 @@
+---
+date: '2024-10-09T11:35:08+01:00'
+draft: true
+title: 'Lets Talk German to Owls'
+tags:
+  - learning
+  - languages
+---
+
+“The goose isn’t for dinner, she lives here.” Thanks to Duolingo, that’s just one of the phrases I’ve learned to say in German recently. And the goose is one of the more pedestrian examples. Rather than teaching you useful expressions, Duolingo mainly demonstrates how sentences are constructed and provides adaptable examples. Some of the more lurid sentences are cleverly designed to stick in your brain. “I wish you didn’t have a clown in your cellar” is certainly refusing to budge.
+
+My goal with Duolingo was to revive my German A-Level from around a hundred years ago. Back then, the only language-learning option was an enormous boxset of cassette tapes from the local library. It’s now very different. Characteristically, I tried nearly every app that’s on the market. Most of the others were better in terms of the depth and thoroughness of the teaching, but Duolingo triumphed in structure and addictiveness, thanks to its gamified approach. Indeed, I once caught myself saying that it was time to “play” Duolingo.
+
+I couldn’t be less sporty, but an unattractive competitive streak soon surfaced. I became hellbent on scoring enough points to reach the Diamond League. I’d imagined some kind of exclusive club, with rewards and snacks. Instead, it was full of people absolutely determined to finish top of the Diamond League, even though there was absolutely no other incentive than fleetingly appearing first in a bullet point list. I mournfully calculated how long I’d have to spend on Duolingo each day to stand a chance of winning (4 hours) and realised that wasn’t the best use of time for a 50-year-old.
+
+One of the ways to rack up points is to participate in time-based challenges. Like an idiot, I got sucked in initially. As with most other apps, the Duolingo developers are whizzes at creating features that keep you saying, “I’ll just do another five minutes.”. Although, at around £7 a month, this was a cheap activity, it quickly became a lot more expensive when I needed three physio appointments to unknot my neck.
+
+This time pressure is one of my main reservations with Duolingo. Like Simply Piano, an app I mentioned in a previous post, the emphasis is on often speed rather than accuracy. When you’re learning, you need to take time to think about the answer, and then to absorb any corrections. Ultimately, I want a learn a language, not play a game. I discovered that the web-based version, which I can use on my desktop, is both better for my neck and doesn’t include all the silly challenges.
+
+Another annoyance was quality. Although Duolingo has improved since I tried it briefly a few years ago, errors persist. Sometimes it wouldn’t let me progress to the next level unless I entered my answer in highly ungrammatical English. I sensed that some English answers were written by non-native speakers, as applying German syntax seemed to work. Although you can report errors, it doesn’t request any details … which suggests they don’t really want to know.
+
+Where the fault lay with me, rather than Duolingo, there’s very little guidance as to where I’d gone wrong. I’d just be presented with the correct answer, rather than, “Catherine, you’ve fluffed up your adjectival endings again. This one’s in the dative case, isn’t it?” Maybe that’s too much to expect from an app, but it does impact its effectiveness as a learning experience. Mind you, I did notice the gradual introduction of AI features that were detecting patterns. Occasionally, I’d get a message along the lines of: “You’re a bit shit at dative plurals, aren’t you? Here’s an opportunity to redeem yourself.” Other AI features seem less valuable, at least to me, such as simulated phonecalls with characters from the app. I can see this might be useful for building your speaking confidence, but an algorithm is no substitute for a human being. I really don’t want to discuss my weekend with a virtual bear called Falstaff.
+
+Generally, Duolingo is geared towards young people, with sections on apprenticeships, university life, and flat-sharing. I guess this is because this demographic is more likely to be moving to another country and learning a new language. It’s great on diversity, too. There’s a range of nationalities represented and many same-sex relationships in the stories. My last experience of an in-person language class was a teacher insisting I meant “my boyfriend” every time I said “my girlfriend”.
+
+Like Simply Piano, Duolingo is great for building a habit. But it’s not enough on its own. I’ve completed all the levels (which confusingly changed when I was partway through), and allegedly reached B1 competence (intermediate). While my vocabulary is quite wide, I’ve had minimal practice in speaking and writing. It feels more like GCSE, rather than A-Level, standard.
+
+I still use Duolingo for a few minutes each day, but now I’m mostly using Easy German. This excellent membership site offers a podcast, YouTube channel, discussion forums, book clubs, and in-person events. Duolingo is convenient, but real learning happens when you make yourself uncomfortable. Especially when you think there’s a clown in the cellar.

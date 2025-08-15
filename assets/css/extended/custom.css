@@ -6,69 +6,8 @@ body {
     border: 1px solid #555555;
 }
 
-.post-meta-inline {
-  display: flex;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 0.25rem;
-  font-size: 0.9rem;
-  margin-top: 1rem;   /* space above */
-  margin-bottom: 1rem; /* space below */
-}
-
-.post-meta-inline .meta-label {
-  font-weight: 600;
-  margin-right: 0.25rem;
-}
-
-.post-meta-inline .meta-separator {
-  margin: 0 0.5rem;
-  opacity: 0.6;
-}
-
-/* Keep UL lists inline */
-.post-tags-inline,
-.post-categories-inline {
-  list-style: none;
-  display: flex;
-  gap: 0.25rem;
-  padding: 0;
-  margin: 0;
-}
-
-.post-tags-inline li,
-.post-categories-inline li {
-  display: inline;
-}
-
-/* Categories button */
-.post-categories-inline a {
-  padding: 0.2rem 0.4rem;
-  background-color: var(--primary);
-  color: var(--theme); /* high-contrast text in light mode */
-  border-radius: 4px;
-  text-decoration: none;
-}
-
-/* Tags button */
-.post-tags-inline a {
-  padding: 0.2rem 0.4rem;
-  background-color: var(--tertiary);
-  color: var(--theme); /* high-contrast text in light mode */
-  border-radius: 4px;
-  text-decoration: none;
-}
-
-/* Hover effect for both */
-.post-categories-inline a:hover,
-.post-tags-inline a:hover {
-  opacity: 0.85;
-}
-
-/* Dark mode override */
-@media (prefers-color-scheme: dark) {
-  .post-categories-inline a,
-  .post-tags-inline a {
-    color: var(--entry); /* high-contrast text in dark mode */
-  }
+.post-content .book {
+    float: right;
+    margin-left: 15px;
+    margin-bottom: 10px;
 }

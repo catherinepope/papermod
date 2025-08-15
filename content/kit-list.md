@@ -3,36 +3,51 @@ title: Kit List
 permalink: /kit-list/
 ---
 
-Here's the stuff I use in the Pope Cave. These are affiliate links, so I earn a small commission if you buy anything. I'll probably spend it on more equipment.
+It's a nerdy tradition to include a kit list, so here's the stuff I use in the Pope Cave.
 
-### Video Equipment
+## General
 
--   Camera – [Canon M50](https://amzn.to/3yl3kvt)
--   Microphone – [Zoom H2n](https://amzn.to/3yjifGs)
--   Microphone (for quiet locations) – [Blue Yeti](https://amzn.to/3ERYPLf)
--   Boom – [Tiger Microphone Stand](https://amzn.to/3m0FIHD)
--   Lavalier mic – [Boya BY-M1](https://amzn.to/3oMVPKF)
--   Softbox Lightning – [Neewer Lighting Kit](https://amzn.to/3lYTEBU)
--   LED lights – [Neewer Video Lights](https://amzn.to/3oVOIjf)
--   Green screen – [Neewer Collapsible Background](https://amzn.to/3pSKp7c)
--   Teleprompter – [TeleprompterPAD](https://amzn.to/3GFAVmW)
--   Stream deck – [Elgato Stream Deck](https://amzn.to/3dLDKGA)
--   Headset – [HyperX Cloud](https://amzn.to/3GBFgqZ)
+- **Laptop:** MacBook Pro M2
+- **Headset:** HyperX Cloud
 
-### Software
+## Software
 
--   Writing – [Typora](https://typora.io)
--   Video editing – [Camtasia](https://techsmith.z6rjha.net/c/2548962/592399/5161)
--   Graphics – [Canva](https://partner.canva.com/c/2548962/647168/10068)
--   Productivity – [TextExpander](https://shareasale.com/r.cfm?b=1280040&u=2536110&m=81274&urllink=&afftrack=)
--   Backing up – [iDrive](https://www.idrive.com/p=catherinep)
--   Transcription – [Sonix](https://sonix.ai/invite/qoxljpr)
--   Note-taking - [Obsidian](https://obsidian.md)
+- **Writing:** [Scrivener](https://literatureandlatte.com)
+- **Video editing:** Adobe Premiere Pro
+- **Motion graphics:** Adobe After Effects
+- **Image wrangling:** Adobe Photoshop
+- **Vector images:** Adobe Illustrator
+- **Typesetting:** Adobe InDesign
+- **Productivity:** [TextExpander](https://textexpander.com)
+- **Automation:** [Hazel](https://www.noodlesoft.com)
+- **Backing up:** [ChronoSync](https://www.econtechnologies.com/chronosync/overview.html)
+- **Transcription:** [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper)
+- **Note-taking:** [Obsidian](https://obsidian.md)
+- **Audio note-taking:** [AudioPen](https://audiopen.ai)
+- **Coding:** [Visual Studio Code](https://code.visualstudio.com/)
+
+## Utilities
+
+- [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) (for keeping my laptop awake)
+- [CopyClip](https://apps.apple.com/us/app/copyclip-clipboard-history/id595191960?mt=12) (for keeping dozens of things on my clipboard)
+- [Jettison](https://www.stclairsoft.com/Jettison/) (for safely ejecting my external drive when my MacBook nods off)
+- [Rectangle Pro](https://rectangleapp.com/pro) for organising my windows into custom tiles.
+
+## Video Equipment
+
+-   **Camera:** Canon M50
+-   **Microphone:** Blue Yeti
+-   **Boom:** Tiger Microphone Stand
+-   **Softbox Lighting:** Neewer Lighting Kit
+-   **LED lights:** Neewer Video Lights
+-   **Green screen:** Neewer Collapsible Background
+-   **Teleprompter:**  TeleprompterPAD
+-   **Stream deck:** Elgato Stream Deck (difficult to use, now that MacBooks come with so few USB ports)
+
 
 ### Website
 
 -   Hosting & deployment - [Netlify](https://netlify.com)
--   Static site generator - [Jekyll](https://jekyllrb.com/)
--   Theme - [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)
--   Coding - [Visual Studio Code](https://code.visualstudio.com/)
+-   Static site generator - [Hugo](https://gohugo.io)
+-   Theme - [PaperMod](https://adityatelange.github.io/hugo-PaperMod/)
 
