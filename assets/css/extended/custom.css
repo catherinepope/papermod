@@ -12,7 +12,6 @@ body {
     margin-bottom: 10px;
 }
 
-.post-description,
-.post-summary {
-    display: none !important;
-}
+.post-description {
+     display: none !important;
+ }

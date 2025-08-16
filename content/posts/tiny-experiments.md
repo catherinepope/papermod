@@ -1,18 +1,16 @@
 ---
-date: '2025-08-15T17:05:47+01:00'
-draft: true
-title: 'Tiny Experiments'
-tags: ["learning", "tag2", "tag3"]
-category: 
-description:
-keywords: ["keyword 1", "keyword 2", "keyword 3"]
-# ShowToc: true
-# OpenToc: true  
+date: "2025-08-15T17:05:47+01:00"
+draft: false
+title: "Tiny Experiments"
+tags: ["learning"]
+categories: ["Books"] 
+description: "Discover how Anne-Laure Le Cunff's 'Tiny Experiments' approach can help you achieve goals through small, manageable tests rather than overwhelming five-year plans. Learn about experimenting with money emotions and creative writing for personal insights."
+keywords: ["Tiny Experiments", "Anne-Laure Le Cunff", "goal setting", "Ness Labs", "productivity", "personal development", "mindful productivity"]
 ---
 
 {{< figure
   src="/images/tiny-experiments.jpg"
-  alt="Tiny Experiments by Anne-Laure Le Cunff"
+  alt="Cover of Tiny Experiments by Anne-Laure Le Cunff"
   class="book"
 >}}
 

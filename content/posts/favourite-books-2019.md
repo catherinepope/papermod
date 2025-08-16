@@ -1,8 +1,11 @@
 ---
 title:  "My Favourite Books of 2019"
 date:   2020-01-03 10:19:28 +0100
-categories: 
-  - books
+draft: false
+categories: ["Books"]
+tags: ["money", "ai"]
+description: "Discover 12 transformative books from 2019 across self-improvement, business, marketing, and money. From James Clear's 'Atomic Habits' to Seth Godin's 'This is Marketing,' these recommendations offer practical insights for personal and professional growth."
+keywords: ["book recommendations", "business books", "self-improvement", "marketing books", "personal finance", "James Clear", "Seth Godin", "reading list", "book reviews", "2019 books"]
 ---
 
 One of my many resolutions for 2019 was to read more books. Although some of the other resolutions were quietly abandoned, I'm pleased to report that I read 120 books. Yes, that's a lot. This is partly because did a great deal of train travel last year, and also because my idea of a holiday is to solidly read books and eat crisps for a week. Some of those books really changed my thinking, or at least clarified it significantly. Here are my top three in the categories of self-improvement (one of my obsessions), business, marketing, and money.

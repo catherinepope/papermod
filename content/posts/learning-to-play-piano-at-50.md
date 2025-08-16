@@ -1,12 +1,12 @@
 ---
 title:  "88 Keys to Happiness: Learning to Play Piano at 50"
 date:   2024-09-26 10:19:28 +0100
-categories: 
-  - learning
-tags:
-  - piano
+draft: false
+# categories: 
+tags: ["Learning", "piano"]
 showToc: true
-
+description: "A candid review of piano learning apps from a 50-year-old beginner. Compare FlowKey, Simply Piano, and Piano Marvel to discover which apps work best for adult learners, including pros and cons of each platform's teaching methods."
+keywords: ["piano learning apps", "adult piano lessons", "Simply Piano review", "Piano Marvel", "FlowKey", "learning piano at 50", "piano apps comparison", "beginner piano", "online piano lessons", "piano practice apps"]
 ---
 
 I’d always promised myself I would learn to play the piano before the age of 50. I managed it by a gnat’s crotchet, starting just a couple of months ahead of my big birthday. Although I tried to learn in my late twenties, I gave up in disgust upon discovering the existence of the bass clef. Of course, I’d realised hand coordination was involved … but that note is a G for my right hand, but a C for my left? And I have to read two staves simultaneously? I don’t need this nonsense. I’ll just read a book instead.

@@ -1,10 +1,11 @@
 ---
 title:  "Open Up: The Power of Talking About Money by Alex Holder"
-date:   2019-03-20 10:19:28 +0100
-categories:
-  - books
-tags:
-  - money
+date:   "2019-03-20 10:19:28 +0100"
+draft: false
+categories: ["Books"]
+tags: ["money"]
+description: "A review of Alex Holder's 'Open Up,' exploring why we keep our finances secret and how honest money conversations can transform our relationship with spending, debt, and financial wellbeing. Discover practical advice for breaking money taboos."
+keywords: ["Alex Holder", "Open Up book", "money conversations", "financial secrecy", "personal finance", "book review", "money shame", "financial coaching", "money taboos"]
 ---
 
 Who knows how much you earn? One person? Two? Maybe nobody apart from Human Resources. Research shows that nearly 50% of couples have no idea of each other’s salary. As Alex Holder explains in [_Open Up_](https://uk.bookshop.org/a/2760/9781788161886),[^1] we often believe our salary and assets define us. These are the true indicators of our success, status, and power. Revealing that magic figure gives someone an easy way to judge our worth. And this secrecy extends beyond our salaries. In a survey by the [Money Advice Service](https://www.moneyadviceservice.org.uk/en), 45% of people admitted to lying to their partners about money, especially debt.
@@ -19,4 +20,4 @@ Holder shares her story of meeting with financial coach [Simonne Gnessen](https:
 
 Creating a healthy relationship with money means saying ‘no’, but only to the stuff that we don’t really need. That helps us decide what’s truly important. Holder halved her salary to become a freelance writer yet is now more financially stable. She’s keen to acknowledge her privileges, too. These include an advance for this book and a short-term loan from her partner’s parents to buy their first flat. This honesty is one of the reasons I loved the book. Holder provides plenty of real-world examples based on her own life and from a range of interviewees. The advice is fresh, practical, and realistic. It’s not about showing your bank statement to somebody on the tube or oversharing at parties; instead, it’s becoming more comfortable with people you trust. Reinforcing our awkwardness and shame around money doesn’t help anyone. Imagine how good it would feel to improve our relationship with money and with each other. Secrecy allows pay gaps to flourish and marriages to flounder. Let’s open up and make things better.
 
-[^1]: This is an affiliate link. If you purchase the book, I'll earn a small commission (which I'll probably spend on more books, or gin).
+[^1]: This is an affiliate link. If you purchase the book, I'll earn a small commission (which I'll probably spend on more books).

@@ -1,13 +1,12 @@
 ---
-date: '2025-01-25T16:52:43+01:00'
-draft: true
+date: "2025-01-25T16:52:43+01:00"
+draft: false
 title: "Diderot's Dishwasher"
+category: ["Books"]
 tags: ["sustainability"]
-category: 
-description:
-keywords: ["keyword 1", "keyword 2", "keyword 3"]
-# ShowToc: true
-# OpenToc: true  
+description: "Explore the Diderot Effect - how one purchase leads to a spiral of consumption. From Denis Diderot's scarlet robe to modern smart appliances, discover why we're never satisfied with what we have and how to resist lifestyle inflation and mindless consumerism."
+keywords: ["Diderot Effect", "consumer psychology", "minimalism", "lifestyle inflation", "consumerism", "hedonic treadmill", "alternative hedonism", "Kate Soper", "James Clear", "mindful consumption"]
+
 ---
 
 {{< figure

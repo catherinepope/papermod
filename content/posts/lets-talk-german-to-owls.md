@@ -1,10 +1,10 @@
 ---
-date: '2024-10-09T11:35:08+01:00'
-draft: true
-title: 'Lets Talk German to Owls'
-tags:
-  - learning
-  - languages
+date: "2024-10-09T11:35:08+01:00"
+draft: false
+title: "Lets Talk German to Owls"
+tags: ["Learning", "German"]
+description: "An honest review of Duolingo for German learning from an adult perspective. Discover the pros and cons of the gamified approach, competitive leagues, and why supplementing with other resources like Easy German leads to better language learning results."
+keywords: ["Duolingo review", "German learning apps", "adult language learning", "Duolingo German", "language learning apps", "gamified learning", "language app comparison"]
 ---
 
 “The goose isn’t for dinner, she lives here.” Thanks to Duolingo, that’s just one of the phrases I’ve learned to say in German recently. And the goose is one of the more pedestrian examples. Rather than teaching you useful expressions, Duolingo mainly demonstrates how sentences are constructed and provides adaptable examples. Some of the more lurid sentences are cleverly designed to stick in your brain. “I wish you didn’t have a clown in your cellar” is certainly refusing to budge.

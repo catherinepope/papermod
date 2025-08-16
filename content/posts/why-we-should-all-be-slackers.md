@@ -1,10 +1,18 @@
 ---
-date: '2025-08-15T11:32:47+01:00'
-draft: true
-title: 'Why We Should All Be Slackers'
-tags:
-  - 
+date: "2025-08-15T11:32:47+01:00"
+draft: false
+title: "Why We Should All Be Slackers"
+tags: ["wellbeing"]
+categories: ["Books"]
+description: "Discover why building 'slack' into your life is more valuable than relentless efficiency. Explore how having reserves of time, money, and skills helps you avoid the scarcity mindset and make better decisions during uncertain times."
+keywords: ["scarcity mindset", "Andrew J Scott","Lynda Gratton", "Nassim Taleb", "Black Swan", "career flexibility", "financial planning", "redundancy planning", "work-life balance"]
 ---
+
+{{< figure
+  src="/images/the-new-long-life.jpg"
+  alt="Cover of The New Long Life by Andrew J Scott and Lynda Gratton"
+  class="book"
+>}}
 
 There’s a lot of focus on making ourselves as efficient as possible: cramming our days with conspicuous activities, multitasking, and listening to podcasts at double speed. This might make sense during the good times, but we come unstuck when everything gets a bit squirrely – during a pandemic or a recession, for instance – then we suddenly realise our regime isn’t really serving us.
 

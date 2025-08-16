@@ -1,9 +1,11 @@
 ---
-layout: single
 title:  "Insights from 2020"
 date:   2021-01-05 10:19:28 +0100
-categories:
-  - personal
+draft: false
+# categories:
+keywords: ["Reflections"]
+description: "A candid reflection on pivoting a business during COVID-19, from losing £20,000 in cancelled workshops to building scalable digital income. Discover key lessons about online events, asset creation, financial resilience, and preparing for uncertainty in self-employment."
+keywords: ["COVID-19 business pivot", "online workshops", "scalable income", "self-employment", "digital business", "asset creation", "financial resilience", "business lessons"]
 ---
 
 I started the year feeling tired. I was running an awful lot of workshops around the south east, many of them weekend events. Thanks to the vagaries of our rail system, I spent countless hours stuck on uncomfortable trains. I dreamed of running virtual events from the comfort of my pope cave. Indeed, I'd tried to convince clients that webinars and online courses were a good idea, but everyone wanted in-person events. Ha.

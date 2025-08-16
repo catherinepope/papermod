@@ -1,13 +1,11 @@
 ---
-date: '2025-08-15T17:00:10+01:00'
-draft: true
-title: 'Repeat for the Other Shoe'
+date: "2025-08-15T17:00:10+01:00"
+draft: false
+title: "Repeat for the Other Shoe"
 tags: ["productivity", "neurodivergence", "writing"]
-category: 
-description:
-keywords: ["keyword 1", "keyword 2", "keyword 3"]
-# ShowToc: true
-# OpenToc: true  
+categories: ["Books"] 
+description: "Discover how checklists and timeboxing can improve focus and productivity, especially for neurodivergent minds. Explore tools like goblin.tools and Focusbox to break down overwhelming tasks and manage executive function challenges effectively."
+keywords: ["checklists", "timeboxing", "executive function", "ADHD productivity", "autism tools", "Focusbox", "task management", "focus techniques", "neurodivergent productivity"]
 ---
 
 {{< figure

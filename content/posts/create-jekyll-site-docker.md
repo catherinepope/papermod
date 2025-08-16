@@ -1,15 +1,13 @@
 ---
-layout: single
-title: Creating a Jekyll Site with Docker
-date: 2022-09-25
-categories:
-  - technology
-tags:
-  - Docker
-  - Jekyll
-  - tutorial
-  - YouTube
+title: "Creating a Jekyll Site with Docker"
+date: "2022-09-25"
+draft: false
+category: "Technology"
+tags: ["Docker", "Jekyll", "tutorials", "YouTube"]
 showToc: true
+tocOpen: true
+description: "Learn how to create a Jekyll site in just three steps using Docker Community Edition and Bret Fisher's images. Skip the complex Ruby installation process and get your Jekyll site running locally with simple Docker commands in minutes."
+keywords: ["Jekyll", "Docker", "static site generator", "web development", "Jekyll tutorial", "Docker tutorial", "Bret Fisher", "local development", "Jekyll installation"]
 ---
 
 NOTES: THIS ONE WORKS FINE! JUST GIVE IT A LIGHT REFRESH.

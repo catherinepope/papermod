@@ -1,12 +1,13 @@
 ---
-layout: single
-title: Creating and Running a Docker Image of Your Website
+title: "Creating and Running a Docker Image of Your Website"
 date: 2022-08-21
-categories:
-  - technology
-tags:
-  - Docker
+draft: false
+category: ["Technology"]
+tags: ["Docker", "tutorials"]
 showToc: true
+tocOpen: true
+description: "Learn how to package a simple website with nginx as a Docker image in this step-by-step tutorial. Discover how to create a Dockerfile, build custom images, and serve websites locally using Docker containers - no complex web server setup required."
+keywords: ["Docker", "nginx", "web server", "Dockerfile tutorial", "Docker Desktop", "containerization", "local development", "web development", "Docker images", "nginx container"]
 ---
 
 NOTES - I need to explain about Dockerfiles having no extension. Also, the random image isn't showing - apart from that, this all still works!

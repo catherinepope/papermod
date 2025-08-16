@@ -35,7 +35,7 @@ params:
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
@@ -91,6 +91,11 @@ menu:
       url: /about/
       weight: 30
     
+    - identifier: writing
+      name: Writing
+      url: /writing/
+      weight: 35
+
     - identifier: search
       name: Search
       url: /search/

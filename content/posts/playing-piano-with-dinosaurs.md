@@ -1,19 +1,16 @@
 ---
-date: '2024-10-13T16:29:09+01:00'
-draft: true
-title: 'Playing Piano With Dinosaurs'
+date: "2024-10-13T16:29:09+01:00"
+draft: false
+title: "Playing Piano With Dinosaurs"
 tags: ["piano", "learning", "music"]
-# category: 
-description: 'Story about my experience of having a piano lesson for the first time'
-keywords: ["learning piano", "music"]
-# ShowToc: true
-# OpenToc: true  
+# categories: 
+description: "A candid account of transitioning from piano learning apps to real lessons at age 50. Discover how human instruction transforms your understanding of dynamics, physicality, and musical interpretation beyond what apps can teach."
+keywords: ["piano lessons", "adult piano learning", "piano teacher", "learning piano at 50", "piano technique", "adult music lessons", "piano practice"]
 ---
 
 {{< figure
   src="/images/note-by-note.jpg"
-  alt="Note by Note"
-  caption="Note by Note by Tricia Tunstall"
+  alt="Cover of Note by Note by Tricia Tunstall"
   class="book"
 >}}
 

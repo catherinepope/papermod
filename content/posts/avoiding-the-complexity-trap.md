@@ -1,13 +1,19 @@
 ---
-date: '2024-09-28T11:20:01+01:00'
+date: "2024-09-28T11:20:01+01:00"
 draft: false
-title: 'Avoiding the Complexity Trap'
-tags: 
-  - writing
-  - productivity
+title: "Avoiding the Complexity Trap"
+tags: ["writing", "productivity"]
+category: "Books"
+description: "A review and reflection on Oliver Burkeman's 'Meditations for Mortals,' exploring how the book exposes our tendency to avoid scary tasks through over-planning. Discover why the 'Complexity Trap' keeps us from taking action and how blogging can help clarify bigger writing projects."
+keywords: ["Oliver Burkeman", "Meditations for Mortals", "book review", "self-help", "productivity", "procrastination", "writing advice", "creative process", "blogging tips"]
+
 ---
 
-![Cover of Meditations for Mortals](/images/Meditations-for-Mortals.webp)
+{{< figure
+  src="/images/meditations-for-mortals.jpg"
+  alt="Cover of Meditations for Mortals by Oliver Burkeman"
+  class="book"
+>}}
 
 Over the last week, I’ve been meaning to write a blog post about Oliver Burkeman’s [Meditations for Mortals: Four Weeks to Embrace Your Limitations and Make Time for What Counts](https://uk.bookshop.org/a/2760/9781847927613). This morning, my brain had a great idea: Why don’t I create a whole new blog about self-help books? Yes, that’s much better than just writing this one piece. Then I can find the right domain name, fanny around with WordPress, and (best of all) create a content plan in Trello. Excruciatingly, this is exactly the sort of behaviour Burkeman cautions against:
 

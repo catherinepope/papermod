@@ -1,18 +1,16 @@
 ---
-date: '2024-10-18T16:48:48+01:00'
-draft: true
-title: 'Saturday Morning Experiments'
+date: "2024-10-18T16:48:48+01:00"
+draft: false
+title: "Saturday Morning Experiments"
 tags: ["learning", "work"]
-category: 
-description:
-keywords: ["keyword 1", "keyword 2", "keyword 3"]
-# ShowToc: true
-# OpenToc: true  
+category: ["Books"]
+description: "Explore how Nobel Prize winner Oliver Smithies' 'Saturday Morning Experiments' can inspire your own creative breakthroughs. Discover why unstructured weekend experimentation leads to innovation and how to apply this approach to your own projects."
+keywords: ["Saturday Morning Experiments", "Oliver Smithies", "David Epstein Range", "creative experimentation", "innovation", "weekend projects", "scientific creativity", "unstructured learning", "breakthrough thinking"]
 ---
 
 {{< figure
   src="/images/range.jpg"
-  alt="Range by David Epstein"
+  alt="Cover of Range by David Epstein"
   class="book"
 >}}
 
