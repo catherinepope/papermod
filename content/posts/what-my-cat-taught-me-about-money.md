@@ -1,6 +1,6 @@
 ---
 date: "2025-08-16T11:31:46+01:00"
-draft: true
+draft: false
 title: "What My Cat Taught Me About Money"
 tags: ["money", "Tiny Experiments", "decision-making"]
 # category: 
@@ -16,4 +16,4 @@ When there’s a lot of complexity – either emotionally or financially – we 
 
 In my book, I want to explore how we can make smaller reversible decisions, rather than getting bounced into huge commitments that don’t always work in our favour. How can we adopt a more experimental mindset with our finances? Could a series of tiny experiments be less risky than placing one big bet on a pension scheme? I’m going to find out.
 
-This post is part of the [Tiny Experiments](/posts/tiny-experiments) series.
+_This post is part of the [Tiny Experiments](/posts/tiny-experiments) series._

@@ -10,8 +10,6 @@ description: "Learn how to create a Jekyll site in just three steps using Docker
 keywords: ["Jekyll", "Docker", "static site generator", "web development", "Jekyll tutorial", "Docker tutorial", "Bret Fisher", "local development", "Jekyll installation"]
 ---
 
-NOTES: THIS ONE WORKS FINE! JUST GIVE IT A LIGHT REFRESH.
-
 Although it only takes a minute to create a Jekyll site, you could easily spend a large chunk of your life installing the environment. A query on the [Write the Docs forum](https://www.writethedocs.org/slack/) prompted me to share an easier way.
 
 In this post, I'll show you how to create a Jekyll site in three steps, using the free Docker Community Edition and Bret Fisher's images. 
@@ -34,7 +32,7 @@ docker run -v $(pwd):/site bretfisher/jekyll new .
 
 You should see the installation progress, followed by a message to confirm that the new site has been installed.
 
-![Jekyll new](/images/create-jekyll-docker.png){: .align-center}
+![Jekyll new](/images/create-jekyll-docker.png)
 
 Here's what's happening in the snippet above:
 
@@ -71,7 +69,7 @@ Here's what's happening:
 
 The Docker container spins up, then builds and serves your new website. You'll see a URL through which you can preview your site.
 
-![jekyll serve](/images/jekyll-serve.png){: .align-center}
+![jekyll serve](/images/jekyll-serve.png)
 
 It'll be the default Jekyll site for now. To test it properly, make a change to the `about.markdown` page and refresh your browser.
 
@@ -80,8 +78,6 @@ The files are all on your local machine, but Jekyll itself is safely isolated wi
 ## Next Steps
 
 You now have a Jekyll site on your local machine, without the pain of installing Ruby and myriad libraries. 
-
-In a previous post, I explained an [alternative method for building and previewing existing Jekyll sites](https://www.catherinepope.com/docker/2022/08/14/docker-jekyll.html). There are also some tips on simplifying the Docker commands - worthwhile if you're using this method a lot.
 
 There's more information on the [Docker images on Bret Fisher's GitHub page](https://github.com/BretFisher/jekyll-serve). A big thank you to Bret for creating and maintaining these images. They make Jekylling much easier.
 

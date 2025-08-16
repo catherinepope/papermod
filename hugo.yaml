@@ -27,7 +27,7 @@ params:
   author: Catherine Pope
   # author: ["Me", "You"] # multiple authors
   # images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "2 January , 2006"
+  DateFormat: "2 January, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
   ShowSummary: false
@@ -48,9 +48,9 @@ params:
   showtoc: false
   tocopen: false
 
-  homeInfoParams:
-    Title: Hi there wave
-    Content: Can be Info, links, about...
+  # homeInfoParams:
+  #  Title: "Hello 👋 and welcome to my website."
+  #  Content: "You can find my latest posts below 👇"
   
   socialIcons:
     - name: github
@@ -96,12 +96,12 @@ menu:
       url: /writing/
       weight: 35
 
-    - identifier: search
-      name: Search
-      url: /search/
-      weight: 40
-
     - identifier: kit
       name: "Kit List"
       url: /kit-list/
+      weight: 40
+
+    - identifier: search
+      name: Search
+      url: /search/
       weight: 50

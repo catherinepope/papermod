@@ -1,6 +1,6 @@
 ---
 date: "2025-08-16T11:22:27+01:00"
-draft: true
+draft: false
 title: "The Confidence Game"
 tags: ["money", "Tiny Experiments"]
 # category: 
@@ -18,4 +18,4 @@ When I experiment with retirement apps, the calculations are always based on mak
 
 Instead of catastrophising, I’m going to investigate non-financial ways I can support myself in later life. This is going to involve some larger experiments around alternative investments, co-operative living, and building a work community. None of these ideas is any more certain than traditional financial products, but even a partial success is likely to bring benefits. Unexpected or unwelcome results are still useful data. And experimenting feels like more fun than betting on the stock market.
 
-This post is part of the [Tiny Experiments](/posts/tiny-experiments/) series.
+_This post is part of the [Tiny Experiments](/posts/tiny-experiments/) series._

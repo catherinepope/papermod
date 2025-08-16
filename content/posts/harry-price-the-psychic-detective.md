@@ -1,5 +1,5 @@
 ---
-date: "2008-12-04T13:40:57+01:00"
+date: "2008-12-04"
 draft: false
 title: "Harry Price the Psychic Detective"
 categories: ["Books"]

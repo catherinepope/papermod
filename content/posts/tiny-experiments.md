@@ -28,8 +28,8 @@ I’m hoping these further tiny experiments will enrich the book and also give m
 
 ## The Posts
 
-- **Monday** – The Confidence Game
-- **Tuesday** – What my cat taught me about money
-- **Wednesday** – Liberated but not empowered
-- **Thursday** – How I spent £120 on two CDs
-- **Friday** – You need an ashtray
+- **Monday** – [The Confidence Game](/posts/the-confidence-game)
+- **Tuesday** – [What my cat taught me about money](/posts/what-my-cat-taught-me-about-money)
+- **Wednesday** – [Liberated but not empowered](/posts/liberated-but-not-empowered/)
+- **Thursday** – [How I spent £120 on two CDs](/posts/how-i-spent-120-on-two-cds)
+- **Friday** – [You need an ashtray](/posts/you-need-an-ashtray/)

@@ -1,6 +1,6 @@
 ---
 date: "2025-08-16T11:42:11+01:00"
-draft: true
+draft: false
 title: "How I Spent £120 on Two CDs"
 tags: ["money", "music"]
 # category: 
@@ -14,4 +14,4 @@ I subscribed to Spotify a few years ago. When they sent me the ‘year in review
 
 It’s not that I don’t want to pay for music, I just want to ensure that a fair amount goes to the artist, rather than to large corporations. Despite my best efforts, I haven’t discovered a platform that offers a good range of music and rewards the creators fairly. I’ve decided to keep buying CDs, directly from the artist where possible, then create mixtapes for my phone. This feels more ethical, plus I’m not going to lose my music collection if my internet connection goes tits up. And I’m not renting stuff I already own in the name of “convenience”. Physical CDs are also less damaging to the environment than repeated streaming. Admittedly, my shelves are looking quite full, but perhaps Stacey Solomon will come and sort me out if things get too bad.
 
-This post is part of the [Tiny Experiments](/posts/tiny-experiments/) series.
+_This post is part of the [Tiny Experiments](/posts/tiny-experiments/) series._

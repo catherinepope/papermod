@@ -8,6 +8,12 @@ description: "A review of Alex Holder's 'Open Up,' exploring why we keep our fin
 keywords: ["Alex Holder", "Open Up book", "money conversations", "financial secrecy", "personal finance", "book review", "money shame", "financial coaching", "money taboos"]
 ---
 
+{{< figure
+  src="/images/open-up.jpg"
+  alt="Cover of Open Up by Alex Holder"
+  class="book"
+>}}
+
 Who knows how much you earn? One person? Two? Maybe nobody apart from Human Resources. Research shows that nearly 50% of couples have no idea of each other’s salary. As Alex Holder explains in [_Open Up_](https://uk.bookshop.org/a/2760/9781788161886),[^1] we often believe our salary and assets define us. These are the true indicators of our success, status, and power. Revealing that magic figure gives someone an easy way to judge our worth. And this secrecy extends beyond our salaries. In a survey by the [Money Advice Service](https://www.moneyadviceservice.org.uk/en), 45% of people admitted to lying to their partners about money, especially debt.
 
 Alex Holder is refreshingly candid about her own financial situation. While working as an advertising executive and earning a six-figure salary, she never seemed to have any money. Achieving the endorsement of a high income meant she rewarded herself with correspondingly expensive treats. As she observes, our maximum transaction amount – how much we’ll spend without thinking about it – increases. When we’re on a very low income, it might be £5; after a few pay rises or promotions, it could creep up to £100.  We start routinely splurging on fancy dinners or darting everywhere in cabs. As a financial coach, I’ve worked with clients earning anything from £10,000 to £250,000. Although their income varies enormously, they all feel equally anxious about whether they’ve got enough money. Earning more isn’t the answer, it’s how we manage it.

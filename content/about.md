@@ -4,6 +4,12 @@ permalink: /about/
 description: "About page for Catherine Pope"
 ---
 
+{{< figure
+  src="/images/Catherine-Pope.png"
+  alt="Catherine Pope"
+  class="book"
+>}}
+
 Hello 👋 I’m Catherine Pope, a writer, academic coach, and trainer.
 
 I enjoy mastering difficult concepts and helping other people understand them.
