@@ -82,24 +82,29 @@ menu:
       weight: 10
     
     - identifier: posts
-      name: Posts
+      name: Blog
       url: /posts/
-      weight: 20
+      weight: 30
     
     - identifier: about
       name: About
       url: /about/
-      weight: 30
+      weight: 20
     
     - identifier: writing
       name: Writing
       url: /writing/
       weight: 35
 
-    - identifier: kit
-      name: "Kit List"
-      url: /kit-list/
-      weight: 40
+    - identifier: work
+      name: "Work"
+      url: /work/
+      weight: 25
+    
+    - identifier: contact
+      name: "Contact Me"
+      url: /contact/
+      weight: 45
 
     - identifier: search
       name: Search
