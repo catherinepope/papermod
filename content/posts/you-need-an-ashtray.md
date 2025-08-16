@@ -1,5 +1,5 @@
 ---
-date: "2025-08-16T11:46:27+01:00"
+date: "2025-03-07T11:46:27+01:00"
 draft: false
 title: "You Need an Ashtray"
 tags: ["money", "Tiny Experiments"]

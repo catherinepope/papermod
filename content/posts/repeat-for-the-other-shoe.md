@@ -1,5 +1,5 @@
 ---
-date: "2025-08-15T17:00:10+01:00"
+date: "2025-02-25T17:00:10+01:00"
 draft: false
 title: "Repeat for the Other Shoe"
 tags: ["productivity", "neurodivergence", "writing"]

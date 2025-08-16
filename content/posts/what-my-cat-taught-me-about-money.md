@@ -1,5 +1,5 @@
 ---
-date: "2025-08-16T11:31:46+01:00"
+date: "2025-03-04T11:31:46+01:00"
 draft: false
 title: "What My Cat Taught Me About Money"
 tags: ["money", "Tiny Experiments", "decision-making"]

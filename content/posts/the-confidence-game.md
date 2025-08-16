@@ -1,5 +1,5 @@
 ---
-date: "2025-08-16T11:22:27+01:00"
+date: "2025-03-03T11:22:27+01:00"
 draft: false
 title: "The Confidence Game"
 tags: ["money", "Tiny Experiments"]

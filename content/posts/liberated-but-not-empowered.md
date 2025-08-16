@@ -1,5 +1,5 @@
 ---
-date: "2025-08-16T11:35:05+01:00"
+date: "2025-03-05T11:35:05+01:00"
 draft: false
 title: "Liberated but Not Empowered"
 tags: ["money"]

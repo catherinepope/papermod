@@ -1,5 +1,5 @@
 ---
-date: "2025-08-15T11:28:51+01:00"
+date: "2024-09-29T11:28:51+01:00"
 draft: false
 title: "Keeping Up with the Victorians"
 tags: ["money", "Victorian"]

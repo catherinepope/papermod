@@ -1,5 +1,5 @@
 ---
-date: "2025-08-15T11:32:47+01:00"
+date: "2024-10-06T11:32:47+01:00"
 draft: false
 title: "Why We Should All Be Slackers"
 tags: ["wellbeing"]

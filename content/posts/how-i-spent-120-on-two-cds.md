@@ -1,5 +1,5 @@
 ---
-date: "2025-08-16T11:42:11+01:00"
+date: "2025-03-06T11:42:11+01:00"
 draft: false
 title: "How I Spent £120 on Two CDs"
 tags: ["money", "music"]

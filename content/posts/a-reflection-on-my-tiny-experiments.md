@@ -1,5 +1,5 @@
 ---
-date: "2025-08-16T11:50:11+01:00"
+date: "2025-03-17T11:50:11+01:00"
 draft: false
 title: "A Reflection on My Tiny Experiments"
 tags: ["writing", "Tiny Experiments"]
