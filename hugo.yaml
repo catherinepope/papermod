@@ -1,6 +1,6 @@
 baseURL: https://catherinepope.com
 languageCode: en-gb
-title: Catherine Pope
+title: "Catherine Pope"
 theme: ["PaperMod"]
 enableEmoji: true
 enableGitInfo: true
@@ -59,6 +59,13 @@ params:
       url: "https://www.linkedin.com/in/drcatherinepope/"
     - name: youtube
       url: "https://www.youtube.com/@drcatherinepope"
+    # - name: Google Scholar
+    #  url: https://scholar.google.com/citations?user=RFIKT2EAAAAJ&hl=en
+    - name: Bluesky
+      url: https://bsky.app/profile/catherinepope.bsky.social
+    - name: Email
+      url: mailto:me@catherinepope.com
+
 
   editPost:
     URL: "https://github.com/catherinepope/papermod/tree/main/content"
@@ -66,13 +73,13 @@ params:
     appendFilePath: true # to append file path to Edit link
   
   profileMode:
-    enabled: false
+    enabled: true
     title: "Catherine Pope"
-    subtitle: "Trainer, coach, and writer"
+    subtitle: "Trainer, Coach & Content Creator"
     imageUrl: "/images/Catherine-Pope.png"
-    buttons:
-      - name: About
-        url: /about/
+    # buttons:
+    #  - name: About
+    #    url: /about/
 
 menu:
   main:
