@@ -1,0 +1,53 @@
+---
+date: "2009-05-12T14:46:40+01:00"
+draft: false
+title: "The Mysterious Miss Marie Corelli: Queen of Bestsellers"
+tags: ["Victorian", "biography"]
+category: ["Books"]
+description: "A review of Teresa Ransom's 'The Mysterious Marie Corelli - Queen of Bestsellers,' exploring the contradictory life of Victorian England's most popular novelist. Discover how this anti-suffrage bestselling author lived with another woman while writing about marriage as women's destiny."
+keywords: ["Marie Corelli", "Teresa Ransom", "Victorian bestseller", "biography review", "The Sorrows of Satan", "Victorian women writers", "anti-suffrage", "Victorian literature", "literary celebrity"]
+---
+
+{{< figure
+  src="/images/the-mysterious-miss-marie-corelli.jpg"
+  alt="Cover of The Mysterious Miss Marie Corelli"
+  class="book"
+>}}
+
+I was prompted to seek out _The Mysterious Marie Corelli: Queen of Bestsellers_ after reading The Sorrows of Satan. Quite apart from the astonishingly narcissistic writing style, I was tantalised by the short accompanying biography, which suggested a fascinating and contradictory life. Although an independent and successful woman, she vehemently opposed women’s suffrage, referring to the Suffragettes as “Ladies who scream”. Her novels portray marriage as the desideratum of all girls, yet she chose to share her life with another woman, Bertha Vyer.
+
+It was known that she had been adopted by the poet and journalist Charles Mackay, but manuscripts unearthed after her death suggest he was actually her biological father, and that she had been born illegimately. In order to hide her “shameful” past, she claimed Italian lineage and appropriated the name Corelli. Her real name was the more prosaic “Mills”.  After the death of her mother, money was tight and she approached the publisher Bentley & Son with a proposal for a novel called Lifted Up. It was accepted and later published under the title of _A Romance of Two Worlds_. Although Oscar Wilde was utterly charmed by it, critics were dismissive of her “ridiculous ideas”. However, this Italian writer with a mysterious past captured the public’s imagination and it was a huge success.
+
+A number of other triumphs followed, and Miss Corelli was becoming a household name.  She was rapidly acquiring celebrity friends, such as Ellen Terry, and Lillie Langtry asked to play one of her heroines in a stage adaptation. Even William Gladstone called at her home in the hope of meeting the great lady.  Although her reputation was enormous, she was little over 4ft in height and would stand on a raised dais to greet her guests.
+
+One of her most curious publications was _My Wonderful Wife: A Study in Smoke_.  It is a sardonic look at “a few specimens of women of the future,” and concerns the “unnatural and strutting embryos of a new sex which will be neither male or female.” Corelli abhorred the New Woman, seeing her as symbolic of all that was wrong with the world. Like many of her contemporary women authors, she had an ambivalent attitude towards feminism.  Although she believed women should be treated as intellectual equals, she still thought they should be subservient to men.
+
+Perhaps it was the excitement caused by the patronage of the royal family that caused Corelli to overreach herself by publishing anonymously _The Silver Domino_, a satire lampooning other writers. Of Rhoda Broughton, she comments: “The liberties she takes with the English language are frequently vulgar and unpardonable.  Familiarity with ‘slang’ is no doubt delightful, but some people would prefer a familiarity with grammar.” Mrs Henry Wood, she said, wrote “in the style of an educated upper housemaid.” An attack on Oscar Wilde prompted him to reconsider his earlier enthusiasm for her work. He is reported to have said in Reading Gaol: “from the way she writes, she ought to be here.” The controversy caused by the book resulted in an irrevocable rift with her publisher. Undaunted, she soon found another publisher and began work on her next book.
+
+Barabbas is a bizarre retelling of the crucifixion story, in which she gives Judas a sister – Judith Iscariot.  It’s hard to read her description of Jesus Christ without cringing:
+
+>Still as a statue of sunlit marble He stood, erect and calm.  His white garments flowing backward from His shoulders in even picturesque folds, this displaying his bare rounded arms, crossed now on his breast in a restful attitude of resignation, yet in their very inertness suggesting such mighty muscular force as would have befitted a Hercules.  Power, grandeur, authority and invincible supremacy were all silently expressed in His marvellous and incomparable Presence.
+
+Again, the critics dismissed it and the public couldn’t get enough. It was even quoted from the pulpit, presumably seen as a vital antidote to the poison of decadent literature.
+
+Changes in the literary marketplace further boosted Corelli’s success. It was announced that from the beginning of 1885 the circulating libraries and booksellers would both hold new titles at the same time, rather than the libraries being given a six-month headstart. This greatly increased sales of popular writers, and consequently, the initial sales of _The Sorrows of Satan_ were higher than those of any previous novel written in English.
+
+A period of ill health followed and Corelli showed her commitment to a woman’s right to a profession by allowing a female surgeon to perform a hysterectomy. She moved to a hotel in Brighton to convalesce, but was continually hounded by the press. Her doctor advised a move to the countryside, and she decided upon Stratford-upon-Avon. She soon endeared herself to the community by getting involved with local events and paying for the entire grammar school to go to the circus.
+
+After a break of three years, she resumed her novel writing, but her relationship with the critics had not improved. She even trained her dog to tear up the negative reviews. Her relationship with the people of Stratford-upon-Avon was also deteriorating, her interference in the matter of a Shakespeare monument causing ill-feeling.  The press waded into the argument and it became a _cause célèbre_. Although her argument eventually won the day, she was thought to have rather overplayed her hand and was christened “Quarelli” by one wag. A further intervention into town planning procedures alienated even more of her neighbours.
+
+She aired some of her grievances in her next novel, _God’s Good Man_, and also criticised the Church, which she saw as insufficiently Christian. Needless to say, the heroine is a diminutive and misunderstood woman who is persecuted by her enemies. The local community were none too pleased with this further slight. Rather than adopting a low profile, she instead imported a Venetian gondola, complete with gondolier in full regalia, to transport her and Bertha on the River Avon.
+
+Corelli became increasingly paranoid about her appearance and sought to carefully control her image. On one occasion she threw a blanket over her head when she spotted a camera lens pointing in her direction. She wanted the public to retain an idealised portrait of an eternally youthful author. After sitting for a London photographer, she was horrified to receive a set of prints showing a plump woman with a wrinkled face. She demanded that the photographer made alterations to give her a younger and slimmer appearance. It is an impressive feat of trickery in pre-Photoshop days.
+
+Although Corelli was busy accumulating enemies, she did strike up an unlikely friendship with fellow author Ouida. Like Corelli, she was a successful writer, opposed female suffrage, and was as mad as a stick. Her extravagant lifestyle, which included keeping 40 horses and 30 dogs, left her in penury and she couldn’t afford to eat. Corelli launched a campaign to republish some of her work to generate royalties, but Ouida was horrified by the suggestion of charity and refused all help. She died of malnutrition six months later.
+
+Just before the outbreak of World War One, Corelli wrote an impassioned anti-war tract. Her plea against “the ghastly holocaust of slaughtered bodies” still resonates today. Unfortunately for her, it didn’t chime with the jingoism of the day, and she soon threw herself into the war effort. Her initially commendable activities were overshadowed by an unfortunate (and unfair) conviction for hoarding sugar. The press reacted with glee, and she was deeply embarrassed. The resulting publicity led to her being inundated with letters accusing her of hypocrisy.
+
+The stress took its toll on her, and by the age of 64, she resembled a woman of 80. It is telling that her 1918 novel _The Young Diana_ features a woman who undergoes scientific experimentation in order to regain her youth. She wrote one last novel and then began to slow down, actually mellowing in her old age. Her long-held resistance to women’s suffrage was finally relaxed when she concluded that the sexes were equal in all respects: “By every law of justice they should have the vote – and I who, as a woman, was once against it, now most ardently support the cause.”
+
+As her health declined, she also became more relaxed towards her enemies and had made her peace with many of them before she suffered a serious heart attack in January 1924. She passed away three months later. In death, as in life, she divided public opinion, with some mourning her passing, and others taking the opportunity to parody her. Her memorial was a marble angel pointing to heaven, which is probably how she saw herself. Her lifelong companion, Bertha, was utterly distraught but fought hard to maintain her posthumous reputation.
+
+Although Marie Corelli was undeniably a difficult character, and in many ways an unlikeable one, Teresa Ransom has done her justice in this excellent biography. Although only too aware of her subject’s faults, she does an admirable job of showing her more endearing qualities and presenting a flawed human being, rather than a caricature. Corelli’s oeuvre is also thoughtfully evaluated and placed within its literary context. Although not the most talented novelist, Corelli’s ideas were ahead of her time and she also established an important precedent for authors to be appropriately remunerated for their labours.
+
+[The Mysterious Miss Marie Corelli: Queen of Bestsellers](https://www.worldofbooks.com/en-gb/products/mysterious-miss-marie-corelli-book-teresa-ransom-9780750915700) by Teresa Ransom

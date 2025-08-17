@@ -1,7 +1,7 @@
 ---
 title: "Creating and Running a Docker Image of Your Website"
 date: 2022-08-21
-draft: true
+draft: false
 category: ["Technology"]
 tags: ["Docker", "tutorials"]
 showToc: true
@@ -9,8 +9,6 @@ tocOpen: true
 description: "Learn how to package a simple website with nginx as a Docker image in this step-by-step tutorial. Discover how to create a Dockerfile, build custom images, and serve websites locally using Docker containers - no complex web server setup required."
 keywords: ["Docker", "nginx", "web server", "Dockerfile tutorial", "Docker Desktop", "containerization", "local development", "web development", "Docker images", "nginx container"]
 ---
-
-NOTES - I need to explain about Dockerfiles having no extension. Also, the random image isn't showing - apart from that, this all still works!
 
 ## Introduction
 
@@ -28,9 +26,9 @@ First, let's take a peek at the default behaviour of the nginx image. If you typ
 
 Next, we'll create our own version of this image and get it to display a (marginally) more exciting webpage.
 
-To build an image, you'll need to create a *Dockerfile* with the following contents:
+To build an image, you'll need to create a *Dockerfile*. The file is just called `Dockerfile` with no extension. Add the following contents:
 
-``` 
+```Dockerfile
 FROM nginx:latest
 
 WORKDIR /usr/share/nginx/html
@@ -50,7 +48,7 @@ That's everything we need in our Dockerfile.
 
 Of course, there should also be an `index.html` file. 
 
-I'm using a very simple example, which displays a random image from Unsplash:
+I'm using a very simple example, which displays a random image from Picsum:
 
 ``` html
 <!DOCTYPE html>
@@ -60,7 +58,7 @@ I'm using a very simple example, which displays a random image from Unsplash:
 </head>
 <body>
     <h1>What will it be?</h1>
-    <img src="https://source.unsplash.com/random" alt="Displays a random image from Unsplash">
+    <img src="https://picsum.photos/800/600" alt="Displays a random image from Picsum">
 </body>
 </html>
 ```

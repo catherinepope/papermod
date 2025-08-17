@@ -1,0 +1,37 @@
+---
+date: "2009-06-12T14:25:40+01:00"
+draft: false
+title: "Lady Colin Campbell: Victorian Sex Goddess"
+tags: ["Victorian", "biography"]
+category: ["Books"]
+description: "A review of G H Fleming's 'Lady Colin Campbell: Victorian Sex Goddess,' exploring one of British legal history's most dramatic divorce cases. Discover how Gertrude Blood fought her syphilis-raddled husband in court and pioneered women's rights in 1886."
+keywords: ["Lady Colin Campbell", "Victorian divorce", "biography review", "Victorian women", "syphilis scandal", "women's rights", "Victorian legal history", "Gertrude Blood"]
+---
+
+{{< figure
+  src="/images/lady-colin-campbell.jpg"
+  alt="Cover of Lady Colin Campbell by G H Fleming "
+  class="book"
+>}}
+
+Although "Victorian Sex Goddess" is a rather sensational title for a book, this account of the redoubtable Lady Colin Campbell by G H Fleming is refreshingly understated. I'm sure few writers could resist the temptation to ham up one of the most dramatic court cases in British legal history. He mainly allows the case to speak for itself, but includes a plethora of seemingly insignificant details which both delight and enlighten the reader.
+
+Lady Colin Campbell was born Gertrude Blood in 1857 and enjoyed a liberal upper-middle-class upbringing. She developed into an attractive, intelligent and urbane woman. Unfortunately, she was also impulsive, agreeing to marry Lord Colin Campbell MP just three days after they met on holiday in Scotland. A whirlwind romance ensued, followed by elevation into high society. Marital felicity was not to be her lot, however. Lord Colin, it appeared, had knowingly infected her with syphilis. The delicate state of his lower portions meant that they had initially refrained from sexual relations, but after a few months, Lord Colin handed his wife a note from his doctor stating that intercourse would be beneficial to his health. Hardly a billet-doux. As a husband's conjugal rights were paramount, she consented.
+
+Unsurprisingly, Lord Colin's illness overshadowed the marriage, and the relationship quickly broke down. He was an irascible patient and frequently violent towards his nurses. Lady Colin, understandably, kept her distance and tried to build an independent life for herself. It is hard to imagine that she would have agreed to marry Lord Colin had she know the full truth regarding his medical background and the risk it posed to her. Of course, it was unseemly for a woman to be even vaguely aware of such matters. As she tried to estrange herself from him, he simply asserted his legal mastery over her and endeavoured to force her to leave the marital home. Had she done so, she could not have sued for maintenance, which would have left her destitute. Wives were unable to take this action until the passing of the Matrimonial Causes Act of 1886. Furthermore, choosing this course would have suggested that the blame lay with her and placed her in an invidious position.
+
+The law did partially come to Lady Colin's rescue. During a court hearing in March 1886, the judge was convinced that Lord Colin had infected her with syphilis and granted a decree of separation, a decision that was upheld on appeal. Lady Colin moved in with her parents, and the recently passed Married Women's Property Act meant that she retained control over her own modest financial resources. Before 1882, they would have been automatically ceded to her husband on marriage.
+
+Lord Colin was outraged by her defiance and pledged to ruin her reputation in a full divorce trial, knowing that her behaviour would be viewed by many to be unwifely. He accused her of adultery with a Duke, a General, a surgeon, and London's fire chief (not at the same time), whilst she countered with charges of adultery and cruelty. At that time, wives could not divorce their errant husbands on grounds of adultery alone - it had to be "aggravated" by cruelty or desertion, this double standard having been enshrined in law by the Matrimonial Causes Act of 1857. Lady Colin's counsel argued that Lord Colin knowingly infecting her with syphilis constituted cruelty.
+
+What followed was a forensic examination of an upper-class marriage. The case stretched over eighteen days during the final weeks of 1886 and saw a procession of more than fifty witnesses and a barrage of revelations concerning both parties. Fleming has carefully assembled a transcript from over forty newspaper reports and presented it with illuminating, yet unobtrusive, commentary. Fortunately, the quality broadsheets of the day tended to quote considerable chunks of court cases verbatim. The nineteenth-century tabloids, on the other hand, were obsessed with Lady Colin's sexuality, one describing her as a "sex-goddess", and another declaring that she possessed "the unbridled lust of Messalina and the indelicate readiness of a common harlot."
+
+Some witnesses extolled Lady Colin's intellectual virtues, which actually did her more harm than good. The gentlemen of the jury (for there were no ladies at that time) were likely to be unimpressed by a woman defying her conventionally prescribed role. Her involvement in good causes also counted against her, the prosecution thundering that: "A married woman with a husband is better employed looking after him than in attending forty charitable concerts in the course of a year." Although Lady Colin's QC described how unbearable life with her husband had become, public opinion decreed that she should submit to him unquestioningly. Lord Colin was clearly upholding a husband's right to behave badly with impunity, whilst his wife was far ahead of her time in believing there were limits to what she should reasonably be expected to tolerate.
+
+The jury took some considerable time to reach a verdict, but eventually cleared both Campbells of adultery. As that was the only grounds for divorce at the time, they had to content themselves with a legal separation. Although her reputation had taken a considerable battering, Lady Colin was officially exonerated and she smiled as she left court. Lord Colin (or at least his father) was landed with a legal bill of £20,000 and soon departed for an undistinguished career at the Bar in Bombay.
+
+Lady Colin did a much better job of reinventing herself, although she never quite escaped the notoriety of having been part of the longest-running divorce case ever seen. She found herself a modest apartment and embarked upon a varied and prolific career in journalism, also writing several novels and a play. She espoused such causes as the introduction of cycle lanes and equal smoking rights for women. She could easily have settled for a quiet life of penitence and reflection, but instead continued to push the boundaries. Lord Colin died of pneumonia in 1885, leaving Lady Colin free to marry, an opportunity of which she declined to avail herself. Debilitating rheumatism left her increasingly reclusive and she died in 1911 at the age of 53. Ahead of her time, as ever, she opted for cremation over the more traditional burial.
+
+As this book focuses on the trial and its background, there is only brief consideration given to her subsequent career. Happily, a spot of Googling has shown that a full-length biography by Anne Jordan is forthcoming. Lady Campbell should be remembered for more than just her unfortunate choice of husband.
+
+[Lady Colin Campbell: Victorian Sex Goddess](https://www.worldofbooks.com/en-gb/products/lady-colin-campbell-victorian-sex-goddess-book-fleming-g-h-9780900075117) by G H Fleming
