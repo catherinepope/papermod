@@ -1,0 +1,31 @@
+---
+date: "2009-05-11T17:30:16+01:00"
+draft: false
+title: "Servants of the Supernatural"
+tags: ["Victorian", "reviews"]
+category: ["Books"]
+description: "A review of Antonio Melechi's 'Servants of the Supernatural,' exploring Victorian fascination with mesmerism, spiritualism, and the occult. Discover eclectic accounts from Franz Anton Mesmer's animal magnetism to Daniel Dunglas Home's controversial séances."
+keywords: ["Antonio Melechi", "Servants of the Supernatural", "Victorian spiritualism", "mesmerism", "Franz Anton Mesmer", "Victorian occult", "Daniel Dunglas Home", "Harriet Martineau", "séances"]
+---
+
+{{< figure
+  src="/images/servants-of-the-supernatural.jpg"
+  alt="Cover of Servants of the Supernatural by Antonio Melechi"
+  class="book"
+>}}
+
+Antonio Melechi’s [_Servants of the Supernatural_](https://www.worldofbooks.com/en-gb/products/servants-of-the-supernatural-book-antonio-melechi-9780099478867) is an eclectic selection of accounts describing the Victorians’ fascination with the supernatural, what he calls a “gallery of contrasting thumbnail portraits”.
+
+Perhaps the most intriguing portrait is that of Franz Anton Mesmer, an Austrian who took the continent by storm with his theory of animal magnetism, which he believed was capable of “curing directly all disorders of the nervous system, and indirectly all other maladies.” People were queuing up to be healed, and Mesmer built a makeshift infirmary in an oak tree, personally magnetised by him.  Incredibly, it housed up to 100 patients, who were tied in by a rope. The popularity of this bizarre treatment enabled Mesmer to franchise animal magnetism throughout France. Franchisees would be instructed by Mesmer and then receive a diploma authorising them to practice. One can but wonder how he would have fared on Dragons’ Den.
+
+By this stage, Mesmer’s antics had caught the attention of the French authorities, who appointed a commission to investigate animal magnetism. Unsurprisingly, it was denounced as a “machine of incitement” and Mesmer’s reputation was in shreds. Animal magnetism was not quite dead, however. William Godwin translated the damning report into English, thereby sparking renewed interest in the “science”. Godwin’s son-in-law, Percy Bysshe Shelley, was one of the first who sought to remedy their ailments through animal magnetism, although it was reported to have had no lasting effects.
+
+Anxious to distant themselves from the discredited animal magnetism, British practitioners rebranded their science “mesmerism” and it was a palpable success. Not everyone was convinced. _The Lancet_ led a campaign against what they perceived to be a dangerous activity, and Fanny Trollope, although intrigued, worried about the long-term effects on patients.
+
+One strong advocate of mesmerism was the writer Harriet Martineau, who had been seeking relief from her painful ovarian illness with increasing doses of opium. Her friend and fellow writer, Edward Bulwer Lytton,  recommended that she consult the mesmerist Spencer Hall, whose abilities were the talk of London. He did not have time to take her on as a regular patient, so Martineau asked her maid, Jane Arrowsmith, to repeat the actions she had seen him perform.  She was soon able to effect a “radical amendment” to her mistress’ condition.  Martineau’s pain diminished, as did her opium intake. She subsequently became an evangelist for mesmerism and wrote a series of letters for the Athenaeum, describing its many benefits.
+
+Her enthusiasm for the supernatural was displacing her religious faith, and her increasingly agnostic sentiments offended many readers. The moral backlash was led by Charlotte Elizabeth Tonna, editor of the _Christian Lady_, who accused her of being the “polluted receptacle of an evil spirit”.  Her critics felt vindicated when Martineau’s post mortem showed a “vast tumour”, thereby proving that mesmerism had not cured her. It had, however, eased her considerable suffering and reduced her reliance on opiates, a fact which they did not seek to explain.
+
+Not everyone had such a positive experience with the supernatural. Catherine Crowe, author of _The Night Side of Nature_ – a Victorian compendium of things that go bump in the night – was persuaded by spirits to leave her house as nature intended, her modesty protected only by a fan and a card case.  On being asked to explain her appearance, she explained that spirits had guaranteed her invisibility. Her family promptly moved her to Hanwell Asylum. The celebrated medium Daniel Dunglas Home caused a rift in the Barrett Browning household after they attended one of his seances. Elizabeth was captivated by him and spiritualism generally, but Robert remained sceptical. Although not mentioned in the book, Robert later denounced him as a charlatan in his poem 'Mr Sludge, Medium". There is an excellent account of Dunglas Home in Peter Lamont’s [_The First Psychic: The Peculiar Mystery of a Notorious Victorian Wizard_](https://www.worldofbooks.com/en-gb/products/first-psychic-book-peter-lamont-9780349118253).
+
+Opinion on spiritualism remained divided between those who saw it an important new science and those, like George Eliot, who declared it to be “odious trickery”. _Servants of the Supernatural_ successfully presents a variety of perspectives and case histories covering both spiritualism and more general beliefs in the supernatural. Melechi is something of a magpie, selecting interesting snippets from across the period. As such, the book is not a history of the Victorian supernatural, nor does it seek to be, but it would be appreciated most by those who already have a general understanding of the subject. I would point curious minds in the direction of Ronald Pearsall’s [_The Table-Rappers_](https://uk.bookshop.org/a/2760/9780750936842) (a readable but highly sceptical account), Alex Owen’s [_The Place of Enchantment_](https://uk.bookshop.org/a/2760/9780226642048) (focusing on the later period), and Janet Oppenheim’s comprehensive study [_The Other World_](https://uk.bookshop.org/a/2760/9780521347679). For those with a particular interest in the séance, Owen’s [_The Darkened Room_](https://uk.bookshop.org/a/2760/9780226642055) is not to be missed.

@@ -1,7 +1,7 @@
 ---
 date: "2024-10-09T11:35:08+01:00"
 draft: false
-title: "Lets Talk German to Owls"
+title: "Let's Talk German to Owls"
 tags: ["Learning", "German"]
 description: "An honest review of Duolingo for German learning from an adult perspective. Discover the pros and cons of the gamified approach, competitive leagues, and why supplementing with other resources like Easy German leads to better language learning results."
 keywords: ["Duolingo review", "German learning apps", "adult language learning", "Duolingo German", "language learning apps", "gamified learning", "language app comparison"]
