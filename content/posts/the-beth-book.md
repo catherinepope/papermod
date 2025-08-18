@@ -3,7 +3,7 @@ date: "2010-04-06T09:26:16+01:00"
 draft: false
 title: "The Beth Book by Sarah Grand"
 tags: ["Victorian", "fiction", "Sarah Grand"]
-category: ["Books"]
+categories: ["Books"]
 description: "An enthusiastic review of Sarah Grand's 1897 novel 'The Beth Book,' following Elizabeth Caldwell's journey from constrained childhood to independent womanhood. Discover why this New Woman bildungsroman about escaping an abusive marriage might be superior to 'Jane Eyre.'"
 keywords: ["Sarah Grand", "The Beth Book", "New Woman novel", "Victorian feminism", "bildungsroman", "women's independence", "vivisection", "Jane Eyre comparison", "Victorian fiction"]
 ---

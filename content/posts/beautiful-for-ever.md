@@ -1,9 +1,9 @@
 ---
 date: "2010-04-11T09:17:52+01:00"
-draft: true
+draft: false
 title: "Beautiful for Ever: Madame Rachel of Bond Street"
 tags: ["Victorian", "biography"]
-category: ["Books"]
+categories: ["Books"]
 description: "A review of Helen Rappaport's 'Beautiful For Ever,' the biography of notorious Victorian beauty entrepreneur Madame Rachel (Sarah Rachel Levison). Discover how this con-artist inspired characters in Wilkie Collins and Mary Elizabeth Braddon while exploiting women's quest for eternal youth."
 keywords: ["Madame Rachel", "Helen Rappaport", "Beautiful For Ever", "Sarah Rachel Levison", "biography review", "Victorian con-artist", "cosmetics history", "Wilkie Collins", "Victorian crime"]
 ---

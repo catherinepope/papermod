@@ -3,7 +3,7 @@ date: "2009-09-19T10:31:41+01:00"
 draft: false
 title: "Hysteria: The Biography by Andrew Scull"
 tags: ["Victorian"]
-category: ["Books"]
+categories: ["Books"]
 description: "A review of Andrew Scull's 'Hysteria: the Biography,' tracing the history of this elusive condition from ancient Greek 'wandering wombs' to modern dismissals. Discover how hysteria became a catch-all diagnosis for difficult women and justified horrific treatments."
 keywords: ["Andrew Scull", "hysteria history", "medical history", "women's health", "Victorian medicine", "Charcot", "rest cure", "medical misogyny", "psychiatric history", "mental health history"]
 ---

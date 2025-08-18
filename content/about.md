@@ -10,7 +10,7 @@ description: "About page for Catherine Pope"
   class="book"
 >}}
 
-Hello 👋 I’m Catherine Pope, a trainer, academic coach, technical content creator. 
+Hello 👋 I’m Catherine Pope, a trainer, academic coach, and technical content creator. 
 
 I have a PhD in Victorian literature, which I was awarded for my thesis on Florence Marryat, a prolific novelist who enjoyed a very colourful personal life. Her most famous novel is about a bisexual psychic vampire called Harriet. As you might have guessed, Marryat wasn’t a conventional Victorian.
 

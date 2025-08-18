@@ -3,7 +3,7 @@ date: "2011-01-07T14:36:36+01:00"
 draft: false
 title: "The Fixed Period by Anthony Trollope"
 tags: ["Victorian", "fiction", "Anthony Trollope"]
-category: ["Books"]
+categories: ["Books"]
 description: "A review of Anthony Trollope's surprising dystopian novel 'The Fixed Period' (1882), set in 1980s New Zealand where mandatory euthanasia at 67½ divides society. Discover Trollope's unexpected venture into science fiction with dark comedy and futuristic predictions."
 keywords: ["Anthony Trollope", "The Fixed Period", "dystopian fiction", "Victorian science fiction", "euthanasia novel", "dark comedy", "speculative fiction"]
 ---

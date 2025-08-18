@@ -3,7 +3,7 @@ date: "2010-01-06T10:23:44+01:00"
 draft: false
 title: "Charles Dickens and the House of Fallen Women"
 tags: ["Victorian"]
-category: ["Books"]
+categories: ["Books"]
 description: "A review of Jenny Hartley's 'Charles Dickens and the House of Fallen Women,' exploring Urania Cottage, Dickens' shelter for prostitutes in Victorian London. Discover how this project with Angela Burdett Coutts inspired his fiction while genuinely helping vulnerable women."
 keywords: ["Charles Dickens", "Jenny Hartley", "Urania Cottage", "fallen women", "Victorian social reform", "Angela Burdett Coutts", "Victorian philanthropy"]
 ---

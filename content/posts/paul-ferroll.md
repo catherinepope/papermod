@@ -3,7 +3,7 @@ date: "2009-05-16T14:36:26+01:00"
 draft: false
 title: "Paul Ferroll by Caroline Clive"
 tags: ["Victorian", "fiction"]
-category: ["Books"]
+categories: ["Books"]
 description: "A review of Caroline Clive's controversial 1855 novel 'Paul Ferroll,' a unique early sensation novel where a murderous Victorian gentleman escapes moral judgment. Discover why this psychological drama shocked readers and influenced authors like Wilkie Collins."
 keywords: ["Caroline Clive", "Paul Ferroll", "Victorian novel", "sensation fiction", "psychological drama", "Victorian crime", "Valancourt Books", "early crime fiction", "Victorian murder mystery"]
 ---

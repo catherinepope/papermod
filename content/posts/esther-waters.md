@@ -3,7 +3,7 @@ date: "2010-01-17T09:53:29+01:00"
 draft: false
 title: "Esther Waters by George Moore"
 tags: ["Victorian", "fiction"]
-category: ["Books"]
+categories: ["Books"]
 description: "A review of George Moore's 1894 novel 'Esther Waters,' following a single mother's struggle against Victorian society's moral hypocrisy. Discover how Moore's naturalistic tale of seduction, abandonment, and redemption compares to Hardy's Tess with a more hopeful outcome."
 keywords: ["George Moore", "Esther Waters", "fallen woman novel", "Victorian naturalism", "single motherhood", "social realism", "Tess of the D'Urbervilles", "Victorian morality"]
 ---

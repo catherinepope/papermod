@@ -3,7 +3,7 @@ date: "2011-01-22T14:49:48+01:00"
 draft: false
 title: "Barchester Towers by Anthony Trollope"
 tags: ["Victorian", "fiction", "Anthony Trollope"]
-category: ["Books"]
+categories: ["Books"]
 description: "A review of Anthony Trollope's 'Barchester Towers' (1857), featuring the memorable Mrs Proudie and her battles with the scheming Obadiah Slope. Discover Trollope's brilliant comic creation and strong female characters in this classic Barset Chronicles novel."
 keywords: ["Anthony Trollope", "Barchester Towers", "Barsetshire Chronicles", "Mrs Proudie", "Obadiah Slope", "Victorian fiction", "Victorian women"]
 ---

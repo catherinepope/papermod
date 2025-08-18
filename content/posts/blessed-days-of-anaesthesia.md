@@ -3,7 +3,7 @@ date: "2010-12-12T14:00:22+01:00"
 draft: false
 title: "Blessed Days of Anaesthesia: How Anaesthetics Changed the World"
 tags: ["Victorian"]
-category: ["Books"]
+categories: ["Books"]
 description: "A review of Stephanie Snow's 'Blessed Days of Anaesthesia,' tracing the discovery and development of anaesthesia from 1844. Discover how ether and chloroform revolutionized surgery and childbirth, despite religious objections to eliminating pain."
 keywords: ["Stephanie Snow", "Blessed Days of Anaesthesia", "medical history", "John Snow", "chloroform", "ether", "Victorian medicine", "childbirth", "Queen Victoria"]
 ---

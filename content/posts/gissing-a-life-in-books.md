@@ -3,7 +3,7 @@ date: "2009-08-18T16:04:55+01:00"
 draft: false
 title: "Gissing: a Life in Books by John Halperin"
 tags: ["Victorian", "biography", "George Gissing"]
-category: ["Books"]
+categories: ["Books"]
 description: "A review of John Halperin's biography 'Gissing: a Life in Books,' exploring Victorian novelist George Gissing's extraordinary life (1857-1903). Discover how his troubled marriages, financial struggles, and personal misery fueled literary masterpieces like 'New Grub Street."
 keywords: ["George Gissing", "John Halperin", "biography review", "Victorian literature", "New Grub Street", "Victorian novelist", "literary biography", "19th century writers", "book review"] 
 ---

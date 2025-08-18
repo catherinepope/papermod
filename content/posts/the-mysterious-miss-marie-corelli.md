@@ -3,7 +3,7 @@ date: "2009-05-12T14:46:40+01:00"
 draft: false
 title: "The Mysterious Miss Marie Corelli: Queen of Bestsellers"
 tags: ["Victorian", "biography"]
-category: ["Books"]
+categories: ["Books"]
 description: "A review of Teresa Ransom's 'The Mysterious Marie Corelli - Queen of Bestsellers,' exploring the contradictory life of Victorian England's most popular novelist. Discover how this anti-suffrage bestselling author lived with another woman while writing about marriage as women's destiny."
 keywords: ["Marie Corelli", "Teresa Ransom", "Victorian bestseller", "biography review", "The Sorrows of Satan", "Victorian women writers", "anti-suffrage", "Victorian literature", "literary celebrity"]
 ---

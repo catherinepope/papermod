@@ -3,7 +3,7 @@ date: "2010-03-17T09:46:11+01:00"
 draft: false
 title: "Ruth by Elizabeth Gaskell"
 tags: ["Victorian", "fiction"]
-category: ["Books"]
+categories: ["Books"]
 description: "A critical review of Elizabeth Gaskell's 1853 novel 'Ruth,' examining the story of a 'fallen woman' redeemed through self-sacrifice. Explore why some readers find Ruth's saintly perfection irritating despite Gaskell's noble defense of vulnerable women."
 keywords: ["Elizabeth Gaskell", "Ruth novel", "fallen woman fiction", "Victorian morality", "social problem novel", "Victorian controversy", "Victorian women"]
 ---

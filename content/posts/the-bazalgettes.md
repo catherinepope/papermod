@@ -3,7 +3,7 @@ date: "2011-01-09T14:27:32+01:00"
 draft: false
 title: "The Bazalgettes by E M Delafield"
 tags: ["fiction"]
-category: ["Books"]
+categories: ["Books"]
 description: "A review of E M Delafield's 'The Bazalgettes' (1935), a spoof Victorian novel about Margaret Mardon's marriage to an elderly widower and forbidden love for her stepson. Discover this early example of neo-Victorian fiction with characteristic wit and sensation elements."
 keywords: ["E M Delafield", "The Bazalgettes", "neo-Victorian fiction", "spoof novel", "1935 literature", "sensation fiction parody", "Victorian pastiche", "comic novel"]
 ---

@@ -3,7 +3,7 @@ date: "2009-04-02T08:41:37+01:00"
 draft: false
 title: "Thou Art the Man by Mary Elizabeth Braddon"
 tags: ["Victorian", "fiction"]
-category: ["Books"]
+categories: ["Books"]
 description: "A review of Mary Elizabeth Braddon's 1894 novel 'Thou Art the Man,' exploring themes of heredity, madness, and degeneration. Discover how this later work reworks 'Lady Audley's Secret' with female detectives unmasking degenerate male villains in Victorian sensation fiction."
 keywords: ["Mary Elizabeth Braddon", "Thou Art the Man", "Victorian sensation novel", "Lady Audley's Secret", "New Woman fiction", "Victorian crime", "Valancourt Books", "Victorian detective"]
 ---

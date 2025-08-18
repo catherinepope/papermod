@@ -3,7 +3,7 @@ date: "2009-05-02T17:58:30+01:00"
 draft: false
 title: "George Grossmith: Biography of a Savoyard"
 tags: ["Victorian", "biography", "Florence Marryat"]
-category: ["Books"]
+categories: ["Books"]
 description: "A review of Tony Joseph's 'George Grossmith: Biography of a Savoyard,' exploring the life of the Gilbert and Sullivan star who co-created 'The Diary of a Nobody.' Discover how this talented entertainer shaped Victorian culture through opera and literature."
 keywords: ["George Grossmith", "Gilbert and Sullivan", "Diary of a Nobody", "biography review", "Savoyard", "The Mikado", "comic opera", "Victorian theatre"]
 ---

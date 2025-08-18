@@ -3,7 +3,7 @@ date: "2009-05-11T17:30:16+01:00"
 draft: false
 title: "Servants of the Supernatural"
 tags: ["Victorian", "reviews"]
-category: ["Books"]
+categories: ["Books"]
 description: "A review of Antonio Melechi's 'Servants of the Supernatural,' exploring Victorian fascination with mesmerism, spiritualism, and the occult. Discover eclectic accounts from Franz Anton Mesmer's animal magnetism to Daniel Dunglas Home's controversial séances."
 keywords: ["Antonio Melechi", "Servants of the Supernatural", "Victorian spiritualism", "mesmerism", "Franz Anton Mesmer", "Victorian occult", "Daniel Dunglas Home", "Harriet Martineau", "séances"]
 ---

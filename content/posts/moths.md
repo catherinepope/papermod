@@ -3,7 +3,7 @@ date: "2010-01-11T10:01:00+01:00"
 draft: false
 title: "Moths by Ouida"
 tags: ["Victorian", "fiction"]
-category: ["Books"]
+categories: ["Books"]
 description: "A review of Ouida's 'Moths,' the first English novel to show a divorced woman happily remarried. Discover how this 1880 sensation novel challenges Victorian marriage ideals through Vere Herbert's escape from an abusive Russian prince in glamorous European society."
 keywords: ["Ouida", "Victorian divorce", "sensation fiction", "abusive marriage", "women's independence", "Silver Fork novel", "Victorian feminism"]
 ---
