@@ -14,6 +14,8 @@ Hello 👋 I’m Catherine Pope, a trainer, academic coach, technical content cr
 
 I have a PhD in Victorian literature, which I was awarded for my thesis on Florence Marryat, a prolific novelist who enjoyed a very colourful personal life. Her most famous novel is about a bisexual psychic vampire called Harriet. As you might have guessed, Marryat wasn’t a conventional Victorian.
 
+I've [written three books](/writing/), along with some book chapters and other bits and bobs.
+
 A couple of years ago, I left the tech sector to coach and train academics, from PhD researchers through to professors. You can find out more about [my work](/work/).
 
 In 2023, just before my 50th birthday, I was diagnosed as autistic. Although this wasn’t a complete surprise, it took me a while to absorb the implications. Although I haven't received a formal diagnosis, it's likely I also have ADHD - which makes me AuDHD. The ADHD part of my brain loves learning new things; the autistic part enjoys developing systems for organising them. It's mostly a harmonious relationship.

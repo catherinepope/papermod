@@ -98,10 +98,10 @@ menu:
       url: /about/
       weight: 20
     
-    - identifier: writing
-      name: Writing
-      url: /writing/
-      weight: 35
+    #- identifier: writing
+    #  name: Writing
+    #  url: /writing/
+    #  weight: 35
 
     - identifier: work
       name: "Work"

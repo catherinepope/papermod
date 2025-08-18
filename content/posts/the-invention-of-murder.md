@@ -1,0 +1,29 @@
+---
+date: "2011-01-24T14:20:09+01:00"
+draft: false
+title: "The Invention of Murder: How the Victorians Revelled in Death and Detection and Created Modern Crime"
+tags: ["Victorian"]
+category: ["Books"]
+description: "A review of Judith Flanders' 'The Invention of Murder,' exploring how Victorians transformed crime into entertainment through newspapers, novels, and public spectacles. Discover the cultural obsession with murder that created modern crime fiction and popular culture."
+keywords: ["Judith Flanders", "The Invention of Murder", "Victorian crime", "sensation fiction", "Victorian culture", "crime fiction", "Victorian newspapers", "cultural history"]
+---
+
+{{< figure
+  src="/images/the-invention-of-murder.jpg"
+  alt="Cover of The Invention of Murder by Judith Flanders"
+  class="book"
+>}}
+
+Feeling bereft after finishing [_Barchester Towers_](/posts/barchester-towers/), I was saved from despair by the timely arrival of the postman clutching a copy of Judith Flanders’ [_The Invention of Murder: How the Victorians Revelled in Death and Detection and Created Modern Crime_](https://uk.bookshop.org/a/2760/9780007248896). Although squeamish by nature, I am intrigued by the Victorian fascination with murder and how it was represented through newsprint and popular culture, particularly sensation fiction. Flanders achieves a panoramic sweep through journalism, novels, broadsides, ballads, and theatre, engaging with both well-known and relatively obscure sources, and in the process unearthing a few hitherto unknown facts or connections.
+
+The Victorian period was both metaphorically and literally dark. As Flanders observes, the lack of street-lighting for much of the nineteenth century meant that many neighbourhoods were plunged into complete darkness at night, thereby creating the perfect environment for those with murderous intent. Although fear was widespread, murder had become reassuringly rare, allowing people to indulge in the thrill of the crime without risk of being faced with its gruesome reality. The proliferation of newsprint fed this appetite for vicarious terror, with even _The Times_ indulging in melodrama and in one case offering its readers the opportunity to buy the court model of a murder reconstruction. Such three-dimensional representations abounded – after the infamous Red Barn murder of 1827, Staffordshire pottery figures were produced of the perpetrator, Corder, and the victim, Maria Marten. The high cost of such items showed that the rich were just as obsessed with murder as the poor. Those unable to afford expensive knick-knacks could instead watch a dramatisation of the case. An early 1860s performance even featured the Bow Street runner who apprehended Corder recreating his arrest live on stage.
+
+Endless press coverage provided rich fodder for sensation novelists, whose recycling of cases was no less exploitative than that of the potters and impresarios. Flanders surveys an impressively wide range of fiction, from the household name of Wilkie Collins to forgotten writers such as Matilda Charlotte Hostoun, who fictionalised the Road Hill House murder in _Such Things Are_, and Caroline Clive, who in [_Paul Ferroll_](/posts/paul-ferroll/) created an unforgettably sinister villain. Using archival material, she shows how real-life cases inspired many plots, with the fictional portrayal sometimes replacing reality in the public imagination. Flanders rightly concludes that quality varied, with Mary Elizabeth Braddon ranging from the zenith of _Lady Audley’s Secret_ to the nadir of _One Life, One Love_:
+
+>… a story of the Paris Commune, double-identity, heroines regularly going mad and a plot so confusing that there is no real resolution, because I strongly suspect, the author could not quite work out what had happened, and understandably did not want to read it over again.
+
+Of course, theatrical and literary representations of murder are several steps removed from grim corporeality. However, public executions of murderers were also popular entertainment, and nearly 30,000 people filed past the hanged body of the Resurrectionist Burke. A wallet was subsequently made from his scalp, and those with a taste for the truly morbid can view it in Edinburgh’s History of Surgery Museum. Such spectacles were big business, with traders plying a roaring trade in broadsides, grisly souvenirs and themed comestibles. Crowds eagerly watching the hanging of cabinet-maker James Greenacre, who murdered and dismembered his lover, were able to sustain themselves with Greenacre tarts (ingredients, fortunately, unknown).
+
+Although Flanders provides full descriptions of many notable murders, her treatment is never gratuitous and she avoids potentially stomach-churning details. Victims remain human and are afforded respect; their killers are never glorified. Flanders’ dry wit also introduces much-needed levity into what could otherwise be a succession of bleak episodes. Other reviewers have criticised the book’s lack of cohesion or argument, but for me, this is its strength. Flanders synthesises a wealth of material, and there is no attempt to formulate the reader’s response or to draw simplistic parallels with twenty-first-century discourses on murder. _The Invention of Murder_ is scholarly, engaging and comprehensive, allowing the reader to experience the multifaceted Victorian representation of murder from the safety of their armchair.
+
+[_The Invention of Murder: How the Victorians Revelled in Death and Detection and Created Modern Crime_](https://uk.bookshop.org/a/2760/9780007248896) by Judith Flanders
