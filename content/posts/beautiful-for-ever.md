@@ -1,0 +1,37 @@
+---
+date: "2010-04-11T09:17:52+01:00"
+draft: true
+title: "Beautiful for Ever: Madame Rachel of Bond Street"
+tags: ["Victorian", "biography"]
+category: ["Books"]
+description: "A review of Helen Rappaport's 'Beautiful For Ever,' the biography of notorious Victorian beauty entrepreneur Madame Rachel (Sarah Rachel Levison). Discover how this con-artist inspired characters in Wilkie Collins and Mary Elizabeth Braddon while exploiting women's quest for eternal youth."
+keywords: ["Madame Rachel", "Helen Rappaport", "Beautiful For Ever", "Sarah Rachel Levison", "biography review", "Victorian con-artist", "cosmetics history", "Wilkie Collins", "Victorian crime"]
+---
+
+{{< figure
+  src="/images/beautiful-for-ever.jpg"
+  alt="Cover of Beautiful for Ever by Helen Rappaport"
+  class="book"
+>}}
+
+Fellow Victorian geeks will recognise Madame Rachel as Maria Oldershaw, foster mother and business partner of the delicious Lydia Gwilt in Wilkie Collins’ _Armadale_. She and her beauty products were also referred to in Mary Elizabeth Braddon’s _Lady Audley’s Secret_. In this excellent biography, Helen Rappaport tells the true story of the woman behind the infamous creation of “Madame Rachel”, purveyor of dubious unguents which promised to make women “beautiful for ever”.
+
+Madame Rachel, aka Sarah Rachel Levison, cleverly exploited women’s perennial obsession with youthfulness. The wealth of background material includes descriptions of actresses nightly wrapping their hands and faces with slices of raw meat in order to preserve their complexions (presumably, it also worked to ward off any unwelcome sexual attention).  There was a range of less repellant, but largely ineffectual remedies on the market from such well-known names as Rimmel. Cosmetics companies vied to claim responsibility for Queen Victoria’s youthful appearance when she came to the throne, which was entirely explicable on account of her being only eighteen. Figaro in London commented that the queen “must have had decayed teeth, grey hair, a head nearly bald, scurf, superfluous hair, a tanned skin, rough and sallow complexion, pimples, spots, redness and cutaneous erruptions” in order to require so many products whose daily use was imputed to her. Madame Rachel was no less modest in her claims when she started advertising her Arabian preparations and enamelling technique in 1859, which were designed for the “restoration and preservation of female loveliness”, and had obtained the “patronage of royalty”.
+
+Despite Punch lambasting what it called “Stucco for the Softer Sex”, Madame Rachel’s enamelling process was in high demand. This involved:
+
+>A careful removal of rough hairs or fuzz on the face … followed by the application of copious amounts of alkaline toilet washes, then a filling-in of wrinkles and depressions in the skin with a thick paste (usually made of arsenic or white lead and other ingredients), followed by applications of rouge and powder to finish off.
+
+Although wealthy women flocked to undergo this dubious treatment, the actress Lola Montes was more sceptical, commenting: “Nothing so effectually writes memento mori! on the cheek of beauty as this ridiculous and culpable practice.”
+
+The exact figures are unknown, but Madame Rachel seems to have made hundreds of thousands of pounds a year from this “ridiculous and culpable practice”, based at her New Bond Street premises. Gullible patrons were taken in by her risible claims that she and her daughters were many decades older than they appeared and had in fact witnessed the guillotining of Marie Antoinette. Her clients became addicted to the treatments, often running up ruinous bills which they were then unable to pay. She ended up in court after one Mrs Carnegie (and her bewildered husband) refused to settle a bill for £938 5s 0d (nearly £65,000 in today’s money). Interestingly, Rappaport argues that wives spending vast sums of money on beauty treatments partly informed the drafting of the Married Women’s Property Act of 1870, which paved the way for women being financially independent and therefore liable for their own debts.
+
+The Carnegie court case gave Madame Rachel her famous catchphrase: ‘beautiful for ever’, which also became the title of her treatise on “Female Grace and Beauty”. This was essentially a glossy marketing brochure designed to butter up potential customers by praising their inherent female beauty, which could be subtly enhanced by products from an exclusive range. ‘Exclusive’ essentially meant expensive: an individual consultation with Madame Rachel cost a minimum of £250 (£16,250), and her miraculous Jordan Water cost the modern equivalent of £1,500. One could argue in her defence that such prices were simply a tax on stupidity (or naivety, if one is to be generous), but Madame Rachel was also engaged in more cynical activities to exploit human weaknesses. She would often recommend her female customers to take one of her patented Arabian baths at £5 (£325) a time, and then also charge “gentleman” visitors to spy on them through a Judas hole. To compound matters, she would then convince vulnerable spinsters that eligible aristocratic bachelors wanted to marry them, making all the necessary arrangements for an extortionate fee. Of course, the marriage never took place, and the hapless victim was left penniless and humiliated.
+
+Amongst the press there was limited sympathy for the unfortunate dupes, but they made much of Madame Rachel’s Jewishness. The majority of the coverage indulged in sickening anti-semitism, portraying her as a hook-nosed crone who was trying to bleed her victims dry. In the two major court cases of her career, she was not given a fair trial and was sent to prison on the basis of ethnicity, rather than her questionable activities. An unbiased judge and jury would have acquitted her on both occasions, but she was born in an age where the aristocracy could do no wrong and all “foreigners” were dubious. The attendant publicity made her infamous, and her waxwork went on display at both Madame Tussauds and Smithfield Cattle Show. She became the subject of music hall songs, and there was even a farce called _Beautiful For Ever_ playing to a packed Royal Surrey Theatre.
+
+Apart from her wealthy patrons, Madame Rachel counted amongst her children amongst her victims. Although one of the daughters was a willing acolyte, setting up a branch in Paris and keeping everything going during her mother’s spells in prison, the other children struggled with notoriety. The sensational aspects of Madame Rachel’s extraordinary career are poignantly imbricated with the tragic implications for two of her daughters, whose own lives were ruined by association with a notorious con-artist and blackmailer.
+
+Helen Rappaport has skilfully brought together a variety of resources detailing Madame Rachel’s extraordinary career, and has also unearthed hitherto unknown biographical material on her origins. The story is told compellingly, with clear but unobtrusive historical context. I am delighted to have had the opportunity to find out more about this curious character who pervades Victorian literature.  While reading the book, I came across a reference to her catchphrase – ‘beautiful for ever’ – in a novel published in 1896, 16 years after Madame Rachel’s death.  Henceforth, I shall be on the look out for her everywhere.
+
+[_Beautiful For Ever_](https://www.worldofbooks.com/en-gb/products/beautiful-for-ever-book-helen-rappaport-9780099570134) by Helen Rappaport.

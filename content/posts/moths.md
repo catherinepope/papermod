@@ -1,0 +1,31 @@
+---
+date: "2010-01-11T10:01:00+01:00"
+draft: false
+title: "Moths by Ouida"
+tags: ["Victorian", "fiction"]
+category: ["Books"]
+description: "A review of Ouida's 'Moths,' the first English novel to show a divorced woman happily remarried. Discover how this 1880 sensation novel challenges Victorian marriage ideals through Vere Herbert's escape from an abusive Russian prince in glamorous European society."
+keywords: ["Ouida", "Victorian divorce", "sensation fiction", "abusive marriage", "women's independence", "Silver Fork novel", "Victorian feminism"]
+---
+
+{{< figure
+  src="/images/moths.jpg"
+  alt="Cover of Moths by Ouida"
+  class="book"
+>}}
+
+Ouida’s [_Moths_](https://broadviewpress.com/product/moths/#tab-description) is credited with being the first English novel to show a divorced woman happily remarried, and as such represents a landmark in women’s writing. Of course many authors, notably of the ‘sensation school’, tackled the thorny issue of divorce, but ultimately either the heroine’s inconvenient spouse would obligingly die at the eleventh hour, or she would have to live a nun-like existence, hidden from society’s disapproving gaze.
+
+I’ve always been slightly wary of Ouida, having hitherto only ever read her work in the form of extracts. This approach does not do her justice, as what can appear bizarre out of context can be startlingly original when seen as part of a wider picture. Although generally classed as a sensation novelist, Ouida’s settings owe more to the earlier Silver Fork novels, which dealt with the machinations of fashionable society. The sparkling narrative sweeps across the glamorous capitals of Europe, to the snowy outposts of the Russian empire.
+
+_Moths_ is the story of Vere Herbert, a serious and beautiful, if slightly gawky, teenager who is forced into marriage with the cruel Russian Prince Zouroff. Uninterested in the approbation of the demimonde, Vere desperately resists her fate until her mother, the superficial and deluded Lady Dolly, pleads that she must surrender her to the Prince in order to release herself from serious debts. Resigned to her defeat, Vere strives hard to perform her wifely duty to the man she despises.  As a powerful nobleman with the full force of wealth and the law behind him, Prince Zouroff treats her appallingly, flaunting his extra-marital liaisons and demanding that she befriend his mistresses. When she refuses to share a house with his lover, the Prince is infuriated by her uncharacteristic defiance, striking her a vicious blow and banishing her to his remote Polish estate. Having committed both adultery and marital cruelty, the Prince has given his wife grounds for divorce, but he remains confident in the knowledge that a virtuous woman such as Vere would shrink from the horrors of a public scandal.  Her goodness and fortitude drive him to distraction, and his fury manifests itself in a terrible act of violence.  Vere’s quiet submission is eventually broken when she discovers the true reason why Lady Dolly married her off to a brute.
+
+Moths are used as a metaphor for society and women, one character explaining: “[This world] is a world full of moths. Half the moths are burning themselves in feverish frailty, the other half are corroding and consuming all they touch.” It is Vere’s resistance to becoming a moth that provides much of the narrative interest and contrast. Although the main male protagonists are essentially ciphers, some of the female characters are brilliantly drawn. The portrayal of Lady Dolly’s delusion is masterful; she believes that had she married a rich man “how easy it would have been to have become a good woman!” She sees herself as a hapless victim, whilst all the time making terrible decisions that affect both her and Vere. She also provides comic gems, such as her appalled reaction to her prudish daughter’s old-fashioned bathing costume – “It must have been worn at the deluge. The very children would stone you!”  Perhaps my favourite line in any Victorian novel is now: “Lady Dolly felt the mist over her eyes again, and this time she knew it was not the prawns.”
+
+Less amusing, despite her name, is Lady Stoat of Stitchley, a sinister and sadistic character who succeeded in “marrying her daughter ... to a young marquis, who, with the small exceptions of being a drunkard, a fool, and a brute, was everything that a mother’s soul would desire.”  She encourages the weak Lady Dolly to sacrifice her daughter and chastises Vere when she revolts. Fuchsia Leach, initially a caricature of a vulgar American, develops into a courageous and sympathetic woman who is prepared to act according to her conscience, rather than merely react to public opinion. As an outsider, she is impervious to the specious qualities of high society.
+
+Ouida’s philosophy of marriage pervades the narrative. She is clearly sceptical as to its merits, with the only autonomous female characters being the adulterers and the forthright Fuchsia. There is a recurring image of marriage as slavery and legalised prostitution, and Vere actually envies the prostitutes their freedom and solidarity. Although fabulously wealthy and moving in the highest social circles, Vere suffers both mental and physical abuse and must submit to the will of a capricious husband. As he tells her shortly after their marriage, “I am your master, and I can be a bad master.”
+
+Despite mounting such a direct challenge to the idea that marriage was the desideratum of all young women, Ouida has been accused of timidity by modern critics. This is an unfair charge, however, as any attempt to be truly radical would have resulted in an outright ban by the circulating libraries. Indeed, Mudie’s seriously considered withdrawing _Moths_ from their catalogue, but were probably swayed by the novel’s enormous popularity. Willa Cather has described Ouida as a “brilliant mind that never matured”, but this lack of maturity makes her a particularly engaging and unique writer.
+
+[_Moths_](https://broadviewpress.com/product/moths/#tab-description) by Ouida. 

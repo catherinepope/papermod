@@ -2,7 +2,7 @@
 date: "2009-04-01T08:56:03+01:00"
 draft: false
 title: "Ideala by Sarah Grand"
-tags: ["Victorian", "fiction"]
+tags: ["Victorian", "fiction", "Sarah Grand"]
 category: ["Books"]
 description: "A review of Sarah Grand's 'Ideala,' an early New Woman novel exploring a woman's choice between leaving her adulterous husband or becoming an independent singleton. Discover Grand's proto-modernist narrative techniques and feminist themes in this 1888 Victorian fiction."
 keywords: ["Sarah Grand", "Ideala", "New Woman novel", "Victorian feminism", "marriage laws", "Valancourt Books", "Victorian fiction", "feminist literature"]

@@ -1,7 +1,7 @@
 ---
 date: "2009-05-07T17:45:43+01:00"
 draft: false
-title: "The Sorrows of Satan"
+title: "The Sorrows of Satan by Marie Corelli"
 tags: ["Victorian", "fiction"]
 category: ["Books"]
 description: "A review of Marie Corelli's bizarre 1895 novel 'The Sorrows of Satan,' featuring a Faustian pact with the devil and a thinly disguised self-portrait. Discover Corelli's narcissistic attack on critics and New Woman novelists through this extraordinary Victorian bestseller."
