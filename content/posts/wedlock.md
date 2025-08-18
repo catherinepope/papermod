@@ -1,0 +1,34 @@
+---
+date: "2012-01-01T15:22:29+01:00"
+draft: false
+title: "Wedlock: How Georgian Britain’s Worst Husband Met His Match"
+tags: ["Georgian"]
+categories: ["Books"]
+description: "A review of Wendy Moore's 'Wedlock,' telling the story of Mary Eleanor Bowes and her abusive marriage to Andrew Robinson Stoney, 18th-century Britain's 'worst husband.' Discover how this wealthy heiress fought back and influenced women's rights legislation."
+keywords: ["Wendy Moore", "Wedlock", "Mary Eleanor Bowes", "Andrew Robinson Stoney", "Georgian Britain", "domestic violence", "women's rights", "18th century marriage", "historical biography", "legal history"]
+---
+
+{{< figure
+  src="/images/wedlock.jpg"
+  alt="Cover of Wedlock by Wendy Moore"
+  class="book"
+>}}
+
+I must confess to having been initially sceptical at the title’s claim of “worst” husband. Having spent much of the last few years rummaging through historical divorce papers, I know there are many ghastly contenders for that dubious honour. Andrew Robinson Stoney was described by his own father as “the most wretched man I ever knew”, and he was to showcase his ghastliness on Mary Eleanor Bowes, the eighteenth century’s richest heiress (and great-great-great-grandmother of the late Queen Mother).
+
+Mary was worth around £100m in today’s money, making her a considerable prize for an intrepid fortune seeker. Although of humble origins, Stoney contrived to fight a duel over Mary’s honour, feigning a fatal injury. In his supposedly final hours, the gallant hero rasped that his dying wish was to marry Mary. Advised by three medical men that the end was nigh, Mary consented, even though she was carrying the child of Stoney’s rival. Shortly after the wedding, Stoney effected a Lazarus-like recovery, and found the strength to regularly beat his wife within an inch of her life.
+
+The violence was relentless, with Stoney regularly pinching, kicking or slapping Mary. He warned her not to tell anyone, forcing her to tell stories of walking into doors or falling down the stairs. When displeased with her appearance, he would hack off her hair with shears. As Moore writes: “Watching her every movement, Stoney exerted control over the clothes Mary wore, the visitors she received, the conversations she held, the food that she ate, the journeys she undertook and every aspect of her daily life from morning until night with a pathological eye for detail.”
+Mary’s wealth was tied up in a trust, beyond the reach of her acquisitive brute of a husband. After plotting and scheming, he bullied a befuddled and beaten Mary into signing over her fortune, thereby gaining full dominion. With a full purse, Stoney became a man about town, taking full advantage of his elevated status, while Mary remained at home, repenting her haste at leisure. To mark their first wedding anniversary on New Year’s Day, Stoney chillingly informed Mary that his resolution was to make that year even more miserable than the last.
+
+He was as good as his word, and Mary’s life became increasingly circumscribed. She had been a talented botanist, growing an impressive range of plants and a reputation as a pioneering horticulturist. Stoney deliberately released hares to destroy her flowers, finally selling her beloved gardens and greenhouses to fund his debauched lifestyle. Stoney delighted himself with developing new forms of psychological abuse, but this did not stop him from burning his wife’s face with a candle or stabbing her in the tongue with a pen nib. His cruelty knew no bounds. The servants were powerless to intervene, and many of the maids were repeatedly raped by their depraved master.
+
+Some readers might be incredulous that Mary tolerated such behaviour and didn’t simply remove herself from the situation. There was nothing, however, to prevent Stoney from doing exactly as he pleased. In the eighteenth century, a husband exercised complete control over the household – wife and servants alike were his property. Once Mary had been coerced into signing over her inheritance, she was completely penniless, forced even to borrow underwear from her maid. When she did finally flee the marital home, Mary had no means of supporting herself and had to leave behind her beloved children (also the property of Stoney).
+
+Moore describes the subsequent divorce 1786 case as: “A staggering triumph, one of only sixteen cases seeking divorce on grounds of both adultery and cruelty in that decade, the result sent a clear signal to abusive husbands and a message of hope to abused wives everywhere.” Stoney was not a man to accept defeat, and the divorce proved to be only the beginning of the end. The redoubtable Mary was to suffer abduction, further violence, and humiliation.
+
+As the title suggests, Mary ultimately triumphs, although not without enduring unimaginable suffering. I was lost in admiration at her endurance and tenacity in the face of such torture. Her willingness to defy convention and publicly denounce her husband’s abuse resulted in three court rulings that influenced women’s rights campaigns in the nineteenth century. Progress was slow, with protection against violent husbands instituted in 1878 and financial autonomy for wives in 1882, nearly 100 years after Mary’s one-woman struggle.
+
+It is surprising that Mary Bowes is little known outside the annals of marriage law. The man who tormented her has been immortalised as Thackeray’s _Barry Lyndon_, and his lack of financial acumen has given us the term “stoney broke”. Wendy Moore is to be applauded, therefore, for giving this heroic woman the recognition she deserves. The story is absolutely gripping and I found myself exhausted and slightly stunned when reaching its conclusion. The historical context is well-balanced and impeccably researched: everything is contextualised without losing any of the cracking pace. Stories don’t get much more sensational than this, but Mary’s suffering is handled with great sensitivity. Wendy Moore is undoubtedly one of the very best writers of narrative non-fiction. The harrowing subject matter means that Wedlock is not an easy read, but it’s the story of remarkable woman, brilliantly told.
+
+[_Wedlock: How Georgian Britain’s Worst Husband Met His Match_](https://uk.bookshop.org/a/2760/9780753828250) by Wendy Moore
