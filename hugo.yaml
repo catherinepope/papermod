@@ -75,7 +75,7 @@ params:
   profileMode:
     enabled: true
     title: "Catherine Pope"
-    subtitle: "Trainer, Coach & Content Creator"
+    subtitle: "Trainer, Coach & Technical Content Creator"
     imageUrl: "/images/Catherine-Pope.png"
     # buttons:
     #  - name: About
