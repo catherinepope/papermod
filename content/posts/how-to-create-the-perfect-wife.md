@@ -1,0 +1,31 @@
+---
+date: "2013-08-04T10:01:25+01:00"
+draft: false
+title: "How to Create the Perfect Wife: Georgian Britain’s Most Ineligible Bachelor and His Quest to Cultivate the Ideal Woman"
+tags: ["Georgian", "Wendy Moore"]
+categories: ["Books"]
+description: "A review of Wendy Moore's 'How to Create the Perfect Wife,' telling the disturbing story of Thomas Day who adopted two orphan girls in 1769 to train as his ideal spouse. Discover this Georgian experiment in female subjugation inspired by Rousseau's philosophy."
+keywords: ["Wendy Moore", "How to Create the Perfect Wife", "Thomas Day", "Georgian Britain", "Rousseau", "women's rights", "18th century marriage", "social experiment", "female education"]
+---
+
+{{< figure
+  src="/images/how-to-create-the-perfect-wife.jpg"
+  alt="Cover of How to Create the Perfect Wife by Wendy Moore"
+  class="book"
+>}}
+
+If anything is guaranteed to get my feminist dander up, it’s the idea of wifely perfection, and this enthralling book had me seething from start to finish. On a summer’s day in 1769, wealthy (but unprepossessing) bachelor Thomas Day visited the orphan hospital in Shrewsbury to choose himself a wife. This was not the way a gentleman usually embarked upon courtship, even in the eighteenth century, but at the grand age of twenty-one, Day had already decided that his womanly ideal did not exist: therefore, he would have to create her. He required someone “completely subservient to his needs and whims and utterly in thrall to his ideas and beliefs”.
+
+Considering himself an Enlightenment thinker and an empiricist, Day carefully selected Ann Kingston (orphan no. 4.579), who he renamed Sabrina, believing she would respond favourably  to his rigorous programme of education and training. To hedge his bets, he also bagged himself Dorcas Car, orphan no. 10,413 from an orphanage in London, who was lumbered with the unlikely name of Lucretia. As Moore writes, Day was able to procure these vulnerable infants as easily “as he might buy two shoe buckles”.
+
+It is fair to say that Day was obsessed with the writings of Jean-Jaques Rosseau, and subscribed to his philosophy with all the critical reason of a religious zealot. He was particularly enthused by Rosseau’s novel _Emile_, the central thesis of which argued that children were essentially good, but became corrupted by the influence of society. Although Rosseau had never intended his work to be a parenting manual, it formed the basis of the extraordinary regime in which Sabrina and Lucretia were forced to endure cold, hunger and pain, alongside an academic curriculum designed to make them a fit companion to a man who considered himself uncommonly clever. Day declared that within twelve months he would decide which of the two girls had the potential to become the perfect wife: “Would he choose the auburn-haired and brown-eyed Sabrina or the blonde-haired and blue-eyed Lucretia? Who would be the lucky winner of the contest to become Mrs Day?” This curious reality show inspired wonder and disgust in Day’s friends, and has a similar effect on the modern reader, who can at least observe the ghastly spectacle from a safe historical distance.
+
+Fortunately for her, Lucretia turned out to be “invincibly stupid”, and was paid off with £400 and apprenticed to a milliner, a very good outcome for one who’d had such a bad start in life. Sabrina was left on her own with Day, who was determined to create her in his own image. She suffered torments such as Day dropping hot was on her bare back and arms, sticking pins in her flesh, and firing weapons dangerously close to her head – all of which were supposed to build strength of character, and presumably a high tolerance for unreasonable behaviour. Astonishingly, this routine did not form the basis of a successful relationship and Sabrina, too, was dismissed. Day’s experiment had failed with the realisation that girls generally aren’t biddable creatures.
+
+He next turned his asinine attentions to Honora Sneyd, who was at least someone closer to his own age and also in a position to make her own decisions. Although initially attracted by his lively (if misguided) mind, “\[t]here was just something about Day’s vision of married bliss in a remote hovel in complete subservience to his every whim that apparently didn’t appeal”. Day was repeatedly drawn to clever, independent-thinking women, but was then astonished when they didn’t reciprocate the feelings of a rather grubby-looking despot. He wanted a wife to be intelligent to serve his needs, not so she could pursue her own interests; he simply required a woman who could understand what he was blathering on about and indulge his pseudo-intellectualism. As a wealthy man, Day truly believed he could have whatever he wanted, and he can’t be faulted on his perseverance.
+
+Day is a thoroughly objectionable, yet oddly compelling figure. As with many biographical subjects, it is his contradictions that make him fascinating –  an adamant abolitionist, he saw nothing wrong with enslaving and abusing his victims; applauded for his liberal views on women’s education, he strongly resisted any idea of female subjectivity. It would be easy to present Day as a risible character, but Moore is tactful in presenting his fallacious ideas, without indulging their more egregious manifestations, and never hiding her glee when women get the better of him and his disastrous schemes.
+
+Reading the blurb for this book, I feared it might be a relentlessly miserable and disturbing read; however, Wendy Moore is a gifted storyteller, handling her material with great verve and wit. As with her previous books, the archival research is used to build a rich and satisfying narrative and it is full of illuminating and ghastly detail. _How to Create the Perfect Wife_ epitomises the historic powerlessness of women, but also showcases their remarkable resilience.
+
+_How to Create the Perfect Wife: Georgian Britain’s Most Ineligible Bachelor and His Quest to Cultivate the Ideal Woman_ by Wendy Moore

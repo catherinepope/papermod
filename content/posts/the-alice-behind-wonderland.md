@@ -1,0 +1,31 @@
+---
+date: "2013-09-09T09:53:54+01:00"
+draft: false
+title: "The Alice Behind Wonderland"
+tags: ["Victorian"]
+categories: ["Books"]
+description: "A review of Simon Winchester's 'The Alice Behind Wonderland,' examining Charles Dodgson's photography career and the controversial 1858 photograph of Alice Liddell. Discover how Winchester addresses allegations against Lewis Carroll with sensitivity and historical context."
+keywords: ["Simon Winchester", "The Alice Behind Wonderland", "Charles Dodgson", "Lewis Carroll", "Alice Liddell", "Victorian photography", "Alice's Adventures in Wonderland", "photography history", "literary biography"]
+---
+
+This is a preprint of a review published in [_Britain and the World_](https://www.euppublishing.com/doi/full/10.3366/brw.2013.0104), Volume 6, pp. 298-300.
+
+{{< figure
+  src="/images/the-alice-behind-wonderland.jpg"
+  alt="Cover of The Alice Behind Wonderland by Simon Winchester"
+  class="book"
+>}}
+
+The title of this book is slightly misleading, as the reader learns little of Alice Liddell, the girl who famously inspired Lewis Carroll’s Alice’s Adventures in Wonderland. Instead, in this slim volume, Simon Winchester focuses his attention on Charles Dodgson (aka Lewis Carroll) and his adventures in photography. We learn about Dodgson’s experiences as an awkward youth and his circumscribed life following admission to Christ Church College, Oxford, where he took holy orders and, therefore, a vow of celibacy.
+
+While living at Oxford, Dodgson acquires his Thomas Ottewill Registered Double Folding camera, which arrives with considerable ceremony in a straw-packed wooden crate. His excitement is almost palpable as he unpacks the paraphernalia associated with this pioneering medium, a “confection of shiny mahogany and brass and glassware” (50). Winchester deftly captures the sense of wonder surrounding this magical blend of art and science, with its complicated equipment and eye-wateringly acrid chemicals. This shy and partially-deaf mathematician found the world much easier to deal with when mediated through his camera lens.
+
+Unusually in a book about photography, there is only one photograph: the notorious “Alice Liddell as the Beggar Maid”. This collodian picture, taken in the garden of Christ Church on a summer’s day in 1858, has formed much of the evidence for Dodgson’s alleged paedophilia. It shows the six-year-old Alice, dressed as an urchin and leaning against a wall. Her ragged dress is slipping off the shoulder and her left nipple is just exposed. Her facial expression is difficult to interpret: some see it as sultry or seductive, others as boredom. Given the interminable exposure times in the early days of photography, the latter seems far more likely. The provocative pose has meant that the subject matter has completely overwhelmed Dodgson’s technical achievement in producing such a clean, sharp image when still in the early days of mastering his technique.
+
+In telling the story of this controversial photograph, Winchester tackles many of the popular myths surrounding Charles Dodgson. He discusses the fact that the Victorians (about whom we are all fond of generalising) would have viewed this image as one of innocence, rather than sexual precocity or exploitation. They were able to appreciate the sensuousness of childhood without recourse to the sensual. The author also makes clear that Alice’s family were in attendance for all of the eleven portraits Dodgson took over the course of thirteen years. In fact, Winchester shows that Dodgson was more interested in courting Alice’s sister Ina, who was three years her senior. To the 21st-century reader, that doesn’t place him in a much better light, but such May-December arrangements were unremarkable at the time. Although we shall probably never know the reason behind the subsequent irrevocable rift between Mrs Liddell and Dodgson, Winchester argues that it is just as likely to have been caused by the disruption of his visits as by any unease as to his motivation. Few harassed mothers of large families would appreciate the continual presence of a bumbling academic.
+
+Winchester handles the issues of paedophilia with great sensitivity, avoiding sensation, and considering Dodgson’s behaviour within the context of nineteenth-century sensibilities, rather than our own. Ultimately, Winchester gives Dodgson the benefit of the doubt. This might come across as equivocation in some writers, but instead he is thoughtful and fair-minded, avoiding either simplistic condemnation or peremptory exoneration. The most obvious limitation of the book is the lack of photographs – there is only one small picture of Alice Liddell, although Winchester does examine it in meticulous, almost forensic, detail. While the author does a masterful job of recreating the other visual images in his sumptuous prose, it is, nevertheless, an odd experience not actually seeing them on the page. The book is also frustratingly short – just 93 pages – although its brevity does belie its density, encompassing as it does the history of photography, along with an insightful account of Dodgson’s life. The Alice of the title remains largely hidden, however.
+
+Ironically, even the author himself was unable to view the original photograph that has so profoundly influenced our view of Dodgson. It remains locked inside a basement vault at Princeton University’s Firestone Library, safe from the destructive elements, thereby contributing further to the sense of mystery surrounding this pivotal episode in photographic and literary history. As Dodgson’s diaries were extensively redacted and the adult Alice Liddell declined to discuss her relationship with him, the truth behind this intensely unsettling photograph will never be known. This book, therefore, seeks to discuss the issue calmly and objectively, rather than to reach conclusions or to pass judgement. In a sympathetic, but not indulgent, account, Winchester is successful in conveying, but not defending, the complexities of a curious and enigmatic man.
+
+[_The Alice Behind Wonderland_](https://uk.bookshop.org/a/2760/9780190614546) by Simon Winchester
