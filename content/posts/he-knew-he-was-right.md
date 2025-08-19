@@ -1,0 +1,29 @@
+---
+date: "2010-10-30T13:09:52+01:00"
+draft: false
+title: "He Knew He Was Right by Anthony Trollope"
+tags: ["Victorian", "fiction", "Anthony Trollope"]
+categories: ["Books"]
+description: "A review of Anthony Trollope's 1869 novel 'He Knew He Was Right,' examining Louis Trevelyan's descent into jealous madness when he suspects his wife Emily of adultery. Discover Trollope's forensic examination of Victorian marriage and evolving views on women's rights."
+keywords: ["Anthony Trollope", "He Knew He Was Right", "1869 literature", "Victorian marriage", "women's rights", "divorce court", "psychological novel", "Victorian domestic fiction", "marital breakdown"]
+---
+
+{{< figure
+  src="/images/he-knew-he-was-right.jpg"
+  alt="Cover of He Knew He Was Right by Anthony Trollope"
+  class="book"
+>}}
+
+I’m wondering whether it took me as long to read _He Knew He Was Right_ (1869) as it did for Trollope to write it. At almost 1,000 pages long, it’s the size of a business directory, and was instrumental in my decision to buy a Kindle rather than continue grappling with similarly unwieldy tomes. Trollope had recently resigned from his Post Office position when he began writing this novel, and his unsuccessful bid to enter Parliament presumably left him with an unexpectedly large amount of time on his hands.  No doubt Mrs Trollope encouraged him to take on a major project so he didn’t get under her feet or start bothering the cook.
+
+Anyway, _He Knew He Was Right_ is the story of Louis Trevelyan, a middle-aged man who has bagged himself a much younger and adoring wife, Emily. Despite being thought a lucky dog by his friends, Trevelyan convinces himself that Emily has been encouraging the attentions of Colonel Osborne, a superannuated roué who is an old friend of her family. In fact, she has been communicating with him simply to arrange for her father to be brought back from the Mandarin Islands, a territory which he governs.
+
+Trevelyan’s jealousy grows into “morbid monomania” and his behaviour becomes increasingly erratic.  He effects a separation from Emily when she refuses to apologise for a sin she hasn’t committed.  Frustrated by Emily’s dignified reaction to his unreasonable demand for complete subjection, Trevelyan hires a dubious private detective by the name of Bozzle, abducts his own son, and finally exiles himself to rural Italy.  He unravels in front of the reader’s eyes, suffering a complete mental and physical breakdown.
+
+The novel is a forensic examination of marriage, written at a time when the recently-established Divorce Court was exposing middle-class families to unprecedented scrutiny. Trevelyan clings desperately to the idea of his unquestioned authority in the household and is bewildered to find himself challenged on all sides when his personal affairs are made public. Perhaps unintentionally, Trollope makes clear the double standard which made it relatively easy for husbands to abandon inconvenient wives through unfounded accusations of adultery, whereas wronged wives found it almost impossible to extricate themselves from unfaithful husbands.
+
+As is evident throughout his fiction, Trollope is uncomfortable with the issue of women’s rights. Many of his novels argue forcefully that wives should remain in the private sphere and subordinate to their husbands. _He Knew He Was Right_ is particularly interesting in this regard, as there is a perceptible change of opinion developing through the narrative. By the conclusion, Emily is completely absolved of blame, with her husband described as a “maniac” and portrayed as an anachronism.  Margaret Markwick in her excellent [_Trollope and Women_](https://uk.bookshop.org/a/2760/9781852851521) thinks he was influenced by reading Eliza Lynn Linton’s 'The Girl of the Period' – a series of profoundly anti-women articles written for the _Saturday Review_. Her ridiculously exaggerated portraits of emancipated women made Trollope realise that such an extreme stance was unhelpful and nudged him into reconsidering his own opinions. In any case, the _Saturday Review_ was no friend of Trollope and he was possibly disinclined to align himself with their ante-diluvian editorials.  Incidentally, their reviewer dismissed _He Knew He Was Right_ as “simply repulsive”.
+
+Trollope’s fear of strong women is still evident, however.  Wallachia Petrie is a highly unflattering portrait of a women’s rights activist, and her outspokenness is contrasted unfavourably with Emily Trevelyan’s quiet determination. Trollope also dodges the opportunity to champion the role of the “surplus” woman. He tentatively suggests that improved employment opportunities might be necessary for women who are unable to marry, but then fails to develop Priscilla Stanbury, his spinster character, instead relegating her to the sidelines with an air of resignation.
+
+Overall, _He Knew He Was Right_ is a protracted and confused novel, perhaps reflecting Trollope’s struggles in resolving both his views and the plot. It is one of his darkest and most psychological novels, leading Henry James to describe the conclusion as an affront to “conventional optimism”. Mind you, Trollope did reuse a large chunk of the plot in his novella _Kept in the Dark_ (1882), this time with a happy (if frustrating) ending. The meandering plot has Shakespearean overtones, with tragic elements of _King Lear_ and _Othello_, occasionally leavened by a nod to _The Comedy of Errors_. _He Knew He Was Right_ is an intriguing but unendearing novel. Had he lived a little longer, perhaps Trollope would have produced a more enlightened version: _She Knew He Was Wrong_.

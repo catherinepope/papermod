@@ -24,4 +24,6 @@ In my afterword, I also explain what happened following the trial, and how Queen
 
 Notwithstanding the author’s reservations, _Harriet_ remains a provocative and important novel. By placing her victim at the centre of the narrative, Jenkins gives Harriet the attention and respect she was denied as a wife.
 
+---
+
 For rights reasons, this edition of _Harriet_ is currently only available in the US. For more information, please visit the [Valancourt Books website](https://www.valancourtbooks.com/harriet-1934.html).

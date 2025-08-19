@@ -1,0 +1,29 @@
+---
+date: "2014-06-05T16:34:53+01:00"
+draft: false
+title: "George Eliot: The Last Victorian"
+tags: ["Victorian", "biography"]
+categories: ["Books"]
+description: "A review of Kathryn Hughes' 'George Eliot: The Last Victorian,' exploring the life and contradictions of Mary Ann Evans. Discover how the unconventional author balanced literary genius with domestic desires through her relationships with G.H. Lewes and John Cross."
+keywords: ["George Eliot", "Kathryn Hughes", "The Last Victorian", "Mary Ann Evans", "G.H. Lewes", "John Cross", "Victorian biography", "women writers", "literary biography", "Victorian feminism"]
+---
+
+{{< figure
+  src="/images/george-eliot-last-victorian.jpg"
+  alt="Cover of George Eliot by Kathryn Hughes"
+  class="book"
+>}}
+
+Although George Eliot declared biography to be “a disease of English literature,” it hasn’t yet been eradicated, and there have been almost 20 attempts to tell the story of her life and career. The number of Victorian women writers who enjoyed both critical and commercial success can be counted on the fingers of one hand, so Eliot is certainly worthy of all this biographical attention. Of course, George Eliot is just as famous for her unconventional private life as for her novels. Well, I say “private life,” but the details of her adulterous relationship with G H Lewes and subsequent short-lived marriage to John Cross have been the subject of much lurid speculation. There isn’t much new information in Hughes’ book, but her account is lively, insightful, and unashamedly feminist in approach.
+
+Eliot was, and remains, a tricky poster girl for the women’s rights movement. She did a thorough job of flouting convention with a public declaration of agnosticism and bagging another woman’s husband, but had no intention of becoming a figurehead. Eliot insisted on styling herself “Mrs Lewes,” responding snottily to anyone who referred to her as “Miss Evans”. Sceptical of women’s intellectual fitness to vote, she also requested that her royalties were paid directly to Lewes. Her novels might tackle some of the greatest questions of the Victorian era, but for Eliot social change should come gradually – had she lived in the 21st century, she might have written _Felix Holt the Liberal Democrat_.
+
+While this lack of sorority is disappointing, perhaps just being “George Eliot” was enough to advance the cause: the quondam Mary Ann Evans showed that it was possible for a Victorian woman to maintain a happy (if irregular) marriage and a successful literary career. There is, too, a sense that Eliot craved normality. Her exceptional intellect had already marked her out as different in an age when women were expected to be Stepfordian, so she didn’t want to draw any more attention to herself. The common-law marriage with Lewes that outraged Eliot’s family was merely an expedient, allowing her to enjoy a relationship with perhaps the only man who would accept her for what she was. The seriousness with which Eliot took her role as stepmother to his sons indicates that she wanted to subscribe to prevailing notions of Victorian womanhood, rather than to completely reshape them. Needless to say, the implications of this unorthodox marriage were different for husband and wife. While Lewes was lionised, enjoying the stimulation and glamour of the literary world, Eliot was virtually a recluse. Hypocrites such as the political reformer Joseph Parkes thought her behaviour scandalous, despite himself maintaining a wife and a mistress.
+
+The symbiotic Lewes-Eliot partnership intrigues Hughes. Eliot needed Lewes’ encouragement and unflagging praise, while he was dependent upon her four-figure royalty cheques to support his estranged family. Nurturing the talent of George Eliot allowed Lewes to pursue his scientific interests, schmooze at swanky parties, and to maintain a lifestyle well beyond his means as a modestly successful author. Although he was the dominant partner in many respects, few men would have delighted as he did in hearing praise heaped on their wives’ abilities rather than on their own. He bathed in her reflected glory, but in doing so elevated the status of the woman author. As Hughes writes, “he honoured her genius without resenting it”. Rejected by her family, Eliot yearned for love and acceptance, along with the intellectual stimulation necessary to develop her uniquely philosophical style – she found it all in this fussy and flashy little man.
+
+Unfortunately, Eliot’s marriage to John Cross, a family friend more than 20 years her junior, was less successful. Their honeymoon in Venice is perhaps the most famous in history, with the groom throwing himself in the Grand Canal and having to be fished out by startled gondoliers. We’ll never know what prompted his bid for freedom, but perhaps Cross believed in the misconception of the Victorian woman as asexual, and was thoroughly alarmed when his wife took the initiative. This marriage lasted only seven months, cut short by Eliot’s death in December 1880 at the age of 61. She was buried alongside G H Lewes, the man who knew her best, and without whom she could never have been “George Eliot”.
+
+Eliot emerges from this biography an awkward, fragile, and solipsistic creature struggling with an unwieldy intellect, yet capable of brilliance. Hughes allows her subject to be both remarkable and human, remaining firm but fair, for instance celebrating the genius of _Middlemarch_ but condemning the unrelenting stodginess of _Romola_. The nuanced and reflective approach leaves the reader with a strong sense of both George Eliot and Mary Ann Evans, with all their idiosyncrasies, contradictions, and limitations sympathetically interrogated.
+
+[_George Eliot: The Last Victorian_](https://uk.bookshop.org/a/2760/9780815411215) by Kathryn Hughes

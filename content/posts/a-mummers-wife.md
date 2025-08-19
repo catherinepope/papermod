@@ -2,7 +2,7 @@
 date: "2011-06-11T15:43:04+01:00"
 draft: false
 title: "A Mummer's Wife by George Moore"
-tags: ["Victorian", "fiction", "George Moore"]
+tags: ["Victorian", "fiction", "George Moore", "Victorian Secrets"]
 categories: ["Books"]
 description: "A review of George Moore's controversial 1885 novel 'A Mummer's Wife,' following Kate Ede's tragic descent from bored draper's wife to alcoholic actress. Discover this shocking tale that challenged Mudie's circulating library and Victorian moral standards."
 keywords: ["George Moore", "A Mummer's Wife", "Victorian censorship", "Mudie's library", "adultery novel", "alcoholism",  "sensation fiction", "literary realism"]

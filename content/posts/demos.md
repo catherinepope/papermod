@@ -2,7 +2,7 @@
 date: "2011-02-22T16:00:32+01:00"
 draft: false
 title: "Demos by George Gissing"
-tags: ["Victorian", "fiction", "George Gissing"]
+tags: ["Victorian", "fiction", "George Gissing", "Victorian Secrets"]
 categories: ["Books"]
 description: "A review of George Gissing's 1886 novel 'Demos,' following socialist Dick Mutimer's moral corruption after inheriting a fortune. Discover this sensational tale of bigamy, bisexuality, and betrayal set against the backdrop of English industrial unrest."
 keywords: ["George Gissing", "Demos", "English socialism", "Victorian novel", "industrial unrest", "social change", "class mobility", "bisexuality", "Victorian politics"]

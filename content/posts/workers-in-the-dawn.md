@@ -2,7 +2,7 @@
 date: "2010-01-07T10:08:13+01:00"
 draft: false
 title: "Workers in the Dawn by George Gissing"
-tags: ["Victorian", "fiction", "George Gissing"]
+tags: ["Victorian", "fiction", "George Gissing", "Victorian Secrets"]
 categories: ["Books"]
 description: "A review of George Gissing's debut novel 'Workers in the Dawn' (1880), exploring class, poverty, and social reform in Victorian London. Discover how this autobiographical tale of an artist trying to reform an alcoholic prostitute reflects Gissing's early socialist phase."
 keywords: ["George Gissing", "Workers in the Dawn", "Victorian social realism", "London poverty", "Victorian socialism", "class struggle", "social reform", "Victorian East End"]

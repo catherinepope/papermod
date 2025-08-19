@@ -81,6 +81,13 @@ params:
     #  - name: About
     #    url: /about/
 
+markup:
+  goldmark:
+    extensions:
+      footnote: true
+    renderer:
+      unsafe: true  # If you need HTML in footnotes
+
 menu:
   main:
     - identifier: home

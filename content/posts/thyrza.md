@@ -2,7 +2,7 @@
 date: "2013-03-05T09:11:34+01:00"
 draft: false
 title: "Thyrza by George Gissing"
-tags: ["Victorian", "fiction", "George Gissing"]
+tags: ["Victorian", "fiction", "George Gissing", "Victorian Secrets"]
 categories: ["Books"]
 description: "A review of George Gissing's 1887 novel 'Thyrza,' exploring London working-class life through the story of hat-trimmer Thyrza Trent who falls for Oxford-educated Walter Egremont. Discover Gissing's sympathetic yet bleak portrait of social mobility and class barriers."
 keywords: ["George Gissing", "Thyrza", "London", "social mobility", "Victorian social realism", "working-class novel", "Victorian poverty", "Pierre Coustillas"]
