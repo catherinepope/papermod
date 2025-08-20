@@ -1,0 +1,24 @@
+---
+date: "2012-12-13T16:15:32+01:00"
+draft: false
+title: "The Duke's Children by Anthony Trollope"
+tags: ["Victorian", "fiction", "Anthony Trollope"]
+categories: ["Books"]
+description: "A review of Anthony Trollope's final Palliser novel 'The Duke's Children' (1880), where the grieving Duke of Omnium faces his children's rebellious marriages for love over duty. Discover how Trollope concludes his chronicle of Victorian social change."
+keywords: ["Anthony Trollope", "The Duke's Children", "Palliser novels", "final Palliser", "Duke of Omnium", "Lady Mary Palliser", "Lord Silverbridge", "Lady Mabel Grex", "Victorian social change"]
+---
+
+{{< figure
+  src="/images/the-dukes-children.jpg"
+  alt="Cover of The Duke’s Children by Anthony Trollope"
+  class="book"
+>}}
+
+One of my less onerous resolutions for 2010 was to read all the Palliser novels, and my work is now done. In contrast with the inherent conservatism of [its predecessor](/posts/the-prime-minister/), _The Duke’s Children_ (1880) is all about the necessity of change. The novel opens with the death of the Duchess of Omnium (formerly Lady Glencora Palliser), thereby signalling that nothing will ever be the same again. The Duke’s grief is compounded by the behaviour of his children, who all privilege inclination over duty, seeking happiness rather than strategic advantage. His daughter, Lady Mary, becomes engaged to a penniless aspiring MP; son and heir, Lord Silverbridge, is sent down from Oxford for painting the Dean’s house red and then falls in love with the American granddaughter of a dock-worker; and younger son Gerald makes a dent in the considerable family fortune through his fondness for cards and horses.
+
+The Duke’s greatest struggle is with his daughter. His opposition to her choice of suitor is challenged by the knowledge that the Duchess sanctioned the match shortly before her death. He also can’t help but recall that the Duchess was prohibited from marrying the man she loved, Burgo Fiztgerald (see [_Can You Forgive Her?_](/posts/can-you-forgive-her/)), thereby forcing him to question the very foundations of his own marriage. Eventually, the Duke decides that compromise is the way forward, showing tenderness and understanding towards his recalcitrant offspring. The scenes of paternal solicitude are among the most moving in all of Trollope’s novels. The Duke must set aside tradition in favour of the new progressive generation, who share few of the values he holds dear. Although in some ways the Duke in his twilight years presents a sad figure, there is a discernible sense of pride that he has produced children who are prepared to pursue their own course, even if it is in opposition to his own.
+One of the most memorable characters is Lady Mabel Grex, quondam lover of both Lord Silverbridge and Lady Mary’s suitor, Frank. She represents the faded aristocracy: her father and brother have gambled away the family fortune, leaving only their name and eye-watering debts.  Lady Mabel is reliant on a good marriage to survive, but her cynicism and coolness eventually repels the two men in turn, and she is left to reflect bitterly on the  merits of the “convict’s daughter,” who succeeded where she had failed.
+
+As this is the last Palliser novel, we won’t find out whether the marriages of the Duke’s children are to be happy. As shown in [_The Prime Minister_](/posts/the-prime-minister/), Trollope is apt to soundly punish female characters who marry against their father’s wishes. However, there is a glint of promise in a small cameo by Adelaide Palliser, who married for love in [_Phineas Redux_](/posts/phineas-redux/). She appears to be moderately happy and settled with the previously feckless Gerald Maule. Perhaps Mr Trollope has finally conceded that women are able to make important decisions about their own lives.
+
+I’m feeling rather bereft, now there are no more Pallisers with whom I can become acquainted. On the bright side, however, next year OUP are publishing shiny new editions of all six novels, complete with critical introductions by leading academics. Hopefully, these versions will stimulate even more interest in Trollope’s fascinating chronicle of mid-Victorian life and attitudes.

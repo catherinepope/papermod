@@ -1,0 +1,31 @@
+---
+date: "2011-03-14T16:48:39+01:00"
+draft: false
+title: "Mr Scarborough's Family by Anthony Trollope"
+tags: ["Victorian", "fiction", "Anthony Trollope"]
+categories: ["Books"]
+description: "A review of Anthony Trollope's 1883 novel 'Mr Scarborough's Family,' featuring the cunning father who manipulates inheritance laws through dual marriage certificates. Discover proto-feminist stirrings in Dolly Grey, Florence Mountjoy, and Matilda Thoroughbung amid Trollope's last-but-one work."
+keywords: ["Anthony Trollope", "Mr Scarborough's Family", "inheritance", "primogeniture", "New Woman", "Dolly Grey", "women's property rights", "late Trollope", "bigamy"]
+---
+
+{{< figure
+  src="/images/mr-scarboroughs-family.jpg"
+  alt="Cover of Mr Scarborough’s Family by Anthony Trollope"
+  class="book"
+>}}
+
+Imagine, if you will, settling down to watch what promises to be a really good film, and then suddenly and inexplicably, it is interrupted by a party political broadcast from the Tory party. That’s how I felt about _Mr Scarborough’s Family_ (1883), Trollope’s 45th and antepenultimate novel. The story begins well, with a _King Lear_ moment in which the eponymous Mr Scarborough tries to decide which of his unworthy sons should inherit his considerable wealth. What follows is endless depictions of nasty, selfish people, with whom one is inclined to feel little sympathy.
+
+The eldest son, Mountjoy, is a charmless little herbert who has accumulated eye-watering gambling debts in anticipation of his inheritance. Such is the number of postobits attached the estate, most of it would be immediately ceded to moneylenders on the death of Pa Scarborough. In order to prevent this happening, the wily father produces a marriage certificate showing that he married his wife only after Mountjoy was conceived. Mountjoy is thus rendered illegitimate and stomps off to the Continent in a fit of pique. Meanwhile, younger son Augustus is delighted at his promotion to heir, and can’t wait for his father to die so he can get his hands on the money. His impatience is palpable and incurs the wrath of his inconvenient parent, who alters his will to ensure he inherits virtually nothing.
+
+Not content with this arrangement, Mr Scarborough throws a googly by unearthing a second marriage certificate, proving that Mountjoy is in fact legitimate. It transpires that he married his wife twice: once before Mountjoy was conceived, and again afterwards. The incredible explanation for this bizarre act of monogamous bigamy is that it was a protest against primogeniture: Scarborough wanted to control which of his offspring would inherit his entailed estate. Such forward planning also enables him to buy up Mountjoy’s postobits for virtually nothing during his period of apparent illegitimacy. Not that the restored heir actually benefits from his father’s vulpine cunning – the conclusion of the novel sees him hot-foot it to Monte Carlo with a full purse. One can only hope that the moneylenders defrauded by the Scarboroughs managed to recoup their losses.
+
+Much of Trollope’s later fiction is studded with cynicism, but usually it is offset by a generous helping of humour. _Mr Scarborough’s Family_ is unusual in that it is almost devoid of wit. Perhaps ill health blunted Trollope’s cautious optimism, the sense that he would soon hop the twig rendering everything irredeemably bleak. It certainly didn’t encourage brevity: the novel is nearly 700 pages long, and at least twice as long as it ought to be. For me, the main interest lay in the perceptible stirrings of the New Woman. Elderly bachelor Mr Prosper is horrified when the woman he intends to marry, Matilda Thoroughbung, enquires as to what she can expect in return for her dowry. She points out that the advent of women’s rights means men can no longer rob vulnerable women: “A young woman doesn’t get taken in as she used to do ... Since woman’s rights have come up a young woman is better able to fight her own battle.” When she discovers that he intends to control her money down to the last penny, she loses interest in him as a suitor and finds one more worthy of her affections.
+
+Elsewhere, Dolly Grey is a rare example of elective spinsterhood, vigorously rejecting her father’s notion that she must be married off before he dies. He urges her to accept an offer from his anodyne business partner, even though he is incapable of articulating any good reason why she should, beyond the fact that it would be “safe”. Dolly’s constant refrain is that she prefers solitude and independence. Mr Scarborough’s niece, Florence Mountjoy, firmly resists her mother’s attempts to marry her off to a politely-spoken Belgian, instead plumping for a dubious, if passionate, scamp. Florence’s family fear that her unfeminine strong-mindedness will adversely affect her matrimonial prospects; in reality, however, she’s fighting off suitors with a (metaphorical) stick.
+
+There is a sense throughout the novel that the menfolk are starting to realise they have to work a bit harder in order to attract a wife. Conversely, the women have a greater sense of their own worth, and are not prepared to put up with any nonsense. Interestingly, Trollope was writing the novel at the time that the Second Married Women’s Property Act was being debated in Parliament. In terms of landmarks in the struggle for women’s rights, this legislation is second only to female suffrage, as it enabled wives to fully own and control their property and earnings. They were also thenceforth considered to be their own person under law, rather than simply their husband’s chattel. I wonder whether a terrifying vision of female emancipation hastened Trollope’s end?
+
+The glimmerings of proto-feminism and the pressure of the Trollope Challenge made me persevere with Mr Scarborough’s Family, otherwise I’d almost certainly have thrown in the towel quite early on. Still, I’m pleased to add the triumvirate of Dolly, Florence and Matilda to my little book of feisty literary heroines.
+
+_Mr Scarborough's Family_ by Anthony Trollope
