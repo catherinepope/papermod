@@ -1,7 +1,7 @@
 ---
 date: "2012-03-18T08:45:20+01:00"
 draft: false
-title: "Can You Forgive Her by Anthony Trollope"
+title: "Can You Forgive Her? by Anthony Trollope"
 tags: ["Victorian", "fiction", "Anthony Trollope"]
 categories: ["Books"]
 description: "A review of Anthony Trollope's 'Can You Forgive Her?,' the first Palliser novel exploring what women should do with their lives through Alice Vavasor's choice between respectable John Grey and exciting George Vavasor. Discover Trollope's compelling examination of Victorian marriage and female independence."

@@ -1,7 +1,7 @@
 ---
 date: "2011-01-04T17:03:55+01:00"
 draft: false
-title: "Ayalas Angel by Anthony Trollope"
+title: "Ayala's Angel by Anthony Trollope"
 tags: ["Victorian", "fiction", "Anthony Trollope"]
 categories: ["Books"]
 description: "A review of Anthony Trollope's 1881 novel 'Ayala's Angel,' following sisters Ayala and Lucy Dormer's different fates after their father's death. Discover Ayala's struggle with unwanted suitors, including the persistent Tom Tringle, while searching for her ideal 'Angel of Light.'"
