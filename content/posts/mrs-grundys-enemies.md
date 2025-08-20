@@ -1,0 +1,37 @@
+---
+date: "2015-03-08T09:37:49+01:00"
+draft: false
+title: "Mrs Grundy's Enemies: Censorship, Realist Fiction and the Politics of Sexual Representation"
+tags: ["Victorian", "George Moore", "George Gissing"]
+categories: ["Books"]
+description: "A review of Anthony Patterson's 'Mrs Grundy's Enemies,' examining how Victorian censorship shaped literature through authors like Zola, George Moore, and George Egerton. Discover how realist writers challenged moral standards while often reinforcing gender hierarchies."
+keywords: ["Anthony Patterson", "Mrs Grundy's Enemies", "Victorian censorship", "Mudie's library", "George Moore", "Emile Zola", "George Egerton", "realist fiction", "literary censorship", "Victorian morality"]
+---
+
+{{< figure
+  src="/images/mrs-grundys-enemies.jpg"
+  alt="Cover of Mrs Grundy’s Enemies by Anthony Patterson "
+  class="book"
+>}}
+
+Although originally a character in Thomas Morton’s play _Speed the Plough_ (1798), Mrs Grundy has enjoyed greater fame as the arbiter of nineteenth-century moral standards. In Mrs Grundy’s Enemies, Anthony Patterson selects for his study a range of authors – including Emile Zola, H G Wells, and George Egerton – who courted controversy with their frank portrayal of sexuality. He discusses how the culture of censorship shaped fiction, and examines the ways in which novelists challenged the dominant conservative ideology. Ultimately, Patterson makes a convincing argument that it was the Realists of the late Victorian era who faced resistance to literary innovation, long before the Modernists of the next century. Indeed, _Mrs Grundy’s Enemies_ was also the title of a novel by George Gissing that remained unpublished after his publisher decided it was morally dubious.
+
+In his introduction, Patterson establishes the context of the literary marketplace in which these authors were operating. As he observes, the all-powerful circulating libraries such as Mudie’s “provided one of the most effective means of regulating literature in middle-class Victorian society,” (13) and authors upset them at their peril. The 1857 Obscene Publications Act also posed the threat of legal sanction, as Henry Vizetelly discovered. The publisher was tried twice for his English translations of French novels, and on the second occasion, he was imprisoned for three months.
+
+Zola, as we discover in Chapter 1, was the (low) standard against which British authors were judged. _Nana_ (1880), in particular, offered the terrifying image of a sexually incontinent woman who might serve as a bad example for wholesome English women and imperil the nation’s moral health. _La Terre_ (1887) was even worse, with scenes of rape, incest, and bull bothering. As Patterson argues, Zola’s Naturalism “signifies a watershed for sexual representation in English fiction,” (28) and anything that frightened Mrs Grundy was condemned as Zolaesque.
+
+George Moore was one of the authors heavily influenced by Zola’s Naturalism, and he dominates Chapter 2. Moore fell foul of Mudie’s Circulating Library and eventually persuaded the redoubtable Vizetelly to publish a cheap edition of his novel [_A Mummer’s Wife_](/posts/a-mummers-wife/) (1885). Not content with this coup, Moore also published 'Literature at Nurse, or Circulating Morals', a pamphlet in which he launches a blistering attack on Mudie, who he accuses of infantilising the reading public by exercising unwarranted censorship. Moore certainly saw himself as a crusader, “posing as a defender of artistic freedom against the forces of prudery and philistinism” (66). However, as Patterson points out, Moore was simply trying to replace one form of chauvinism with another. While he liked to think of himself as progressive, his heroines faced thoroughly conventional fates and his writing “did little to disturb the hegemony of middle-class men” (95).
+
+In Chapter 3, Grant Allen faces similar criticism. While he depicts an emancipated woman in his notorious novel _The Woman Who Did_ (1895), he ensures she meets with an ignominious end. “In Allen’s bright eugenic future,” Patterson observes, “the position of women remains subservient to men and their ultimate function remains to bear children for the benefit of the race.” (141) Allen was trying to shock, rather than make a radical argument. All gong and no dinner, one might say. Both Moore and Allen railed against censorship, specifically claiming that it ‘feminised’ literature by ensuring that readers had access only to rubbishy romantic novels by women authors. In _A Mummer’s Wife_, Moore attributes his heroine’s downfall to her love of inflammatory fiction by the likes of Florence Marryat and Mary Elizabeth Braddon. For Moore, women’s popular fiction suggests a morally ambiguous universe in which heroines err and are rewarded with the realisation of their unwholesome desires. Only male authors can be trusted to set a good example.
+
+The women fight back in Chapter 4, with George Egerton (Mary Chavelita Dunne Bright) pointing the finger at men and their desire to silence female voices. When her short story collection _Keynotes and Discords_ (1893) provoked critical outrage, Egerton denounced this censorship as literally man-made. Patterson also considers Ella Hepworth Dixon’s _The Story of a Modern Woman_ (1894) and George Paston’s (Emily Morse Symonds) _A Writer of Books_ (1899), with their exposé of hypocrisy in the publishing industry. Unsurprisingly, Mary Cholmondeley’s _Red Pottage_ (1899) and its dramatic censorship scene are central to this chapter. Aspiring author Hester Gresley discovers that her brother has burned her manuscript, refusing to believe that the work of a woman could be of any literary merit. Patterson concludes that the novel “demonstrates how patriarchy limits women’s potential as creative artists through figuring them as immoral, incompetent or reductively dogmatic” (176).
+
+In the final chapter, Patterson advances to the Edwardian period, showing how novels that appear superficially to champion female sexual freedom actually conform to normative models. H G Wells’s _Ann Veronica_ (1909), for example, portrays a sexually liberated woman, but one who is transformed into a dutiful wife by the end of the narrative. There has been no perceptible progress since the publication of Allen’s _The Woman Who Did_, fourteen years earlier. Wells might have been thematically bold, but he was also keen to uphold the sexual double standard.
+
+Patterson concludes that the censorship debate “should not be simplified into a conflict of progressive writers and conservative critics,” (220) as there were internecine wars, too, especially between male and female writers. While much has been written on gender and the Victorian novel, Patterson’s book presents a new and welcome perspective by focusing on the censorship that was ever-present, yet seldom explicitly acknowledged. _Mrs Grundy’s Enemies_ is lucidly written, compellingly argued, and frequently illuminating.
+
+[_Mrs Grundy’s Enemies: Censorship, Realist Fiction and the Politics of Sexual Representation_](https://uk.bookshop.org/a/2760/9783034308878) by Anthony Patterson
+
+---
+
+Thank you to the publisher, Peter Lang, who kindly sent me a review copy.

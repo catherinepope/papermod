@@ -1,0 +1,31 @@
+---
+date: "2011-01-02T09:15:10+01:00"
+draft: false
+title: "Wild Romance: The True Story of a Victorian Scandal"
+tags: ["Victorian"]
+categories: ["Books"]
+description: "A review of Chloe Schama's 'Wild Romance,' telling the story of the 1861 Yelverton bigamy case that scandalized Victorian society. Discover how Theresa Longworth fought Captain William Yelverton through English, Irish, and Scottish courts to claim her status as his wife."
+keywords: ["Chloe Schama", "Wild Romance", "Yelverton case", "1861 bigamy", "Theresa Longworth", "Victorian marriage law", "irregular marriage", "Scottish marriage", "Victorian scandal", "women's legal rights"]
+---
+
+{{< figure
+  src="/images/wild-romance.jpg"
+  alt="Cover of Wild Romance by Chloe Schama "
+  class="book"
+>}}
+
+‘Wild romance’ is something of a misnomer when applied to the Yelverton case, an 1861 bigamy scandal that transfixed mid-Victorian society. The decidedly unromantic Captain William Yelverton stood trial after having allegedly contracted two ‘irregular’ marriages with Theresa Longworth and then gone on to marry another woman. Although estranged and rebuffed for most of their six-year relationship, Theresa was determined to claim her status as a married woman, initiating trials in England, Ireland and Scotland.  Yelverton was equally determined to rid himself of the woman he ‘married’ purely in the interests of consummating their affair. In court it became clear that Yelverton’s motives had been entirely sexual: once he had conquered Theresa, he was no longer interested.  When she became pregnant, he encouraged her to get an abortion – a very risky business in the mid-nineteenth century. Initially successful in her legal bid, Theresa lost her case on appeal.  She was cast off and notorious, having been through a very public ordeal.  Undeterred, she travelled the world, speaking up for wronged women and supporting herself through journalism.  Yelverton, meanwhile, was able to return to his new wife and family, later becoming Viscount of Avonmore.
+
+The complexity of the trial lay in the inconsistent marriage laws at the time. In Scotland, a couple could conduct their own marriage ceremony, without the need for a clergyman or witnesses. Simply referring to one another as husband and wife could even suffice. After Yelverton started expressing doubts about their Scottish marriage, Theresa arranged for them to marry again in Dublin, and he reluctantly agreed. Theresa’s downfall was in not being able to provide evidence that it had been officiated by a priest. Also, Irish marriages were not permitted between Catholics and Protestants, a situation Yelverton used to his advantage by prevaricating about his faith.
+
+I must confess to knowing more about bigamy than is possibly good for me, so that could be why I have a number of issues with Schama’s _Wild Romance_. Firstly, there are only a hundred or so pages on the trial and the events leading up to it – the rest is essentially a biography of Theresa. As such, it is certainly interesting, but we learn virtually nothing of Yelverton following the appeal. Enquiring minds wonder whether (and hope that) the rest of his life was overshadowed by his earlier indiscretion.  Secondly, there’s little attempt to contextualise bigamy, which was surprisingly common at the time and seen as a nifty expedient for avoiding costly divorce trials. Thirdly, and most importantly for me, there is already a very good account of the case: _Theresa_ by Duncan Crow, and Schama’s book seems not to add anything to what has already been said. There is no bibliography, so I don’t know whether she read the other book, and am unclear as to the other sources she consulted.
+
+A curious omission is the lack of any parallel drawn between Theresa and Caroline Norton. Schama writes: “Progressing from broadsheet darling to tabloid victim, Theresa eventually became perhaps the first woman to turn unwanted celebrity into a journalistic advantage, playing off her fame to develop an audience, then pursuing her stories with no-holds-barred determination.” This was exactly Norton’s trajectory, twenty years earlier, when she lost custody of her children and mounted a high profile campaign to change the law and champion the cause of marginalised women.
+
+These gripes aside, the account of the trial is very well written, and Schama conveys with great skill Theresa’s extraordinary tenacity and bewildering contradictions. She also enumerates the considerable and varied achievements of a woman generally defined only by the court case she lost so dramatically.  For example, Theresa devoted many months to treating the wounded in Scutari before the arrival of a rather more famous nurse, an experience she later described in her novel _Martyrs to Circumstance_. Like Norton, Theresa was no feminist and was critical of the nascent women’s rights movement. However, she did much to challenge the idea that abandoned women should quietly go away.  She also took advantage of the dependent status of married women by charging the cost of her dresses to Yelverton before their marriage was declared void. There is evidence throughout the book of very detailed research on the position of women, which does much to explain Theresa’s seemingly erratic behaviour, and exposes the inequitable nature of the law.
+
+The Yelverton scandal was the inspiration for Wilkie Collins’ 1870 novel _Man and Wife_, in which he rails against the inconsistencies of the marriage laws. The case also inspired countless other lesser-known sensation novels, of which Schama is very dismissive in her preface. The considerable public interest generated by the case did lead to legislative action. The Marriage Causes and Marriage Law Amendment Act of 1870 solved some of the anomalies in Irish marriage and made inter-faith unions legal. Although the book does not tell us, the Scottish law on irregular marriages was not changed until July 1939, thus leaving women like Theresa in a vulnerable position.
+
+We shall never know whether the Yelverton marriage was valid; if it was, then Theresa was most certainly its better half.
+
+[_Wild Romance: The True Story of a Victorian Scandal_](https://uk.bookshop.org/a/2760/9781408809549) by Chloe Schama
