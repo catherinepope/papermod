@@ -1,0 +1,43 @@
+---
+date: "2011-02-07T09:38:53+01:00"
+draft: false
+title: "The Last Chronicle of Barset by Anthony Trollope"
+tags: ["Victorian", "fiction", "Anthony Trollope"]
+categories: ["Books"]
+description: "A review of Anthony Trollope's 1867 novel 'The Last Chronicle of Barset,' concluding the Barsetshire Chronicles with Reverend Josiah Crawley's trial and Mrs. Proudie's shocking demise. Discover the poignant farewell to beloved characters like Septimus Harding."
+keywords: ["Anthony Trollope", "The Last Chronicle of Barset", "Barsetshire Chronicles", "Josiah Crawley", "Mrs Proudie", "Septimus Harding", "Grace Crawley", "Major Grantly", "Lily Dale"]
+---
+
+**WARNING:** this review is positively teeming with plot spoilers.
+
+{{< figure
+  src="/images/the-last-chronicle-of-barset.jpg"
+  alt="Cover of The Last Chronicle of Barset by Anthony Trollope"
+  class="book"
+>}}
+
+Drat my impatience. I was trying to save _The Last Chronicle of Barset_ (1867) for a forthcoming holiday, but the temptation was too great. As the title suggests, the novel is the final chronicle in Trollope’s tales of Barsetshire, so there is a certain poignancy that such memorable characters have now been put to rest. For many devotees, this novel is their favourite in the Trollopian Canon, and it’s easy to see why. The formidable cast from the previous chronicles is assembled and it’s like meeting old friends and finding out what they’ve been doing since you last saw them. As the reader is already familiar with the trials and tribulations of Barsetshire folk, there aren’t endless new names to remember and opinions to be formed (opinion-forming it deceptively fatiguing). Although there are sensational elements, Trollope delivers them in a languid fashion, relying on gradual enlightenment, rather than narrative shocks. Nathaniel Hawthorne, I think, encapsulated the essence of Trollope when he wrote that his writing is “as real as if some giant had hewn a great lump out of the earth and put it under a glass case, with all its inhabitants going about their daily business, and not suspecting that they were being made a show of.”
+
+The main plot concerns the eccentric and scholarly Reverend Josiah Crawley, to whom we were introduced in [_Framley Parsonage_](/posts/framley-parsonage/), who is unable to account for a stolen cheque that has mysteriously come into his possession. As an impecunious clergyman struggling to support a family, the Barsetshire quidnuncs, led by Mrs Proudie, decide on his guilt before the case has come to court. Crawley is a masterful study in obduracy, standing up against the ecclesiastical might of the Proudies and the Grantlys. Crawley is a far from likeable character, but it is difficult not to silently cheer him from the sidelines as he refuses to be condemned without trial. Scenes of the Crawleys’ domestic frugality are contrasted with the splendour of Plumstead Episcopi: whereas Archdeacon Grantly has used his largely symbolic position to amass a large fortune, the hard-working Vicar of Hogglestock has been subsisting on £130 per year.
+
+Crawley’s family must also suffer for his principles, but they stand by him, even when threatened with the terrifying prospect of the workhouse. Much of the weight is carried by daughter Grace, whose lover, Major Grantly, is the Archdeacon’s son. When the Archdeacon gets wind that his heir is planning to propose to Grace, he threatens to cut him off without a penny. Not only is she poor (a crime in itself), she is also the daughter of a suspected thief. Major Grantly is one of Trollope’s best and most understated heroes. He behaves honourably throughout, demonstrating his love through sincere deeds rather than empty words. Grace is a rarity in mid-Victorian fiction: a bluestocking who is allowed to be both attractive and lovable. Major Grantly is not intimidated by the prospect of a wife who is fluent in Greek and immeasurably his intellectual superior. As David Skilton observes in his introduction to this edition, it’s hard to imagine Dickens even countenancing such a character.
+
+One of Crawley’s staunchest opponents and detractors is the Bishop’s wife, Mrs Proudie, who is determined to browbeat him into submission. He resists her through the genius tactic of refusing to acknowledge her presence, thereby driving the despot to distraction. Unfortunately, Crawley’s justification for ignoring her is founded on a misogynistic belief that women should have no voice in religious affairs:
+
+>If there be aught clear to me in ecclesiastical matters, it is this — that no authority can be delegated to a female. The special laws of this and of some other countries do allow that women shall sit upon the temporal thrones of the earth, but on the lowest step of the throne of the Church no woman has been allowed to sit as bearing authority, the romantic tale of the woman Pope notwithstanding.
+
+This rant, probably echoing Trollope’s own sentiments, made we wonder whether it’s Mrs Proudie’s fault that the Church of England is making such a fuss about the ordination of women priests. I’m trying desperately hard not to make a controversial point about using works of fiction to justify outmoded and sexist views, but probably just have.
+
+Whereas Mrs Proudie was a comic joy in [_Barchester Towers_](/posts/barchester-towers/), she becomes much more sinister in _The Last Chronicle of Barset_. The unctuous Obadiah Slope  was deserving of her acerbity, but her attempt to destroy the lowly Josiah Crawley is uncomfortable to witness. Even the normally submissive Bishop realises she has gone to far, descending into depression when he realises the type of woman he has married. The henpecking becomes bullying, and the Bishop wishes himself rid of her. To his astonishment, this wish is soon granted in the only real surprise of the novel. The (possibly apocryphal) story goes that Trollope overheard men at his club complaining that they were fed up with Mrs Proudie. He promptly returned home and ensured that she met with a sticky end in the next instalment.
+
+A rather more gentle demise is granted to Septimus Harding, eponymous hero of _The Warden_. His final months are intensely moving, as he loses interest in life and longs for eternal rest:
+
+>During the last month or two the days had gone tediously with him; for he had had the large house all to himself, and he was a man who did not love solitude. It is hard to conceive that the old, whose thoughts have been all thought out, should ever love to live alone. Solitude is surely for the young, how have time before them for the execution of schemes, and who can, therefore, delight in thinking.
+
+As Harding slowly ebbs away, it feels as though some of the life force disappears from Barchester, or at least its essential goodness.
+
+A far less welcome return is that of Lily Dale, who we were obliged to endure at great length in [_The Small House at Allington_](/posts/the-small-house-at-allington/). She is still moping about like a particularly morose Emo, although she does at least realise that the object of her affections is entirely worthless. Lily still delights in martyrdom, declaring that she will place the letters OM, for Old Maid, after her name. Had she chosen spinsterhood in order to pursue a career then her actions would be laudable; however, she is motivated by a particularly tiresome love of attention-seeking. How I longed to lock her in a room with Little Nell. When love rat Adolphus Crosbie makes a sudden appearance, three years after dumping Lily,  Mrs Dale accuses him of having effectively murdered her daughter, such is the impact on their lives. Crosbie is undoubtedly a baddie, but one can’t help thinking that he had a lucky escape. It comes as a relief when narrator announces that we will hear no more of Lily Dale OM.
+
+Bidding farewell to some of the other characters is a sad business, although a few of them do make the occasional cameo in the Pallisers (I envy those who have yet to enjoy that series). Within weeks of finishing _The Last Chronicle of Barset_, Trollope was writing [_Phineas Finn_](/posts/phineas-finn/) and immersed in a very different landscape. Although Barsetshire was behind him, Trollope wrote in his _Autobiography_ that Mrs Proudie’s ghost still lingered. It is she, and the stories she inhabits, that perhaps best represents Trollope’s comic genius and also his much darker side.
+
+[_The Last Chronicle of Barset_](https://uk.bookshop.org/a/2760/9780199675999) by Anthony Trollope

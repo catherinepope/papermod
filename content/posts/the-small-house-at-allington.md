@@ -1,0 +1,41 @@
+---
+date: "2011-02-04T09:48:32+01:00"
+draft: false
+title: "The Small House at Allington by Anthony Trollope"
+tags: ["Victorian", "fiction", "Anthony Trollope"]
+categories: ["Books"]
+description: "A review of Anthony Trollope's 1864 novel 'The Small House at Allington,' featuring the Dale sisters - spirited Bell who resists marriage pressure and tragic Lily who falls for cad Adolphus Crosbie. Discover why this penultimate Barsetshire Chronicle feels darker than its predecessors."
+keywords: ["Anthony Trollope", "The Small House at Allington", "Barsetshire Chronicles", "Lily Dale", "Bell Dale", "Adolphus Crosbie", "Johnny Eames", "Victorian courtship", "jilted heroine"]
+---
+
+{{< figure
+  src="/images/the-small-house-at-allington.jpg"
+  alt="Cover of The Small House at Allington by Anthony Trollope"
+  class="book"
+>}}
+
+_The Small House at Allington_ (1864) is the penultimate Chronicle of Barsetshire, although, as I shall discuss, it blends in with the others like an orange in a coal heap. The eponymous house is home to lively widow Mrs Dale and her two daughters, Lily and Bell. With only a tiny income to their name, they essentially live on the charity of Squire Dale, uncle to the girls, and occupier of the significantly larger house at Allington. The childless Squire is keen that his wealth should remain within the family and strongly urges Bell to marry her plodding and unexciting cousin Bernard. After declaring herself incapable of feeling anything beyond sisterly affection for him, the Squire asserts that young women ought to marry in accordance with familial interest, rather than their own foolish fancy. Given her financially dependent status, Bell is forced to mount a spirited defence in the face of her uncle’s grim determination.
+
+Meanwhile, Lily Dale has fallen for the dubious charms of self-seeking cad Adolphus Crosbie and accepts his marriage proposal. Worried that Lily’s simple charms might impede his progress through the ranks of high society, Crosbie allows his head to be turned by Lady Alexandrina de Courcy, a penniless and asinine minor aristocrat, who has nothing to commend her beyond her title. When his marriage proposal is accepted, he quickly drops the distraught Lily, who falls into a protracted decline.
+
+John Eames, a young hobbledehoy who has been in love with Lily for some time, defends her honour by blacking Crosbie’s eye. Eames has already got himself into a pickle by foolishly proposing to his landlady’s petulant daughter, Amelia, and then hastily attempting to retract it. In a series of comic scenes, he endeavours to extricate himself from impending marital doom and win the heart of Lily. Crosbie is left in the meantime  to repent at leisure of his improvident marriage.
+
+Lily Dale is often cited as Trollope’s most popular heroine, but I found it quite difficult to see her appeal. She plunges herself into “perpetual widowhood” for a man who is entirely without merit and considers herself legally bound to him. I wondered whether their relationship had been consummated, and she therefore felt unable to give herself to another man. The assertion of her right to remain unmarried is laudable, but it is only because she is denied the opportunity of wifely servitude to an unworthy cad. Her love for Crosbie is entirely inexplicable, and I think Trollope could have endowed him with at least a few redeeming features to make Lily’s adoration plausible. Yes, he’s good-looking, but as we all know, handsome is as handsome does. Lily’s bright humour barely conceals an underlying mania, and when she starts seeing patterns moving on the wall, I immediately thought of Charlotte Perkins Gilman’s _The Yellow Wallpaper_ and felt uneasy. She retreats into reading novels and eschewing reality: “Real life sometimes is so painful”. Her prolonged self-flagellation is uncomfortable to read – she insists on knowing the date of Crosbie’s wedding, as though desperate to acquire the status of Miss Haversham.
+
+For me, Bell Dale was the heroine of the story, with Mrs Dale earning the Oscar for Best Supporting Heroine. Bell refuses to be coerced into a convenient, but loveless marriage, pointing out the specious nature of the arguments in favour of such a match:
+
+>“How I do hate those words, ‘an excellent marriage’. In them is contained more of wicked worldliness than any other words that one ever hears spoken. You want me to marry my cousin simply because I should have a great house to live in, and a coach.”
+
+She is interested in wealth only if she is able to earn it, an attitude that sets her clearly apart from her peers, who aspire to unearned income above all else. Mrs Dale, although keen that her daughter should enjoy a comfortable life, believes above all that she should be both happy and true to herself, an uncommon attitude among mothers in Victorian fiction.
+
+The character of Johnny Eames is thought to be based on the young Trollope, which would account for the author’s indulgence in forgiving his erratic approach to life. Trollope forgives indiscretions in men who have yet to reach maturity, but demands nothing less than condign punishment for those who ought to know better. In this instance, Adolphus Crosbie is held up as an example of irredeemable fecklessness, and is made to suffer by an alliance with the repellent de Courcys:
+
+>This was the family for whose sake Crosbie had jilted Lily Dale! His single and simple ambition had been that of being an earl’s son-in-law. To achieve that it had been necessary that he should make himself a villain. In achieving it he had gone through all manner of dirt and disgrace. He had married a woman whom he knew he did not love.
+
+_The Small House at Allington_ owes much of its darkness to the story of Crosbie, aligning the novel more closely with the cynicism of [_The Way We Live Now_](/posts/the-way-we-live-now/) than with the light comedy of [_Barchester Towers_](/posts/barchester-towers/). The majority of the action takes place outside Barsetshire, and the modern social world within the heaving metropolis lacks the bucolic charms of the earlier chronicles. The excellent introduction to the edition pictured actually reveals that Trollope himself did not consider the novel part of the Barsetshire series, but his publisher insisted on its inclusion. If anything, it could be seen as a prelude to the Pallisers, as it is here that we are introduced to a gauche young Plantagenet Palliser, who steals the show by desperately trying to acquire a personality through openly (and inexpertly) flirting with a married woman. Having finally got her to himself, he can think of nothing to discuss other than sugar duties, which, unsurprisingly, is an ineffectual aphrodisiac. Fortunately, he is saved from further embarrassment by the timely arrival of a certain Lady Glencora McCluskie, who is unwisely drawn to ne’er-do-well Burgo Fitzgerald. Having piqued the reader’s interest with the sub-plot, Trollope was moved to start writing [_Can You Forgive Her?_](/posts/can-you-forgive-her/) six months later.
+
+Modern critics appear divided on the merits of the novel, but contemporary readers loved it. The Small House at Allington was serialised in Cornhill Magazine between September 1862 and April 1864, becoming like a soap opera, with readers earnestly imploring Trollope to confer happiness upon Lily as the story developed. Trollope wrote in his Autobiography: “In the love with which she has been greeted I have hardly joined with much enthusiasm, feeling that she is somewhat of a female prig”. He went on to say that it was probably her misery that the readers found so attractive.
+
+Although I found moments of greatness and delicious wit in _The Small House at Allington_, overall I think it suffers from a lack of direction and pace. Trollope couldn’t decide whether he was writing comedy or tragedy, and the two styles co-exist uneasily. Despite my ambivalence, on completion I immediately reached for [_The Last Chronicle of Barset_](/posts/the-last-chronicle-of-barset/), desperate to find out what happens next.
+
+_The Small House at Allington_ by Anthony Trollope
