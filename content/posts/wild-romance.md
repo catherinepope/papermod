@@ -1,7 +1,7 @@
 ---
 date: "2011-01-02T09:15:10+01:00"
 draft: false
-title: "Wild Romance: The True Story of a Victorian Scandal"
+title: "Wild Romance: The True Story of a Victorian Scandal by Chloe Schama"
 tags: ["Victorian"]
 categories: ["Books"]
 description: "A review of Chloe Schama's 'Wild Romance,' telling the story of the 1861 Yelverton bigamy case that scandalized Victorian society. Discover how Theresa Longworth fought Captain William Yelverton through English, Irish, and Scottish courts to claim her status as his wife."

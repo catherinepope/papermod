@@ -1,7 +1,7 @@
 ---
 date: "2013-04-25T11:38:01+01:00"
 draft: false
-title: "Capturing the Light: The Birth of Photography"
+title: "Capturing the Light: The Birth of Photography by Helen Rappaport and Roger Watson"
 tags: ["Victorian", "Helen Rappaport"]
 categories: ["Books"]
 description: "A review of Helen Rappaport and Roger Watson's 'Capturing the Light,' telling the parallel stories of Louis Daguerre and Henry Fox Talbot's race to invent photography in the 1830s. Discover how these pioneers captured light permanently on paper through rival processes."

@@ -1,7 +1,7 @@
 ---
 date: "2011-01-24T14:20:09+01:00"
 draft: false
-title: "The Invention of Murder: How the Victorians Revelled in Death and Detection and Created Modern Crime"
+title: "The Invention of Murder: How the Victorians Revelled in Death and Detection and Created Modern Crime by Judith Flanders"
 tags: ["Victorian"]
 categories: ["Books"]
 description: "A review of Judith Flanders' 'The Invention of Murder,' exploring how Victorians transformed crime into entertainment through newspapers, novels, and public spectacles. Discover the cultural obsession with murder that created modern crime fiction and popular culture."

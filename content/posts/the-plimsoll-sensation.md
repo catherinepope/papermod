@@ -1,7 +1,7 @@
 ---
 date: "2009-08-17T10:53:46+01:00"
 draft: false
-title: "The Plimsoll Sensation: The Great Campaign to Save Lives at Sea"
+title: "The Plimsoll Sensation: The Great Campaign to Save Lives at Sea by Nicolette Jones"
 tags: ["Victorian", "biography"]
 categories: ["Books"]
 description: "A review of Nicolette Jones' biography of Samuel Plimsoll MP (1824-1898), the Victorian campaigner who created the Plimsoll Line to prevent 'coffin-ships.' Discover how this whistle-blower spent 20 years fighting ruthless shipowners to save sailors' lives."

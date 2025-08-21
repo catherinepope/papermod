@@ -1,7 +1,7 @@
 ---
 date: "2014-03-23T16:43:28+01:00"
 draft: false
-title: "Did She Kill Him? A Victorian Tale of Deception, Adultery and Arsenic"
+title: "Did She Kill Him? A Victorian Tale of Deception, Adultery and Arsenic by Kate Colquhoun"
 tags: ["Victorian", "Kate Colquhoun"]
 categories: ["Books"]
 description: "A review of Kate Colquhoun's 'Did She Kill Him?,' examining the 1889 trial of Florence Maybrick, accused of poisoning her husband with arsenic. Discover this Victorian cause célèbre that divided public opinion and exposed the precarious position of unfaithful wives."

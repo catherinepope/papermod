@@ -1,7 +1,7 @@
 ---
 date: "2013-05-20T11:24:45+01:00"
 draft: false
-title: "Fanny and Stella: The Young Men Who Shocked Victorian England"
+title: "Fanny and Stella: The Young Men Who Shocked Victorian England by Neil McKenna"
 tags: ["Victorian"]
 categories: ["Books"]
 description: "A review of Neil McKenna's 'Fanny and Stella,' chronicling the scandalous 1870 trial of Frederick Park and Ernest Boulton, two young clerks arrested for cross-dressing in Victorian London. Discover how their case exposed Victorian hypocrisy and bigotry."

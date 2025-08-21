@@ -1,7 +1,7 @@
 ---
 date: "2012-08-03T16:09:59+01:00"
 draft: false
-title: "Effie: The Passionate Lives of Effie Gray, Ruskin and Millais"
+title: "Effie: The Passionate Lives of Effie Gray, Ruskin and Millais by Suzanne Fagence Cooper"
 tags: ["Victorian", "biography"]
 categories: ["Books"]
 description: "A review of Suzanne Fagence Cooper's 'Effie: The Passionate Lives of Effie Gray, Ruskin and Millais,' revealing the true story behind Effie's unconsummated marriage to John Ruskin and subsequent happiness with Pre-Raphaelite artist John Millais."

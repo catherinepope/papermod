@@ -1,7 +1,7 @@
 ---
 date: "2013-09-09T09:53:54+01:00"
 draft: false
-title: "The Alice Behind Wonderland"
+title: "The Alice Behind Wonderland by Simon Winchester"
 tags: ["Victorian"]
 categories: ["Books"]
 description: "A review of Simon Winchester's 'The Alice Behind Wonderland,' examining Charles Dodgson's photography career and the controversial 1858 photograph of Alice Liddell. Discover how Winchester addresses allegations against Lewis Carroll with sensitivity and historical context."

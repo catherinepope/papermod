@@ -1,7 +1,7 @@
 ---
 date: "2013-05-09T11:31:32+01:00"
 draft: false
-title: "Inconvenient People: Lunacy, Liberty and the Mad-Doctors in Victorian England"
+title: "Inconvenient People: Lunacy, Liberty and the Mad-Doctors in Victorian England by Sarah Wise"
 tags: ["Victorian"]
 categories: ["Books"]
 description: "A review of Sarah Wise's 'Inconvenient People,' revealing how Victorian men were more likely than women to be wrongfully confined in asylums. Discover shocking case studies including Rosina Bulwer-Lytton and how 'madness' was often used to silence inconvenient relatives."

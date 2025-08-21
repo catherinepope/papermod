@@ -1,7 +1,7 @@
 ---
 date: "2015-02-14T11:59:51+01:00"
 draft: false
-title: "Life in the Victorian Asylum: The World of Nineteenth-Century Mental Health Care"
+title: "Life in the Victorian Asylum: The World of Nineteenth-Century Mental Health Care by Mark Stevens"
 tags: ["Victorian"]
 categories: ["Books"]
 description: "A review of Mark Stevens' 'Life in the Victorian Asylum,' offering a fresh perspective on 19th-century mental health care. Discover how these institutions provided sanctuary and treatment based on compassion rather than punishment, challenging modern misconceptions."

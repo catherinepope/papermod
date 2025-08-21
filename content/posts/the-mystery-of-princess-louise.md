@@ -1,7 +1,7 @@
 ---
 date: "2014-03-16T11:51:22+01:00"
 draft: false
-title: "The Mystery of Princess Louise: Queen Victoria’s Rebellious Daughter"
+title: "The Mystery of Princess Louise: Queen Victoria’s Rebellious Daughter by Lucinda Hawksley"
 tags: ["Victorian", "Queen Victoria", "biography"]
 categories: ["Books"]
 description: "A review of Lucinda Hawksley's 'The Mystery of Princess Louise,' exploring Queen Victoria's rebellious daughter who smoked, cycled, and championed feminism. Discover the scandals surrounding her alleged illegitimate child and affair with sculptor Edgar Boehm."

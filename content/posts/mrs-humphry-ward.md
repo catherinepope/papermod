@@ -1,7 +1,7 @@
 ---
 date: "2009-04-16T08:27:53+01:00"
 draft: false
-title: "Mrs Humphry Ward"
+title: "Mrs Humphry Ward: Eminent Victorian, Pre-Eminent Edwardian by John Sutherland"
 tags: ["Victorian", "biography"]
 categories: ["Books"]
 description: "A review of John Sutherland's biography of Mary Augusta Ward (Mrs Humphry Ward), the bestselling Victorian novelist who wrote 'Robert Elsmere' and campaigned against women's suffrage. Discover the contradictions of this Arnold family member who championed education while opposing votes for women."

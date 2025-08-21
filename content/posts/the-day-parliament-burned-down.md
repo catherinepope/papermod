@@ -1,7 +1,7 @@
 ---
 date: "2012-12-16T09:33:56+01:00"
 draft: false
-title: "The Day Parliament Burned Down"
+title: "The Day Parliament Burned Down by Caroline Shenton"
 tags: ["Georgian"]
 categories: ["Books"]
 description: "A review of Caroline Shenton's 'The Day Parliament Burned Down,' recounting the spectacular fire that destroyed the Palace of Westminster on October 16, 1834. Discover how bureaucratic incompetence succeeded where Guy Fawkes had failed."

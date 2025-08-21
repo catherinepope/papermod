@@ -1,7 +1,7 @@
 ---
 date: "2012-07-31T16:16:14+01:00"
 draft: false
-title: "Mr Briggs' Hat: A Sensational Account of Britain's First Railway Murder"
+title: "Mr Briggs' Hat: A Sensational Account of Britain's First Railway Murder by Kate Colquhoun"
 tags: ["Victorian", "Kate Colquhoun"]
 categories: ["Books"]
 description: "A review of Kate Colquhoun's 'Mr Briggs' Hat,' chronicling the first murder on a British train in 1864. Discover how Thomas Briggs' death sparked terror among Victorian commuters and led to the trial of German tailor Franz Müller."

@@ -1,7 +1,7 @@
 ---
 date: "2010-12-20T10:41:40+01:00"
 draft: false
-title: "Love Well the Hour: The Life of Lady Colin Campbell"
+title: "Love Well the Hour: The Life of Lady Colin Campbell by Anne Jordan"
 tags: ["Victorian", "biography"]
 categories: ["Books"]
 description: "A review of Anne Jordan's 'Love Well the Hour: The Life of Lady Colin Campbell,' exploring Gertrude Campbell's career after her sensational 1886 divorce case. Discover how this pioneering woman defied Victorian convention to forge an independent life as a journalist and writer."

@@ -1,7 +1,7 @@
 ---
 date: "2012-11-18T09:40:43+01:00"
 draft: false
-title: "The Excellent Dr Blackwell: The Life of the First Woman Physician"
+title: "The Excellent Dr Blackwell: The Life of the First Woman Physician by Julia Boyd"
 tags: ["Victorian", "biography"]
 categories: ["Books"]
 description: "A review of Julia Boyd's 'The Excellent Doctor Blackwell,' chronicling Elizabeth Blackwell's journey to become the first woman doctor registered in Britain. Discover how this pioneer overcame hostility and physical injury to transform medicine for women."

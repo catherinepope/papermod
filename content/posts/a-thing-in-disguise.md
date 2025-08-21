@@ -1,7 +1,7 @@
 ---
 date: "2012-07-23T16:35:05+01:00"
 draft: false
-title: "A Thing in Disguise: The Visionary Life of Joseph Paxton"
+title: "A Thing in Disguise: The Visionary Life of Joseph Paxton by Kate Colquhoun"
 tags: ["Victorian", "biography", "Kate Colquhoun"]
 categories: ["Books"]
 description: "A review of Kate Colquhoun's 'A Thing in Disguise: The Visionary Life of Joseph Paxton,' exploring how a poor farmer's son became the architect of the Crystal Palace. Discover Paxton's rise from gardener to the Duke of Devonshire to Victorian engineering icon."

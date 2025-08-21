@@ -1,7 +1,7 @@
 ---
 date: "2012-05-20T16:52:24+01:00"
 draft: false
-title: "The Woman Who Saved the Children: A Biography of Eglantyne Jebb"
+title: "The Woman Who Saved the Children: A Biography of Eglantyne Jebb by Clare Mulley"
 tags: ["Victorian", "Edwardian", "biography"]
 categories: ["Books"]
 description: "A review of Clare Mulley's biography of Eglantyne Jebb, founder of Save the Children who ironically called infants 'little wretches.' Discover how this complex woman overcame heartbreak and ill health to save millions of children worldwide despite disliking them personally."

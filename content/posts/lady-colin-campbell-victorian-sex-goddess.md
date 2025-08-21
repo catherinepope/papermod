@@ -1,7 +1,7 @@
 ---
 date: "2009-06-12T14:25:40+01:00"
 draft: false
-title: "Lady Colin Campbell: Victorian Sex Goddess"
+title: "Lady Colin Campbell: Victorian Sex Goddess by G H Fleming"
 tags: ["Victorian", "biography"]
 categories: ["Books"]
 description: "A review of G H Fleming's 'Lady Colin Campbell: Victorian Sex Goddess,' exploring one of British legal history's most dramatic divorce cases. Discover how Gertrude Blood fought her syphilis-raddled husband in court and pioneered women's rights in 1886."

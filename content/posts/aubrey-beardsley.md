@@ -1,7 +1,7 @@
 ---
 date: "2009-04-24T14:38:24+01:00"
 draft: false
-title: "Aubrey Beardsley"
+title: "Aubrey Beardsley by Matthew Sturgis"
 tags: ["Victorian", "Biography"]
 category: "Books"
 description: "A review of Matthew Sturgis' biography of Aubrey Beardsley (1872-1898), exploring the decadent artist's brief but influential life. From his Brighton schooldays to The Yellow Book and his controversial link to Oscar Wilde, this lavishly illustrated biography captures how Beardsley became a defining figure of the Fin de Siècle movement."

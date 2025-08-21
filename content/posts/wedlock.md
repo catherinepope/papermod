@@ -1,7 +1,7 @@
 ---
 date: "2012-01-01T15:22:29+01:00"
 draft: false
-title: "Wedlock: How Georgian Britain’s Worst Husband Met His Match"
+title: "Wedlock: How Georgian Britain’s Worst Husband Met His Match by Wendy Moore"
 tags: ["Georgian", "Wendy Moore"]
 categories: ["Books"]
 description: "A review of Wendy Moore's 'Wedlock,' telling the story of Mary Eleanor Bowes and her abusive marriage to Andrew Robinson Stoney, 18th-century Britain's 'worst husband.' Discover how this wealthy heiress fought back and influenced women's rights legislation."

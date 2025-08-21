@@ -1,7 +1,7 @@
 ---
 date: "2011-02-13T14:11:08+01:00"
 draft: false
-title: "Madame Tussaud and the History of Waxworks"
+title: "Madame Tussaud and the History of Waxworks by Pamela Pilbeam"
 tags: ["Victorian", "biography"]
 categories: ["Books"]
 description: "A review of Pamela Pilbeam's 'Madame Tussaud and the History of Waxworks,' exploring Marie Tussaud's journey from modeling Terror victims in Revolutionary France to creating London's most famous wax museum. Discover the extraordinary businesswoman behind the tourist attraction."

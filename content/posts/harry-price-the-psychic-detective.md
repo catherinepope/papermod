@@ -1,7 +1,7 @@
 ---
 date: "2008-12-04"
 draft: false
-title: "Harry Price the Psychic Detective"
+title: "Harry Price the Psychic Detective by Richard Morris"
 categories: ["Books"]
 tags: ["Victorian", "biography"]
 description: "A review of Richard Morris' biography 'Harry Price: The Psychic Detective,' revealing how the famous ghost investigator was often responsible for the phenomena he claimed to debunk. Discover the darker side of this charlatan showman who fooled the public while chasing recognition."

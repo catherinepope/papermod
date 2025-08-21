@@ -1,0 +1,33 @@
+---
+date: "2010-12-17T15:13:00+01:00"
+draft: false
+title: "The Wing of Azrael by Mona Caird"
+tags: ["Victorian", "fiction"]
+categories: ["Books"]
+description: "A review of Mona Caird's 1889 novel 'The Wing of Azrael,' following Viola Sedley's forced marriage to the sadistic Sir Philip Dendraith. Discover this powerful New Woman novel that explores marital tyranny and psychological abuse with shocking intensity."
+keywords: ["Mona Caird", "The Wing of Azrael", "1889 literature", "New Woman novel", "Viola Sedley", "marital abuse", "forced marriage", "psychological cruelty", "marriage debate", "feminist fiction"]
+---
+
+{{< figure
+  src="/images/the-wing-of-azrael.jpg"
+  alt="Cover of The Wing of Azrael by Mona Caird"
+  class="book"
+>}}
+
+Mona Caird is best known for her 1888 article “Marriage”, in which she argued that the venerable institution was a “vexatious failure”. A reactionary retaliation in the _Daily Telegraph_ prompted 27,000 letters, with many of the correspondents agreeing with Caird’s gloomy assessment. The ensuing debate, “Is Marriage a Failure?”, captured the imagination of the public, spawning a book, an automaton, and a card game. _The Wing of Azrael_ (1889) was published in the following year, and the novel was judged very much in terms of the author’s polemical writings. With this in mind, Caird included a preface in which she attempted to establish a clear demarcation between the two, writing: “however much this book may be thought to deal with the question so much discussed, there is no intention on the writer’s part to make it serve a polemical ‘purpose’ or to advocate a cause. Its object is not to contest or argue, but to represent.” Notwithstanding Caird’s intention, _The Wing of Azrael_ is incontrovertibly a novel with a purpose, but it is, nonetheless, a fine example of the form.
+
+The novel tells the story of spirited Viola Sedley, who is promised at an early age to the cruel and sadistic Sir Philip Dendraith. Although in love with another man, Viola is forced to do her duty to her family in order to avert their financial ruin. Her father and brothers have run up large debts and are relying on Sir Philip’s vast wealth to save them. Initially resigned to her fate, Viola soon discovers that marriage to a tyrant is intolerable. Denied the right to any identity of her own, she valiantly struggles to assert her selfhood, culminating in a dramatic and memorable conclusion.
+
+Viola’s circumscribed upbringing is vividly portrayed.  There is no option for her other than to marry, and to do so for family advantage, rather than in accordance with her own wishes. Her father tells her that a daughter who will not marry is a “dead weight”, a “DAMNED NUISANCE”, and a figure to be scorned and derided. Although her worthlessness as a woman is constantly reiterated, her marriage to Sir Philip is her family’s salvation, effectively saving them from the workhouse. Viola desperately tries to cancel her engagement after witnessing her future husband’s extreme brutality towards animals, but her mother won’t even entertain the idea, caring more for what the neighbours might think than for the happiness and potential safety of her daughter.
+
+Mrs Sedley has continually indulged her own husband’s tyrannical behaviour, thus providing Viola with a model of self-abnegation and martyrdom. Her sense of self completely destroyed, Viola agrees to go ahead with the marriage, although she makes it clear to Sir Philip that she is an “unwilling bride”. Sir Philip subsequently delights in the challenge of taming her and achieving her complete subjugation.  Although physical violence is only ever threatened and not actioned, he inflicts appalling mental cruelty upon his young wife. Twenty years earlier, Anthony Trollope showed in [_He Knew He Was Right_](/posts/he-knew-he-was-right/) and [_Phineas Redux_](/posts/phineas-redux/) that psychological abuse also constituted marital violence, but Caird creates a monster far surpassing both Louis Trevelyan and Robert Kennedy.
+
+Having only her mother’s example to follow, Viola is initially unaware that her husband’s behaviour is unacceptable. The arrival of Mrs Sibella Lincoln, a woman separated from her husband, opens her eyes to the reality of the situation. Mrs Lincoln is generally regarded as a disruptive influence in the community, offering a bad example to its women. Sir Philip warns Viola that associating with the newcomer will cause her to lose her bloom. Mrs Lincoln is ostensibly Caird’s mouthpiece, counselling Viola (and the female reader) that she doesn’t have to tolerate abuse, and calling for a mutually supportive sisterhood.
+
+There are many similarities between _The Wing of Azrael_ and Sarah Grand’s [_The Beth Book_](/posts/the-beth-book/). Both Beth and Viola enter their marriages in an almost somnambulant state and are subsequently spurred into action by the outrageous acts perpetrated by their husbands. _The Wing of Azrael_, however, lacks Madame Grand’s deliciously acerbic humour and optimistic conclusion. The eponymous Azrael is the Angel of Death, and he casts a dark shadow over the novel. Caird makes no concessions to the potentially delicate sensibilities of her readers, or to the common desire for a happy ending.
+
+The novel does in places incline towards the melodramatic, but it is tightly plotted and grips the reader throughout, building the tension to an almost unbearable pitch.  I must confess to having struggled with Caird’s _The Daughters of Danaus_, collapsing under its literal and metaphorical weightiness. _The Wing of Azrael_ is infinitely superior in terms of narrative, and, I think, one of the best novels of the period. Whereas many New Woman novels haven’t stood the test of time, _The Wing of Azrael_ is eminently readable and also retains its ability to shock.
+
+Tracey Rosenberg contributes a thoughtful introduction, comparing the novel with Caird’s other writings on marriage, and considering her claim to be non-polemical. Rosenberg also explains the literary constraints operating upon Caird, who was obliged to produce work in the three-decker format (possibly explaining the melodramatic interludes). The illuminating appendices include contemporary reviews and extracts from the debate prompted by Caird’s “Marriage” article.  I’m delighted that [Valancourt Books](https://www.valancourtbooks.com) have made it possible for modern readers to appreciate this unjustly forgotten novel and also the power of Caird’s writing.
+
+[_The Wing of Azrael_](https://www.valancourtbooks.com/the-wing-of-azrael-1889.html) by Mona Caird

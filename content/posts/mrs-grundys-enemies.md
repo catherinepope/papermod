@@ -1,7 +1,7 @@
 ---
 date: "2015-03-08T09:37:49+01:00"
 draft: false
-title: "Mrs Grundy's Enemies: Censorship, Realist Fiction and the Politics of Sexual Representation"
+title: "Mrs Grundy's Enemies: Censorship, Realist Fiction and the Politics of Sexual Representation by Anthony Patterson"
 tags: ["Victorian", "George Moore", "George Gissing"]
 categories: ["Books"]
 description: "A review of Anthony Patterson's 'Mrs Grundy's Enemies,' examining how Victorian censorship shaped literature through authors like Zola, George Moore, and George Egerton. Discover how realist writers challenged moral standards while often reinforcing gender hierarchies."

@@ -1,7 +1,7 @@
 ---
 date: "2012-07-27T16:28:53+01:00"
 draft: false
-title: "Into the Frame: The Four Loves of Ford Madox Brown"
+title: "Into the Frame: The Four Loves of Ford Madox Brown by Angela Thirlwell"
 tags: ["Victorian", "biography"]
 categories: ["Books"]
 description: "A review of Angela Thirlwell's 'Into the Frame: The Four Loves of Ford Madox Brown,' exploring the Pre-Raphaelite artist through his relationships with wives Elisabeth and Emma, pupil Marie Spartali, and writer Mathilde Blind. Discover the man behind 'The Last of England.'"

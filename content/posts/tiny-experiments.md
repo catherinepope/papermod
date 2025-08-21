@@ -1,7 +1,7 @@
 ---
 date: "2025-03-02T17:05:47+01:00"
 draft: false
-title: "Tiny Experiments"
+title: "Tiny Experiments by Anne-Laure Le Cunff"
 tags: ["learning"]
 categories: ["Books"] 
 description: "Discover how Anne-Laure Le Cunff's 'Tiny Experiments' approach can help you achieve goals through small, manageable tests rather than overwhelming five-year plans. Learn about experimenting with money emotions and creative writing for personal insights."

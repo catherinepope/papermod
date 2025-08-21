@@ -1,7 +1,7 @@
 ---
 date: "2013-03-08T09:01:59+01:00"
 draft: false
-title: "No Place for Ladies: The Untold Story of Women in the Crimean War"
+title: "No Place for Ladies: The Untold Story of Women in the Crimean War by Helen Rappaport"
 tags: ["Victorian", "biography", "Helen Rappaport"]
 categories: ["Books"]
 description: "A review of Helen Rappaport's book on the forgotten women of the Crimean War, highlighting Mary Seacole's remarkable contribution alongside Florence Nightingale and Fanny Duberly. Discover how these brave women challenged racism and convention to serve on the battlefield."

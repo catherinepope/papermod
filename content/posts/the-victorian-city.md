@@ -1,7 +1,7 @@
 ---
 date: "2012-12-18T09:27:01+01:00"
 draft: false
-title: "The Victorian City: Everyday Life in Dickens’ London"
+title: "The Victorian City: Everyday Life in Dickens’ London by Judith Flanders"
 tags: ["Victorian"]
 categories: ["Books"]
 description: "A review of Judith Flanders' 'The Victorian City: Everyday Life in Dickens' London,' exploring the sights, sounds, and smells of 19th-century London. Discover how Dickens and other contemporary observers chronicled life in the rapidly growing metropolis."

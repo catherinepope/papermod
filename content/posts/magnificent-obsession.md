@@ -1,7 +1,7 @@
 ---
 date: "2011-12-14T15:36:21+01:00"
 draft: false
-title: "Magnificent Obsession: Victoria, Albert and the Death that Changed the Monarchy"
+title: "Magnificent Obsession: Victoria, Albert and the Death that Changed the Monarchy by Helen Rappaport"
 tags: ["Victorian", "biography", "Queen Victoria", "Helen Rappaport"]
 categories: ["Books"]
 description: "A review of Helen Rappaport's 'Magnificent Obsession,' exploring how Prince Albert's death in 1861 transformed Queen Victoria into the grieving Widow of Windsor. Discover how Victoria's prolonged mourning shaped the monarchy and grief rituals."
