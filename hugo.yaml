@@ -116,7 +116,7 @@ menu:
       weight: 25
     
     - identifier: contact
-      name: "Contact Me"
+      name: "Contact"
       url: /contact/
       weight: 45
 
