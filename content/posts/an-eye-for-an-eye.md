@@ -1,6 +1,6 @@
 ---
 date: "2011-01-31T10:08:28+01:00"
-draft: true
+draft: false
 title: "An Eye for an Eye by Anthony Trollope"
 tags: ["Victorian", "fiction", "Anthony Trollope"]
 categories: ["Books"]
