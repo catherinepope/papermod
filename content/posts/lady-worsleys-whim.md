@@ -2,7 +2,7 @@
 date: "2012-01-25T08:53:53+01:00"
 draft: false
 title: "Lady Worsley's Whim: An Eighteenth-Century Tale of Sex, Scandal and Divorce by Hallie Rubenhold"
-tags: ["Georgian", "tag2", "tag3"]
+tags: ["Georgian"]
 categories: ["Books"]
 description: "A review of Hallie Rubenhold's 'Lady Worsley's Whim,' recounting the scandalous 1782 crim-con trial where Sir Richard Worsley sued his wife's lover for £20,000. Discover how Lady Worsley's courage to defy her voyeuristic husband changed her from victim to survivor."
 keywords: ["Hallie Rubenhold", "Lady Worsley's Whim", "crim-con trial", "1782 scandal", "Georgian scandal", "adultery trial", "women's rights", "Georgian society", "criminal conversation", "Sir Richard Worsley"]
