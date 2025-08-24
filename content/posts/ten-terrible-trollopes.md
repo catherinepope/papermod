@@ -1,6 +1,6 @@
 ---
 date: "2012-01-10T11:45:28+01:00"
-draft: true
+draft: false
 title: "Ten Terrible Trollopes"
 tags: ["Victorian", "fiction", "Anthony Trollope"]
 categories: ["Books"]
