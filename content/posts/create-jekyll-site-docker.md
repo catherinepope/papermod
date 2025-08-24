@@ -14,6 +14,8 @@ Although it only takes a minute to create a Jekyll site, you could easily spend 
 
 In this post, I'll show you how to create a Jekyll site in three steps, using the free Docker Community Edition and Bret Fisher's images. 
 
+If you want to [use Docker to preview an _existing_ Jekyll site](/posts/previewing-jekyll-docker), take a look at my other tutorial.
+
 ## Step 1: Install Docker
 
 First, you'll need Docker installed on your local machine. [Docker Community Edition](https://docs.docker.com/get-docker/) is free, and straightforward to install.
