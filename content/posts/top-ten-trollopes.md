@@ -8,7 +8,7 @@ description: "A curated list of the ten best Anthony Trollope novels from someon
 keywords: ["Anthony Trollope", "best Trollope novels", "Trollope Challenge", "Can You Forgive Her", "The Way We Live Now", "Barchester Towers", "John Caldigate", "Nina Balatka", "top ten list", "Victorian literature"]
 ---
 
-A comment from a fellow Trollope enthusiast has prompted me to post an update on [the Trollope Challenge](/the-trollope-challenge/). I finished my 47th and final novel in November last year, although was too frantically busy to write any reviews. Anyway, the experience was a Mixed Bag, although immensely enjoyable. Trollope was an extremely varied writer, both in terms of subject matter and quality. With the emphasis invariably on the Palliser novels and Barsetshire Chronicles, it’s easy to forget that he was a great experimenter in style and setting.
+A comment from a fellow Trollope enthusiast has prompted me to post an update on [the Trollope Challenge](/posts/the-trollope-challenge/). I finished my 47th and final novel in November last year, although was too frantically busy to write any reviews. Anyway, the experience was a Mixed Bag, although immensely enjoyable. Trollope was an extremely varied writer, both in terms of subject matter and quality. With the emphasis invariably on the Palliser novels and Barsetshire Chronicles, it’s easy to forget that he was a great experimenter in style and setting.
 
 I’ve chosen below, in no particular order, my favourite Trollope novels. They’re not always necessarily the best-written, but those that most piqued my interest. All of them are a good read, however, showcasing Trollope’s considerable creative talents.
 
