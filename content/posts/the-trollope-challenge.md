@@ -45,7 +45,7 @@ Here’s the current tally:
 31. [The Last Chronicle of Barset](../the-last-chronicle-of-barset/)
 32. [Marion Fay](../marion-fay/)
 33. [Mr Scarborough’s Family](../mr-scarboroughs-family/)
-34. [Nina Balatka](../nina-balakta/)
+34. [Nina Balatka](../nina-balatka/)
 35. [Sir Harry Hotspur of Humblethwaite](../sir-harry-hotspur-of-humblethwaite/)
 36. [Harry Heathcote of Gangoil](../harry-heathcote-of-gangoil/)
 37. [The Struggles of Brown, Jones and Robinson](../the-struggles-of-brown-jones-and-robinson/)

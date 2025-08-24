@@ -65,11 +65,11 @@ In this extraordinary novel, Trollope examines the issue of a man’s right to a
 
 The plot is engaging and surprising, with the denouement involving a postage stamp. Yes, really.
 
-## [Nina Balakta](/posts/nina-balakta/)
+## [Nina Balatka](/posts/nina-balatka/)
 
-Published anonymously, _Nina Balakta_ is one of Trollope’s least-known works. It is also one of his most beautiful. Trollope wrote his story after a visit to Prague, in what was then Bohemia. The city was a hotbed of racial tension between Jews and Christians, and the problem there was much greater than in other parts of Europe.
+Published anonymously, _Nina Balatka_ is one of Trollope’s least-known works. It is also one of his most beautiful. Trollope wrote his story after a visit to Prague, in what was then Bohemia. The city was a hotbed of racial tension between Jews and Christians, and the problem there was much greater than in other parts of Europe.
 
-Nina Balakta is the daughter of an impoverished and sickly merchant. The family’s fortunes rely on her making a good marriage, and it seems as though their future is secured when Nina’s cousin, the charmless Karil Zamenoy, asks for her hand in marriage. Much to her Aunt Sophie’s disgust, Nina declares herself to be in love with Anton Trendellsohn, a wealthy Jewish merchant whose father owns the house in which they live. Much conflict and emotion ensues.
+Nina Balatka is the daughter of an impoverished and sickly merchant. The family’s fortunes rely on her making a good marriage, and it seems as though their future is secured when Nina’s cousin, the charmless Karil Zamenoy, asks for her hand in marriage. Much to her Aunt Sophie’s disgust, Nina declares herself to be in love with Anton Trendellsohn, a wealthy Jewish merchant whose father owns the house in which they live. Much conflict and emotion ensues.
 
 A thoroughly enjoyable, if at times heart-breaking, Bohemian rhapsody.
 
