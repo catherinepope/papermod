@@ -21,7 +21,7 @@ Here’s the current tally:
 7. [Lady Anna](../lady-anna/)
 8. [Is He Popenjoy?](../is-he-popenjoy/)
 9. [Rachel Ray](../rachel-ray/)
-10. Linda Tressel
+10. [Linda Tressel](../linda-tressel/)
 11. [Cousin Henry](../cousin-henry/)
 12. [The Vicar of Bullhampton](../the-vicar-of-bullhampton/)
 13. Kept in the Dark
@@ -64,4 +64,4 @@ You can discover [my favourites](../top-ten-trollopes/) and those I'd [happily n
 
 ---
 
-**UPDATE:** Revisiting this post 14 years later, I realise I didn't write up four of the novels. This is probably for the good reason that I needed to get on with my thesis (which wasn't about Trollope) 🧐 I'll pursue a much more modest challenge in 2025, re-reading and reflecting on _Linda Tressel_, _Kept in the Dark_, _Orley Farm_, and _The Three Clerks_.
+**UPDATE:** Revisiting this post 14 years later, I realise I didn't write up four of the novels. This is probably for the good reason that I needed to get on with my thesis (which wasn't about Trollope) 🧐 I'll pursue a much more modest challenge in 2025, re-reading and reflecting on [_Linda Tressel_](../linda-tressel/), _Kept in the Dark_, _Orley Farm_, and _The Three Clerks_.
