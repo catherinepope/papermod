@@ -67,10 +67,10 @@ params:
       url: mailto:me@catherinepope.com
 
 
-  editPost:
-    URL: "https://github.com/catherinepope/papermod/tree/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  # editPost:
+  #  URL: "https://github.com/catherinepope/papermod/tree/main/content"
+  #  Text: "Suggest Changes" # edit text
+  #  appendFilePath: true # to append file path to Edit link
   
   profileMode:
     enabled: true
