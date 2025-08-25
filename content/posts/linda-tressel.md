@@ -1,7 +1,7 @@
 ---
 date: "2025-08-25T14:08:20+01:00"
 draft: false
-title: "Linda Tressel"
+title: "Linda Tressel by Anthony Trollope"
 tags: ["Victorian", "fiction", "Anthony Trollope"]
 categories: ["Books"]
 description: "A review of Anthony Trollope's 1868 novel 'Linda Tressel,' his anonymous experiment set in Nuremberg featuring a young woman forced to marry her elderly lodger. Discover this psychological study of religious extremism and domestic tyranny."
