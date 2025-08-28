@@ -43,6 +43,7 @@ Linda herself is a sketchy character who Trollope fails to bring to life. The re
 _Linda Tressel_ is more psychological than plot-driven. Unlike his other novels of the period, it's mostly one scene and features just ten characters. It's quiet and pared back compared with the bustling tales of Barsetshire. Unfortunately, that gives its faults nowhere to hide. The novel reminded me of the contrast between Tom Robertson's intimate "cup and saucer" plays of the 1860s, compared with Dion Boucicault's theatrical spectacles of the 1850s. The conclusion is both disappointing and frustrating. I wish Trollope had been bolder in his experiment. Rather than offering a departure from his more successful novels, he simply transplanted a timid plot to a different setting. Happily, the companion novel [_Nina Balakta_](../nina-balatka/) is one of his best. A reminder, then, of the [importance of experiments](../saturday-morning-experiments/).
 
 _Linda Tressel_ by Anthony Trollope. Oxford World's Classics edition, with an introduction and notes by Robert Tracy
+
 ---
 
 This post is part of the [Trollope Challenge](../the-trollope-challenge/) I started back in 2011. Revisiting those posts, I realised I hadn't reviewed four of the novels. Nearly 15 years later, I'm curling up with a Trollope again.
