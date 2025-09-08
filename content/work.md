@@ -23,6 +23,8 @@ My main areas are:
 - Building sustainable writing practices.
 - Using generative AI in research and writing.
 - Project managing research.
+- Creating effective workflows with digital tools.
+- Making academic and technical concepts understandable for wider audiences.
 
 I'm also available to design and deliver bespoke training for academic or tech clients, either on Zoom or through video-based online courses. Currently, I'm unable to offer in-person training.
 
