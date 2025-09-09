@@ -1,6 +1,6 @@
 ---
 date: "2025-09-09T15:12:06+01:00"
-draft: true
+draft: false
 title: "Saying No - Resources"
 # tags: ["tag 1", "tag2", "tag3"]
 # categories: 
