@@ -1,11 +1,11 @@
 ---
 date: "2025-08-26T16:45:13+01:00"
-draft: true
-title: "Making Progress in Your Phd"
+draft: false
+title: "Making Progress in Your PhD"
 tags: ["academic", "workshops"]
 categories: ["Training"] 
-description: ""
-keywords: ["keyword 1", "keyword 2", "keyword 3"] 
+description: "Interactive workshop for mid-stage PhD students needing direction and motivation. Learn practical strategies for research, writing, time management, and wellbeing to successfully navigate to completion."
+keywords: ["PhD progress", "doctoral motivation", "PhD middle stage", "thesis completion", "PhD productivity", "doctoral wellbeing", "PhD planning", "research momentum", "PhD support", "doctoral success"]
 ---
 
 Are you part-way through your PhD and wondering how to keep going? Do you need a push to progress to the final stages? Perhaps you’re unsure what happens next or what’s expected of you. It’s common to lose a sense of direction and momentum in the tricky middle part of your doctorate.
@@ -21,7 +21,7 @@ Through activities, discussions, and tutorials, you’ll:
 - Learn tools and techniques to boost your productivity.
 - Build a support network.
 - Develop a plan for success.
-- Understand the importance of self-care.
+- Create sustains habits for maintaining wellbeing.
 
 By the end of the session, you’ll be all set for the next stage of your PhD.
 

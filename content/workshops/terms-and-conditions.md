@@ -1,6 +1,6 @@
 ---
 date: "2025-08-26T15:52:32+01:00"
-draft: true
+draft: false
 title: "Working Bookings - Terms and Conditions"
 tags: ["tag 1", "tag2", "tag3"]
 description: ""

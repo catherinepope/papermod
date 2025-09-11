@@ -1,11 +1,11 @@
 ---
 date: "2025-08-26T16:58:30+01:00"
-draft: true
+draft: false
 title: "Streamlining Your Academic Writing with AI"
 tags: ["academic", "workshops"]
 categories: ["Training"] 
-description: ""
-keywords: ["keyword 1", "keyword 2", "keyword 3"] 
+description: "Interactive workshop on using AI tools to enhance academic writing. Learn to evaluate AI writing tools, overcome writer's block, improve clarity and flow while maintaining your academic voice and using AI responsibly."
+keywords: ["AI writing tools", "academic writing", "AI for academics", "writing productivity", "AI ethics", "academic AI", "writing assistance", "scholarly writing", "AI integration", "writing workshop"]
 ---
 
 In this interactive session, you’ll discover how AI-powered tools can help you write faster, improve clarity, and streamline your process. From grammar and style enhancements to structural organisation, you’ll explore a wealth of possibilities. 
@@ -22,11 +22,10 @@ You’ll also get the opportunity to try out the tools in a supportive environme
 
 By the end of the session, you’ll have: 
 
-- Explored some of the most useful AI-powered writing tools.
-- Understood the challenges and limitations of AI tools.
-- Considered strategies for critically evaluating AI-generated search results.
-- Discussed responsible and transparent use of AI tools in academic research. 
-- Developed a plan for integrating AI-powered tools into your existing workflow. 
+- Identified AI tools and techniques specifically designed for academic writing enhancement.
+- Developed strategies for using AI to overcome writer's block and generate ideas.
+- Learned approaches for improving clarity and flow while maintaining your own scholarly voice.
+- Understood how to responsibly integrate AI assistance into your writing workflow.
 
 This session can be adapted to conform to institutional policies, if the relevant information is provided at time of booking.
 

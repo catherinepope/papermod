@@ -1,14 +1,14 @@
 ---
 date: "2025-08-26T16:36:31+01:00"
-draft: true
+draft: false
 title: "Developing a Narrative CV"
 tags: ["academic", "workshops"]
 categories: ["Training"] 
-description: ""
-keywords: ["keyword 1", "keyword 2", "keyword 3"] 
+description: "Interactive workshop on creating narrative CVs for researchers. Learn to identify invisible skills, translate experience into compelling narratives, and present your research story with clarity and impact."
+keywords: ["narrative CV", "academic CV", "researcher CV", "CV writing", "academic careers", "research skills", "career development", "academic job applications", "CV workshop", "research narrative"]
 ---
 
-Narrative CVs are gaining popularity as a way for researchers to showcase a wider range of skills and experience. But what is a narrative CV? And how does it differ from a traditional CV?
+Narrative CVs are gaining popularity as a way for researchers to showcase a wider range of skills and experience in grant applications. But what is a narrative CV? And how does it differ from a traditional CV?
 
 This interactive workshop demystifies and simplifies the process of writing a narrative CV. Through discussion, activities, and examples, you’ll learn how best to present your research story.
 
@@ -23,8 +23,6 @@ By the end of the session, you’ll be able to:
 You’ll also get the opportunity to give and receive feedback with other researchers.
 
 With the help of an experienced facilitator, you’ll devise a strategy for writing your own narrative CV.
-
-**Please note:** this workshop covers only individual narrative CVs. We don’t address the requirements for group CVs.
 
 👩🏽‍🎓 **Audience:** Researchers at all stages and in any discipline.
 

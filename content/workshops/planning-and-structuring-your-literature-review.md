@@ -1,11 +1,11 @@
 ---
 date: "2025-08-26T16:47:34+01:00"
-draft: true
+draft: false
 title: "Planning and Structuring Your Literature Review"
 tags: ["academic", "workshops"]
 categories: ["Training"] 
-description: ""
-keywords: ["keyword 1", "keyword 2", "keyword 3"] 
+description: "Workshop for PhD students struggling to start their literature review. Learn to plan scope, develop research questions, critically evaluate sources, and create structured arguments that establish your original contribution."
+keywords: ["literature review", "PhD literature review", "thesis writing", "academic research", "critical evaluation", "research planning", "thesis structure", "doctoral writing", "research methodology", "academic synthesis"]
 ---
 
 Are you still wondering, “What on earth is a literature review?” You know it forms a substantial chunk of your thesis, but you haven’t yet managed to get started.
@@ -16,7 +16,7 @@ You’ll learn how to critically evaluate the sources you’ve already gathered,
 
 By the end of the session, you’ll have:
 
-- Understood the purpose of the literature and the process behind it.
+- Understood the purpose of the literature review and the process behind it.
 - Developed your research questions and identified keywords.
 - Considered the scope of your research and how it relates to the field.
 - Reviewed techniques for effective note-taking.

@@ -1,11 +1,11 @@
 ---
 date: "2025-08-26T16:40:54+01:00"
-draft: true
+draft: false
 title: "Exploring Careers Beyond Academia"
 tags: ["academic", "workshops"]
 categories: ["Training"] 
-description: ""
-keywords: ["keyword 1", "keyword 2", "keyword 3"] 
+description: "Interactive workshop for PhD researchers exploring non-academic career paths. Learn to identify transferable skills, navigate industry transitions, and craft compelling applications that highlight your unique expertise."
+keywords: ["PhD careers", "academic career transition", "non-academic careers", "transferable skills", "industry careers", "PhD job search", "career change", "alternative careers", "PhD skills", "career development"]
 ---
 
 Are you starting to wonder, “What else can I do with my PhD?” You’ve invested years in developing specialised expertise, but you’re curious about opportunities outside the traditional academic path.

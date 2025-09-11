@@ -1,11 +1,11 @@
 ---
 date: "2025-08-26T17:06:47+01:00"
-draft: true
+draft: false
 title: "Boosting Your Writing Productivity"
 tags: ["academic", "workshops"]
 categories: ["Training"] 
-description: ""
-keywords: ["keyword 1", "keyword 2", "keyword 3"] 
+description: "Interactive workshop on managing academic writing amid competing priorities. Learn practical strategies for planning, productivity, and maintaining momentum with journal articles, books, and theses."
+keywords: ["academic writing workshop", "writing productivity", "thesis writing", "academic writing strategies", "writing motivation", "research writing", "writing planning", "academic productivity", "writing momentum", "scholarly writing"]
 ---
 
 Academic writing is hard at the best of times. It's especially challenging when there’s so much going on. With many competing priorities, we struggle to consistently make time for writing.
@@ -16,14 +16,22 @@ Whether you're tackling a journal article, a book, or a thesis, you'll get insig
 
 Here's what we'll cover: 
 
-- Understanding your Circle of Control. 
-- Planning a piece of writing.
-- Building a writing fortress.
-- Improving productivity.
-- Staying focused.
-- Looking after yourself.
- 
+- Understanding what aspects of your writing you can influence, versus what's beyond your control. 
+- Planning a piece of writing using different techniques.
+- Establishing effective boundaries that give you the time and headspace to write.
+- Improving productivity without compromising your health.
+- Staying focused and minimising disruptions.
+- Looking after yourself. You're not a machine!
+
 With the help of an experienced facilitator and the rest of the group, you'll start creating a strategy that's right for you.
+
+By the end of the session, you should be able to:
+
+- Distinguish between controllable and uncontrollable factors in your writing process and focus your energy on areas you can influence.
+- Select and apply appropriate planning techniques for different types of academic writing project.
+- Establish effective boundaries and routines that protect writing time while managing competing academic demands.
+- Implement productivity and focus strategies that enhance output without compromising your wellbeing.
+- Design a sustainable writing practice that incorporates self-care and realistic expectations about your capacity.
 
 👩🏽‍🎓 **Audience:** Researchers at all stages and in any discipline.
 

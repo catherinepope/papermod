@@ -1,11 +1,11 @@
 ---
 date: "2025-08-26T17:00:48+01:00"
-draft: true
-title: "Turning Your Research Into Journal Articles"
+draft: false
+title: "Turning Your Research into Journal Articles"
 tags: ["academic", "workshops"]
 categories: ["Training"] 
-description: ""
-keywords: ["keyword 1", "keyword 2", "keyword 3"] 
+description: "Interactive workshop on converting research and thesis work into publishable journal articles. Learn a 5-step process for idea selection, structuring, drafting, editing, and incorporating feedback to create finished articles."
+keywords: ["journal articles", "academic publishing", "thesis to article", "research writing", "academic writing", "scholarly publishing", "writing process", "manuscript preparation", "academic journals", "publication strategy"]
 ---
 
 Are you struggling to turn your research or thesis into journal articles? You have lots of ideas, but it’s hard converting them into a structured piece of writing. You’re so focused on the details, you can’t see the bigger picture.
@@ -14,6 +14,7 @@ In this interactive and supportive session, you’ll discover essential strategi
 
 Here’s what we’ll cover: 
 
+- Choosing an appropriate journal and understanding its requirements.
 - Assessing and selecting your article ideas.
 - Structuring your article.
 - Creating a first draft.
@@ -22,7 +23,7 @@ Here’s what we’ll cover:
 
 By the end of the session, you’ll have: 
 
-- A range of techniques and examples to help you get going. 
+- A range of techniques, outlines, and examples to help you get going. 
 - Templates and tips to keep yourself on track.
 - A plan for your next piece of writing. 
 

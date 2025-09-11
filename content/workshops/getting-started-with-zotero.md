@@ -1,14 +1,14 @@
 ---
 date: "2025-08-26T16:42:42+01:00"
-draft: true
+draft: false
 title: "Getting Started With Zotero"
 tags: ["academic", "workshops"]
 categories: ["Training"] 
-description: ""
-keywords: ["keyword 1", "keyword 2", "keyword 3"] 
+description: "Interactive demonstration of Zotero reference management software. Learn to organize sources, create citations, and format bibliographies efficiently using this free academic tool for researchers."
+keywords: ["Zotero", "reference management", "citation software", "bibliography", "academic references", "research tools", "citation styles", "Zotero workshop", "academic writing tools", "research organization"] 
 ---
 
-Do you spend hours trying to find the source of that really important paper? Are you despairing at the thought of compiling your bibliography? Perhaps you have a referencing tool, but it’s not working for you. You need Zotero! 
+Do you spend hours trying to find the source of that really important paper? Are you despairing at the thought of compiling your bibliography? Perhaps you have already a referencing tool, but it’s not right for you. You need Zotero! 
 
 In this interactive demonstration, you’ll learn all about Zotero, a free tool for organising and citing references. With the help of an experienced facilitator, you’ll assess Zotero’s features and find out how it can support your workflow.
 
