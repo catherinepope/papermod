@@ -110,9 +110,9 @@ menu:
     #  url: /writing/
     #  weight: 35
 
-    - identifier: work
-      name: "Work"
-      url: /work/
+    - identifier: workshops
+      name: "Workshops"
+      url: /workshops/
       weight: 25
     
     - identifier: contact

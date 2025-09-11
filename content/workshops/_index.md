@@ -1,5 +1,8 @@
-
-# Researcher Training
+---
+title: Researcher Training
+permalink: /workshops/
+description: "Workshops delivered by Catherine Pope"
+---
 
 I offer the following workshops for researchers. They are all delivered online through Zoom. The maximum capacity is 30 attendees – this is to ensure that I can make the sessions interactive and answer all the questions.
 
