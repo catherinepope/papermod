@@ -1,5 +1,5 @@
 ---
-date: "2025-08-27T13:07:25+01:00"
+date: "2020-10-12T13:07:25+01:00"
 draft: false
 title: "Should You Quit Your PhD?"
 tags: ["PhD", "academic"]
