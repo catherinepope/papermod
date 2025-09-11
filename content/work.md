@@ -16,7 +16,7 @@ During my long career, I’ve worked as a web developer, IT manager, technical w
 
 ## Coaching and Training
 
-I offer academic coaching and training independently, and also as an associate for [Research Coach](https://www.researchcoach.co.uk). You can find out more about my workshop offerings on my [PhD Progress website](https://www.phdprogress.com).
+I offer academic coaching and training independently, and also as an associate for [Research Coach](https://www.researchcoach.co.uk). You can find out more about my [workshop offerings](../workshops/).
 
 My main areas are:
 
