@@ -1,6 +1,6 @@
 ---
 date: "2020-07-18T11:42:43+01:00"
-draft: true
+draft: false
 title: "How to Write a Thesis Abstract"
 tags: ["PhD", "academic"]
 categories: ["PhD Progress"]

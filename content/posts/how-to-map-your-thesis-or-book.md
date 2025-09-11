@@ -1,6 +1,6 @@
 ---
 date: "2024-06-27T14:04:42+01:00"
-draft: true
+draft: false
 title: "How to Map Your Thesis or Book"
 tags: ["PhD", "academic"]
 categories: ["PhD Progress"]
@@ -41,7 +41,7 @@ Now you can scan through and see what’s happening. Here’s what to look out f
 - Have you spotted any gaps that need to be filled, such as some context to link two sections?
 - Is there anything that doesn’t fit? Are there diversions or digressions that might confuse the reader? Mark those with a red X.
 
-Scan horizontally and vertically to check the map makes sense from all directions — remember, your reader won’t necessarily progress in a linear way from start to finish. Keep your book proposal or thesis plan in front of you, too. Have you followed the structure of your chapter outlines? If not, did you make a conscious decision to do it differently? Or has there been some scope creep? Don’t be tempted to address any of the smaller details at this stage — that comes later. For now, you’re getting thestructure right, establishing the foundations of your writing project.
+Scan horizontally and vertically to check the map makes sense from all directions — remember, your reader won’t necessarily progress in a linear way from start to finish. Keep your book proposal or thesis plan in front of you, too. Have you followed the structure of your chapter outlines? If not, did you make a conscious decision to do it differently? Or has there been some scope creep? Don’t be tempted to address any of the smaller details at this stage — that comes later. For now, you’re getting the structure right, establishing the foundations of your writing project.
 
 ## Step Three
 

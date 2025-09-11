@@ -1,6 +1,6 @@
 ---
 date: "2020-07-08T11:36:22+01:00"
-draft: true
+draft: false
 title: "Who Do You Include in Your Thesis Acknowledgements?"
 tags: ["PhD", "academic"]
 categories: ["PhD Progress"]

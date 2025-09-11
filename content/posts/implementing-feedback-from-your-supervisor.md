@@ -1,6 +1,6 @@
 ---
 date: "2020-09-09T12:23:39+01:00"
-draft: true
+draft: false
 title: "Implementing Feedback from Your Supervisor"
 tags: ["PhD", "academic"]
 categories: ["PhD Progress"]

@@ -1,6 +1,6 @@
 ---
 date: "2025-08-27T13:07:25+01:00"
-draft: true
+draft: false
 title: "Should You Quit Your PhD?"
 tags: ["PhD", "academic"]
 categories: ["PhD Progress"]
@@ -50,8 +50,7 @@ If Cartesian logic is sending your brain into a spasm, use these questions inste
 - If you quit your PhD, what would change?
 - If you quit your PhD, what would stay the same?
 
-Often, people either start or quit a PhD to get away from something, only to find that the problem remains. 
-or instance, Masters’ students might pursue a PhD to avoid making difficult career decisions. Toby, who I mentioned above, imagined she’d have much more time after quitting her PhD. While she’s happy with her decision, she didn’t magically regain all the hours she’d expected.
+Often, people either start or quit a PhD to get away from something, only to find that the problem remains. For instance, Masters’ students might pursue a PhD to avoid making difficult career decisions. Toby, who I mentioned above, imagined she’d have much more time after quitting her PhD. While she’s happy with her decision, she didn’t magically regain all the hours she’d expected.
 
 You could also come up with 10 reasons why you want to finish your PhD. Even if you identify 4 or 5, that could be enough to rekindle your motivation. Take a hard look at those reasons, though: how many of them are extrinsic versus intrinsic? Extrinsic motivations are often fulfilling other people’s goals, rather than your own. You need at least a few intrinsic motivations or personal rewards to propel you.
 

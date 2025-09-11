@@ -1,6 +1,6 @@
 ---
 date: "2024-06-26T13:15:08+01:00"
-draft: true
+draft: false
 title: "Improve Your Flow With Reverse Outlining"
 tags: ["PhD", "academic", "writing", "editing"]
 categories: ["PhD Progress"]

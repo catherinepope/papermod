@@ -1,6 +1,6 @@
 ---
 date: "2020-10-08T12:53:08+01:00"
-draft: true
+draft: false
 title: "Dealing with Darwin Days"
 tags: ["PhD", "academic"]
 categories: ["PhD Progress"]

@@ -1,6 +1,6 @@
 ---
 date: "2020-08-20T12:04:46+01:00"
-draft: true
+draft: false
 title: "Improving Writing Accountability With Focusmate"
 tags: ["PhD", "academic", "writing"]
 categories: ["PhD Progress"]

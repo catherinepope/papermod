@@ -1,6 +1,6 @@
 ---
 date: "2020-09-14T12:30:38+01:00"
-draft: true
+draft: false
 title: "Should You Hire a Professional Proofreader for Your Thesis?"
 tags: ["PhD", "academic"]
 categories: ["PhD Progress"]

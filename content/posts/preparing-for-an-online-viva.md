@@ -1,6 +1,6 @@
 ---
 date: "2020-07-30T11:50:06+01:00"
-draft: true
+draft: false
 title: "Preparing for an Online Viva"
 tags: ["PhD", "academic"]
 categories: ["PhD Progress"]

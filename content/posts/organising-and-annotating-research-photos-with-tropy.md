@@ -1,6 +1,6 @@
 ---
 date: "2020-08-21T12:14:19+01:00"
-draft: true
+draft: false
 title: "Organising and Annotating Research Photos With Tropy"
 tags: ["PhD", "academic"]
 categories: ["PhD Progress"]

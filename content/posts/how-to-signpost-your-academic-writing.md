@@ -1,6 +1,6 @@
 ---
 date: "2025-01-25T14:11:10+01:00"
-draft: true
+draft: false
 title: "How to Signpost Your Academic Writing"
 tags: ["PhD", "academic", "writing"]
 categories: ["PhD Progress"]

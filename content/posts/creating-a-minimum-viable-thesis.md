@@ -1,6 +1,6 @@
 ---
 date: "2024-03-18T13:00:32+01:00"
-draft: true
+draft: false
 title: "Creating a Minimum Viable Thesis"
 tags: ["PhD", "academic"]
 categories: ["PhD Progress"]
