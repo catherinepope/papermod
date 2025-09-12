@@ -52,7 +52,7 @@ Although I’m here to help you complete your thesis, there’s only so much I c
 {{< figure
   src="/images/layers.jpg"
   alt="Diagram showing how to use this book"
-  align="centre"
+  align="center"
 >}}
 
 ## A Note on Language and Terminology
