@@ -6,8 +6,8 @@ author: "Catherine Pope"
 
 ## Books
 
-- [How to Publish Your PhD](https://phdprogress.com/books/how-to-publish-your-phd/) (2021)
-- [How to Finish Your PhD](https://phdprogress.com/books/how-to-finish-your-phd/) (2020)
+- [How to Publish Your PhD](../books/how-to-publish-your-phd/) (2021)
+- [How to Finish Your PhD](../books/how-to-finish-your-phd/) (2020)
 - [Florence Marryat](https://www.hive.co.uk/Product/Catherine-Pope/Florence-Marryat/23540404) (Key Popular Women Writers Series) (2020)
 
 ## Book Chapters

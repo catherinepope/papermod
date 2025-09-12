@@ -77,9 +77,11 @@ params:
     title: "Catherine Pope"
     subtitle: "Trainer, Coach & Technical Content Creator"
     imageUrl: "/images/Catherine-Pope.png"
-    # buttons:
-    #  - name: About
-    #    url: /about/
+    buttons:
+      - name: Books
+        url: /books/
+      - name: Workshops
+        url: /workshops/
 
 markup:
   goldmark:
