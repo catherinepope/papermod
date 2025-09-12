@@ -1,6 +1,6 @@
 ---
 date: "2025-09-11T16:34:43+01:00"
-draft: true
+draft: false
 title: "Working With Your Phd Supervisor"
 tags: ["academic", "workshops"]
 categories: ["Training"] 
