@@ -43,8 +43,8 @@ Common scenarios include:
 - **Supervisor as Persecutor** – lacking the skills or the time to achieve a lasting solution, the supervisor becomes more demanding in the hope that the application of pressure improves
 performance.
 
-Can you spot any familiar patterns here? It’s easy to fall into these roles, in any areas of our life or work. When the supervisor becomes a Persecutor, the automatic response is to become a Victim. This serves only to perpetuate the roles. Of course, you can’t tell your supervisor they’re a vampire who’s draining your life-force. What you need instead is to achieve
-a Win-Win. Healthy supervisory relationships involve clear boundaries, shared responsibility, and direct communication.
+Can you spot any familiar patterns here? It’s easy to fall into these roles, in any areas of our life or work. When the supervisor becomes a Persecutor, the automatic response is to become a Victim. This serves only to perpetuate the roles. Of course, you can’t tell your supervisor they’re a vampire who’s draining your life-force. What you need instead is to [achieve
+a Win-Win](../achieving-a-win-win/). Healthy supervisory relationships involve clear boundaries, shared responsibility, and direct communication.
 
 ---
 
