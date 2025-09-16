@@ -1,7 +1,7 @@
 ---
 date: "2025-09-11T16:34:43+01:00"
 draft: false
-title: "Working With Your Phd Supervisor"
+title: "Working With Your PhD Supervisor"
 tags: ["academic", "workshops"]
 categories: ["Training"] 
 description: "Interactive workshop on building effective PhD supervisor relationships. Learn to communicate better, request feedback, resolve conflicts, and develop autonomy while maintaining productive guidance throughout your doctorate."
