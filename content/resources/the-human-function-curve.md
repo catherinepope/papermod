@@ -10,12 +10,7 @@ keywords: ["human function curve", "academic pressure", "PhD stress", "performan
 
 Devised by Dr Peter Nixon, the Human Function Curve shows the relationship between pressure and performance. If there's minimal pressure, we don't perform; we're just bored and understimulated.With a little more pressure, we enter our Comfort Zone. Although, as the name suggests, this feels nice, researchers won't find new ideas by staying here too long. As the pressure mounts, we enter the Stretch Zone. This is where we want to be most of the time: it's the sweet spot between pressure and performance.
 
-{{< figure
-  src="/images/human-function-curve.jpg"
-  alt="The Human Function Curve"
-  caption="The Human Function Curve"
-  align="center"
->}}
+{{< img src="images/human-function-curve.jpg" alt="The Human Function Curve" caption="The Human Function Curve" center="true" >}}
 
 But, if pressure keeps ramping up, we can progress to the Strain Zone. While the stretch feels good, strain doesn't. Strain can result in injuries. If we're not careful, at this point we can enter what Nixon calls the Fantasy Zone where we start telling ourselves unhelpful stories. For instance, "I'm feeling exhausted, but I really need to stay on top of this project. If I get up at 5am tomorrow, I can keep to schedule," or, "I'll work every weekend for the next three months." 
 

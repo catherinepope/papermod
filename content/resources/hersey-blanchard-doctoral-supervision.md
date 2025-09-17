@@ -1,6 +1,6 @@
 ---
 date: "2025-09-17T14:10:00+01:00"
-draft: true
+draft: false
 title: "The Hersey-Blanchard Model in Doctoral Supervision"
 tags: ["PhD", "Academic", "PhD Supervision"]
 categories: ["Resources"]

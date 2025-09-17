@@ -17,12 +17,7 @@ Developed by Stephen Karpman, the Drama Triangle provides a social model of huma
 - **The Persecutor** – the persecutor is critical, controlling, and inflexible. They give feedback that keeps the Victim in a state of helplessness. This role might appear authoritative,
 but it arises from an unwillingness or inability to address underlying problems. They drain their Victim’s life force.
 
-{{< figure
-  src="/images/the-drama-triangle.jpg"
-  alt="The Drama Triangle"
-  caption="The Drama Triangle"
-  align="center"
->}}
+{{< img src="images/the-drama-triangle.jpg" alt="The Drama Triangle" caption="The Drama Triangle" center="true" >}}
 
 You can probably see how these roles might emerge in the supervisory relationship. If the student decides to be the Victim, it’s very easy for the supervisor to rise up as either the Rescuer or the Persecutor. Neither role is helpful! The supervisor can end up as the Victim, too. Insecure students might become Persecutors, making unreasonable demands and refusing to accept feedback. A supervisor might start out as a Rescuer, but become burned out and turn into a Persecutor.
 
