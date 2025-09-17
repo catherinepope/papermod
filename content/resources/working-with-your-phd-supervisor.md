@@ -19,7 +19,7 @@ keywords: ["academic resources", "doctoral supervision", "PhD supervisor"]
 ## Websites 💻
 
 - [PhD Toolkit](https://www.ithinkwell.com.au/resources/PhDToolkit)
-- [The Thesis Whisperer](https://www.thethesiswhisperer.com)
+- [The Thesis Whisperer](https://thesiswhisperer.com)
 
 ## Resources 🧭
 
