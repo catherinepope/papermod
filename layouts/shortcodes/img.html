@@ -1,0 +1,9 @@
+{{ $img := resources.Get (.Get "src") }}
+{{ if $img }}
+<figure{{ if .Get "center" }} class="centered-figure"{{ end }}>
+  <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ .Get "alt" }}">
+  {{ if .Get "caption" }}
+    <figcaption>{{ .Get "caption" }}</figcaption>
+  {{ end }}
+</figure>
+{{ end }}

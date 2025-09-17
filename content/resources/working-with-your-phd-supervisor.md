@@ -1,7 +1,7 @@
 ---
 date: "2025-09-17T10:12:06+01:00"
 draft: false
-title: "Working with Your PhDSupervisor - Resources"
+title: "Working with Your PhD Supervisor - Resources"
 # tags: ["tag 1", "tag2", "tag3"]
 categories: ["Resources"]
 description: "Resources for Working with Your PhD Supervisor"
@@ -23,5 +23,7 @@ keywords: ["academic resources", "doctoral supervision", "PhD supervisor"]
 
 ## Resources 🧭
 
+- [Expectations in Research Supervision Questionnaire](/docs/Expectations-in-Research-Supervision-Questionnaire.pdf) (PDF)
+- [PhD Supervision Meeting Agenda](/docs/PhD-Supervision-Meeting-Agenda.docx) (MS Word)
 - [Achieving a Win-Win](../achieving-a-win-win/)
 - [The Drama Triangle](../the-drama-triangle/)
