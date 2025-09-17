@@ -27,3 +27,4 @@ keywords: ["academic resources", "doctoral supervision", "PhD supervisor"]
 - [PhD Supervision Meeting Agenda](/docs/PhD-Supervision-Meeting-Agenda.docx) (MS Word)
 - [Achieving a Win-Win](../achieving-a-win-win/)
 - [The Drama Triangle](../the-drama-triangle/)
+- [The Hersey-Blanchard Model of Situational Leadership](../hersey-blanchard-doctoral-supervision/)
