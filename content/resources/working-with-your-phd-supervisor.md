@@ -28,3 +28,4 @@ keywords: ["academic resources", "doctoral supervision", "PhD supervisor"]
 - [Achieving a Win-Win](../achieving-a-win-win/)
 - [The Drama Triangle](../the-drama-triangle/)
 - [The Hersey-Blanchard Model of Situational Leadership](../hersey-blanchard-doctoral-supervision/)
+- [The Support-Challenge Matrix](../the-support-challenge-matrix/)
