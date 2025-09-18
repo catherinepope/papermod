@@ -24,3 +24,12 @@ body {
   display: block;
   margin: 0 auto;
 }
+
+a[href^="http"]:not([href*="localhost"]):not([href*="catherinepope.com"]):after {
+    content: " ↗";
+    font-size: 0.8em;
+}
+
+.social-icons a:after {
+    content: none !important;
+}
