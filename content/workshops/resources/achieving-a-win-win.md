@@ -6,6 +6,7 @@ tags: ["PhD", "Academic"]
 categories: ["Resources"]
 description: "Master win-win negotiation in PhD supervision. Learn how to move beyond Drama Triangle conflicts to create productive relationships that serve both student and supervisor needs."
 keywords: ["win-win negotiation", "PhD supervision", "academic conflict resolution", "student supervisor relationship", "negotiation skills", "academic communication", "research supervision", "graduate school", "thesis supervision", "workplace negotiation"]
+#ShowBreadCrumbs: true
 ---
 
 You might have come across the idea of achieving a Win-Win in a situation, which maps quite neatly with the [Drama Triangle](../the-drama-triangle/). This matrix shows the four possible outcomes based on who wins or loses in a conflict or disagreement:
