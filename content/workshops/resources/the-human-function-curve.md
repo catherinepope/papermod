@@ -6,7 +6,7 @@ tags: ["PhD", "Academic"]
 categories: ["Resources"]
 description: "Understand the Human Function Curve and find your optimal performance zone. Learn to recognize when academic pressure becomes harmful strain and how to maintain sustainable productivity."
 keywords: ["human function curve", "academic pressure", "PhD stress", "performance optimization", "work-life balance", "academic burnout", "stress management", "productivity", "peter nixon", "sustainable work habits", "graduate student wellness"]
-# ShowBreadCrumbs: true
+ShowBreadCrumbs: true
 ---
 
 Devised by Dr Peter Nixon, the Human Function Curve shows the relationship between pressure and performance. If there's minimal pressure, we don't perform; we're just bored and understimulated.With a little more pressure, we enter our Comfort Zone. Although, as the name suggests, this feels nice, researchers won't find new ideas by staying here too long. As the pressure mounts, we enter the Stretch Zone. This is where we want to be most of the time: it's the sweet spot between pressure and performance.
@@ -27,6 +27,6 @@ The signs of strain will be different for everybody, but it's important to try a
 
 If you're working with others, you can also start to recognise when they might be entering the Strain Zone. This is an area where we can all help each other: sometimes we just need permission to step back and and prioritise our wellbeing. We are not machines, so we can't simply get more processing power and keep going. As a human, you need proper opportunities for rest and recovery, not just an occasional reboot. Keep stretching, but watch out for that strain. 
 
-This content is adapted from my workshop on [_Saying No: Establishing Healthy Boundaries in Academia_](../../workshops/saying-no/).
+This content is adapted from my workshop on [_Saying No: Establishing Healthy Boundaries in Academia_](../../../workshops/saying-no/).
 
 

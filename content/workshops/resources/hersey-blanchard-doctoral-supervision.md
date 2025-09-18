@@ -6,8 +6,7 @@ tags: ["PhD", "Academic", "PhD Supervision"]
 categories: ["Resources"]
 description: "Learn how PhD supervision should evolve using the Hersey-Blanchard Model. Understand when you need direction, mentoring, coaching, or support during your doctoral journey."
 keywords: ["hersey-blanchard model", "situational leadership", "PhD supervision", "doctoral supervision", "academic independence", "supervisor relationship", "graduate school", "research supervision", "PhD progression", "academic mentoring", "thesis supervision"]
-# ShowToc: true
-# OpenToc: true  
+ShowBreadCrumbs: true 
 ---
 
 When you start a PhD, you've probably emerged from a taught programme, such as an undergraduate or Masters' degree. At that level, you're used to a lot of structure and explicit deadlines. As a doctoral researcher, though, you need to leave behind that student identity and become independent. This means assuming more responsibility as the PhD progresses. That's the only way you can make and defend an original and significant contribution to knowledge.
@@ -36,4 +35,4 @@ Consider where you are on this model, and also where you _should_ be. If you thi
 The supervisor’s role is often implicit — it’s assumed that both they and you understand their responsibilities, even though those responsibilities aren’t fully documented. While they’re not trying to obstruct you, the lack of clarity around the role means they sometimes unwittingly place obstacles in your way. Often this is due to a lack of communication. By taking the initiative in managing the supervisory relationship, you can ensure that expectations are both explicit and
 reasonable. With some effort, [you can achieve a positive outcome for everyone](../achieving-a-win-win/).
 
-This content is adapted from my book [_How to Finish Your PhD_](../../books/how-to-finish-your-phd/). I also run a workshop on [_Working with Your PhD Supervisor_](../../workshops/working-with-your-phd-supervisor/).
+This content is adapted from my book [_How to Finish Your PhD_](../../../books/how-to-finish-your-phd/). I also run a workshop on [_Working with Your PhD Supervisor_](../../../workshops/working-with-your-phd-supervisor/).

@@ -2,13 +2,14 @@
 date: "2025-08-26T15:52:32+01:00"
 draft: false
 title: "Working Bookings - Terms and Conditions"
-tags: ["tag 1", "tag2", "tag3"]
-description: ""
-keywords: ["keyword 1", "keyword 2", "keyword 3"]
+#tags: ["tag 1", "tag2", "tag3"]
+#description: ""
+#keywords: ["keyword 1", "keyword 2", "keyword 3"]
 ShowToc: true
 tocOpen: true
 build:
   list: false
+ShowBreadCrumbs: true
 ---
 
 ## Payment

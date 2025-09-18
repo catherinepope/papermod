@@ -6,6 +6,7 @@ tags: ["academic", "workshops"]
 categories: ["Training"] 
 description: "Workshop for PhD students struggling to start their literature review. Learn to plan scope, develop research questions, critically evaluate sources, and create structured arguments that establish your original contribution."
 keywords: ["literature review", "PhD literature review", "thesis writing", "academic research", "critical evaluation", "research planning", "thesis structure", "doctoral writing", "research methodology", "academic synthesis"]
+ShowBreadCrumbs: true
 ---
 
 Are you still wondering, “What on earth is a literature review?” You know it forms a substantial chunk of your thesis, but you haven’t yet managed to get started.

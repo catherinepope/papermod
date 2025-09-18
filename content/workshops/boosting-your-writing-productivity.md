@@ -6,6 +6,7 @@ tags: ["academic", "workshops"]
 categories: ["Training"] 
 description: "Interactive workshop on managing academic writing amid competing priorities. Learn practical strategies for planning, productivity, and maintaining momentum with journal articles, books, and theses."
 keywords: ["academic writing workshop", "writing productivity", "thesis writing", "academic writing strategies", "writing motivation", "research writing", "writing planning", "academic productivity", "writing momentum", "scholarly writing"]
+ShowBreadCrumbs: true
 ---
 
 Academic writing is hard at the best of times. It's especially challenging when there’s so much going on. With many competing priorities, we struggle to consistently make time for writing.

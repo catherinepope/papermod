@@ -6,6 +6,7 @@ tags: ["academic", "workshops"]
 categories: ["Training"] 
 description: "Interactive workshop on practical project management for academic researchers. Learn to define goals, create realistic schedules, track progress with milestones, and communicate effectively with stakeholders."
 keywords: ["academic project management", "research project management", "PhD project management", "research planning", "academic productivity", "project scheduling", "research goals", "milestone tracking", "academic workflow", "research organization"]
+ShowBreadCrumbs: true
 ---
 
 Are you ready to take control of your research? As an academic, you’re probably juggling multiple projects, requiring effective planning and execution. As an academic, you probably also lack the time to devise a proper strategy.

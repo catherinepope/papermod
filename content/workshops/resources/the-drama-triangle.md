@@ -6,6 +6,7 @@ tags: ["PhD", "academic"]
 categories:  ["Resources"]
 description: "Learn about the Drama Triangle model and how Victim, Rescuer, and Persecutor roles can damage PhD supervision relationships. Practical guide for students and supervisors to identify and break destructive patterns."
 keywords: ["drama triangle", "PhD supervision", "academic relationships", "supervisory conflict", "victim rescuer persecutor", "graduate student support", "research supervision", "academic coaching", "workplace dynamics", "conflict resolution", "stephen karpman", "transactional analysis"]
+ShowBreadCrumbs: true
 ---
 
 Developed by Stephen Karpman, the Drama Triangle provides a social model of human interaction. Specifically, it describes the connection between personal responsibility and power in conflicts, revealing the shifting and often destructive roles people play. These roles form a 'triangle' because people typically cycle between them, with each role triggering the others in a self-perpetuating pattern. These unhelpful behaviours occur in many situations, including supervisory relationships in the workplace. The three roles are the Victim, the Rescuer, and the Persecutor:
@@ -43,4 +44,4 @@ a Win-Win](../achieving-a-win-win/). Healthy supervisory relationships involve c
 
 ---
 
-This content is adapted from my book [_How to Finish Your PhD_](../../books/how-to-finish-your-phd/). I also run a workshop on [_Working with Your PhD Supervisor_](../../workshops/working-with-your-phd-supervisor/).
+This content is adapted from my book [_How to Finish Your PhD_](../../../books/how-to-finish-your-phd/). I also run a workshop on [_Working with Your PhD Supervisor_](../../../workshops/working-with-your-phd-supervisor/).

@@ -6,6 +6,7 @@ tags: ["PhD", "Academic", "PhD Supervision"]
 categories: ["Resources"]
 description: "Use the Support-Challenge Matrix to optimize your PhD supervision. Learn how to balance challenge and support for academic progress while avoiding anxiety, inertia, and dependency."
 keywords: ["support challenge matrix", "PhD supervision", "challenging coaching", "academic support", "doctoral supervision", "supervisor relationship", "research supervision", "graduate school", "thesis supervision", "academic coaching"]
+ShowBreadCrumbs: true
 ---
 
 The Support-Challenge Matrix was developed by John Blakey and Ian Day and presented in their book, [_Challenging Coaching_](https://uk.bookshop.org/a/2760/9781904838395). The matrix maps the level of support your supervisor provides against the level of challenge they set for you, and is helpful for thinking about the PhD supervisory relationship.
@@ -21,4 +22,4 @@ The Support-Challenge Matrix was developed by John Blakey and Ian Day and presen
 
 ---
 
-This content is adapted from my workshop on [_Working with Your PhD Supervisor_](../../workshops/working-with-your-phd-supervisor/).
+This content is adapted from my workshop on [_Working with Your PhD Supervisor_](../../../workshops/working-with-your-phd-supervisor/).
