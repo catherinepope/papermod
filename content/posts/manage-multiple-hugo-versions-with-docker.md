@@ -77,21 +77,11 @@ To remove a stopped container completely, use the `docker-compose rm` command. T
 
 You can also view and interact with your container from within Docker Desktop:
 
-{{< figure
-  src="/images/docker-containers.jpg"
-  alt="Docker Desktop containers "
-  caption="Viewing Containers in Docker Desktop "
-  align="center"
->}}
+{{< img src="images/docker-containers.jpg" alt="Screenshot of Docker Desktop containers" caption="Docker Desktop containers" center="true" >}}
 
 The app also provides a convenient way of deleting any images you no longer need. As you can see here, the file sizes are quite large:
 
-{{< figure
-  src="/images/docker-images.jpg"
-  alt="Docker Desktop images "
-  caption="Viewing Images in Docker Desktop "
-  align="center"
->}}
+{{< img src="images/docker-images.jpg" alt="Screenshot of Docker Desktop images" caption="Docker Desktop images" center="true" >}}
 
 You can switch between Hugo versions by changing the image tag in the `docker-compose.yml` file. You'll find different versions in the excellent [Hugomods repository](https://docker.hugomods.com/).
 

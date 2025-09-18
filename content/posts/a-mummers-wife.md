@@ -10,7 +10,7 @@ keywords: ["George Moore", "A Mummer's Wife", "Victorian censorship", "Mudie's l
 
 {{< figure
   src="/images/a-mummers-wife.jpg"
-  alt="Cover of A Mummer’s Wife by George Moore "
+  alt="Cover of A Mummer’s Wife by George Moore"
   class="book"
 >}}
 

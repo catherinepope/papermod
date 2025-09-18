@@ -27,12 +27,7 @@ In this tutorial, I'll explain how to deliver your AudioPen notes straight to Ob
 - Click the blue **Generate Obsidian Login Token**.
 - Copy the token that appears.
 
-{{< figure
-  src="/images/audiopen-obsidian.jpg"
-  alt="AudioPen-Obsidian integration settings"
-  caption="AudioPen-Obsidian integration settings"
-  align="center"
->}}
+{{< img src="images/audiopen-obsidian.jpg" alt="Screenshot of AudioPen-Obsidian integration settings" caption="AudioPen-Obsidian integration settings" center="true" >}}
 
 ## Step 3 - Configure Obsidian
 
@@ -40,12 +35,7 @@ In this tutorial, I'll explain how to deliver your AudioPen notes straight to Ob
 - Paste your token in the box.
 - Click **Log in**.
 
-{{< figure
-  src="/images/obsidian-login-token.jpg"
-  alt="AudioPen Sync settings in Obsidian"
-  caption="AudioPen Sync settings in Obsidian"
-  align="center"
->}}
+{{< img src="images/obsidian-login-token.jpg" alt="Screenshot of AudioPen Sync settings in Obsidian" caption="AudioPen Sync settings in Obsidian" center="true" >}}
 
 Obsidian is now connected to the web service.
 
@@ -56,12 +46,7 @@ Obsidian is now connected to the web service.
 - Under **Integrations**, click **Set up Integrations**.
 - Under **Automatic Webhook**, enable the switch, then paste your URL in the box.
 
-{{< figure
-  src="/images/automatic-webhook.jpg"
-  alt="AudioPen integration settings"
-  caption="AudioPen integration settings"
-  align="center"
->}}
+{{< img src="images/automatic-webhook.jpg" alt="Screenshot of AudioPen integration settings" caption="AudioPen integration settings" center="true" >}}
 
 AudioPen is now connected to Obsidian through the web service 🎉
 
@@ -74,12 +59,7 @@ If you need to, you can create templates to control the presentation of your Aud
 
 Once everything is set up, you should see a tiny green microphone icon in the bottom right-hand corner of Obsidian. 
 
-{{< figure
-  src="/images/tiny-green-microphone.jpg"
-  alt="AudioPen icon in Obsidian"
-  caption="AudioPen icon in Obsidian"
-  align="center"
->}}
+{{< img src="images/tiny-green-microphone.jpg" alt="Screenshot of AudioPen icon in Obsidian" caption="AudioPen icon in Obsidian" center="true" >}}
 
 From here, you can check the status, updates the settings, or force a sync. Otherwise, it just syncs happily in the background. This workflow is marvellous for quickly capturing notes wherever you are and instantly delivering them to your desktop.
 
