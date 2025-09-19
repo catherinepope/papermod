@@ -82,6 +82,8 @@ params:
         url: /books/
       - name: Workshops
         url: /workshops/
+      - name: Subscribe for updates
+        url: /subscribe/
 
 markup:
   goldmark:
