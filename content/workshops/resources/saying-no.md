@@ -17,6 +17,11 @@ ShowBreadCrumbs: true
 - [_The Joy of Being Selfish_](https://uk.bookshop.org/a/2760/9781787395978) by Michelle Elman
 - [_Setting Boundaries that Stick_](https://uk.bookshop.org/a/2760/9781648481291) by Juliane Taylor Shore
 
+## Resources 🧭
+
+- [The Eisenhower Matrix](../the-eisenhower-matrix/)
+- [The Human Function Curve](../the-human-function-curve/)
+
 ## App 💻
 
 [Eisenhower Matrix app](https://claude.ai/public/artifacts/605e2b35-5f16-469f-8f95-3717aae94e34) (experimental!)
