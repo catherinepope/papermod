@@ -2,6 +2,7 @@
 title: About
 permalink: /about/
 description: "About page for Catherine Pope"
+hideMeta: true
 ---
 
 {{< figure

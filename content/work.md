@@ -2,6 +2,7 @@
 title: Work
 permalink: /work/
 description: "About Catherine Pope's work"
+hideMeta: true
 ---
 
 {{< figure

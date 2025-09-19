@@ -2,6 +2,7 @@
 title: Contact
 permalink: /contact/
 description: "Contact page for Catherine Pope"
+hideMeta: true
 ---
 
 📧 You're welcome to [email me](mailto:me@catherinepope.com) (unless you're a spammer, of course).

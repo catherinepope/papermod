@@ -2,6 +2,7 @@
 title: Writing
 permalink: /writing/
 author: "Catherine Pope"
+hideMeta: true
 ---
 
 ## Books
