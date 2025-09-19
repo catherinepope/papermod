@@ -34,7 +34,7 @@ Have you ever reached the end of a busy day and realised that you’ve achieved 
 our own. This makes us feel good about ourselves, but we don’t make progress on what’s important to us. We’re particularly susceptible to this situation in shared workspaces. There’s always someone having a crisis. If this is a problem for you, could you work somewhere else? Getting trapped in Quadrant 3 is just an insidious form of procrastination. We become helpful elves, always ready to attend to everyone else’s priorities.
 
 The Eisenhower Matrix is an ongoing activity. You’ll need to revisit it at least weekly to reassess the situation and see what’s shifted. It might be necessary to reprioritise and
-use stricter criteria, especially if you’re up against a tight deadline. 
+use stricter criteria, especially if you’re up against a tight deadline. Thinking about [your Circle of Control](../your-circle-of-control/) can be helpful, too.
 
 Ask yourself:
 
