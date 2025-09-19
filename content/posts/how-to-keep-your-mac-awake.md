@@ -10,7 +10,7 @@ ShowToc: true
 tocOpen: true  
 ---
 
-Recently, I need to transfer some humongous video files, with a estimated time of 16 hours. Every time I turned my back for a moment, my MacBook immediately went to sleep and cancelled the transfer. No amount of swearing or fiddling with the settings solved the problem. Has anyone actually counted the number of power and sleep settings in MacOS? Anyway, finally, I found two neat solutions to this problem, both of which involve stimulants.
+Recently, I need to transfer some humongous video files, with a estimated time of 16 hours 😳 Every time I turned my back for a moment, my MacBook immediately went to sleep and cancelled the transfer. No amount of swearing or fiddling with the settings solved the problem. Has anyone actually counted the number of power and sleep settings in MacOS? Anyway, finally, I found two neat solutions to this problem, both of which involve stimulants.
 
 ## Solution 1: Caffeinate
 

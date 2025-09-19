@@ -33,3 +33,44 @@ a[href^="http"]:not([href*="localhost"]):not([href*="catherinepope.com"]):after 
 .social-icons a:after {
     content: none !important;
 }
+
+/* contact form */
+
+.contact-form {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            font-family: Arial, sans-serif;
+        }
+        
+        .form-group {
+            margin-bottom: 20px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 8px;
+        }
+        
+        input[type="text"],
+        input[type="email"],
+        textarea {
+            width: 100%;
+            padding: 12px;
+            border: 1px solid #ccc;
+            font-size: 16px;
+            box-sizing: border-box;
+        }
+        
+        textarea {
+            height: 120px;
+            resize: vertical;
+        }
+        
+        .submit-btn {
+            padding: 12px 24px;
+            border: 1px solid #ccc;
+            cursor: pointer;
+            font-size: 16px;
+            margin-top: 10px;
+        }
