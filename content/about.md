@@ -31,7 +31,7 @@ I live in Brighton on the south coast of England with my partner [Tanya](https:/
 
 This site is written in Markdown and built with Hugo, using the [PaperMod theme](https://themes.gohugo.io/themes/papermod/). Once committed to my GitHub repo, the site is automatically built and deployed through Netlify. I use [Fathom](https://usefathom.com) for the analytics. As Fathom protects your privacy, I don't need one of those wretched cookie notices 🎉
 
-I'm trying to keep the carbon footprint of this site tiny:
+🌱 I'm trying to keep the carbon footprint of this site tiny:
 
 {{< carbon-badge >}}
 
