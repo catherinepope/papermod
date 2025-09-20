@@ -1,10 +1,9 @@
 ---
 searchHidden: true
-robots: noindex
-sitemap:
-  _build:
-    list: never
-    publishResources: false
+build:
+  list: false
+  publishResources: false
+url: "/success/"
 title: "Your enquiry has been submitted"
 hideMeta: true
 disableShare: true
