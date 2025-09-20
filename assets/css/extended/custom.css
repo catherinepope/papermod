@@ -94,3 +94,21 @@ a[href^="http"]:not([href*="localhost"]):not([href*="catherinepope.com"]):after 
         .submit-btn:hover {
             background-color: #4a9a8e;
         }
+
+.book-cover {
+  float: right;
+  margin: 0 0 1rem 1rem;
+  max-width: 200px; /* Adjust as needed */
+}
+
+.book-cover img {
+  width: 100%;
+  height: auto;
+}
+
+/* Clear floats after content */
+.book-cover::after {
+  content: "";
+  display: table;
+  clear: both;
+}

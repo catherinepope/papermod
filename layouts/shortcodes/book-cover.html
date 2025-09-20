@@ -1,0 +1,9 @@
+{{ $img := resources.Get (.Get "src") }}
+{{ if $img }}
+<div class="book-cover">
+  <img src="{{ $img.RelPermalink }}" 
+       width="{{ $img.Width }}" 
+       height="{{ $img.Height }}" 
+       alt="{{ .Get "alt" | default "Book cover" }}">
+</div>
+{{ end }}

@@ -9,6 +9,8 @@ keywords: ["feedback skills", "giving feedback", "receiving feedback", "workplac
 ShowToc: true
 ---
 
+{{< book-cover src="images/thanks-for-the-feedback.jpg" alt="Cover of Thanks for the Feedback" >}}
+
 A few years ago, I sent a friend a book chapter I'd been working on for months. Desperate for  validation, I waited anxiously for a response. As the days passed, I convinced myself he hated it. Obviously, he was putting off telling me how bad it was. Two weeks later, the email arrived ... with an attachment. My friend had completely rewritten the chapter. Not only that, he'd used tracked changes in Word, so it was a sea of red. As you can imagine, my heart plunged into my boots. I'd wanted him to say, "Goodness, Catherine, you've worked really hard on this. Well done." As I hadn't explained my requirement, he'd assumed I wanted extensive editorial input.
 
 This quote from [_Thanks for the Feedback_](https://uk.bookshop.org/a/2760/9780670922635) by Douglas Stone and Sheila Heen explains exactly why feedback can cause so much friction and despair:
