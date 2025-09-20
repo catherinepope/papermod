@@ -3,7 +3,7 @@ date: "2025-09-20T09:08:33+01:00"
 draft: false
 title: "Beyond the Feedback Sandwich"
 tags: ["PhD", "Academic"]
-categories: ["Books"]
+categories: ["PhD Progress"]
 description: "Move beyond the basic feedback sandwich with practical strategies for giving, receiving, and requesting feedback effectively. Learn the three types of feedback and when to use each one."
 keywords: ["feedback skills", "giving feedback", "receiving feedback", "workplace communication", "feedback sandwich", "coaching feedback", "performance management", "professional development", "feedback types", "communication skills", "leadership skills", "feedback techniques", "appreciative feedback", "evaluative feedback", "feedback training", "workplace feedback", "feedback best practices", "effective feedback", "feedback strategies", "constructive feedback"]
 ShowToc: true
@@ -61,7 +61,6 @@ Somebody else would have been thrilled with the detailed feedback from my friend
 
 ---
 
-Some of this content is adapted from my workshop [Working with Your PhD Supervisor](../../working-with-your-phd-supervisor/).
+Some of this content is adapted from my workshop [Working with Your PhD Supervisor](../../workshops/working-with-your-phd-supervisor/).
 
 There's also a [blog post on implementing feedback from your supervisor](../../../posts/implementing-feedback-from-your-supervisor/).
-

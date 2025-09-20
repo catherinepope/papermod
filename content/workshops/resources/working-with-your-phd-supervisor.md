@@ -30,3 +30,5 @@ ShowBreadCrumbs: true
 - [The Drama Triangle](../the-drama-triangle/)
 - [The Hersey-Blanchard Model of Situational Leadership](../hersey-blanchard-doctoral-supervision/)
 - [The Support-Challenge Matrix](../the-support-challenge-matrix/)
+- [Beyond the Feedback Sandwich](../../../posts/beyond-the-feedback-sandwich/)
+- [Implementing Feedback from your Supervisor](../../../posts/implementing-feedback-from-your-supervisor/)
