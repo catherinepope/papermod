@@ -8,11 +8,7 @@ description: "A review of George Gissing's debut novel 'Workers in the Dawn' (18
 keywords: ["George Gissing", "Workers in the Dawn", "Victorian social realism", "London poverty", "Victorian socialism", "class struggle", "social reform", "Victorian East End"]
 ---
 
-{{< figure
-  src="/images/workers-in-the-dawn.jpg"
-  alt="Cover of Workers in the Dawn by George Gissing"
-  class="book"
->}}
+{{< book-cover src="images/workers-in-the-dawn.jpg" alt="Cover of Workers in the Dawn by George Gissing" >}}
 
 _Workers in the Dawn_ (1880) was the first published novel from the pen of [George Gissing](/posts/gissing-a-life-in-books/), one of the nineteenth century’s most original writers. It tells the story of Arthur Golding, a young boy who finds himself orphaned after his dissolute father dies in the squalor of a London slum. Through a series of fortunate encounters, he gains a good education and embarks upon a career as an artist, meeting the woman of his dreams, Helen Norman, along the way. As this is Gissing, however, it all goes horribly wrong when he rescues an alcoholic prostitute from the streets and tries to reform her, an episode that is largely autobiographical.
 

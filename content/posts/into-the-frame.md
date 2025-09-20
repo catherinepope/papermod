@@ -8,11 +8,7 @@ description: "A review of Angela Thirlwell's 'Into the Frame: The Four Loves of 
 keywords: ["Ford Madox Brown", "Angela Thirlwell", "Into the Frame", "Pre-Raphaelite", "Marie Spartali", "Mathilde Blind", "Emma Hill", "The Last of England", "Victorian art", "art history"]
 ---
 
-{{< figure
-  src="/images/into-the-frame.jpg"
-  alt="Cover of Into the Frame by Angela Thirlwell"
-  class="book"
->}}
+{{< book-cover src="images/into-the-frame.jpg" alt="Cover of Into the Frame by Angela Thirlwell" >}}
 
 Ford Madox Brown (1821-1893) is perhaps most famous for being on the margins of the Pre-Raphaelite Brotherhood, but was overshadowed by more dominant figures, such as Dante Gabriel Rossetti and William Holman Hunt. Whereas works like ‘The Last of England’ form a legacy of his brilliance, the man behind the easel has remained elusive. Angela Thirlwell’s [_Into the Frame_](https://uk.bookshop.org/a/2760/9781844139149) is a joint portrait of the four women who influenced Madox Brown: his two wives, Elisabeth and Emma, and the two women with whom he had very intense (but not necessarily sexual) relationships, Marie Spartali and Mathilde Blind.
 

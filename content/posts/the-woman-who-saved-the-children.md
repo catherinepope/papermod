@@ -8,11 +8,7 @@ description: "A review of Clare Mulley's biography of Eglantyne Jebb, founder of
 keywords: ["Eglantyne Jebb", "Clare Mulley", "Save the Children", "biography review", "women's rights", "child welfare", "humanitarian work", "Margaret Keynes", "social reform", "charity founder"] 
 ---
 
-{{< figure
-  src="/images/the-woman-who-saved-the-children.jpg"
-  alt="Cover of The Woman Who Saved the Children by Clare Mulley "
-  class="book"
->}}
+{{< book-cover src="images/the-woman-who-saved-the-children.jpg" alt="Cover of The Woman Who Saved the Children by Clare Mulley " >}}
 
 It is one of life’s delicious ironies that the founder of Save the Children, Eglantyne Jebb, referred to infants as “little wretches”. She went on to say that “the Dreadful Idea of closer acquaintance never entered my head”. Notwithstanding this aversion to the actual artefact, Jebb saved the lives of millions of children through her indefatigable efforts, raising awareness that the younger generation comprised an important national asset that should be protected and nurtured.
 

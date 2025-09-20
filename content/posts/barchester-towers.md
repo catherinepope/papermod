@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 'Barchester Towers' (1857), featuri
 keywords: ["Anthony Trollope", "Barchester Towers", "Barsetshire Chronicles", "Mrs Proudie", "Obadiah Slope", "Victorian fiction", "Victorian women"]
 ---
 
-{{< figure
-  src="/images/barchester-towers.jpg"
-  alt="Cover of Barchester Towers by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/barchester-towers.jpg" alt="Cover of Barchester Towers by Anthony Trollope" >}}
 
 Although readers often struggle with [_The Warden_](/posts/the-warden/), their efforts are amply rewarded by [_Barchester Towers_](https://uk.bookshop.org/a/2760/9780199665860) (1857), the next novel in the Barsetshire Chronicles. The story begins with the death of the Bishop, followed by a great deal of manoeuvering amongst those who seek to fill the much-coveted position. The triumphant candidate is Thomas Proudie, although it is his wife who wears the cassock in their household. Mrs Proudie – the “Medea of Barchester” – is perhaps Trollope’s most famous character and one of his finest comic creations. The plot mainly concerns her battles with the ambitious and oleaginous Obadiah Slope, who is determined to bend the Bishop to his will. The confrontations between Mrs Proudie and Slope are brilliantly drawn and sublimely funny. Bishop Proudie himself is a study in inertia and simply defers to whichever of the two rivals happens to be in the ascendant.
 

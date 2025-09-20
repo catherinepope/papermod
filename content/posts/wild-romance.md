@@ -8,11 +8,7 @@ description: "A review of Chloe Schama's 'Wild Romance,' telling the story of th
 keywords: ["Chloe Schama", "Wild Romance", "Yelverton case", "1861 bigamy", "Theresa Longworth", "Victorian marriage law", "irregular marriage", "Scottish marriage", "Victorian scandal", "women's legal rights"]
 ---
 
-{{< figure
-  src="/images/wild-romance.jpg"
-  alt="Cover of Wild Romance by Chloe Schama "
-  class="book"
->}}
+{{< book-cover src="images/wild-romance.jpg" alt="Cover of Wild Romance by Chloe Schama " >}}
 
 ‘Wild romance’ is something of a misnomer when applied to the Yelverton case, an 1861 bigamy scandal that transfixed mid-Victorian society. The decidedly unromantic Captain William Yelverton stood trial after having allegedly contracted two ‘irregular’ marriages with Theresa Longworth and then gone on to marry another woman. Although estranged and rebuffed for most of their six-year relationship, Theresa was determined to claim her status as a married woman, initiating trials in England, Ireland and Scotland.  Yelverton was equally determined to rid himself of the woman he ‘married’ purely in the interests of consummating their affair. In court it became clear that Yelverton’s motives had been entirely sexual: once he had conquered Theresa, he was no longer interested.  When she became pregnant, he encouraged her to get an abortion – a very risky business in the mid-nineteenth century. Initially successful in her legal bid, Theresa lost her case on appeal.  She was cast off and notorious, having been through a very public ordeal.  Undeterred, she travelled the world, speaking up for wronged women and supporting herself through journalism.  Yelverton, meanwhile, was able to return to his new wife and family, later becoming Viscount of Avonmore.
 

@@ -8,11 +8,7 @@ description: "A review of Alex Holder's 'Open Up,' exploring why we keep our fin
 keywords: ["Alex Holder", "Open Up book", "money conversations", "financial secrecy", "personal finance", "book review", "money shame", "financial coaching", "money taboos"]
 ---
 
-{{< figure
-  src="/images/open-up.jpg"
-  alt="Cover of Open Up by Alex Holder"
-  class="book"
->}}
+{{< book-cover src="images/open-up.jpg" alt="Cover of Open Up by Alex Holder" >}}
 
 Who knows how much you earn? One person? Two? Maybe nobody apart from Human Resources. Research shows that nearly 50% of couples have no idea of each other’s salary. As Alex Holder explains in [_Open Up_](https://uk.bookshop.org/a/2760/9781788161886),[^1] we often believe our salary and assets define us. These are the true indicators of our success, status, and power. Revealing that magic figure gives someone an easy way to judge our worth. And this secrecy extends beyond our salaries. In a survey by the [Money Advice Service](https://www.moneyadviceservice.org.uk/en), 45% of people admitted to lying to their partners about money, especially debt.
 

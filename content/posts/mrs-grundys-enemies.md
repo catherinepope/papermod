@@ -8,11 +8,7 @@ description: "A review of Anthony Patterson's 'Mrs Grundy's Enemies,' examining 
 keywords: ["Anthony Patterson", "Mrs Grundy's Enemies", "Victorian censorship", "Mudie's library", "George Moore", "Emile Zola", "George Egerton", "realist fiction", "literary censorship", "Victorian morality"]
 ---
 
-{{< figure
-  src="/images/mrs-grundys-enemies.jpg"
-  alt="Cover of Mrs Grundy’s Enemies by Anthony Patterson "
-  class="book"
->}}
+{{< book-cover src="images/mrs-grundys-enemies.jpg" alt="Cover of Mrs Grundy’s Enemies by Anthony Patterson " >}}
 
 Although originally a character in Thomas Morton’s play _Speed the Plough_ (1798), Mrs Grundy has enjoyed greater fame as the arbiter of nineteenth-century moral standards. In Mrs Grundy’s Enemies, Anthony Patterson selects for his study a range of authors – including Emile Zola, H G Wells, and George Egerton – who courted controversy with their frank portrayal of sexuality. He discusses how the culture of censorship shaped fiction, and examines the ways in which novelists challenged the dominant conservative ideology. Ultimately, Patterson makes a convincing argument that it was the Realists of the late Victorian era who faced resistance to literary innovation, long before the Modernists of the next century. Indeed, _Mrs Grundy’s Enemies_ was also the title of a novel by George Gissing that remained unpublished after his publisher decided it was morally dubious.
 

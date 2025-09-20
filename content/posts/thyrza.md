@@ -8,11 +8,7 @@ description: "A review of George Gissing's 1887 novel 'Thyrza,' exploring London
 keywords: ["George Gissing", "Thyrza", "London", "social mobility", "Victorian social realism", "working-class novel", "Victorian poverty", "Pierre Coustillas"]
 ---
 
-{{< figure
-  src="/images/thyrza.jpg"
-  alt="Cover of Thyrza by George Gissing "
-  class="book"
->}}
+{{< book-cover src="images/thyrza.jpg" alt="Cover of Thyrza by George Gissing " >}}
 
 First published in 1887, Gissing intended _Thyrza_ to “contain the very spirit of London working-class life”. He spent long hours researching the novel in south London, watching and listening to the inhabitants as they went about their business.  His story tells of Walter Egremont, an Oxford-trained idealist who gives lectures on literature to workers, some of them from his father’s Lambeth factory. Thyrza Trent, a young hat-trimmer, meets and falls in love with him, forsaking Gilbert Grail, an intelligent working man who Egremont has put in charge of his library.
 

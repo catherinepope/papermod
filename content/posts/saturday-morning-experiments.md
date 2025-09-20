@@ -8,11 +8,7 @@ description: "Explore how Nobel Prize winner Oliver Smithies' 'Saturday Morning 
 keywords: ["Saturday Morning Experiments", "Oliver Smithies", "David Epstein Range", "creative experimentation", "innovation", "weekend projects", "scientific creativity", "unstructured learning", "breakthrough thinking"]
 ---
 
-{{< figure
-  src="/images/range.jpg"
-  alt="Cover of Range by David Epstein"
-  class="book"
->}}
+{{< book-cover src="images/range.jpg" alt="Cover of Range by David Epstein" >}}
 
 “On Saturday, you don’t have to be completely rational,” according to scientist Oliver Smithies. In his excellent book [Range](https://uk.bookshop.org/a/2760/9781035053049), David Epstein explains how Nobel prize-winning Smithies practised what he called Saturday Morning Experiments. Nobody else was around in the lab, so he felt free to muck about. There was no need to weigh things carefully or decide whether this was really a good use of his time.
 

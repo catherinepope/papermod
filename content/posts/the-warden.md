@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 1855 novel 'The Warden,' the first 
 keywords: ["Anthony Trollope", "The Warden", "first Barsetshire Chronicle", "Septimus Harding", "John Bold", "Hiram's Hospital", "Church reform", "sinecure scandal", "Archdeacon Grantly"]
 ---
 
-{{< figure
-  src="/images/the-warden.jpg"
-  alt="Cover of The Warden by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/the-warden.jpg" alt="Cover of The Warden by Anthony Trollope" >}}
 
 _The Warden_ (1855) is the first chronicle of Barset, and Trollope’s fourth novel. Septimus Harding is the eponymous warden with responsibility for Hiram’s Hospital, an almshouse containing a dozen bedesmen, who have clearly exceeded their [fixed period](/posts/the-fixed-period/). The post of warden is essentially a sinecure, as Harding is required to do virtually nothing in return for his comfortable home and salary of £800.  His quiet and predictable existence is disturbed, however, when he unexpectedly becomes the centre of a public controversy.
 

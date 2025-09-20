@@ -8,11 +8,7 @@ description: "A review of George Gissing's 1886 novel 'Demos,' following sociali
 keywords: ["George Gissing", "Demos", "English socialism", "Victorian novel", "industrial unrest", "social change", "class mobility", "bisexuality", "Victorian politics"]
 ---
 
-{{< figure
-  src="/images/demos.jpg"
-  alt="Cover of Demos by George Gissing"
-  class="book"
->}}
+{{< book-cover src="images/demos.jpg" alt="Cover of Demos by George Gissing" >}}
 
 Bigamy, bisexuality, and betrayal form the sensational plot of _Demos_ (1886), the third published novel from super-grump George Gissing. Although the novel’s sub-title – ‘A Story of English Socialism’ – doesn’t make it sound terribly exciting, politics and social unrest form the backdrop, and the foreground narrative is both tight and compelling.
 

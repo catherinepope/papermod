@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 1874 novel 'Phineas Redux,' the dar
 keywords: ["Anthony Trollope", "Phineas Redux", "Palliser novels", "Lady Laura Kennedy", "marriage reform", "psychological abuse", "Victorian divorce"]
 ---
 
-{{< figure
-  src="/images/phineas-redux.jpg"
-  alt="Cover of Phineas Redux by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/phineas-redux.jpg" alt="Cover of Phineas Redux by Anthony Trollope" >}}
 
 _Phineas Redux_ (1874) is possibly the darkest of the Palliser novels. In [_Phineas Finn_](/posts/phineas-finn/) (number two in the series), we saw the eponymous hero begin his ascent of the greasy pole, and he looked to have a bright future in British politics.  In this sequel, the untimely death of his wife releases him from a disadvantageous marriage and exile in Ireland, and he once again bursts onto the London scene. Lacking wealth, however, he is placed in the position of a Trollope heroine: he must marry for money and resign himself to dependency.  His choice of wife, therefore, must be entirely pragmatic.
 

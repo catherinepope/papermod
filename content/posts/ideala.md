@@ -8,11 +8,7 @@ description: "A review of Sarah Grand's 'Ideala,' an early New Woman novel explo
 keywords: ["Sarah Grand", "Ideala", "New Woman novel", "Victorian feminism", "marriage laws", "Valancourt Books", "Victorian fiction", "feminist literature"]
 ---
 
-{{< figure
-  src="/images/ideala.jpg"
-  alt="Cover of Ideala by Sarah Grand"
-  class="book"
->}}
+{{< book-cover src="images/ideala.jpg" alt="Cover of Ideala by Sarah Grand" >}}
 
 Sarah Grand’s [_Ideala_](https://uk.bookshop.org/a/2760/9781934555606) is one of the early New Woman novels. The eponymous heroine grapples with the decision of whether to leave her domineering and adulterous husband for another man, or to become an elective singleton and reject the need for a normative relationship. The story is narrated by her friend Lord Dawne, who struggles to understand her need to question her role in society. He cannot understand why she would renounce the respectability and stability of marriage, but Ideala finds greater meaning in performing charitable works, writing poetry, and experiencing other cultures.
 

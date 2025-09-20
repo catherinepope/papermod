@@ -8,13 +8,7 @@ description: "A review of Wilkie Collins' final novel 'Blind Love' (1890), compl
 keywords: ["Wilkie Collins", "Blind Love", "Walter Besant", "1890 literature", "posthumous novel", "Fenian terrorism", "sensation fiction", "insurance fraud", "Victorian sensation"]
 ---
 
-{{< figure
-  src="/images/wilkie-collins-sarony.jpg"
-  alt="Portrait of Wilkie Collins by Napoleon Sarony"
-  caption="Wilkie Collins updating his Instagram feed"
-  align="centre"
-  class="book"
->}}
+{{< book-cover src="images/wilkie-collins-sarony.jpg" alt="Portrait of Wilkie Collins by Napoleon Sarony" >}}
 
 I spoke too soon when agreeing that [_The Fallen Leaves_](/posts/the-fallen-leaves/) was Wilkie Collins’ worst novel – _Blind Love_ (1890) is an absolute stinker. To be fair to Collins, he died while writing the novel and therefore had no opportunity to revise it. On his deathbed, Collins asked that his friend Walter Besant finish the novel, providing him with detailed notes and a plot outline. Without the benefit of the preface, it would be quite hard to detect where Collins ends and Besant begins, although the latter’s misogyny and elitism does creep in on occasion.
 

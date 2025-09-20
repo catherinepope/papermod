@@ -8,11 +8,7 @@ description: "A review of Helen Rappaport's book on the forgotten women of the C
 keywords: ["Helen Rappaport", "Crimean War", "Mary Seacole", "Florence Nightingale", "Fanny Duberly", "women in war", "nursing history", "Victorian racism", "military history"]
 ---
 
-{{< figure
-  src="/images/no-place-for-ladies.jpg"
-  alt="Cover of No Place for Ladies by Helen Rappaport"
-  class="book"
->}}
+{{< book-cover src="images/no-place-for-ladies.jpg" alt="Cover of No Place for Ladies by Helen Rappaport" >}}
 
 As Russophobia gripped Britain, the outbreak of the Crimean War in 1854 provoked joy among many who wanted to give the “Rooshians” a jolly good beating. At the forefront of the warmongers was Queen Victoria, who longed to don armour and join soldiers on the frontline. But this imagined glory soon faded to reveal the harsh realities of conflict, and the queen spent much of her time writing letters of condolence to bereaved families, and also quietly funding the fitting of prosthetic limbs for the injured.
 

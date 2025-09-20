@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 1875 novel 'The Way We Live Now,' f
 keywords: ["Anthony Trollope", "The Way We Live Now", "Augustus Melmotte", "Victorian corruption", "banking scandal", "Lady Carbury", "Winifred Hurtle", "commercial greed", "social satire"]
 ---
 
-{{< figure
-  src="/images/the-way-we-live-now.jpg"
-  alt="Cover of The Way We Live Now by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/the-way-we-live-now.jpg" alt="Cover of The Way We Live Now by Anthony Trollope" >}}
 
 Banking scandals, corporate greed, and social irresponsibility – who says Trollope isn’t relevant? _The Way We Live Now_ (1875) is perhaps his darkest novel and is markedly different from the rest of his oeuvre. This probably explains why it is often sidelined and not given the attention it deserves. I’ve written many times before that readers tended to punish Trollope for experimenting with different styles, but his willingness to try new ideas is what makes him so interesting as a writer.
 Often referred to as the most “Dickensian” of Trollope’s novels, _The Way We Live Now_ is a scathing attack on the dwindling morality of the mid-Victorian period and the “commercial profligacy of the age”. The glittering cast of characters is headed by Augustus Melmotte, an entrepreneur of dubious provenance who seeks social advantage through his immense wealth. There are marked similarities with Ferdinand Lopez, anti-hero of [The Prime Minister](/posts/the-prime-minster/). Melmotte angles to pair his timorous daughter Marie with an aristocrat who can confer respectability and lineage upon his house.

@@ -8,11 +8,7 @@ description: "A review of Caroline Shenton's 'The Day Parliament Burned Down,' r
 keywords: ["Caroline Shenton", "The Day Parliament Burned Down", "Palace of Westminster fire", "1834 fire", "Houses of Parliament", "British history", "parliamentary history", "Victorian disasters", "London history"] 
 ---
 
-{{< figure
-  src="/images/the-day-parliament-burned-down.jpg"
-  alt="Cover of The Day Parliament Burned Down by Caroline Shenton "
-  class="book"
->}}
+{{< book-cover src="images/the-day-parliament-burned-down.jpg" alt="Cover of The Day Parliament Burned Down by Caroline Shenton " >}}
 
 “Never was a spectacle so much enjoyed,” wrote Letitia Landon of the fire that destroyed the old Palace of Westminster on 16th October 1834.  Hundreds of thousands of people gathered to watch open-mouthed, as eight centuries of tradition went up in smoke. There was no need to inform King William IV of this terrible event – the flames were clearly visible from Windsor Castle, some twenty miles away. Queen Adelaide allegedly deemed the fire “divine retribution” for the great Reform Act of 1832, which had egregiously extended the franchise, bringing the country perilously close to democracy. Others saw it differently: an elderly man was arrested for cheering in delight, “This is what we wanted – this ought to have happened years ago.” But there was no agency involved; incompetence had succeeded where Guy Fawkes had failed.
 

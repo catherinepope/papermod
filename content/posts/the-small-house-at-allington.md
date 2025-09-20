@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 1864 novel 'The Small House at Alli
 keywords: ["Anthony Trollope", "The Small House at Allington", "Barsetshire Chronicles", "Lily Dale", "Bell Dale", "Adolphus Crosbie", "Johnny Eames", "Victorian courtship", "jilted heroine"]
 ---
 
-{{< figure
-  src="/images/the-small-house-at-allington.jpg"
-  alt="Cover of The Small House at Allington by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/the-small-house-at-allington.jpg" alt="Cover of The Small House at Allington by Anthony Trollope" >}}
 
 _The Small House at Allington_ (1864) is the penultimate Chronicle of Barsetshire, although, as I shall discuss, it blends in with the others like an orange in a coal heap. The eponymous house is home to lively widow Mrs Dale and her two daughters, Lily and Bell. With only a tiny income to their name, they essentially live on the charity of Squire Dale, uncle to the girls, and occupier of the significantly larger house at Allington. The childless Squire is keen that his wealth should remain within the family and strongly urges Bell to marry her plodding and unexciting cousin Bernard. After declaring herself incapable of feeling anything beyond sisterly affection for him, the Squire asserts that young women ought to marry in accordance with familial interest, rather than their own foolish fancy. Given her financially dependent status, Bell is forced to mount a spirited defence in the face of her uncle’s grim determination.
 

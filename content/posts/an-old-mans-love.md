@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's final novel 'An Old Man's Love' (18
 keywords: ["Anthony Trollope", "An Old Man's Love", "final novel", "William Whittlestaff", "Mary Lawrie", "posthumous publication", "Kate Field", "May-December romance"]
 ---
 
-{{< figure
-  src="/images/an-old-mans-love.jpg"
-  alt="Cover of An Old Man’s Love by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/an-old-mans-love.jpg" alt="Cover of An Old Man’s Love by Anthony Trollope" >}}
 
 _An Old Man’s Love_ (1884) was Anthony Trollope’s last completed novel, written in the year of his death and published posthumously. The eponymous “old man” is 50-year-old William Whittlestaff, who becomes guardian to Mary Lawrie, the daughter of a friend, and half his age. Against his better judgement, he falls in love with her, actively encouraged by his stickybeak housekeeper, Mrs Baggett. Mary already has a lover, however. 
 

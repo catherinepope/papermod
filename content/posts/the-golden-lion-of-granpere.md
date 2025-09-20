@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 1872 novel 'The Golden Lion of Gran
 keywords: ["Anthony Trollope", "The Golden Lion of Granpère", "19th-century France", "arranged marriage", "patriarchal authority"]
 ---
 
-{{< figure
-  src="/images/the-golden-lion-of-granpere.jpg"
-  alt="Cover of The Golden Lion of Granpere by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/the-golden-lion-of-granpere.jpg" alt="Cover of The Golden Lion of Granpere by Anthony Trollope" >}}
 
 Having recently drawn attention to Trollope’s less successful works, it seems only fair to trumpet one of his finer novels. _The Golden Lion of Granpère_ (1872) is a short but perfectly-formed tale of love and unreasonable patriarchs, set against a richly-drawn backdrop of provincial France.
 

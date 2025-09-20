@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 1867 novel 'The Claverings,' follow
 keywords: ["Anthony Trollope", "The Claverings", "Harry Clavering", "Lady Ongar", "Florence Burton", "civil engineering", "fallen woman", "Victorian morality", "sexual double standard"]
 ---
 
-{{< figure
-  src="/images/the-claverings.jpg"
-  alt="Cover of The Claverings by Anthony Trollope "
-  class="book"
->}}
+{{< book-cover src="images/the-claverings.jpg" alt="Cover of The Claverings by Anthony Trollope " >}}
 
 As is often the case with Trollope’s novels, _The Claverings_ (1867) is an uncomfortable yet compelling read.  The hero of the piece is Harry Clavering, who is jilted by the beautiful Julia Brabazon in favour of a dissipated, but rich, old aristocrat, Lord Ongar. Clavering devotes himself to a career as an apprentice civil engineer and becomes engaged to his master’s daughter, Florence Burton. He looks set for a successful family and business life until the widowed Julia Brabazon, now Lady Ongar, reappears.  He must choose between a safe but predictable life with Florence, or the glittering and indolent role of Julia’s husband.
 

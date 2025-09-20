@@ -22,7 +22,7 @@ For this to work, you'll need [Docker Desktop](https://docs.docker.com/get-docke
 
 First, let's take a peek at the default behaviour of the nginx image. If you type: `docker container run --publish 80:80 nginx` at the command line, you'll see nginx is running and serving its default page:
 
-![Default nginx page](/images/nginx.png)
+{{< img src="images/nginx.jpg" alt="Screenshot of default nginx page" caption="Default nginx page" center="true" >}}
 
 Next, we'll create our own version of this image and get it to display a (marginally) more exciting webpage.
 
@@ -74,7 +74,7 @@ This command builds our image from the Dockerfile, giving it a name of `my-web`.
 
 A quick `docker image ls` command shows us the image is ready and waiting:
 
-![Tada! Image has been created](/images/my-web.png)
+{{< img src="images/my-web.jpg" alt="Screenshot of Docker image" caption="Tada! Image has been created" center="true" >}}
 
 ## Running Your Docker Container
 
@@ -86,7 +86,7 @@ We're running the container on port 80 of localhost, and the container exposes p
 
 Visit localhost in your browser, and you'll see your tiny website. If you used my `index.html` file, you'll get a random image (hopefully it's nothing rude).
 
-![Webpage served by nginx](/images/random-image.png)
+{{< img src="images/random-image.jpg" alt="Screenshot of webpage served by nginx" caption="Webpage served by nginx" center="true" >}}
 
 To share your website with someone else, you can push your image to Docker Hub. There are three steps:
 

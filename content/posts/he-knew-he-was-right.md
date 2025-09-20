@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 1869 novel 'He Knew He Was Right,' 
 keywords: ["Anthony Trollope", "He Knew He Was Right", "1869 literature", "Victorian marriage", "women's rights", "divorce court", "psychological novel", "Victorian domestic fiction", "marital breakdown"]
 ---
 
-{{< figure
-  src="/images/he-knew-he-was-right.jpg"
-  alt="Cover of He Knew He Was Right by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/he-knew-he-was-right.jpg" alt="Cover of He Knew He Was Right by Anthony Trollope" >}}
 
 I’m wondering whether it took me as long to read _He Knew He Was Right_ (1869) as it did for Trollope to write it. At almost 1,000 pages long, it’s the size of a business directory, and was instrumental in my decision to buy a Kindle rather than continue grappling with similarly unwieldy tomes. Trollope had recently resigned from his Post Office position when he began writing this novel, and his unsuccessful bid to enter Parliament presumably left him with an unexpectedly large amount of time on his hands.  No doubt Mrs Trollope encouraged him to take on a major project so he didn’t get under her feet or start bothering the cook.
 

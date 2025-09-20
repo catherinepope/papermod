@@ -8,11 +8,7 @@ description: "Discover how checklists and timeboxing can improve focus and produ
 keywords: ["checklists", "timeboxing", "executive function", "ADHD productivity", "autism tools", "Focusbox", "task management", "focus techniques", "neurodivergent productivity"]
 ---
 
-{{< figure
-  src="/images/the-checklist-manifesto.jpg"
-  alt="The Checklist Manifesto by Atul Gawande"
-  class="book"
->}}
+{{< book-cover src="images/the-checklist-manifesto.jpg" alt="The Checklist Manifesto by Atul Gawande" >}}
 
 In her autobiography [Through the Narrow Gate](https://uk.bookshop.org/a/2760/9780006550549), scholar and former nun Karen Armstrong recounts finding a fellow novice in fits of laughter. She was pointing at a notice in the boot room and shrieking. Peering at the wall, Armstrong discovered minute directions on how to clean a shoe: “take it up in your left hand, cover liberally with polish, brush off and shine with a soft cloth”. Perplexed, she then spotted the punchline: “Repeat for the other shoe.” Her colleague, still helpless, added: “Can you imagine! If Mother hadn’t had that last sentence printed, all the novices would be walking round with one shoe perpetually clean and one dirty!”
 

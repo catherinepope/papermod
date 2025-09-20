@@ -8,11 +8,7 @@ description: "A review of Andrew Scull's 'Hysteria: the Biography,' tracing the 
 keywords: ["Andrew Scull", "hysteria history", "medical history", "women's health", "Victorian medicine", "Charcot", "rest cure", "medical misogyny", "psychiatric history", "mental health history"]
 ---
 
-{{< figure
-  src="/images/hysteria-the-biography.jpg"
-  alt="Cover of Hysteria: The Biography by Andrew Scull"
-  class="book"
->}}
+{{< book-cover src="images/hysteria-the-biography.jpg" alt="Cover of Hysteria: The Biography by Andrew Scull" >}}
 
 There can’t be many conditions more protean and elusive in nature than hysteria. Andrew Scull’s [_Hysteria: The Biography_](https://uk.bookshop.org/a/2760/9780199692989) is, therefore, a considerable achievement. It is at once concise, detailed, eminently readable, and also peppered with pleasing literary allusions.
 

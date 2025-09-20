@@ -8,11 +8,7 @@ description: "A review of Mark Stevens' 'Life in the Victorian Asylum,' offering
 keywords: ["Mark Stevens", "Life in the Victorian Asylum", "Victorian mental health", "asylum history", "Moulsford Asylum", "Broadmoor", "mental health care", "Victorian medicine", "psychiatric history"]
 ---
 
-{{< figure
-  src="/images/life-in-the-victorian-asylum.jpg"
-  alt="Cover of Life in the Victorian Asylum by Mark Stevens"
-  class="book"
->}}
+{{< book-cover src="images/life-in-the-victorian-asylum.jpg" alt="Cover of Life in the Victorian Asylum by Mark Stevens" >}}
 
 The mention of Victorian asylums often evokes images of despairing souls, incarcerated by sadistic wardens. While we might sigh with relief at our good fortune at living in more enlightened times, archivist Mark Stevens’s insightful new book offers a completely different perspective. Cleverly written in the style of a handbook for new arrivals, Stevens deftly adopts a Victorian tone, but with twenty-first-century sensibilities.
 

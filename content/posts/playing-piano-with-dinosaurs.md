@@ -8,11 +8,7 @@ description: "A candid account of transitioning from piano learning apps to real
 keywords: ["piano lessons", "adult piano learning", "piano teacher", "learning piano at 50", "piano technique", "adult music lessons", "piano practice"]
 ---
 
-{{< figure
-  src="/images/note-by-note.jpg"
-  alt="Cover of Note by Note by Tricia Tunstall"
-  class="book"
->}}
+{{< book-cover src="images/note-by-note.jpg" alt="Cover of Note by Note by Tricia Tunstall" >}}
 
 I just had my first proper piano lesson. Although I knew it would be an odd experience, I hadn’t quite prepared myself for the mental and emotional challenge. Having spent a year learning from an app, suddenly I was exposing myself to the judgement of a human. Fortunately, I’d chosen an excellent human. Steve is a calm, kind, and encouraging teacher. Above all, he’s someone who clearly loves teaching. With students ranging from 5 to 76, there’s not much he hasn’t seen, either. He certainly didn’t balk at the prospect of a nervous almost-51-year-old. Indeed, the dinosaur analogies he uses with the youngsters were remarkably effective for me.
 

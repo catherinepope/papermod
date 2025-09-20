@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 1874 novel 'Lady Anna,' which he de
 keywords: ["Anthony Trollope", "Lady Anna", "Countess Lovel", "Daniel Thwaite", "class barriers", "social disruption", "radical politics", "heiress marriage"]
 ---
 
-{{< figure
-  src="/images/lady-anna.jpg"
-  alt="Cover of Lady Anna by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/lady-anna.jpg" alt="Cover of Lady Anna by Anthony Trollope" >}}
 
 In his _Autobiography_ Trollope declared “Lady Anna is the best novel I ever wrote! Very much! Quite far away above all others!!!” Unfortunately, the reading public did not agree and Trollope was forced to defend his heroine on many an occasion.
 

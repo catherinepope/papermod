@@ -8,11 +8,7 @@ description: "A review of Jenny Hartley's 'Charles Dickens and the House of Fall
 keywords: ["Charles Dickens", "Jenny Hartley", "Urania Cottage", "fallen women", "Victorian social reform", "Angela Burdett Coutts", "Victorian philanthropy"]
 ---
 
-{{< figure
-  src="/images/charles-dickens-and-the-house-of-fallen-women.jpg"
-  alt="Cover of Charles Dickens and the House of Fallen Women by Jenny Hartley"
-  class="book"
->}}
+{{< book-cover src="images/charles-dickens-and-the-house-of-fallen-women.jpg" alt="Cover of Charles Dickens and the House of Fallen Women by Jenny Hartley" >}}
 
 I’m so glad to have come across Jenny Hartley’s book, as it has greatly improved relations between Charles Dickens and me. We previously had a complicated relationship, as I was unable to forgive him for the appalling way in which he cast aside his wife, Catherine, and consequently, I found his hypocrisy rather repellant. Hartley seems to share my discomfort, but has addressed her subject with commendable skill and balance – her portrait of the _soi-disant_ Inimitable is sympathetic without being sycophantic.
 

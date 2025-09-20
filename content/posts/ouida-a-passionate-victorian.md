@@ -8,11 +8,7 @@ description: "A review of Eileen Bigland's biography 'Ouida: A Passionate Victor
 keywords: ["Ouida", "Eileen Bigland", "Maria Louisa Ramé", "Victorian novelist", "Florence", "dog lover", "Under Two Flags", "literary biography"]
 ---
 
-{{< figure
-  src="/images/ouida.jpg"
-  alt="Photo of Ouida"
-  class="book"
->}}
+{{< book-cover src="images/ouida.jpg" alt="Photo of Ouida" >}}
 
 Ouida (1839-1908) was born Maria Louisa Ramé in the Suffolk town of Bury St Edmunds to an English mother and a largely absent French father. An eccentric child, she rapidly outgrew East Anglia, let alone her birthplace. She was delighted when in 1857 her mother agreed to move with her to the heaving metropolis of London. The good people of Ravenscourt Park (a suburb to the west) were rather perplexed by this strange creature: “she had not, so to speak, grown into her nose, her straight, mouse-coloured hair  hung in rats’ tails down her back, and she walked with one small, delicate hand resting on [her dog’s] collar.” Oblivious to her neighbours’ discomfort, Ouida (a childhood nickname) quickly built a career as a successful writer. There was no starving in a garret for her – she immediately struck literary gold with her work for _Bentley’s Miscellany_ and soon became a firm favourite with the reading public.
 

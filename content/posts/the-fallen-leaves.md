@@ -12,13 +12,7 @@ keywords: ["Wilkie Collins", "The Fallen Leaves", "1879 literature", "Victorian 
 
 ---
 
-{{< figure
-  src="/images/wilkie-collins.jpg"
-  alt="Portrait of Wilkie Collins by John Millais"
-  caption="Wilkie Collins, looking decently ashamed of himself"
-  class="book"
-  align="center"
->}}
+{{< book-cover src="images/wilkie-collins.jpg" alt="Portrait of Wilkie Collins by John Millais" >}}
 
 _The Fallen Leaves_ (1879) is generally considered to be Wilkie Collins’ worst novel, and for once I am inclined to agree with the majority view. It’s hard to credit that the masterful creator of _The Woman in White_ and _Armadale_ could also be responsible for such a turgid story. The ‘Fallen Leaves’ of the title are introduced as “The people who have drawn blanks in the lottery of life ... the friendless and the lonely, the wounded and the lost,” which alerts the reader to the excessive moralising that ensues.
 The novel actually starts rather well, with dastardly fortune hunter John Farnaby impregnating his girlfriend, Emma Ronald, thereby forcing her parents to approve their ill-advised marriage. Once he’s got his feet under the table, he arranges for the baby to be kidnapped, thereby escaping the stigma and inconvenience of a child conceived out of wedlock. The girl’s whereabouts remain unknown until the arrival of a Christian Socialist with the unlikely name of Amelius Goldenheart.

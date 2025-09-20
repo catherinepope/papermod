@@ -8,11 +8,7 @@ description: "A review of Anna Sewell's 1877 novel 'Black Beauty,' the autobiogr
 keywords: ["Anna Sewell", "Black Beauty", "horse autobiography", "animal welfare", "RSPCA", "cab horses", "children's classic", "anthropomorphic fiction"]
 ---
 
-{{< figure
-  src="/images/black-beauty.jpg"
-  alt="Cover of Black Beauty by Anna Sewell "
-  class="book"
->}}
+{{< book-cover src="images/black-beauty.jpg" alt="Cover of Black Beauty by Anna Sewell " >}}
 
 As you probably know, _Black Beauty_ (1877) is the autobiography of a rather handsome horse, admirably translated from the equine by Anna Sewell. Less well-known is the fact that Sewell earned just £40 for the copyright of the phenomenally successful novel. It sold 100,000 copies in her own short lifetime, and has no doubt sold millions more since then. Sadly, she didn’t live long enough to cash in on her name. However, I think she’d be pleased if her tale resulted in even one horse receiving better treatment.
 

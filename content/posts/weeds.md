@@ -8,11 +8,7 @@ description: "A review of Jerome K. Jerome's suppressed 1892 novella 'Weeds: A S
 keywords: ["Jerome K. Jerome", "Weeds", "adultery story", "anonymous publication", "sexual double standard", "fin de siècle", "Victorian censorship"]
 ---
 
-{{< figure
-  src="/images/weeds.jpg"
-  alt="Cover of Weeds by Jerome K. Jerome "
-  class="book"
->}}
+{{< book-cover src="images/weeds.jpg" alt="Cover of Weeds by Jerome K. Jerome " >}}
 
 Jerome K. Jerome is famous, of course, for writing one of the funniest books in the English language: _Three Men in a Boat_. What is less well known is that he desperately tried to reinvent himself as a serious author. _Weeds: A Story in Seven Chapters_ was published anonymously in 1892, Jerome hoping that the novella would be judged on its own merits, rather than compared unfavourably with his comic tales of irascible terriers and tinned pineapple. Unfortunately for him, his publisher Arrowsmith was nervous about the story’s frank portrayal of adultery and it was never made available for general sale during the author’s lifetime.
 

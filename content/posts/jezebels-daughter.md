@@ -8,12 +8,7 @@ description: "A review of Wilkie Collins' 1880 novel 'Jezebel's Daughter,' featu
 keywords: ["Wilkie Collins", "Jezebel's Daughter", "sensation novel", "poisoning plot", "mental illness", "Victorian business women", "Bedlam"]
 ---
 
-{{< figure
-  src="/images/wilkie-collins-lehmann.jpg"
-  alt="Portrait of Wilkie Collins by Rudolph Lehmann"
-  caption="Wilkie Collins, pondering his next plot"
-  class="book"
->}}
+{{< book-cover src="images/wilkie-collins-lehmann.jpg" alt="Portrait of Wilkie Collins by Rudolph Lehmann" >}}
 
 I seem to have embarked upon a Wilkie Collins season and can’t get enough of him at the moment. Although _Jezebel’s Daughter_ (1880) was one of his least popular novels, it certainly doesn’t lack interest or incident. 
 

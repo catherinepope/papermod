@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 1873 novel 'The Eustace Diamonds,' 
 keywords: ["Anthony Trollope", "The Eustace Diamonds", "Palliser novels", "Lizzie Eustace", "Victorian villainess", "inheritance law", "Lady Glencora", "Victorian legal drama"]
 ---
 
-{{< figure
-  src="/images/the-eustace-diamonds.jpg"
-  alt="Cover of The Eustace Diamonds by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/the-eustace-diamonds.jpg" alt="Cover of The Eustace Diamonds by Anthony Trollope" >}}
 
 My Trollope season continues with _The Eustace Diamonds_ (1873), the third in the series of Palliser novels, and my least favourite thus far. The young and beautiful Lizzie Greystock traps the elderly and very wealthy Sir Florian Eustace into marriage, and within a year she is a widow in possession of a necklace worth £10,000 (around half a million quid): the Eustace diamonds. Although she is adamant that the jewels were a gift from her late husband, the Eustace family lawyer insists they were an heirloom and therefore not hers to keep. He embarks upon a quest to retrieve them from the clutches of the recalcitrant Lady Eustace, who boldly repels the intrusions of detectives and decamps to Scotland in order to protect her assets.
 

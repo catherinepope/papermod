@@ -8,11 +8,7 @@ description: "A review of Mona Caird's 1889 novel 'The Wing of Azrael,' followin
 keywords: ["Mona Caird", "The Wing of Azrael", "1889 literature", "New Woman novel", "Viola Sedley", "marital abuse", "forced marriage", "psychological cruelty", "marriage debate", "feminist fiction"]
 ---
 
-{{< figure
-  src="/images/the-wing-of-azrael.jpg"
-  alt="Cover of The Wing of Azrael by Mona Caird"
-  class="book"
->}}
+{{< book-cover src="images/the-wing-of-azrael.jpg" alt="Cover of The Wing of Azrael by Mona Caird" >}}
 
 Mona Caird is best known for her 1888 article “Marriage”, in which she argued that the venerable institution was a “vexatious failure”. A reactionary retaliation in the _Daily Telegraph_ prompted 27,000 letters, with many of the correspondents agreeing with Caird’s gloomy assessment. The ensuing debate, “Is Marriage a Failure?”, captured the imagination of the public, spawning a book, an automaton, and a card game. _The Wing of Azrael_ (1889) was published in the following year, and the novel was judged very much in terms of the author’s polemical writings. With this in mind, Caird included a preface in which she attempted to establish a clear demarcation between the two, writing: “however much this book may be thought to deal with the question so much discussed, there is no intention on the writer’s part to make it serve a polemical ‘purpose’ or to advocate a cause. Its object is not to contest or argue, but to represent.” Notwithstanding Caird’s intention, _The Wing of Azrael_ is incontrovertibly a novel with a purpose, but it is, nonetheless, a fine example of the form.
 

@@ -8,11 +8,7 @@ description: "A review of Suzanne Fagence Cooper's 'Effie: The Passionate Lives 
 keywords: ["Effie Gray", "Suzanne Fagence Cooper", "John Ruskin", "John Millais", "biography review", "Victorian marriage", "Pre-Raphaelite", "Victorian women", "art history"]
 ---
 
-{{< figure
-  src="/images/effie.jpg"
-  alt="Cover of Effie by Suzanne Fagence Cooper"
-  class="book"
->}}
+{{< book-cover src="images/effie.jpg" alt="Cover of Effie by Suzanne Fagence Cooper" >}}
 
 History has not been kind to Effie Gray. Her first husband, John Ruskin, was supposedly terrified by her lower portions on their wedding night, while exasperated historians have blamed her for ruining the career of her second husband, John Millais. In this moving biography, Suzanne Fagence Cooper puts Effie centre stage, and we see her for the first time as an individual, as well as within the context of her two famous marriages.
 

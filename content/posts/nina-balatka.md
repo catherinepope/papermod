@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 1867 novel 'Nina Balatka,' his anon
 keywords: ["Anthony Trollope", "Nina Balatka", "Prague setting", "forbidden love", "Christian-Jewish romance", "anti-Semitism", "anonymous publication", "Bohemia", "experimental Trollope"]
 ---
 
-{{< figure
-  src="/images/nina-balatka.jpg"
-  alt="Cover of Nina Balatka by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/nina-balatka.jpg" alt="Cover of Nina Balatka by Anthony Trollope" >}}
 
 Most people don’t like change, and Trollope readers really hate it. _Nina Balatka_ (1867) was an attempt to try something different, and Trollope published it anonymously in order to mark the departure from his familiar style. Reviewers quickly saw through his disguise, and the reading public were unimpressed. The original serialisation in _Blackwood’s Magazine_ flopped, and the three-decker sold fewer than 500 copies. Consequently, the novel is one of Trollope’s least-known works. A terrible shame, say I, as _Nina Balatka_ is one of his finest short novels.
 

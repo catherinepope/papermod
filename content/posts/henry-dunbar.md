@@ -8,11 +8,7 @@ description: "A review of Mary Elizabeth Braddon's 1864 sensation novel 'Henry D
 keywords: ["Mary Elizabeth Braddon", "Henry Dunbar", "1864 literature", "sensation novel", "Margaret Wilmot", "lady detective", "bank fraud", "capital punishment", "Victorian crime", "Kate Terry"]
 ---
 
-{{< figure
-  src="/images/henry-dunbar.jpg"
-  alt="Cover of Henry Dunbar by Mary Elizabeth Braddon"
-  class="book"
->}}
+{{< book-cover src="images/henry-dunbar.jpg" alt="Cover of Henry Dunbar by Mary Elizabeth Braddon" >}}
 
 Mary Elizabeth Braddon is, of course, best known for her sensation classic _Lady Audley’s Secret_, with its infamous eponymous bigamist. A contemporary critic actually thought Henry Dunbar (1864) superior, praising its “excellence of plot,” “animal vivacity,” and “boldness of incident”.  Not all reviewers were impressed, however. Some were outraged by the central murder plot and Braddon’s handling of the theme of crime and punishment, in which she appears to argue against the death penalty. Capital punishment was a hotly debated topic at the time, with public executions banned four years after the novel’s publication. The compelling plot and topical themes made Henry Dunbar an ideal candidate for stage adaptation, and successful playwright Tom Taylor did the honours the following year, with Kate Terry appearing as the female lead at the Olympic Theatre.
 

@@ -8,13 +8,7 @@ description: "A review of Wilkie Collins' 1889 novel 'Legacy of Cain,' exploring
 keywords: ["Wilkie Collins", "Legacy of Cain", "nature versus nurture", "heredity debate", "sensation novel", "crime fiction", "Victorian psychology"]
 ---
 
-{{< figure
-  src="/images/wilkie-collins-1853.jpg"
-  alt="Portrait of Wilkie Collins by Charles Allston Collins"
-  caption="Wilkie Collins drafting a prompt for ChatGPT"
-  align="center"
-  class="book"
->}}
+{{< book-cover src="images/wilkie-collins-1853.jpg" alt="Portrait of Wilkie Collins by Charles Allston Collins" >}}
 
 Wilkie Collins is often overlooked as a comic writer, but _Legacy of Cain_ (1889) shows him at his best, with several scenes causing me to snort indecorously on the train. The subtle humour leavens a novel dealing with the thorny issue of criminality and genetics, which could have become ponderous in less skilled hands.
 

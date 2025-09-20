@@ -8,11 +8,7 @@ description: "A review of Ouida's 'Moths,' the first English novel to show a div
 keywords: ["Ouida", "Victorian divorce", "sensation fiction", "abusive marriage", "women's independence", "Silver Fork novel", "Victorian feminism"]
 ---
 
-{{< figure
-  src="/images/moths.jpg"
-  alt="Cover of Moths by Ouida"
-  class="book"
->}}
+{{< book-cover src="images/moths.jpg" alt="Cover of Moths by Ouida" >}}
 
 Ouida’s [_Moths_](https://broadviewpress.com/product/moths/#tab-description) is credited with being the first English novel to show a divorced woman happily remarried, and as such represents a landmark in women’s writing. Of course many authors, notably of the ‘sensation school’, tackled the thorny issue of divorce, but ultimately either the heroine’s inconvenient spouse would obligingly die at the eleventh hour, or she would have to live a nun-like existence, hidden from society’s disapproving gaze.
 

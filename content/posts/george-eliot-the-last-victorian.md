@@ -8,11 +8,7 @@ description: "A review of Kathryn Hughes' 'George Eliot: The Last Victorian,' ex
 keywords: ["George Eliot", "Kathryn Hughes", "The Last Victorian", "Mary Ann Evans", "G.H. Lewes", "John Cross", "Victorian biography", "women writers", "literary biography", "Victorian feminism"]
 ---
 
-{{< figure
-  src="/images/george-eliot-last-victorian.jpg"
-  alt="Cover of George Eliot by Kathryn Hughes"
-  class="book"
->}}
+{{< book-cover src="images/george-eliot-last-victorian.jpg" alt="Cover of George Eliot by Kathryn Hughes" >}}
 
 Although George Eliot declared biography to be “a disease of English literature,” it hasn’t yet been eradicated, and there have been almost 20 attempts to tell the story of her life and career. The number of Victorian women writers who enjoyed both critical and commercial success can be counted on the fingers of one hand, so Eliot is certainly worthy of all this biographical attention. Of course, George Eliot is just as famous for her unconventional private life as for her novels. Well, I say “private life,” but the details of her adulterous relationship with G H Lewes and subsequent short-lived marriage to John Cross have been the subject of much lurid speculation. There isn’t much new information in Hughes’ book, but her account is lively, insightful, and unashamedly feminist in approach.
 

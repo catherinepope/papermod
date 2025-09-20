@@ -8,11 +8,7 @@ description: "A review of Marie Corelli's bizarre 1895 novel 'The Sorrows of Sat
 keywords: ["Marie Corelli", "The Sorrows of Satan", "Victorian novel", "Faustian pact", "Victorian bestseller", "New Woman fiction", "fin de siècle"]
 ---
 
-{{< figure
-  src="/images/sorrows-of-satan.jpg"
-  alt="Cover of The Sorrows of Satan by Marie Corelli "
-  class="book"
->}}
+{{< book-cover src="images/sorrows-of-satan.jpg" alt="Cover of The Sorrows of Satan by Marie Corelli " >}}
 
 Marie Corelli’s [_The Sorrows of Satan_](https://uk.bookshop.org/a/2760/9781934555187) (1895) is possibly the oddest novel I’ve ever read. And that’s saying something. The plot concerns Geoffrey Tempest, a struggling novelist, who unexpectedly inherits £5 million from a distant relative. This stroke of good fortune coincides with a visit from Prince Lucio Raminez, who the reader soon realises is the eponymous Satan. Tempest unwittingly makes a Faustian pact, and the life of which he could once only dream finally becomes a reality.  He marries a much-celebrated society beauty, Lady Sybil Elton, and is able to buy them an idyllic home in the countryside. His new-found wealth also brings fame, thus ensuring an eager market for his novel.
 

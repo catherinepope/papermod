@@ -10,11 +10,7 @@ keywords: ["Anthony Trollope", "The Last Chronicle of Barset", "Barsetshire Chro
 
 **WARNING:** this review is positively teeming with plot spoilers.
 
-{{< figure
-  src="/images/the-last-chronicle-of-barset.jpg"
-  alt="Cover of The Last Chronicle of Barset by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/the-last-chronicle-of-barset.jpg" alt="Cover of The Last Chronicle of Barset by Anthony Trollope" >}}
 
 Drat my impatience. I was trying to save _The Last Chronicle of Barset_ (1867) for a forthcoming holiday, but the temptation was too great. As the title suggests, the novel is the final chronicle in Trollope’s tales of Barsetshire, so there is a certain poignancy that such memorable characters have now been put to rest. For many devotees, this novel is their favourite in the Trollopian Canon, and it’s easy to see why. The formidable cast from the previous chronicles is assembled and it’s like meeting old friends and finding out what they’ve been doing since you last saw them. As the reader is already familiar with the trials and tribulations of Barsetshire folk, there aren’t endless new names to remember and opinions to be formed (opinion-forming it deceptively fatiguing). Although there are sensational elements, Trollope delivers them in a languid fashion, relying on gradual enlightenment, rather than narrative shocks. Nathaniel Hawthorne, I think, encapsulated the essence of Trollope when he wrote that his writing is “as real as if some giant had hewn a great lump out of the earth and put it under a glass case, with all its inhabitants going about their daily business, and not suspecting that they were being made a show of.”
 

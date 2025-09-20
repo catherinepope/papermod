@@ -8,11 +8,7 @@ description: "A review of Richard Morris' biography 'Harry Price: The Psychic De
 keywords: ["Harry Price", "Richard Morris", "book review", "psychic detective", "ghost investigation", "paranormal debunking", "biography review", "historical biography", "supernatural hoax"]
 ---
 
-{{< figure
-  src="/images/harry-price.jpg"
-  alt="Cover of Harry Price: The Psychic Detective by Richard Morris"
-  class="book"
->}}
+{{< book-cover src="images/harry-price.jpg" alt="Cover of Harry Price: The Psychic Detective by Richard Morris" >}}
 
 [Harry Price: The Psychic Detective](https://uk.bookshop.org/a/2760/9780750942720) is an investigation into an investigator. There must be a clever Latin phrase for that sort of caper, but I know not what it is.  I saw an excellent exhibition of Price's ghost investigations at [The Photographers' Gallery](https://thephotographersgallery.org.uk) a few years ago and came away with the impression that he was a serious scientist, although something of a show-off. Richard Morris' research, however, unearths evidence to prove that Price was often responsible for the phenomena he was trying to debunk. Indeed, in an early piece of writing, he admitted that many people prefer the "bunk" to the "debunk". He was essentially an accomplished showman who was desperate for recognition. Although greatly admired in some quarters, he was never sufficiently successful to give up his day job as, of all things, a paper bag salesman.
 

@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's final Palliser novel 'The Duke's Ch
 keywords: ["Anthony Trollope", "The Duke's Children", "Palliser novels", "final Palliser", "Duke of Omnium", "Lady Mary Palliser", "Lord Silverbridge", "Lady Mabel Grex", "Victorian social change"]
 ---
 
-{{< figure
-  src="/images/the-dukes-children.jpg"
-  alt="Cover of The Duke’s Children by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/the-dukes-children.jpg" alt="Cover of The Duke’s Children by Anthony Trollope" >}}
 
 One of my less onerous resolutions for 2010 was to read all the Palliser novels, and my work is now done. In contrast with the inherent conservatism of [its predecessor](/posts/the-prime-minister/), _The Duke’s Children_ (1880) is all about the necessity of change. The novel opens with the death of the Duchess of Omnium (formerly Lady Glencora Palliser), thereby signalling that nothing will ever be the same again. The Duke’s grief is compounded by the behaviour of his children, who all privilege inclination over duty, seeking happiness rather than strategic advantage. His daughter, Lady Mary, becomes engaged to a penniless aspiring MP; son and heir, Lord Silverbridge, is sent down from Oxford for painting the Dean’s house red and then falls in love with the American granddaughter of a dock-worker; and younger son Gerald makes a dent in the considerable family fortune through his fondness for cards and horses.
 

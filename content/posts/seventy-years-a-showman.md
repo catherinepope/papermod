@@ -8,11 +8,7 @@ description: "A review of 'Lord' George Sanger's autobiography 'Seventy Years a 
 keywords: ["George Sanger", "Seventy Years a Showman", "Victorian circus", "showman autobiography", "circus history", "Victorian entertainment", "Ajax elephant", "living curiosities", "19th century performers"]
 ---
 
-{{< figure
-  src="/images/seventy-years-a-showman.jpg"
-  alt="Cover of Seventy Years a Showman by ‘Lord’ George Sanger"
-  class="book"
->}}
+{{< book-cover src="images/seventy-years-a-showman.jpg" alt="Cover of Seventy Years a Showman by ‘Lord’ George Sanger" >}}
 
 One of the many joys of delving into the nineteenth century is meeting the numerous vibrant characters who inhabited it. I first encountered ‘Lord’ George Sanger when researching the Hyde Park celebrations that marked Queen Victoria’s accession. Over nine days in June 1838, Sanger and his circus family thrilled the crowds with learned pigs and clairvoyant ponies. Their remarkable troupe also included ‘Living Curiosities’: the pig-faced woman, the living skeleton, the world’s tallest woman, and cannibal pygmies. Something for everyone, I’m sure you’ll agree.
 

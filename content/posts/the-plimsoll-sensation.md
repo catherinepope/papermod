@@ -8,11 +8,7 @@ description: "A review of Nicolette Jones' biography of Samuel Plimsoll MP (1824
 keywords: ["Samuel Plimsoll", "Nicolette Jones", "Plimsoll Line", "biography review", "Victorian politics", "maritime safety", "coffin ships", "social reform", "Victorian campaigner"]
 ---
 
-{{< figure
-  src="/images/The-plimsoll-sensation.jpg"
-  alt="Cover of The Plimsoll Sensation by Nicolette Jones"
-  class="book"
->}}
+{{< book-cover src="images/The-plimsoll-sensation.jpg" alt="Cover of The Plimsoll Sensation by Nicolette Jones" >}}
 
 Samuel Plimsoll MP (1824-1898) is a peripheral character in Victorian history, but his contribution to politics was immense. His Big Idea was to mark a line on the side of a ship to indicate the lowest level at which it might safely sit in the water. Although that might sound like plain common sense, opposition to Plimsoll's proposal was colossal. Some ruthless shipowners would deliberately over-insure their vessels and send them to sea in a terrible state of repair. If the ship sank, they would receive several times its value, but the crew would meet with a salty death. Although such extreme cases were mercifully rare, it was relatively common practice for businessmen to seriously overload their vessels in a bid to maximise profits. Understandably, sailors were reluctant to crew these "coffin-ships", but refusal meant three months' imprisonment - the law protected the criminal, rather than the victim.
 

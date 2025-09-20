@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 1870 novel 'The Vicar of Bullhampto
 keywords: ["Anthony Trollope", "The Vicar of Bullhampton", "Woman Question", "Mary Lowther", "Mr Fenwick", "Victorian marriage", "Christian forgiveness", "prostitution", "social morality"]
 ---
 
-{{< figure
-  src="/images/the-vicar-of-bullhampton.jpg"
-  alt="Cover of The Vicar of Bullhampton by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/the-vicar-of-bullhampton.jpg" alt="Cover of The Vicar of Bullhampton by Anthony Trollope" >}}
 
 I’m currently enjoying something of a Trollope Fest. This is a rather indulgent activity, as really I should be focusing on some women novelists. In my defence, I was reliably informed that _The Vicar of Bullhampton_ was inspired by Trollope’s interest in the Woman Question.
 

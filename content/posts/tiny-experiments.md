@@ -8,11 +8,7 @@ description: "Discover how Anne-Laure Le Cunff's 'Tiny Experiments' approach can
 keywords: ["Tiny Experiments", "Anne-Laure Le Cunff", "goal setting", "Ness Labs", "productivity", "personal development", "mindful productivity"]
 ---
 
-{{< figure
-  src="/images/tiny-experiments.jpg"
-  alt="Cover of Tiny Experiments by Anne-Laure Le Cunff"
-  class="book"
->}}
+{{< book-cover src="images/tiny-experiments.jpg" alt="Cover of Tiny Experiments by Anne-Laure Le Cunff" >}}
 
 As a recovering workaholic, I’m always keen to find more sensible ways of conducting myself. Before my late 40s, I could set unrealistic goals, achieve them, and recover quickly from the inevitable exhaustion. Instead of being selective about which project to pursue, I would hurl myself like a loon at all of them. Now a reformed character, I was recently drawn to the tagline: “Forget the five-year plan: achieve your ambitions through tiny experiments.”
 

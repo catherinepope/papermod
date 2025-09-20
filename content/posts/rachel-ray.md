@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 1863 novel 'Rachel Ray,' set in pas
 keywords: ["Anthony Trollope", "Rachel Ray", "Evangelicalism", "women's property", "Victorian politics", "rural England"]
 ---
 
-{{< figure
-  src="/images/rachel-ray.jpg"
-  alt="Cover of Rachel Ray by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/rachel-ray.jpg" alt="Cover of Rachel Ray by Anthony Trollope" >}}
 
 According to P D Edward’s introduction, Trollope sent a copy of _Rachel Ray_ to George Eliot, wondering what she would think of his “little story”. History does not tell us her response, but I suspect she would have enjoyed it, as it is not unlike her own _Scenes of Clerical Life_. He tried to confine himself to the “commonest details of commonplace life” but this anything but a dull novel.
 

@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 1867 novel 'Phineas Finn,' followin
 keywords: ["Anthony Trollope", "Phineas Finn", "Palliser novels", "Lady Laura Standish", "Violet Effingham", "Reform Act", "parliamentary novel", "Victorian politics"]
 ---
 
-{{< figure
-  src="/images/phineas-finn.jpg"
-  alt="Cover of Phineas Finn by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/phineas-finn.jpg" alt="Cover of Phineas Finn by Anthony Trollope" >}}
 
 The second of Trollope’s Palliser novels, _Phineas Finn_, is also the first of his works with a predominant parliamentary theme. Although of relatively humble origins, the eponymous hero is elected MP for Loughshane through the support of his father’s old friend Lord Tulla. His father urges him to merely dabble in politics and focus on building a more lucrative legal career, but Finn is seduced by a life in Westminster and the circles in which he is now moving.
 

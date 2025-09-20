@@ -8,11 +8,7 @@ description: "A review of Kate Colquhoun's 'Did She Kill Him?,' examining the 18
 keywords: ["Kate Colquhoun", "Did She Kill Him", "Florence Maybrick", "Victorian poisoning", "arsenic murder", "1889 trial", "Victorian justice", "adultery trial", "Victorian crime", "miscarriage of justice"]
 ---
 
-{{< figure
-  src="/images/did-she-kill-him.jpg"
-  alt="Cover of Did She Kill Him? by Kate Colquhoun"
-  class="book"
->}}
+{{< book-cover src="images/did-she-kill-him.jpg" alt="Cover of Did She Kill Him? by Kate Colquhoun" >}}
 
 Anyone who saw the recent BBC documentary _Hidden Killers of the Victorian Home_ knows that arsenic was everywhere in the late nineteenth century. It was used as a beauty product, as a medicine, and also to achieve a vibrant green colour in wallpaper. This ubiquity made it devilishly difficult to prove cases of deliberate poisoning and many murderers probably got away scot-free. When a case did make it to court, the nation was transfixed. Kate Colquhoun’s engrossing book recounts the 1889 trial of Florence Maybrick, a young American woman accused of poisoning her respectable English husband, James. This cause célèbre dominated the press and divided opinion and Did She Kill Him? evokes the febrile atmosphere of the courtroom.
 

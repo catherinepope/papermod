@@ -1,0 +1,12 @@
+{{ $src := .Get "src" }}
+{{ $img := resources.Get $src }}
+<p>Debug: Looking for: {{ $src }}</p>
+<p>Debug: Found resource: {{ if $img }}YES{{ else }}NO{{ end }}</p>
+{{ if $img }}
+<figure{{ if .Get "center" }} class="centered-figure"{{ end }}>
+  <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ .Get "alt" }}">
+  {{ if .Get "caption" }}
+    <figcaption>{{ .Get "caption" }}</figcaption>
+  {{ end }}
+</figure>
+{{ end }}

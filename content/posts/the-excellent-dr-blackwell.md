@@ -8,11 +8,7 @@ description: "A review of Julia Boyd's 'The Excellent Doctor Blackwell,' chronic
 keywords: ["Elizabeth Blackwell", "Julia Boyd", "The Excellent Doctor Blackwell", "first woman doctor", "women in medicine", "medical pioneers", "Victorian women", "women's rights", "medical history", "feminist biography"]
 ---
 
-{{< figure
-  src="/images/the-excellent-dr-blackwell.jpg"
-  alt="Cover of The Excellent Dr Blackwell by Julia Boyd"
-  class="book"
->}}
+{{< book-cover src="images/the-excellent-dr-blackwell.jpg" alt="Cover of The Excellent Dr Blackwell by Julia Boyd" >}}
 
 Even _Punch_, a magazine frequently hostile to the emancipated woman, felt grudging admiration for Elizabeth Blackwell (1821-1910), the first woman doctor to be registered in Britain. From a 21st-century perspective, with women doctors now in the majority, it’s difficult to appreciate just how hard it was for these indefatigable pioneers, who encountered considerable hostility and even violence when pursuing their vocation.
 

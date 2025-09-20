@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 1870 satirical novel 'The Struggles
 keywords: ["Anthony Trollope", "The Struggles of Brown, Jones and Robinson", "advertising satire", "Victorian commerce", "haberdashery business", "marketing satire", "underrated Trollope"]
 ---
 
-{{< figure
-  src="/images/the-struggles-of-brown.jpg"
-  alt="Cover of The Struggles of Brown, Jones and Robinson by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/the-struggles-of-brown.jpg" alt="Cover of The Struggles of Brown, Jones and Robinson by Anthony Trollope" >}}
 
 Trollope intended _The Struggles of Brown, Jones and Robinson_ (1870) as "a hit at the present system of advertising". Unfortunately, his unappreciative audience thought it a flop, with one critic dismissing it as “Thackeray-and-water”. As is often the case, I find myself almost alone in thinking it one of the author’s triumphs.
 

@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 1868 novel 'Linda Tressel,' his ano
 keywords: ["Anthony Trollope", "Linda Tressel", "1868 literature", "anonymous publication", "forced marriage", "Nuremberg setting", "Calvinism", "experimental Trollope", "domestic tyranny", "Trollope Challenge"]
 ---
 
-{{< figure
-  src="/images/nina-balatka.jpg"
-  alt="Cover of Nina Balatka by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/nina-balatka.jpg" alt="Cover of Nina Balatka by Anthony Trollope" >}}
 
 Anthony Trollope's souvenir from an 1865 trip to Nuremberg was an idea for a different kind of novel. Already famous for his Barsetshire Novels, he was keen to create "a second literary identity"[^1] and inhabit a different culture. As an experiment, he published [_Nina Balatka_](../nina-balatka/) (1867) and _Linda Tressel_ (1868) anonymously in _Blackwood's Magazine_. Neither proved successful, even when reissued as novels under his usually bankable name. While his sensitive exploration of interracial marriage in _Nina Balatka_ remains compelling, Trollope's lugubrious tale of forced marriage in _Linda Tressel_ is much harder to love.
 

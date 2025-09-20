@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 1882 novel 'Marion Fay,' featuring 
 keywords: ["Anthony Trollope", "Marion Fay", "Lord Hampstead", "George Roden", "inheritance plot", "class barriers", "Quaker heroine", "postal clerk", "late Trollope"]
 ---
 
-{{< figure
-  src="/images/marion-fay.jpg"
-  alt="Cover of Marion Fay by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/marion-fay.jpg" alt="Cover of Marion Fay by Anthony Trollope" >}}
 
 I can’t help but suspect that _Marion Fay_ (1882) is a literary bubble and squeak. Trollope seems to have taken some leftover plots and put them together, seasoning them with a dash of sensation. He did have a habit of popping half-written manuscripts in a drawer, secure in the knowledge that they could in future bring him some much-needed income. The novel was published not long before he died, so perhaps we can forgive him for going slightly off the boil.
 

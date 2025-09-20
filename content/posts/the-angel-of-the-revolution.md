@@ -8,11 +8,7 @@ description: "A review of George Chetwynd Griffith's 1893 sci-fi novel 'The Ange
 keywords: ["George Chetwynd Griffith", "The Angel of the Revolution", "1893 science fiction", "dirigibles", "air warfare", "Socialist revolution", "Victorian sci-fi", "utopian fiction", "early aviation", "prescient technology"]
 ---
 
-{{< figure
-  src="/images/the-angel-of-the-revolution.jpg"
-  alt="Cover of The Angel of the Revolution by George Chetwynd Griffith"
-  class="book"
->}}
+{{< book-cover src="images/the-angel-of-the-revolution.jpg" alt="Cover of The Angel of the Revolution by George Chetwynd Griffith" >}}
 
 I must confess to a degree of scepticism on receipt of a proposal to publish _The Angel of the Revolution_, George Chetwynd Griffith’s 1893 tale of air warfare. Sci-fi generally resides in my Room 101 and has no place on the papal bookshelves. Imagine my surprise at finding myself completely gripped by a fantastical story in which an intrepid group of Socialists, Anarchists, and Nihilists defeat Capitalism with their superior knowledge of dirigibles (my new favourite word). Led by a crippled, brilliant Russian Jew and his daughter, Natasha, The Brotherhood of Freedom establishes a ‘pax aeronautica’ over the world, thanks to the expertise of scientist Richard Arnold.  Arnold falls in love with Natasha (the eponymous Angel), and Griffith builds a utopian vision of Socialism and romance.
 

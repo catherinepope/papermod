@@ -8,11 +8,7 @@ description: "A review of George Moore's controversial 1885 novel 'A Mummer's Wi
 keywords: ["George Moore", "A Mummer's Wife", "Victorian censorship", "Mudie's library", "adultery novel", "alcoholism",  "sensation fiction", "literary realism"]
 ---
 
-{{< figure
-  src="/images/a-mummers-wife.jpg"
-  alt="Cover of A Mummer’s Wife by George Moore"
-  class="book"
->}}
+{{< book-cover src="images/a-mummers-wife.jpg" alt="Cover of A Mummer’s Wife by George Moore" >}}
 
 _A Mummer’s Wife_ (1885) was my first introduction to George Moore, and I found myself captivated by this intriguing literary figure, who attracted praise and censure in equal measure. W B Yeats found the novel so shocking that he forbade his sister to read it, and the conservative press was almost unanimous in condemning its “coarseness”.
 

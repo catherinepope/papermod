@@ -9,11 +9,7 @@ keywords: ["Diderot Effect", "consumer psychology", "minimalism", "lifestyle inf
 
 ---
 
-{{< figure
-  src="/images/post-growth-living.jpg"
-  alt="Cover of Post-Growth Living by Kate Soper"
-  class="book"
->}}
+{{< book-cover src="images/post-growth-living.jpg" alt="Cover of Post-Growth Living by Kate Soper" >}}
 
 Have you ever bought a new coat and thought, “hmm, now I need a smarter bag to go with it”? If so, you’ve experienced the Diderot Effect. Denis Diderot (1713-84) was a French writer, famous for his encyclopaedia and a novel about saucy nuns.
 

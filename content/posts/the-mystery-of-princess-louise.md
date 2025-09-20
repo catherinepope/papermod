@@ -8,11 +8,7 @@ description: "A review of Lucinda Hawksley's 'The Mystery of Princess Louise,' e
 keywords: ["Princess Louise", "Lucinda Hawksley", "Queen Victoria", "royal biography", "Victorian feminism", "Marquess of Lorne", "Edgar Boehm", "royal scandal", "illegitimate child", "royal archives"]
 ---
 
-{{< figure
-  src="/images/the-mystery-of-princess-louise.jpg"
-  alt="Cover of The Mystery of Princess Louise by Lucinda Hawksley "
-  class="book"
->}}
+{{< book-cover src="images/the-mystery-of-princess-louise.jpg" alt="Cover of The Mystery of Princess Louise by Lucinda Hawksley " >}}
 
 If someone had thought to ask Queen Victoria what sort of daughter she didn’t want, she might have described Princess Louise: a smoker, a cyclist, and a strong-minded feminist who consorted with the likes of Josephine Butler and George Eliot. It is this tense mother-daughter relationship that dominates Lucinda Hawksley’s lively and enjoyable biography of an intriguing royal whose attitude to sex was distinctly unvictorian.
 

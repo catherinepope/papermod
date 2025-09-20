@@ -8,11 +8,7 @@ description: "A review of Judith Flanders' 'The Victorian City: Everyday Life in
 keywords: ["Judith Flanders", "The Victorian City", "Dickens' London", "Victorian London", "19th century life", "urban history", "Victorian society", "London history", "social history"]
 ---
 
-{{< figure
-  src="/images/the-victorian-city.jpg"
-  alt="Cover of The Victorian City by Judith Flanders"
-  class="book"
->}}
+{{< book-cover src="images/the-victorian-city.jpg" alt="Cover of The Victorian City by Judith Flanders" >}}
 
 Much as I would like to pay a visit to Victorian London, I fear my acute olfactory sense would send me scurrying back to the 21st century. Fortunately, in [_The Victorian City_](https://uk.bookshop.org/a/2760/9781848877979) Judith Flanders has allowed me to experience the sights, sounds and dubious smells of the heaving metropolis without leaving my armchair.
 

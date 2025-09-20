@@ -8,11 +8,7 @@ description: "A review of Brian Thompson's biography 'The Disastrous Mrs Weldon,
 keywords: ["Georgina Weldon", "Brian Thompson", "The Disastrous Mrs Weldon", "Victorian biography", "asylum escape", "Charles Gounod", "lunacy laws", "women's rights", "legal battles", "Forbes Winslow"]
 ---
 
-{{< figure
-  src="/images/the-disastrous-mrs-weldon.jpg"
-  alt="Cover of The Disastrous Mrs Weldon by Brian Thompson "
-  class="book"
->}}
+{{< book-cover src="images/the-disastrous-mrs-weldon.jpg" alt="Cover of The Disastrous Mrs Weldon by Brian Thompson " >}}
 
 You certainly need to fasten your seatbelt for Brian Thompson’s biography _The Disastrous Mrs Weldon_.  [Wilkie Collins](/tags/wilkie-collins/) couldn’t have created the eponymous heroine, even if he’d been a bit heavy-handed with the laudanum. During her extraordinary life, Georgina Weldon married an impecunious army officer against her family’s wishes, set up an orphanage in Charles Dickens’ former home, held a famous French composer captive, had a lesbian affair, and represented herself in over 200 court cases.
 

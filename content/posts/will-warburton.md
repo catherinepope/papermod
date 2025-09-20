@@ -8,11 +8,7 @@ description: "A review of George Gissing's final novel 'Will Warburton,' followi
 keywords: ["George Gissing", "Will Warburton", "posthumous novel", "Victorian shopkeeper", "social mobility", "money and class", "New Grub Street comparison", "Victorian fiction", "final novel"]
 ---
 
-{{< figure
-  src="/images/george-gissing.jpg"
-  alt="Photo of George Gissing"
-  class="book"
->}}
+{{< book-cover src="images/george-gissing.jpg" alt="Photo of George Gissing" >}}
 
 I’ve always been slightly chary of _Will Warbuton_ (1905), having been warned that it features a happy ending. Anyone familiar with Gissing’s novels will know that he is relentlessly bleak, and anything else would be plain wrong. Much to my relief, misery still abounds in this story, and Gissing’s characteristic obsession with money, sex, and class is evident throughout.
 

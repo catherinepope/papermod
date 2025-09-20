@@ -8,11 +8,7 @@ description: "A review of Helen Rappaport's 'Beautiful For Ever,' the biography 
 keywords: ["Madame Rachel", "Helen Rappaport", "Beautiful For Ever", "Sarah Rachel Levison", "biography review", "Victorian con-artist", "cosmetics history", "Wilkie Collins", "Victorian crime"]
 ---
 
-{{< figure
-  src="/images/beautiful-for-ever.jpg"
-  alt="Cover of Beautiful for Ever by Helen Rappaport"
-  class="book"
->}}
+{{< book-cover src="images/beautiful-for-ever.jpg" alt="Cover of Beautiful for Ever by Helen Rappaport" >}}
 
 Fellow Victorian geeks will recognise Madame Rachel as Maria Oldershaw, foster mother and business partner of the delicious Lydia Gwilt in Wilkie Collins’ _Armadale_. She and her beauty products were also referred to in Mary Elizabeth Braddon’s _Lady Audley’s Secret_. In this excellent biography, Helen Rappaport tells the true story of the woman behind the infamous creation of “Madame Rachel”, purveyor of dubious unguents which promised to make women “beautiful for ever”.
 

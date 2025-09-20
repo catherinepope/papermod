@@ -8,11 +8,7 @@ description: "A review of Neil McKenna's 'Fanny and Stella,' chronicling the sca
 keywords: ["Neil McKenna", "Fanny and Stella", "Frederick Park", "Ernest Boulton", "Victorian cross-dressing", "1870 trial", "LGBT history", "Victorian scandal", "gender identity", "Victorian justice"]
 ---
 
-{{< figure
-  src="/images/fanny-and-stella.jpg"
-  alt="Cover of Fanny and Stella by Neil McKenna"
-  class="book"
->}}
+{{< book-cover src="images/fanny-and-stella.jpg" alt="Cover of Fanny and Stella by Neil McKenna" >}}
 
 To be decadent in an age of utility was unforgivable, as Frederick Park and Ernest Boulton were to find out in a trial that scandalised London in 1870. Better known as Fanny and Stella, the two young clerks were arrested and charged with outraging public decency by dressing as women and “conspiring to incite others to commit unnatural offences”. As there were no specific laws against cross-dressing and “unnatural offences” (i.e. buggery) were difficult to prove, the court case was as oblique as it was sensational. In this enthralling account, Neil McKenna chronicles the arrest and cross-examination of Ernest “Stella” Boulton and Frederick “Fanny” Park by using court transcriptions and letters between the accused and their circle. Where there are gaps, McKenna uses his imagination, inhabiting their world seamlessly and appropriating the colourful language of _fin-de-siècle_ London.
 

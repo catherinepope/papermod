@@ -8,11 +8,7 @@ description: "A review of Sarah Wise's 'Inconvenient People,' revealing how Vict
 keywords: ["Sarah Wise", "Inconvenient People", "Victorian asylums", "wrongful confinement", "lunacy laws", "Rosina Bulwer-Lytton", "mental health history", "Victorian justice"]
 ---
 
-{{< figure
-  src="/images/inconvenient-people.jpg"
-  alt="Cover of Inconvenient People by Sarah Wise"
-  class="book"
->}}
+{{< book-cover src="images/inconvenient-people.jpg" alt="Cover of Inconvenient People by Sarah Wise" >}}
 
 The trouble with reading a lot of Victorian potboilers is that they start to seem like reality. The madwoman in the attic is a pervasive image throughout nineteenth-century culture, from Bertha Mason, through to Laura Fairlie and Lady Audley. In this gripping and insightful study, Sarah Wise reveals that it was actually husbands who were most at risk of being detained against their will. It makes sense when you think about it: men were the main inheritors of wealth, also assuming their wife’s property upon marriage. Consequently, there was a “high bar” set for men to prove themselves fit to control that wealth, and every incentive for their enemies to demonstrate otherwise.
 

@@ -8,11 +8,7 @@ description: "A review of Maureen Waller's 'The English Marriage,' chronicling 5
 keywords: ["Maureen Waller", "The English Marriage", "marriage history", "domestic violence", "divorce law", "women's rights", "Victorian marriage", "matrimonial law", "British social history", "legal history"] 
 ---
 
-{{< figure
-  src="/images/the-english-marriage.jpg"
-  alt="Cover of The English Marriage by Maureen Waller"
-  class="book"
->}}
+{{< book-cover src="images/the-english-marriage.jpg" alt="Cover of The English Marriage by Maureen Waller" >}}
 
 Following his umpteenth divorce, Rod Stewart remarked that he wouldn’t get married again – he would simply find a (presumably blonde) woman he didn’t like very much and give her a house. Reading Maureen Waller’s [_The English Marriage_](https://uk.bookshop.org/a/2760/9781848544017), I can’t say I blame him. There is very little love to be found in these pages, rather an abundance of violence, infidelity, and fraud. Each chapter focuses on a particular marriage and the outrage it embodied, whether it be wife-sale (yes, Hardy wasn’t making it up), bigamy, or old-fashioned adultery. These stories are interspersed with enlightening extracts from conduct manuals. My favourite of these is clergyman William Gouge’s _Domesticall Duties_ (1622), which decrees that a married woman must maintain “an inward, wife-like fear”.
 

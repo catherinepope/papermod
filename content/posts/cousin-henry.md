@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 1880 novel 'Cousin Henry,' featurin
 keywords: ["Anthony Trollope", "Cousin Henry", "inheritance fraud", "concealed will", "primogeniture", "guilty conscience", "character study"]
 ---
 
-{{< figure
-  src="/images/cousin-henry.jpg"
-  alt="Cover of Cousin Henry by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/cousin-henry.jpg" alt="Cover of Cousin Henry by Anthony Trollope" >}}
 
 _Cousin Henry_ (1880) is something of a rarity amongst Trollope’s novels in that it’s fairly short.  Despite its brevity, it manages to include one of the most interesting character studies I’ve encountered in Victorian fiction. Henry Jones inherits his uncle’s estates and conceals the knowledge that another will had been made, this time leaving them to his cousin Isabel Brodrick. His guilty conscience means that he is unable to enjoy his new-found wealth and he becomes increasingly bitter and reclusive.  The presence of the legal will torments him, but his weakness of character prevents him from destroying it.
 

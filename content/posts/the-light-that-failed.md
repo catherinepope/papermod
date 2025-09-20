@@ -8,11 +8,7 @@ description: "A review of Rudyard Kipling's first novel 'The Light that Failed' 
 keywords: ["Rudyard Kipling", "The Light that Failed", "war artist", "Dick Heldar", "aestheticism", "New Woman novel", "Dorian Gray comparison", "fin de siècle", "masculinity crisis"]
 ---
 
-{{< figure
-  src="/images/the-light-that-failed.jpg"
-  alt="Cover of The Light that Failed by Rudyard Kipling"
-  class="book"
->}}
+{{< book-cover src="images/the-light-that-failed.jpg" alt="Cover of The Light that Failed by Rudyard Kipling" >}}
 
 I must confess to never having been a big fan of Kipling – tales of empire and derring-do aren’t quite my cup of tea. However, his first novel, _The Light that Failed_ (1891), has proved to be a revelation, and quite unlike any of Kipling’s subsequent work.
 

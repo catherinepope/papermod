@@ -8,11 +8,7 @@ description: "A review of Elizabeth Jenkins' 1934 novel 'Harriet,' based on the 
 keywords: ["Elizabeth Jenkins", "Harriet novel", "Penge murder trial", "1877 murder", "Louis Staunton", "Victorian women's rights", "Married Women's Property Act", "true crime fiction", "Valancourt Books", "psychological thriller"]
 ---
 
-{{< figure
-  src="/images/harriet.jpg"
-  alt="Cover of Harriet by Elizabeth Jenkins "
-  class="book"
->}}
+{{< book-cover src="images/harriet.jpg" alt="Cover of Harriet by Elizabeth Jenkins " >}}
 
 True crime isn’t usually my cup of tea, but I found myself completely transfixed by Elizabeth Jenkins’s Harriet (1934) last year. Based on the infamous Penge murder trial of 1877, the novel recounts the short life and pitiful death of Harriet Staunton, a middle-class woman with what we would now call ‘learning difficulties’. Although she struggled to read and write, Harriet took great pride in her appearance and enjoyed a luxurious lifestyle with a comfortable income. Her loving mother did everything to make Harriet’s life normal, never imagining her daughter would become the victim of a merciless fortune-hunter.
 

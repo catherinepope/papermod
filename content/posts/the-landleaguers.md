@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's final novel 'The Landleaguers' (188
 keywords: ["Anthony Trollope", "The Landleaguers", "Irish Land League", "Irish nationalism", "Home Rule"]
 ---
 
-{{< figure
-  src="/images/the-landleaguers.jpg"
-  alt="Cover of The Landleaguers by Anthony Trollope "
-  class="book"
->}}
+{{< book-cover src="images/the-landleaguers.jpg" alt="Cover of The Landleaguers by Anthony Trollope " >}}
 
 It’s hard to read _The Landleaguers_ (1883) without a lump in the throat, as it was to be Trollope’s final novel. My sentimentality quickly vaporised, however, as it’s not one of his finer moments. The eponymous Landleaguers were Irish farmers who resisted eviction and strove to control their own land. Their tactics ranged from withholding rents and labour, through to death threats and flooding of fields. Famously, they also practised ostracism, which became known as Boycotting, after the name of its first victim. As an inveterate conservative (with a small c), and a tendency to be Tebbity, Trollope is highly critical of the Landleaguers’ actions, with the plot subordinate to the expression of his reactionary views.
 

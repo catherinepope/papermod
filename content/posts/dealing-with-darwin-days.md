@@ -8,11 +8,7 @@ description: "Practical strategies for PhD researchers having unproductive 'Darw
 keywords: ["PhD motivation", "thesis writing blocks", "academic productivity", "research burnout", "PhD mental health", "writing motivation", "doctoral study tips", "academic procrastination", "thesis progress", "PhD wellness"]
 ---
 
-{{< figure
-  src="/images/charles-darwin.jpg"
-  alt="Photo of Charles Darwin"
-  class="book"
->}}
+{{< book-cover src="images/charles-darwin.jpg" alt="Photo of Charles Darwin" >}}
 
 In 1861, Charles Darwin wrote in a letter: “But I am very poorly today and very stupid and hate everybody and everything.” Ever had a Darwin Day? Yep, me too. It’s frustrating when we’ve put aside some time for deep work, then our brain refuses to cooperate. There are a few options to consider, though:
 

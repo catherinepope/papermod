@@ -8,11 +8,7 @@ description: "A review of Wilkie Collins' 1886 novel 'The Evil Genius,' explorin
 keywords: ["Wilkie Collins", "The Evil Genius", "Victorian divorce", "adultery novel", "governess fiction", "sexual double standard", "marriage laws", "custody battle", "sensation fiction"]
 ---
 
-{{< figure
-  src="/images/the-evil-genius.jpg"
-  alt="Cover of The Evil Genius by Wilkie Collins"
-  class="book"
->}}
+{{< book-cover src="images/the-evil-genius.jpg" alt="Cover of The Evil Genius by Wilkie Collins" >}}
 
 The plot of _The Evil Genius_ (1886) focuses on a seemingly respectable middle-class marriage which falters when the husband, Herbert Linley, becomes infatuated with his daughter’s governess, the orphaned Sydney Westerfield. His wife, Catherine, is made aware of the situation following the interference of her stickybeak mother, the eponymous Evil Genius. 
 

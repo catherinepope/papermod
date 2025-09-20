@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 1865 novel 'Miss Mackenzie,' follow
 keywords: ["Anthony Trollope", "Miss Mackenzie", "spinster heroine", "women's independence", "fortune hunters", "Victorian money", "elective spinsterhood", "women's rights"]
 ---
 
-{{< figure
-  src="/images/miss-mackenzie.jpg"
-  alt="Cover of Miss Mackenzie by Anthony Trollope "
-  class="book"
->}}
+{{< book-cover src="images/miss-mackenzie.jpg" alt="Cover of Miss Mackenzie by Anthony Trollope " >}}
 
 In writing _Miss Mackenzie_ (1865), Trollope was attempting to “prove that a novel may be produced without any love,” but later admitted in his autobiography that the attempt “breaks down before the conclusion”. Margaret Mackenzie is an unlikely heroine, being both plain and middle-aged.[^1] I shall overlook the fact that at 34 she is described as being clearly past her best. After many years lodging with an older brother and nursing him through his illness, Miss Mackenzie finds herself the beneficiary of a £12,000 legacy. This sum produces a not inconsiderable income of £800 per annum, and she is suddenly a valuable commodity, rather than an encumbrance. Her other, impecunious, brother expects her to move in with him and his large family, seeing himself as more deserving of the fortune. Margaret instead moves herself to Littlebath, a fictional watering-place in the West Country, and establishes a life of her own.
 

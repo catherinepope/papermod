@@ -8,11 +8,7 @@ description: "A review of Shahroo Izadi's 'The Kindness Method,' exploring a com
 keywords: ["Shahroo Izadi", "The Kindness Method", "book review", "habit change", "behavioral change", "self-help books", "compassionate self-improvement", "sustainable change"]
 ---
 
-{{< figure
-  src="/images/the-kindness-method.jpg"
-  alt="Cover of The Kindness Method by Shahroo Izadi"
-  class="book"
->}}
+{{< book-cover src="images/the-kindness-method.jpg" alt="Cover of The Kindness Method by Shahroo Izadi" >}}
 
 When we want to quit a destructive habit, it's common to be hard on ourselves. We don't just start with a gentle 20-minute canter around the block, it has to be a 5k run before breakfast. Every day. There's nobility in suffering and, of course, we crave fast results. This punishing schedule proves unsustainable and we're confronted with yet more evidence of our flakiness. Nevertheless, many self-help books urge us to pursue dramatic change.
 

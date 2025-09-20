@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 1878 novel 'Is He Popenjoy?,' featu
 keywords: ["Anthony Trollope", "Is He Popenjoy", "women's rights movement", "Dr Olivia Q. Fleabody", "anti-feminist", "inheritance mystery", "Tichborne case", "Victorian feminism"]
 ---
 
-{{< figure
-  src="/images/is-he-popenjoy.jpg"
-  alt="Cover of Is He Popenjoy? by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/is-he-popenjoy.jpg" alt="Cover of Is He Popenjoy? by Anthony Trollope" >}}
 
 We all know Trollope was no feminist, but _Is He Popenjoy?_ (1878) is the only novel in which he openly attacks the nascent women’s rights movement. He revels in imaginary meetings in Marylebone, organised by the Rights of Women Institute for the Relief of the Disabilities of Females (known more succinctly and disparagingly as ‘Disabilities’). Presiding over this august group are the unsubtly-named Lady Selina Protest, Baroness Bannman, who has a “considerable moustache”, Dr Olivia Q. Fleabody, and Ju Mildmay.
 Mildmay is aunt to Lord George Germain, whose unhappy young wife Mary attends the meetings, prompted by curiosity and dissatisfaction. There she sees:

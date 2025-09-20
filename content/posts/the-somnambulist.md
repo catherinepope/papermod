@@ -8,11 +8,7 @@ description: "A review of Essie Fox's debut novel 'The Somnambulist,' a Gothic s
 keywords: ["Essie Fox", "The Somnambulist", "Gothic fiction", "sensation novel", "neo-Victorian fiction", "sleepwalking", "mystery novel"]
 ---
 
-{{< figure
-  src="/images/the-somnambulist.jpg"
-  alt="Cover of The Somnambulist by Essie Fox"
-  class="book"
->}}
+{{< book-cover src="images/the-somnambulist.jpg" alt="Cover of The Somnambulist by Essie Fox" >}}
 
 Imagine an intoxicating narrative with more twists and turns than Downton Abbey (without the red flags), and flashes of M R James, Sarah Waters, and Wilkie Collins. That is what Essie Fox has achieved with her debut novel, [_The Somnambulist_](https://uk.bookshop.org/a/2760/9781409121190), a story that continues to haunt the reader long after the final page has been reached.
 

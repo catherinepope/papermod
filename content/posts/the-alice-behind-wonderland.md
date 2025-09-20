@@ -10,11 +10,7 @@ keywords: ["Simon Winchester", "The Alice Behind Wonderland", "Charles Dodgson",
 
 This is a preprint of a review published in [_Britain and the World_](https://www.euppublishing.com/doi/full/10.3366/brw.2013.0104), Volume 6, pp. 298-300.
 
-{{< figure
-  src="/images/the-alice-behind-wonderland.jpg"
-  alt="Cover of The Alice Behind Wonderland by Simon Winchester"
-  class="book"
->}}
+{{< book-cover src="images/the-alice-behind-wonderland.jpg" alt="Cover of The Alice Behind Wonderland by Simon Winchester" >}}
 
 The title of this book is slightly misleading, as the reader learns little of Alice Liddell, the girl who famously inspired Lewis Carroll’s Alice’s Adventures in Wonderland. Instead, in this slim volume, Simon Winchester focuses his attention on Charles Dodgson (aka Lewis Carroll) and his adventures in photography. We learn about Dodgson’s experiences as an awkward youth and his circumscribed life following admission to Christ Church College, Oxford, where he took holy orders and, therefore, a vow of celibacy.
 

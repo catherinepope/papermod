@@ -8,11 +8,7 @@ description: "A review of Teresa Ransom's 'The Mysterious Marie Corelli - Queen 
 keywords: ["Marie Corelli", "Teresa Ransom", "Victorian bestseller", "biography review", "The Sorrows of Satan", "Victorian women writers", "anti-suffrage", "Victorian literature", "literary celebrity"]
 ---
 
-{{< figure
-  src="/images/the-mysterious-miss-marie-corelli.jpg"
-  alt="Cover of The Mysterious Miss Marie Corelli"
-  class="book"
->}}
+{{< book-cover src="images/the-mysterious-miss-marie-corelli.jpg" alt="Cover of The Mysterious Miss Marie Corelli" >}}
 
 I was prompted to seek out _The Mysterious Marie Corelli: Queen of Bestsellers_ after reading [_The Sorrows of Satan_](/posts/the-sorrows-of-satan/). Quite apart from the astonishingly narcissistic writing style, I was tantalised by the short accompanying biography, which suggested a fascinating and contradictory life. Although an independent and successful woman, she vehemently opposed women’s suffrage, referring to the Suffragettes as “Ladies who scream”. Her novels portray marriage as the desideratum of all girls, yet she chose to share her life with another woman, Bertha Vyer.
 

@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 1871 novel 'Sir Harry Hotspur of Hu
 keywords: ["Anthony Trollope", "Sir Harry Hotspur of Humblethwaite", "male villainy", "female sacrifice", "inheritance law"]
 ---
 
-{{< figure
-  src="/images/sir-harry-hotspur-of-humblethwaite.jpg"
-  alt="Cover of Sir Harry Hotspur of Humblethwaite by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/sir-harry-hotspur-of-humblethwaite.jpg" alt="Cover of Sir Harry Hotspur of Humblethwaite by Anthony Trollope" >}}
 
 _Sir Harry Hotspur of Humblethwaite_ (1871) is Trollope’s most comfortless novel, and also the one with the most alliterative title (almost impossible to pronounce reliably after half a glass of sherry).
 Following the tragic death of his son and heir, Sir Harry Hotspur is forced to rewrite his will. The glorious title must go to his cousin, a useless article called George Hotspur, but Sir Henry is determined that he shouldn’t also get his wealth. He bequeaths all his property to daughter Emily, hoping that she will marry a decent chap prepared to take his wife’s name. Alas, Emily is a feisty minx who refuses to marry the chinless wonder her parents have chosen, instead falling in love with the feckless George.

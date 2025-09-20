@@ -8,11 +8,7 @@ description: "A review of Fern Riddell's 'The Victorian Guide to Sex,' challengi
 keywords: ["Fern Riddell", "The Victorian Guide to Sex", "Victorian sexuality", "Victorian marriage guides", "sexual history", "Victorian contraptions", "19th century sex", "Victorian myths", "social history", "Victorian medical devices"]
 ---
 
-{{< figure
-  src="/images/the-victorian-guide-to-sex.jpg"
-  alt="Cover of The Victorian Guide to Sex by Fern Riddell"
-  class="book"
->}}
+{{< book-cover src="images/the-victorian-guide-to-sex.jpg" alt="Cover of The Victorian Guide to Sex by Fern Riddell" >}}
 
 Although Queen Victoria was supposedly prudish, she popped out nine tiny Saxe-Coburgs and the population more than doubled during her reign. We might think of the Victorians as sexually repressed, but they were clearly at it like stoats. In _The Victorian Guide to Sex_, Fern Riddell synthesises a wealth of material from marriage guides, newspapers, and the archives to bring us a more sophisticated and composite view of our ancestors.
 

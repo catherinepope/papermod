@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 1858 novel 'Doctor Thorne,' the thi
 keywords: ["Anthony Trollope", "Doctor Thorne", "Barsetshire Chronicles", "Mary Thorne", "Frank Gresham", "illegitimate birth", "sensation novel", "inheritance plot", "class barriers"]
 ---
 
-{{< figure
-  src="/images/doctor-thorne.jpg"
-  alt="Cover of Doctor Thorne by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/doctor-thorne.jpg" alt="Cover of Doctor Thorne by Anthony Trollope" >}}
 
 _Doctor Thorne_ (1858) is the third in the Barsetshire Chronicles and became Trollope’s most successful novel. It must surely have been a source of annoyance to him, therefore, that the sensational plot was the brainchild of his brother, Tom. Whereas the two previous chronicles ([_The Warden_](/posts/the-warden/) and [_Barchester Towers_](/posts/barchester-towers/)) focus on characterisation and are mainly episodic, _Dr Thorne_ features a strong narrative arc, employing many of the techniques of the sensation novel, which was poised to become the dominant literary genre of the following decade.
 

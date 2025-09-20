@@ -8,13 +8,7 @@ description: "A review of Wilkie Collins' 1873 novel 'The New Magdalen,' followi
 keywords: ["Wilkie Collins", "The New Magdalen", "fallen woman", "identity theft", "Franco-Prussian War", "redemption novel", "sensation fiction", "Victorian morality"]
 ---
 
-{{< figure
-  src="/images/wilkie-collins-downes.jpg"
-  alt="Portrait of Wilkie Collins by Cundall Downes"
-  caption="Wilkie Collins, wondering whether he left the iron on"
-  align="center"
-  class="book"
->}}
+{{< book-cover src="images/wilkie-collins-downes.jpg" alt="Portrait of Wilkie Collins by Cundall Downes" >}}
 
 After a life on the streets, Mercy Merrick successfully rehabilitates herself with the help of an inspirational sermon from a young clergyman, Julian Gray.  Working as a volunteer nurse in the Franco-Prussian War, she meets Grace Roseberry, a genteel woman with an unappealing, but spotless, character. When Grace is apparently killed by a German shell, Mercy assumes her identity and returns to England.  
 

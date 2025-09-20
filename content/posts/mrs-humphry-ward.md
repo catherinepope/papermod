@@ -8,11 +8,7 @@ description: "A review of John Sutherland's biography of Mary Augusta Ward (Mrs 
 keywords: ["Mary Augusta Ward", "Mrs Humphry Ward", "John Sutherland", "Robert Elsmere", "biography review", "anti-suffrage", "Victorian novelist", "women's education", "Victorian feminism"]
 ---
 
-{{< figure
-  src="/images/mrs-humphry-ward.jpg"
-  alt="Cover of Mrs Humphry Ward by John Sutherland"
-  class="book"
->}}
+{{< book-cover src="images/mrs-humphry-ward.jpg" alt="Cover of Mrs Humphry Ward by John Sutherland" >}}
 
 Mary Augusta Ward (1851-1920) is one of the many intriguing Victorian personalities who make the nineteenth century such a perfect place for academic rummaging. [John Sutherland’s biography](https://uk.bookshop.org/a/2760/9780198185871) manages to successfully evaluate both the writer and the woman, with just the right balance between it being scholarly and accessible.
 

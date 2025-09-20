@@ -8,11 +8,7 @@ description: "A review of Helen Rappaport's 'Magnificent Obsession,' exploring h
 keywords: ["Helen Rappaport", "Magnificent Obsession", "Queen Victoria", "Prince Albert", "Victorian monarchy", "Widow of Windsor", "royal biography", "British history"]
 ---
 
-{{< figure
-  src="/images/magnificent-obsession.jpg"
-  alt="Cover of Magnificent Obsession by Helen Rappaport"
-  class="book"
->}}
+{{< book-cover src="images/magnificent-obsession.jpg" alt="Cover of Magnificent Obsession by Helen Rappaport" >}}
 
 One hundred and fifty years ago today, Queen Victoria and her subjects were plunged into mourning following the untimely demise of the Prince Consort. Albert’s death threw an enormous wet blanket over the social season, with the cancellation of balls, concerts, and soirees. For appearances’ sake, Charles Dickens was obliged to postpone a lucrative series of public readings, which must have really smarted.
 

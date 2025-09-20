@@ -8,11 +8,7 @@ description: "A review of Anne Jordan's 'Love Well the Hour: The Life of Lady Co
 keywords: ["Anne Jordan", "Lady Colin Campbell", "Love Well the Hour", "Gertrude Campbell", "biography review", "Victorian divorce", "women's rights", "Victorian journalism", "Saturday Review", "Victorian women writers"]
 ---
 
-{{< figure
-  src="/images/love-well-the-hour.jpg"
-  alt="Cover of Love Well the Hour by Anne Jordan"
-  class="book"
->}}
+{{< book-cover src="images/love-well-the-hour.jpg" alt="Cover of Love Well the Hour by Anne Jordan" >}}
 
 Last year I reviewed [Lady Colin Campbell: Victorian Sex Goddess](/posts/lady-colin-campbell-victorian-sex-goddess/). My only criticism was that the book focused very much on the court case, and there was little to satisfy the curious mind as to Gertrude Campbell’s subsequent career.  Fortunately, Anne Jordan has just published _Love Well the Hour: The Life of Lady Colin Campbell_, thereby giving this redoubtable woman more sustained consideration.
 

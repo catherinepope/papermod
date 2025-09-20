@@ -8,11 +8,7 @@ description: "A review of Wendy Moore's 'Wedlock,' telling the story of Mary Ele
 keywords: ["Wendy Moore", "Wedlock", "Mary Eleanor Bowes", "Andrew Robinson Stoney", "Georgian Britain", "domestic violence", "women's rights", "18th century marriage", "historical biography", "legal history"]
 ---
 
-{{< figure
-  src="/images/wedlock.jpg"
-  alt="Cover of Wedlock by Wendy Moore"
-  class="book"
->}}
+{{< book-cover src="images/wedlock.jpg" alt="Cover of Wedlock by Wendy Moore" >}}
 
 I must confess to having been initially sceptical at the title’s claim of “worst” husband. Having spent much of the last few years rummaging through historical divorce papers, I know there are many ghastly contenders for that dubious honour. Andrew Robinson Stoney was described by his own father as “the most wretched man I ever knew”, and he was to showcase his ghastliness on Mary Eleanor Bowes, the eighteenth century’s richest heiress (and great-great-great-grandmother of the late Queen Mother).
 

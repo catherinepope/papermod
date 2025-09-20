@@ -8,11 +8,7 @@ description: "Discover why building 'slack' into your life is more valuable than
 keywords: ["scarcity mindset", "Andrew J Scott","Lynda Gratton", "Nassim Taleb", "Black Swan", "career flexibility", "financial planning", "redundancy planning", "work-life balance"]
 ---
 
-{{< figure
-  src="/images/the-new-long-life.jpg"
-  alt="Cover of The New Long Life by Andrew J Scott and Lynda Gratton"
-  class="book"
->}}
+{{< book-cover src="images/the-new-long-life.jpg" alt="Cover of The New Long Life by Andrew J Scott and Lynda Gratton" >}}
 
 There’s a lot of focus on making ourselves as efficient as possible: cramming our days with conspicuous activities, multitasking, and listening to podcasts at double speed. This might make sense during the good times, but we come unstuck when everything gets a bit squirrely – during a pandemic or a recession, for instance – then we suddenly realise our regime isn’t really serving us.
 

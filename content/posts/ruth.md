@@ -8,11 +8,7 @@ description: "A critical review of Elizabeth Gaskell's 1853 novel 'Ruth,' examin
 keywords: ["Elizabeth Gaskell", "Ruth novel", "fallen woman fiction", "Victorian morality", "social problem novel", "Victorian controversy", "Victorian women"]
 ---
 
-{{< figure
-  src="/images/ruth.jpg"
-  alt="Cover of Ruth by Elizabeth Gaskell"
-  class="book"
->}}
+{{< book-cover src="images/ruth.jpg" alt="Cover of Ruth by Elizabeth Gaskell" >}}
 
 The reading public seems to be divided into those who fall hopelessly in love with Mrs Gaskell’s saintly [Ruth](https://uk.bookshop.org/a/2760/9780199581955) and those who find her irritating. I belong to the latter group, an admission which will no doubt lead to some accusations of heartlessness (I’m also with Oscar Wilde on the death of Little Nell).  Ruth Hilton, an orphaned dressmaker’s assistant, is seduced and abandoned by the wealthy Henry Bellingham. Alone and pregnant, a hunchbacked nonconformist minister, Thurstan Benson, takes pity on her and helps her establish a new life as a respectable widow, Mrs Denbigh. In this guise she is able to obtain employment as a governess with the evangelical Bradshaw family. All is well until Bellingham reappears on the scene as the local prospective parliamentary candidate, and then Ruth’s hidden past is brought into the light. Her continuing self-sacrifice leads ultimately to tragic consequences.
 

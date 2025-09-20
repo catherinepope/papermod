@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 1883 novel 'Mr Scarborough's Family
 keywords: ["Anthony Trollope", "Mr Scarborough's Family", "inheritance", "primogeniture", "New Woman", "Dolly Grey", "women's property rights", "late Trollope", "bigamy"]
 ---
 
-{{< figure
-  src="/images/mr-scarboroughs-family.jpg"
-  alt="Cover of Mr Scarborough’s Family by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/mr-scarboroughs-family.jpg" alt="Cover of Mr Scarborough’s Family by Anthony Trollope" >}}
 
 Imagine, if you will, settling down to watch what promises to be a really good film, and then suddenly and inexplicably, it is interrupted by a party political broadcast from the Tory party. That’s how I felt about _Mr Scarborough’s Family_ (1883), Trollope’s 45th and antepenultimate novel. The story begins well, with a _King Lear_ moment in which the eponymous Mr Scarborough tries to decide which of his unworthy sons should inherit his considerable wealth. What follows is endless depictions of nasty, selfish people, with whom one is inclined to feel little sympathy.
 

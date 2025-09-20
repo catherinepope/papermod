@@ -8,11 +8,7 @@ description: "A review of G H Fleming's 'Lady Colin Campbell: Victorian Sex Godd
 keywords: ["Lady Colin Campbell", "Victorian divorce", "biography review", "Victorian women", "syphilis scandal", "women's rights", "Victorian legal history", "Gertrude Blood"]
 ---
 
-{{< figure
-  src="/images/lady-colin-campbell.jpg"
-  alt="Cover of Lady Colin Campbell by G H Fleming "
-  class="book"
->}}
+{{< book-cover src="images/lady-colin-campbell.jpg" alt="Cover of Lady Colin Campbell by G H Fleming " >}}
 
 Although "Victorian Sex Goddess" is a rather sensational title for a book, this account of the redoubtable Lady Colin Campbell by G H Fleming is refreshingly understated. I'm sure few writers could resist the temptation to ham up one of the most dramatic court cases in British legal history. He mainly allows the case to speak for itself, but includes a plethora of seemingly insignificant details which both delight and enlighten the reader.
 

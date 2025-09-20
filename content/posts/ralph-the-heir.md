@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 1871 novel 'Ralph the Heir,' featur
 keywords: ["Anthony Trollope", "Ralph the Heir", "Polly Neefit", "Ontario Moggs", "social climbing", "political satire", "19th-century politics", "inheritance plot"]
 ---
 
-{{< figure
-  src="/images/ralph-the-heir.jpg"
-  alt="Cover of Ralph the Heir by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/ralph-the-heir.jpg" alt="Cover of Ralph the Heir by Anthony Trollope" >}}
 
 The opening of _Ralph the Heir_ (1871) is marred slightly by a preponderance of Ralph Newtons. One is heir to the estate of Newton Priory and thoroughly unworthy of the honour; the other is his cousin, an affectionate and scholarly type who everyone would prefer to inherit the family wealth.
 

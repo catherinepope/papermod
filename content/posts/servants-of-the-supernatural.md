@@ -8,11 +8,7 @@ description: "A review of Antonio Melechi's 'Servants of the Supernatural,' expl
 keywords: ["Antonio Melechi", "Servants of the Supernatural", "Victorian spiritualism", "mesmerism", "Franz Anton Mesmer", "Victorian occult", "Daniel Dunglas Home", "Harriet Martineau", "séances"]
 ---
 
-{{< figure
-  src="/images/servants-of-the-supernatural.jpg"
-  alt="Cover of Servants of the Supernatural by Antonio Melechi"
-  class="book"
->}}
+{{< book-cover src="images/servants-of-the-supernatural.jpg" alt="Cover of Servants of the Supernatural by Antonio Melechi" >}}
 
 Antonio Melechi’s [_Servants of the Supernatural_](https://www.worldofbooks.com/en-gb/products/servants-of-the-supernatural-book-antonio-melechi-9780099478867) is an eclectic selection of accounts describing the Victorians’ fascination with the supernatural, what he calls a “gallery of contrasting thumbnail portraits”.
 

@@ -8,11 +8,7 @@ description: "A review of Judith Flanders' 'The Invention of Murder,' exploring 
 keywords: ["Judith Flanders", "The Invention of Murder", "Victorian crime", "sensation fiction", "Victorian culture", "crime fiction", "Victorian newspapers", "cultural history"]
 ---
 
-{{< figure
-  src="/images/the-invention-of-murder.jpg"
-  alt="Cover of The Invention of Murder by Judith Flanders"
-  class="book"
->}}
+{{< book-cover src="images/the-invention-of-murder.jpg" alt="Cover of The Invention of Murder by Judith Flanders" >}}
 
 Feeling bereft after finishing [_Barchester Towers_](/posts/barchester-towers/), I was saved from despair by the timely arrival of the postman clutching a copy of Judith Flanders’ [_The Invention of Murder: How the Victorians Revelled in Death and Detection and Created Modern Crime_](https://uk.bookshop.org/a/2760/9780007248896). Although squeamish by nature, I am intrigued by the Victorian fascination with murder and how it was represented through newsprint and popular culture, particularly sensation fiction. Flanders achieves a panoramic sweep through journalism, novels, broadsides, ballads, and theatre, engaging with both well-known and relatively obscure sources, and in the process unearthing a few hitherto unknown facts or connections.
 

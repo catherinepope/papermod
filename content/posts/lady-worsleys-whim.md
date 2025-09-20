@@ -8,11 +8,7 @@ description: "A review of Hallie Rubenhold's 'Lady Worsley's Whim,' recounting t
 keywords: ["Hallie Rubenhold", "Lady Worsley's Whim", "crim-con trial", "1782 scandal", "Georgian scandal", "adultery trial", "women's rights", "Georgian society", "criminal conversation", "Sir Richard Worsley"]
 ---
 
-{{< figure
-  src="/images/lady-worsleys-whim.jpg"
-  alt="Cover of Lady Worsley’s Whim by Hallie Rubenhold "
-  class="book"
->}}
+{{< book-cover src="images/lady-worsleys-whim.jpg" alt="Cover of Lady Worsley’s Whim by Hallie Rubenhold " >}}
 
 There’s not much that surprises me these days, but _Lady Worsley’s Whim_ managed to repeatedly elevate the papal eyebrows. The story centres around an infamous crim-con trial that took place on 21 February 1782 between Sir Richard Worsley, Governor of the Isle of Wight, and George Bisset, an officer (but not a gentleman) and one-time friend of Worsley. Despite having encouraged a close relationship between Bisset and his wife, Worsley thought it outrageous when the pair ran off together, and claimed £20,000 in damages. Already a wealthy man, the astronomical sum was designed to reduce his enemy to penury.
 

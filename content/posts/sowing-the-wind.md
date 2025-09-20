@@ -8,11 +8,7 @@ description: "A review of Eliza Lynn Linton's 1867 novel 'Sowing the Wind,' feat
 keywords: ["Eliza Lynn Linton", "Sowing the Wind", "Victorian feminism", "sensation novel", "gender identity", "women journalists", "Victorian marriage", "Jane Osborn"]
 ---
 
-{{< figure
-  src="/images/sowing-the-wind.jpg"
-  alt="Cover of Sowing the Wind by Eliza Lynn Linton"
-  class="book"
->}}
+{{< book-cover src="images/sowing-the-wind.jpg" alt="Cover of Sowing the Wind by Eliza Lynn Linton" >}}
 
 Eliza Lynn Linton is an unlikely heroine for me, given she is best known for her anti-feminist articles ‘The Girl of the Period’ for the _Saturday Review_. While her journalism alerted readers to the dangers of the New Woman in all her guises, Linton’s novels – quite literally – tell a different story.
 

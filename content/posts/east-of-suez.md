@@ -8,11 +8,7 @@ description: "A review of Alice Perrin's 1901 collection 'East of Suez,' featuri
 keywords: ["Alice Perrin", "East of Suez", "Anglo-Indian fiction", "colonial stories", "supernatural fiction", "Kipling comparison", "feminist ghost stories", "Imperial critique", "short story collection"]
 ---
 
-{{< figure
-  src="/images/east-of-suez.jpg"
-  alt="Cover of East of Suez by Alice Perrin"
-  class="book"
->}}
+{{< book-cover src="images/east-of-suez.jpg" alt="Cover of East of Suez by Alice Perrin" >}}
 
 Originally published in 1901, _East of Suez_ was Alice Perrin’s first collection of short stories.  Although now largely forgotten, Perrin was one of the most successful authors of her day, commanding larger advances than the likes of Arnold Bennett (much to his chagrin, it must be said). Perrin tells stories of illicit love and betrayal against a beautifully-drawn backdrop of the mystical east, interweaving the supernatural with exquisite details of her characters’ lives. Unlike many of her contemporaries, Perrin handles Anglo-Indian relations with great sensitivity, showing equal humanity in her portrayal of powerful British officials and their more humble neighbours. Through her writing, she depicts the social complexity of colonial rule, never resorting to stereotypes or simplistic representations of the people or the landscape.
 

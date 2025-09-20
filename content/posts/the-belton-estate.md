@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 1865 novel 'The Belton Estate,' fol
 keywords: ["Anthony Trollope", "The Belton Estate", "Clara Amedroz", "Victorian realism", "surplus women", "Jane Austen influence", "Victorian women", "primogeniture"]
 ---
 
-{{< figure
-  src="/images/the-belton-estate.jpg"
-  alt="Cover of The Belton Estate by Anthony Trollope "
-  class="book"
->}}
+{{< book-cover src="images/the-belton-estate.jpg" alt="Cover of The Belton Estate by Anthony Trollope " >}}
 
 _The Belton Estate_ (1865) is the story of a young woman, Clara Amedroz, who vacillates between two suitors: her bucolic but passionate cousin Will, who is heir to her father’s entailed farm, and Captain Aylmer, an urbane but unemotional MP who is tied to his rebarbative mother’s apron strings. The narrative reflects the Jane Austen novels read by Trollope during the 1860s, and they inform his portrayal of an impecunious unmarried woman.  With no income of her own and an ailing father, marriage is Clara’s only means of survival, and she struggles with her impending dependence on the men who surround her. She dramatically articulates her frustration: “I think it would be well if all single women were strangled by the time they are thirty.” The sub-plot, involving Captain and Mrs Askerton, deals with society’s intolerance towards others marital misfortunes (an echo of [_Dr Wortle’s School_](/posts/dr-wortles-school/)) and it also serves to highlight both Clara’s humanity and the superficiality of one of her suitors.
 

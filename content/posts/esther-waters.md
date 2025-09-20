@@ -8,11 +8,7 @@ description: "A review of George Moore's 1894 novel 'Esther Waters,' following a
 keywords: ["George Moore", "Esther Waters", "fallen woman novel", "Victorian naturalism", "single motherhood", "social realism", "Tess of the D'Urbervilles", "Victorian morality"]
 ---
 
-{{< figure
-  src="/images/esther-waters.jpg"
-  alt="Cover of Esther Waters by George Moore"
-  class="book"
->}}
+{{< book-cover src="images/esther-waters.jpg" alt="Cover of Esther Waters by George Moore" >}}
 
 Sent out to domestic service by her drunken stepfather, [Esther Waters](https://uk.bookshop.org/a/2760/9780199583010) is forced to leave a good position after being seduced and abandoned with child by fellow servant, William Latch. Repelled by her family, she struggles with life as a single parent, nursing a rich woman's baby to the detriment of her own, working eighteen hours a day for a capricious mistress, and even resorting to the workhouse in desperation. Although an occasional character looks upon her kindly, most are out to exploit her weakened state. Her fortunes seem to improve when she finds work with a benevolent novelist and wins the affections of Fred Parsons, a steady and earnest member of the Plymouth Brethren, who believes she has already atoned for her "sin". Just as she glimpses the prospect of security, William Latch reappears, begging her to come back to him so that he can be a father to his child. Esther must choose between the safe option of Fred and the more exciting, but dangerous, alternative offered by William.
 

@@ -9,11 +9,7 @@ keywords: ["Oliver Burkeman", "Meditations for Mortals", "book review", "self-he
 
 ---
 
-{{< figure
-  src="/images/meditations-for-mortals.jpg"
-  alt="Cover of Meditations for Mortals by Oliver Burkeman"
-  class="book"
->}}
+{{< book-cover src="images/meditations-for-mortals.jpg" alt="Cover of Meditations for Mortals by Oliver Burkeman" >}}
 
 Over the last week, I’ve been meaning to write a blog post about Oliver Burkeman’s [Meditations for Mortals: Four Weeks to Embrace Your Limitations and Make Time for What Counts](https://uk.bookshop.org/a/2760/9781847927613). This morning, my brain had a great idea: Why don’t I create a whole new blog about self-help books? Yes, that’s much better than just writing this one piece. Then I can find the right domain name, fanny around with WordPress, and (best of all) create a content plan in Trello. Excruciatingly, this is exactly the sort of behaviour Burkeman cautions against:
 

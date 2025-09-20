@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 1879 novel 'John Caldigate,' questi
 keywords: ["Anthony Trollope", "John Caldigate", "bigamy novel", "Australian goldfields", "Euphemia Smith", "sexual double standard", "sensation plot", "Victorian morality"]
 ---
 
-{{< figure
-  src="/images/john-caldigate.jpg"
-  alt="Cover of John Caldigate by Anthony Trollope "
-  class="book"
->}}
+{{< book-cover src="images/john-caldigate.jpg" alt="Cover of John Caldigate by Anthony Trollope " >}}
 
 As I’m forever complaining about Trollope’s obsession with pure heroines, it’s only fair to commend him for using _John Caldigate_ (1879) to question a man’s right to a sexual past. Caldigate is the archetypal Victorian ne’er do well. Graduating from Cambridge with eye-watering debts, he is obliged to try his luck in the Australian goldfields. On the long voyage to the Antipodes he amuses himself with Euphemia Smith, a feisty widow who is no better than she ought to be. She explains her attraction to him thus:
 

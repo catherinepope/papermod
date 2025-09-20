@@ -8,11 +8,7 @@ description: "A review of Wendy Moore's 'How to Create the Perfect Wife,' tellin
 keywords: ["Wendy Moore", "How to Create the Perfect Wife", "Thomas Day", "Georgian Britain", "Rousseau", "women's rights", "18th century marriage", "social experiment", "female education"]
 ---
 
-{{< figure
-  src="/images/how-to-create-the-perfect-wife.jpg"
-  alt="Cover of How to Create the Perfect Wife by Wendy Moore"
-  class="book"
->}}
+{{< book-cover src="images/how-to-create-the-perfect-wife.jpg" alt="Cover of How to Create the Perfect Wife by Wendy Moore" >}}
 
 If anything is guaranteed to get my feminist dander up, it’s the idea of wifely perfection, and this enthralling book had me seething from start to finish. On a summer’s day in 1769, wealthy (but unprepossessing) bachelor Thomas Day visited the orphan hospital in Shrewsbury to choose himself a wife. This was not the way a gentleman usually embarked upon courtship, even in the eighteenth century, but at the grand age of twenty-one, Day had already decided that his womanly ideal did not exist: therefore, he would have to create her. He required someone “completely subservient to his needs and whims and utterly in thrall to his ideas and beliefs”.
 

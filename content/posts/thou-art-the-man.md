@@ -8,11 +8,7 @@ description: "A review of Mary Elizabeth Braddon's 1894 novel 'Thou Art the Man,
 keywords: ["Mary Elizabeth Braddon", "Thou Art the Man", "Victorian sensation novel", "Lady Audley's Secret", "New Woman fiction", "Victorian crime", "Valancourt Books", "Victorian detective"]
 ---
 
-{{< figure
-  src="/images/thou-art-the-man.jpg"
-  alt="Cover of Thou Art the Man by Mary Elizabeth Braddon"
-  class="book"
->}}
+{{< book-cover src="images/thou-art-the-man.jpg" alt="Cover of Thou Art the Man by Mary Elizabeth Braddon" >}}
 
 Having long been a firm advocate of _Lady Audley’s Secret_ and defended it against charges of anti-feminism, I am delighted to discover that Mary Elizabeth Braddon has reworked some of its themes in her later novel, [_Thou Art the Man_](https://uk.bookshop.org/a/2760/9781934555378). Originally published in 1894, this work takes account of the prevailing discourses on heredity, degeneration and madness. This time, however, it is the male characters who are shown to be degenerate, and the female heroines turn detective in order to unmask the villain.
 

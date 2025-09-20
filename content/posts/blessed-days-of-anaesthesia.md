@@ -8,11 +8,7 @@ description: "A review of Stephanie Snow's 'Blessed Days of Anaesthesia,' tracin
 keywords: ["Stephanie Snow", "Blessed Days of Anaesthesia", "medical history", "John Snow", "chloroform", "ether", "Victorian medicine", "childbirth", "Queen Victoria"]
 ---
 
-{{< figure
-  src="/images/Blessed-days-of-anaesthesia.jpg"
-  alt="Cover of Blessed Days of Anaesthesia by Stephanie Snow"
-  class="book"
->}}
+{{< book-cover src="images/Blessed-days-of-anaesthesia.jpg" alt="Cover of Blessed Days of Anaesthesia by Stephanie Snow" >}}
 
 I hadn’t given much thought to anaesthesia until I read a biography of the writer Fanny Burney, who in 1811 underwent a mastectomy while fully conscious. Extraordinarily she survived, living until the ripe old age of 87.  Burney’s is one of the many stories told by Stephanie Snow in [_Blessed Days of Anaesthesia: How Anaesthetics Changed the World_](https://uk.bookshop.org/a/2760/9780192805898), in which she charts the discovery and development of anaesthesia.
 

@@ -8,11 +8,7 @@ description: "A review of Tony Joseph's 'George Grossmith: Biography of a Savoya
 keywords: ["George Grossmith", "Gilbert and Sullivan", "Diary of a Nobody", "biography review", "Savoyard", "The Mikado", "comic opera", "Victorian theatre"]
 ---
 
-{{< figure
-  src="/images/george-grossmith.jpg"
-  alt="Portrait of George Grossmith"
-  class="book"
->}}
+{{< book-cover src="images/george-grossmith.jpg" alt="Portrait of George Grossmith" >}}
 
 George Grossmith (1847-1912) is, of course, cherished by the nation for having penned the inimitable _The Diary of a Nobody_ with his younger brother Weedon. It is less well known that he was a talented entertainer, appearing in a number of Gilbert and Sullivan operas, and also touring with his own show. Tony Joseph, in [_George Grossmith: Biography of a Savoyard_](https://www.worldofbooks.com/en-gb/products/george-grossmith-book-tony-joseph-9780950799209), illuminates all areas of his life and career, giving a sense of his inestimable contribution to nineteenth-century culture.
 

@@ -8,11 +8,7 @@ description: "A review of Pamela Pilbeam's 'Madame Tussaud and the History of Wa
 keywords: ["Madame Tussaud", "Pamela Pilbeam", "waxworks history", "Marie Tussaud", "biography review", "French Revolution", "Victorian entertainment", "Chamber of Horrors", "cultural history", "women entrepreneurs"]
 ---
 
-{{< figure
-  src="/images/madame-tussaud.jpg"
-  alt="Cover of Madame Tussaud and the History of Waxworks"
-  class="book"
->}}
+{{< book-cover src="images/madame-tussaud.jpg" alt="Cover of Madame Tussaud and the History of Waxworks" >}}
 
 A paradoxical disadvantage of the Kindle’s long battery life is that I often forget to charge it before train journeys and find myself facing a blank screen. The last such episode proved felicitous, as it prompted me to buy [_Madame Tussaud and the History of Waxworks_](https://uk.bookshop.org/a/2760/9781852855116) from the wonderful £2 bookshop opposite the British Library. Although I visited Madame Tussaud’s several times as a tiny geek, I hadn’t given it much thought since, but Pamela Pilbeam’s superb study has awakened my interest. The book is part biography of Tussaud herself, and part cultural history of waxworks.
 

@@ -8,11 +8,7 @@ description: "A review of Helen Rappaport and Roger Watson's 'Capturing the Ligh
 keywords: ["Helen Rappaport", "Roger Watson", "Capturing the Light", "photography invention", "Louis Daguerre", "Henry Fox Talbot", "daguerreotype", "calotype", "photography history", "scientific discovery"]
 ---
 
-{{< figure
-  src="/images/capturing-the-light.jpg"
-  alt="Cover of Capturing the Light by Helen Rappaport and Roger Watson"
-  class="book"
->}}
+{{< book-cover src="images/capturing-the-light.jpg" alt="Cover of Capturing the Light by Helen Rappaport and Roger Watson" >}}
 
 Anyone who has developed their own photographs will recall that miraculous moment as the image slowly materialises before your very eyes. The story behind the discovery of this alchemical technique is no less exciting.
 

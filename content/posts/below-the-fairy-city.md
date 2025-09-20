@@ -8,11 +8,7 @@ description: "A review of Carolyn W. de la L. Oulton's biography 'Below the Fair
 keywords: ["Jerome K. Jerome", "Carolyn Oulton", "Below the Fairy City", "literary biography", "Three Men in a Boat", "Victorian humour", "animal welfare", "Weeds novella"]
 ---
 
-{{< figure
-  src="/images/below-the-fairy-city.jpg"
-  alt="Cover of Below the Fairy City by Carolyn W. de la L. Oulton"
-  class="book"
->}}
+{{< book-cover src="images/below-the-fairy-city.jpg" alt="Cover of Below the Fairy City by Carolyn W. de la L. Oulton" >}}
 
 I must confess to never having given much thought to the man behind _Three Men in a Boat_, one of the funniest books in the English language. When the manuscript for a biography of Jerome K. Jerome arrived on my desk, I expected to read about a lively and carefree man who never took life very seriously.  Instead, I discovered a complex, often dark, figure who was frustrating, comic and challenging in equal measure.
 

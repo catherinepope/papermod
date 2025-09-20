@@ -8,11 +8,7 @@ description: "A review of Caroline Clive's controversial 1855 novel 'Paul Ferrol
 keywords: ["Caroline Clive", "Paul Ferroll", "Victorian novel", "sensation fiction", "psychological drama", "Victorian crime", "Valancourt Books", "early crime fiction", "Victorian murder mystery"]
 ---
 
-{{< figure
-  src="/images/paul-ferroll.jpg"
-  alt="Cover of Paul Ferroll"
-  class="book"
->}}
+{{< book-cover src="images/paul-ferroll.jpg" alt="Cover of Paul Ferroll" >}}
 
 Referred to by G A Sala as “that remarkable and eminently disagreeable fiction”, Caroline Clive’s _Paul Ferroll_ is a rare example of a unique novel. Published in 1855, it could be described as an early sensation novel with a strong element of psychological drama.
 

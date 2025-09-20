@@ -8,11 +8,7 @@ description: "A review of Matthew Sturgis' biography of Aubrey Beardsley (1872-1
 keywords: ["Aubrey Beardsley", "Matthew Sturgis", "book review", "biography", "Fin de Siècle", "decadent art", "Victorian art", "The Yellow Book", "Oscar Wilde", "Brighton artist"]
 ---
 
-{{< figure
-  src="/images/aubrey-beardsley.jpg"
-  alt="Aubrey Beardsley"
-  class="book"
->}}
+{{< book-cover src="images/aubrey-beardsley.jpg" alt="Aubrey Beardsley" >}}
 
 When Aubrey Beardsley died in 1898, he was aged just 25. Although his career was tragically short, his work epitomises the Fin de Siècle, with its decadent, and sometimes shocking, figures. Beardsley was born in Brighton in 1872, in the home of his maternal grandparents.  Although his immediate family moved to London soon afterwards, he retained his affinity with Brighton, attending the Grammar School while staying with his aunt. His school days are described as being unusually happy, and he benefited from the tutelage of the dynamic and progressive headmaster Ebenezer Marshall. Marshall pushed both pupils and teachers to achieve their full potential, and he had the reputation of a slave driver: "He refused to countenance the establishment of a 'staff room', considering that his teachers should be out among their pupils, not skulking in a den consuming tea and digestive biscuits."
 

@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 1874 novel 'Harry Heathcote of Gang
 keywords: ["Anthony Trollope", "Harry Heathcote of Gangoil", "Australian fiction", "sheep farming", "outback novel", "colonial Australia", "bushfire", "squatters", "Fred Trollope"]
 ---
 
-{{< figure
-  src="/images/harry-heathcote-of-gangoil.jpg"
-  alt="Cover of Harry Heathcote of Gangoil by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/harry-heathcote-of-gangoil.jpg" alt="Cover of Harry Heathcote of Gangoil by Anthony Trollope" >}}
 
 Sheep-farming in the Australian outback might seem like an odd topic for Trollope, an author known best for his forensic analysis of English society. In fact, he spent some time there after his son Fred became a “squatter”. Squatters were settlers who appropriated huge swathes of uncultivated bushland, initially illegally, and later under license from the Crown. Those who possessed the necessary tenacity and acumen could amass immense wealth, enabling them to build flashy houses and emulate the landowning classes of the motherland. Unfortunately, Fred Trollope seems to have suffered a want of pluck and application, and ended up losing thousands of his father’s hard-earned pounds.
 

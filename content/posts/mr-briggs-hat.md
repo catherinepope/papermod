@@ -8,11 +8,7 @@ description: "A review of Kate Colquhoun's 'Mr Briggs' Hat,' chronicling the fir
 keywords: ["Kate Colquhoun", "Mr Briggs' Hat", "Victorian murder", "railway crime", "Franz Müller", "Victorian true crime", "first railway murder", "Thomas Briggs"]
 ---
 
-{{< figure
-  src="/images/mr-briggs-hat.jpg"
-  alt="Cover of Mr Briggs’ Hat by Kate Colquhoun"
-  class="book"
->}}
+{{< book-cover src="images/mr-briggs-hat.jpg" alt="Cover of Mr Briggs’ Hat by Kate Colquhoun" >}}
 
 There is something pleasingly understated about a book called [_Mr Briggs’ Hat_](https://uk.bookshop.org/a/2760/9780349123592). This seemingly ordinary item of apparel became key to one of the most famous murder cases of the nineteenth century, inspiring terror among the commuters of the heaving metropolis.
 

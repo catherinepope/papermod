@@ -14,12 +14,7 @@ Launched in 2017, Tropy is a free tool to help you organise and annotate your re
 
 Here’s an example from my collection. This is a letter from the Victorian novelist Florence Marryat to George Eliot, offering condolences on the death of her common-law husband, G H Lewes. Marryat’s handwriting is terrible, but Tropy offers some useful functionality to help me.
 
-{{< figure
-  src="/images/tropy-screenshot.png"
-  alt="Screenshot of Tropy"
-  caption="Screenshot of Tropy"
-  align="center"
->}}
+{{< img src="images/tropy-screenshot.jpg" alt="Screenshot of Tropy" caption="Screenshot of Tropy" center="true" >}}
 
 1) From this toolbar, I can zoom in on the writing, rotate the image, deskew it, and even fiddle about with the colours. This gives me a much better chance of deciphering the text.
 

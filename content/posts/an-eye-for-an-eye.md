@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 1879 Irish novel 'An Eye for an Eye
 keywords: ["Anthony Trollope", "An Eye for an Eye", "Irish novel", "Fred Neville", "Kate O'Hara", "County Clare", "revenge tragedy", "sexual double standard", "bigamy novel"]
 ---
 
-{{< figure
-  src="/images/an-eye-for-an-eye.jpg"
-  alt="Cover of An Eye for an Eye by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/an-eye-for-an-eye.jpg" alt="Cover of An Eye for an Eye by Anthony Trollope" >}}
 
 An _Eye for an Eye_ (1879) is classed among Trollope’s Irish novels, and the dramatic beauty of Co. Clare forms a suitable background to the wild passion that drives the plot. English cavalry office Fred Neville seduces a local Catholic girl, Kate O’Hara, leaving her pregnant. Although madly in love with her, the sudden unexpected inheritance of an earldom prompts Fred to rethink his plan to marry her: “She was a plaything for an idle hour, not a woman to be taken out into the world with the high name of Countess of Scroope.” Kate’s mother suspects that he is poised to abandon her and threatens: “if you injure my child I will have the very blood from your heart.” As the title suggests, this is no idle threat.
 

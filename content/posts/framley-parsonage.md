@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 1860 novel 'Framley Parsonage,' the
 keywords: ["Anthony Trollope", "Framley Parsonage", "Barsetshire Chronicles", "Mark Robarts", "Martha Dunstable", "Cornhill Magazine", "clerical novel", "Millais illustrations"]
 ---
 
-{{< figure
-  src="/images/framley-parsonage.jpg"
-  alt="Cover of Framley Parsonage by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/framley-parsonage.jpg" alt="Cover of Framley Parsonage by Anthony Trollope" >}}
 
 _Framley Parsonage_ (1860) is the fourth of the Barsetshire Chronicles, and was the breakthrough novel that sealed Trollope’s success. The story was commissioned by George Smith for his new _Cornhill Magazine_, and he requested “an English life, with a clerical flavour.” The serialisation, with illustrations by Millais, was an immediate success, attracting 120,000 subscribers.
 

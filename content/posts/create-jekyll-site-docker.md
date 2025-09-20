@@ -34,7 +34,7 @@ docker run -v $(pwd):/site bretfisher/jekyll new .
 
 You should see the installation progress, followed by a message to confirm that the new site has been installed.
 
-![Jekyll new](/images/create-jekyll-docker.png)
+{{< img src="images/jekyll-docker-setup.jpg" alt="Creating a Jekyll container with Docker" caption="Creating a Jekyll container with Docker" center="true" >}}
 
 Here's what's happening in the snippet above:
 
@@ -50,7 +50,7 @@ Docker spins up a container from the Jekyll image and creates your site in the c
 
 Type `ls` at the command line, and you should see the elements of your Jekyll site:
 
-{{< figure src="/images/jekyll-ls.png" alt="Jekyll file listing" align="center">}}
+{{< img src="images/jekyll-listing.jpg" alt="Screenshot of Jekyll file listing" caption="Jekyll file listing" center="true" >}}
 
 ## Step 3: Test your new site
 
@@ -71,7 +71,7 @@ Here's what's happening:
 
 The Docker container spins up, then builds and serves your new website. You'll see a URL through which you can preview your site.
 
-![jekyll serve](/images/jekyll-serve.png)
+{{< img src="images/jekyll-serve.jpg" alt="Jekyll serve" caption="Screenshot of Jekyll serve command" center="true" >}}
 
 It'll be the default Jekyll site for now. To test it properly, make a change to the `about.markdown` page and refresh your browser.
 

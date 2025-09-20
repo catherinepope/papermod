@@ -8,11 +8,7 @@ description: "A review of Ella Hepworth Dixon's 1894 novel 'The Story of a Moder
 keywords: ["Ella Hepworth Dixon", "The Story of a Modern Woman", "1894 literature", "Mary Erle", "New Woman novel", "women's independence", "hack writing", "London setting", "John Sutherland"]
 ---
 
-{{< figure
-  src="/images/the-story-of-a-modern-woman.jpg"
-  alt="Cover of The Story of a Modern Woman by Ella Hepworth Dixon"
-  class="book"
->}}
+{{< book-cover src="images/the-story-of-a-modern-woman.jpg" alt="Cover of The Story of a Modern Woman by Ella Hepworth Dixon" >}}
 
 John Sutherland described Ella Hepworth Dixon’s _The Story of a Modern Woman_ as “the greatest unread novel of female struggle of the century”. Published in 1894, it is in Dixon’s own words “a somewhat gloomy study of the struggles of a girl alone in the world and earning her own living”.  When her father dies, Mary Erle is left to fend for herself without guidance or money. She initially follows her dream of studying at the Central London School of Art, only to repeatedly fail entry to the Royal Academy.  She instead tries her hand at hack writing, churning out magazine articles and penny novels. She is given little latitude to employ any  artistic vision, as the publisher demands books that will be accepted by Mudie’s circulating library. Mary cannot understand why her fiction must be bowdlerised so as not to offend her readers, when the most sensational details of divorce cases are reported in the daily newspapers. Presumably, her readers are mainly women, whereas men would be more likely to read the lurid newspaper articles and disseminate a sanitised version deemed suitable for delicate feminine ears.
 

@@ -7,11 +7,7 @@ description: "Explore lessons about wealth and status from 18 Stafford Terrace, 
 keywords: ["18 Stafford Terrace", "Victorian house", "Edward Linley Sambourne", "London property", "wealth inequality", "Caroline Knowles", "Serious Money", "Victorian lifestyle"]
 ---
 
-{{< figure
-  src="/images/serious-money.jpg"
-  alt="Cover of Serious Money by Caroline Knowles"
-  class="book"
->}}
+{{< book-cover src="images/serious-money.jpg" alt="Cover of Serious Money by Caroline Knowles" >}}
 
 Tucked away behind High Street Kensington is [18 Stafford Terrace](https://www.rbkc.gov.uk/museums/sambourne-house), a sumptuously preserved Victorian townhouse. This was once the home of Edward Linley Sambourne, a cartoonist for the magazine _Punch_, and his wife Marian. Many of their possessions were sold after the death of their son in 1946, yet the house remains cluttered, even by Victorian standards.
 

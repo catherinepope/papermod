@@ -7,13 +7,7 @@ description: "Explore the recently discovered 1860 letter where Charles Dickens 
 keywords: ["Florence Marryat", "Charles Dickens", "All the Year Round", "Bonhams auction", "Victorian writers", "literary rejection", "Captain Frederick Marryat", "London Society", "Victorian publishing"]
 ---
 
-{{< figure
-  src="/images/charles-dickens-letter.jpg"
-  alt="Charles Dickens’ letter to Florence Marryat"
-  caption="Charles Dickens’ letter to Florence Marryat"
-  align="center"
-  class="book"
->}}
+{{< book-cover src="images/charles-dickens-letter.jpg" alt="Charles Dickens’ letter to Florence Marryat" >}}
 
 It’s not often that Florence Marryat makes the national press, so this has been an exciting week. An unpublished letter from 1860 has emerged in which Charles Dickens berates Marryat for requesting advice from him. She offered a short story for inclusion in his journal _All the Year Round_, hoping that he would also give her a critique. Of course, it’s perfectly usual for authors to solicit feedback from editors, and Dickens was actually a close friend of her father, fellow novelist Captain Frederick Marryat. Poor Florence must’ve been rather miffed to receive a three-page snotgram in response.
 Bonhams, who are to auction the letter on 16th March, have described Dickens’s reply as “wonderfully rude”. Refusing to enter into further discussion, he writes:
@@ -28,13 +22,7 @@ Matthew Haley, head of books at Bonhams, commented:
 
 >He could just have been having a bad day, of course, and she later dedicated one of her books to him so does not seem to have held any grudges.
 
-{{< figure
-  src="/images/charles-dickens.jpg"
-  alt="Photo of Charles Dickens"
-  caption="GrumpyChops"
-  align="center"
-  class="book"
->}}
+{{< book-cover src="images/charles-dickens.jpg" alt="Photo of Charles Dickens" >}}
 
 Future relations were certainly more cordial, and Marryat continued to ask Dickens for favours – she was never afraid of exploiting literary connections. This is not to say that she didn’t hold a grudge, though. Marryat was highly skilled in the art of the passive-aggressive book dedication. Her novel _The Girls of Feversham_, a story in which a family is shown to function very happily without a mother, is dedicated to Marryat’s own mother, with whom she had a very restrained relationship. And the novel she dedicated to her first husband is called _Too Good for Him_. Ouch.
 

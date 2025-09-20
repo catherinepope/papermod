@@ -8,11 +8,7 @@ description: "A review of Kate Colquhoun's 'A Thing in Disguise: The Visionary L
 keywords: ["Joseph Paxton", "Kate Colquhoun", "A Thing in Disguise", "Crystal Palace", "Great Exhibition", "Duke of Devonshire", "Victorian engineering", "Chatsworth", "biography review", "Victorian progress"]
 ---
 
-{{< figure
-  src="/images/a-thing-in-disguise.jpg"
-  alt="Cover of A Thing in Disguise by Kate Colquhoun"
-  class="book"
->}}
+{{< book-cover src="images/a-thing-in-disguise.jpg" alt="Cover of A Thing in Disguise by Kate Colquhoun" >}}
 
 Joseph Paxton (1803-65) was a formidable auto-didact who embodied the Victorian idea of progress. From humble beginnings as the son of a poor farmer, Paxton landed the dream job of gardener to the Duke of Devonshire at the age of just 23. He remained there until the Duke’s death, 32 years later. Although horticulture was his great love, his talents were too diverse for him to remain tied to the land. A practical man who seemed to have a solution to any problem, “ask Paxton” became a national catchphrase. He went on to design mansions, sewage systems, and elaborate hothouses to ensure the wealthy never went without a pineapple.
 

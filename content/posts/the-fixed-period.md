@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's surprising dystopian novel 'The Fix
 keywords: ["Anthony Trollope", "The Fixed Period", "dystopian fiction", "Victorian science fiction", "euthanasia novel", "dark comedy", "speculative fiction"]
 ---
 
-{{< figure
-  src="/images/the-fixed-period.jpg"
-  alt="Cover of The Fixed Period by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/the-fixed-period.jpg" alt="Cover of The Fixed Period by Anthony Trollope" >}}
 
 The futuristic utopia depicted in _The Fixed Period_ (1882) is a radical and unexpected departure for Anthony Trollope.  Imagine Thomas Pynchon writing a chick lit novel, or Maeve Binchy turning her hand to slash fiction. It’s a radical departure for me, too, as essentially I’ve been tricked into reading science fiction.  The story is set in 1980 in the fictional republic of Britannula, created when a group of ex-pats occupy the South Island of New Zealand and claim independence from Great Britain. The 25,000-strong community is led by President John Neverbend, who almost bursts with his own self-importance and civic pride.
 

@@ -8,13 +8,7 @@ description: "A review of Felicia Skene's 1866 novel 'Hidden Depths,' exposing p
 keywords: ["Felicia Skene", "Hidden Depths", "1866 literature", "Oxford", "fallen women", "Tractarian novel", "Contagious Diseases Acts", "Victorian hypocrisy", "High Anglicanism", "social reform"]
 ---
 
-{{< figure
-  src="/images/felicia-skene-plaque.jpg"
-  alt="Photo of Felicia Skene's blue plaque"
-  caption="Felicia Skene's blue plaque at 34 St Michael’s Street, Oxford"
-  align="center"
-  class="book"
->}}
+{{< book-cover src="images/felicia-skene-plaque.jpg" alt="Photo of Felicia Skene's blue plaque" >}}
 
 Felicia Skene (1821-99) was a philanthropist and writer. Born in Aix-en-Provence, she moved to Oxford during the tumult of Newman’s defection to Rome and was heavily influenced by High Anglicanism. Much of her writing was barely diluted Tractarian propaganda, but in _Hidden Depths_ (1866) she exposes the prostitution rife in Oxford (thinly disguised as ‘Greyburgh’), and attacks the hypocrisy of those who blamed the ‘fallen’ women for the spread of venereal disease, rather than the men (and sometimes women) who exploited them.
 

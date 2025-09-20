@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 'Can You Forgive Her?,' the first P
 keywords: ["Anthony Trollope", "Can You Forgive Her", "Palliser novels", "Alice Vavasor", "Plantagenet Palliser", "Lady Glencora", "Victorian marriage", "Victorian fiction", "political novel"]
 ---
 
-{{< figure
-  src="/images/can-you-forgive-her.jpg"
-  alt="Cover of Can You Forgive Her? by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/can-you-forgive-her.jpg" alt="Cover of Can You Forgive Her? by Anthony Trollope" >}}
 
 Stephen King once rudely referred to the first Palliser novel as _Can You Finish It?_ It’s certainly true that Trollope wasn’t known for his brevity, and this handsome new OUP edition of [_Can You Forgive Her?_](https://oxfordworldsclassics.com/display/10.1093/owc/9780199578177.001.0001/isbn-9780199578177) is 700 pages long. However, Trollope grapples with an ambitious range of political and social themes and, in so doing, presents a compelling and provocative narrative.
 

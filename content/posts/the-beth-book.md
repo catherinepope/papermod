@@ -8,11 +8,7 @@ description: "An enthusiastic review of Sarah Grand's 1897 novel 'The Beth Book,
 keywords: ["Sarah Grand", "The Beth Book", "New Woman novel", "Victorian feminism", "bildungsroman", "women's independence", "vivisection", "Jane Eyre comparison", "Victorian fiction"]
 ---
 
-{{< figure
-  src="/images/the-beth-book.jpg"
-  alt="Cover of The Beth Book by Sarah Grand"
-  class="book"
->}}
+{{< book-cover src="images/the-beth-book.jpg" alt="Cover of The Beth Book by Sarah Grand" >}}
 
 Until a few weeks ago, I didn’t have a favourite novel: then I read _The Beth Book_. First published in 1897, it tells the story of Elizabeth Caldwell, a heroine whose experiences are closely modelled on Grand’s own life. The young Beth is a bright, inquisitive and loving child who is constrained by her difficult upbringing in a remote town on the west coast of Ireland and then in Yorkshire. Her mother has no idea how to deal with an intelligent daughter and desperately tries to instil in her ideas of feminine self-sacrifice. Like many girls of the period, she is denied an education and encouraged to make an advantageous marriage as soon as possible.
 

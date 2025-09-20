@@ -8,11 +8,7 @@ description: "A review of John Halperin's biography 'Gissing: a Life in Books,' 
 keywords: ["George Gissing", "John Halperin", "biography review", "Victorian literature", "New Grub Street", "Victorian novelist", "literary biography", "19th century writers", "book review"] 
 ---
 
-{{< figure
-  src="/images/gissing-a-life-in-books.jpg"
-  alt="Cover of Gissing: A Life in Books by John Halperin"
-  class="book"
->}}
+{{< book-cover src="images/gissing-a-life-in-books.jpg" alt="Cover of Gissing: A Life in Books by John Halperin" >}}
 
 As with many Victorian writers, George Gissing's life (1857-1903) reads rather like one of his novels. In some spooky cases, his life actually imitated his art, the fates suffered by some of his characters later befalling the author. Born in Wakefield in 1857, George Gissing's existence was one of eternal struggle. Although a gifted scholar, the early death of his pharmacist father left Gissing perennially short of money. His extraordinary talent won him a prestigious scholarship to Owen College (now the University of Manchester) and it looked as though his troubles were over, with a distinguished academic career virtually guaranteed. However, his weakness for a prostitute called Nell was to be his undoing. Initially her client, they soon became lovers, but she still demanded increasing sums of money from him to fund her alcohol addiction. With very limited means, he was forced to steal on her behalf and was eventually caught when the suspicious college authorities laid a trap for him. He was expelled in disgrace and his family wanted nothing more to do with their black sheep.
 

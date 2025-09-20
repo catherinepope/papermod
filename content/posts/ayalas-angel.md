@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 1881 novel 'Ayala's Angel,' followi
 keywords: ["Anthony Trollope", "Ayala's Angel", "Ayala Dormer", "Tom Tringle", "Angel of Light", "marriage proposals", "Victorian courtship", "women's choices"]
 ---
 
-{{< figure
-  src="/images/ayalas-angel.jpg"
-  alt="Cover of Ayala’s Angel by Anthony Trollope "
-  class="book"
->}}
+{{< book-cover src="images/ayalas-angel.jpg" alt="Cover of Ayala’s Angel by Anthony Trollope " >}}
 
 _Ayala’s Angel_ (1881) is a rather incongruous title for a Trollope novel. However, the story deals very much with his familiar territory of marriage, inheritance, and the position of women. After the death of their imprudent artist father, penniless sisters Ayala and Lucy Dormer are separated and sent to live with different branches of the family. Lucy is taken in by her well-meaning Uncle Reginald, an Admirality clerk struggling to manage on a limited income; Ayala, meanwhile, embarks upon a more comfortable lifestyle with her wealthy aunt, Lady Tringle. Unfortunately, her two unattractive female cousins become jealous of Ayala’s beauty, and their brother Tom falls hopelessly in love with her, and refuses to take no for an answer.
 

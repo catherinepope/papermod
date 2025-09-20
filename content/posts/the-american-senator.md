@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 1877 novel 'The American Senator,' 
 keywords: ["Anthony Trollope", "The American Senator", "Arabella Trefoil", "Elias Gotobed", "fortune hunting", "marriage market", "English society", "social satire"]
 ---
 
-{{< figure
-  src="/images/the-american-senator.jpg"
-  alt="Cover of The American Senator by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/the-american-senator.jpg" alt="Cover of The American Senator by Anthony Trollope" >}}
 
 The eponymous Senator is Elias Gotobed, whose curious name alludes to that fact that he has a tendency to send people to sleep. After his friend John Morton inherits the estate of Bragton Hall, he travels to England with him, his fiancée Arabella Trefoil, and her mother Lady Augustus. The Senator is keen to undertake a study of English life, and is delighted when they are all invited to stay at Rufford Hall, the home of wealthy bachelor Lord Rufford. Arabella realises that the Lord is a greater matrimonial prize than Morton and encourages his advances. Frustrated with her lack of progress, she lets it be known that he proposed to her, a charge he vigorously denies. Lady Augustus threatens him with a breach of promise action and he agrees to pay Arabella £8,000 in ‘damages’. 
 

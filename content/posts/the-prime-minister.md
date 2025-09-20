@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 1876 novel 'The Prime Minister,' do
 keywords: ["Anthony Trollope", "The Prime Minister", "Palliser novels", "Ferdinand Lopez", "Victorian anti-Semitism", "political novel", "melodrama", "railway drama"]
 ---
 
-{{< figure
-  src="/images/the-prime-minister.jpg"
-  alt="Cover of The Prime Minister by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/the-prime-minister.jpg" alt="Cover of The Prime Minister by Anthony Trollope" >}}
 
 Henry James wrote that Trollope’s “political novels are distinctly dull,” and confessed that he had been unable to read them. Although the Palliser novels, of which _The Prime Minister_ (1876) is the penultimate, do contain a running political theme, I can happily report that these elements can be skimmed with no ill effects. Having said that, the collapse of a precarious Coalition government and talk of Tories in Liberal clothing have a certain resonance for current British readers.
 

@@ -8,11 +8,7 @@ description: "A review of Anthony Trollope's 1881 novel 'Dr Wortle's School,' wr
 keywords: ["Anthony Trollope", "Dr Wortle's School", "bigamy novel", "psychological drama", "moral complexity", "sensation novel", "Victorian morality"]
 ---
 
-{{< figure
-  src="/images/dr-wortles-school.jpg"
-  alt="Cover of Dr Wortle’s School by Anthony Trollope"
-  class="book"
->}}
+{{< book-cover src="images/dr-wortles-school.jpg" alt="Cover of Dr Wortle’s School by Anthony Trollope" >}}
 
 I think Trollope is just showing off. Apparently, he wrote _Dr Wortle’s School_ (1881) in just three weeks. Admittedly, it’s a fairly slim volume, but even so, he’s still a pesky overachiever. The eponymous Doctor runs a successful private school and enjoys a good reputation in the fictional county of Broughtonshire. His life is severely disrupted, however, by the arrival of a new schoolmaster, Mr Peacocke, and his beautiful American wife. Although outwardly a perfectly respectable, yet enigmatic, couple, the appearance of a stranger at the school gates heralds the revelation that Mrs Peacocke is a bigamist. Now, I’m not spoiling anything here, as Trollope ruins this plot element himself in the opening pages. He wanted to avoid the plot-driven style of the sensation novel and instead focus on the psychological drama.
 
