@@ -7,11 +7,7 @@ description: "A practical guide for stuck PhD students who need clarity and conf
 keywords: ["How to Finish Your PhD", "PhD completion", "stuck PhD", "thesis writing", "PhD coaching", "doctoral completion", "PhD productivity", "thesis finishing", "PhD help"]
 ---
 
-{{< figure
-  src="/images/how-to-finish-your-phd-cover.jpg"
-  alt="Cover of How to Finish Your PhD"
-  class="book"
->}}
+{{< book-cover src="images/how-to-finish-your-phd-cover.jpg" alt="Cover of How to Finish Your PhD" >}}
 
 Just after I finished my PhD, I had lunch with a friend I’d not seen for a little while. When she asked what I’d been up to, it was very satisfying to produce a photo of myself in my doctoral plumage. “Blimey, Catherine,” she said, “you must’ve worked really hard”. “Yes,” I replied, smiling broadly and triumphantly. The smile faded as she added, “because it’s not as though you’re really intelligent or anything”.
 
@@ -33,8 +29,6 @@ Although everyone is completely different, you’re all facing broadly the same 
 
 A few people breeze through their PhD, knowing exactly what they’re doing and never giving their supervisor a moment’s worry. This probably isn’t you. I don’t want to present doctoral research as an unbearable slog, but I do want to be realistic. It’s tough for most of us. That’s why relatively few people get to call themselves Dr. It’s hard, but not impossible. I want to help make it possible for you. My role is to break down each stage so it’s more manageable. This book is intended as a pocket coach, providing support when you need it.
 
-Cover of How to Finish Your PhD
-
 ## Who This Book is For
 
 I’m assuming you’re reading this book because you’re struggling. This book is mainly aimed at PhD students who have already started on their thesis and have made some progress. You might have entered your second year and suddenly realised that the submission date is closer than you thought. Or you could be in the final stages, trying frantically to bring everything together.
@@ -49,11 +43,7 @@ I’ve tried to make my advice applicable to all disciplines and styles of thesi
 
 Although I’m here to help you complete your thesis, there’s only so much I can do. In this book, I’m focusing on the fundamentals, the processes that you need to create, deploy, and refine. The next layer is the conventions in your discipline. This is where you’ll need to talk to your supervisors and peers to find out how this information applies in your particular context. It will vary enormously according to the type of research you’re pursuing. And then finally, the very top layer is the specifics for your project. Your thesis is completely unique. This means you’ll have to adapt what you’ve learned from me and other people to come up with a solution that’s right for you. Nobody else can tell you precisely what you should do with your thesis.
 
-{{< figure
-  src="/images/layers.jpg"
-  alt="Diagram showing how to use this book"
-  align="center"
->}}
+{{< img src="images/layers.jpg" alt="Diagram showing how to use this book" center="true" >}}
 
 ## A Note on Language and Terminology
 
@@ -91,11 +81,7 @@ Are you ready? Let’s get started.
 
 ## How to Buy Your Copy
 
-{{< figure
-  src="/images/how-to-finish-your-phd-cover.jpg"
-  alt="Cover of How to Finish Your PhD"
-  class="book"
->}}
+{{< book-cover src="images/how-to-finish-your-phd-cover.jpg" alt="Cover of How to Finish Your PhD" >}}
 
 _How to Finish Your PhD_ is available in [paperback and ebook editions](https://books2read.com/u/bMXr27). You can order through your favourite online retailer or independent bookstore. The ebook edition is available through Amazon, Apple, Kobo, and all the other major channels. If you’d like to buy in bulk for your researchers (20+ copies), please [contact me](mailto:me@catherinepope.com) for discounts or any other queries.
 

@@ -18,12 +18,7 @@ My Tiny Experiments also showed me the benefits of capturing my thoughts — or,
 
 Ha! Still, there are also some more sensible utterances, along with useful reminders of things I’ve tried that don’t work. I’m prone to thinking, “This is a great idea!” then finding a note from my previous self to explain exactly why it’s a terrible idea, or how much work is really involved. I suspect it would be helpful to analyse this data with Claude.ai, but I can’t face that degree of scrutiny yet. For now, I’m going randomly fish around for useful morsels.
 
-{{< figure
-  src="/images/bohemian-catsody.jpg"
-  alt=""
-  caption="Bohemian Catsody"
-  align="center"
->}}
+{{< img src="images/bohemian-catsody.jpg" alt="Screenshot of Bohemian Catsody" caption="Bohemian Catsody" center="true" >}}
 
 I shall also keep going with Tiny Experiments. The idea of breaking things down and making it easier for myself was quite the revelation. This week I’ve successfully adopted that approach to learning Bohemian Rhapsody on the piano and getting back to the gym for the first time in almost two years. It’s fair to say that one of those activities was much more enjoyable than the other. Rather than being my own worst critic, I’m giving myself permission to start small and take it one tiny step at a time. I’m also finding joy in the process itself, rather than getting obsessed with reaching my goal. But reserve the right to perform a celebratory jig when I master all the fiddly bits in Bohemian Rhapsody.
 

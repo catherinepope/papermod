@@ -10,11 +10,7 @@ keywords: ["How to Publish Your PhD", "thesis to book", "academic publishing", "
 # OpenToc: true  
 ---
 
-{{< figure
-  src="/images/how-to-publish-your-phd-cover.jpg"
-  alt="Cover of How to Publish Your PhD"
-  class="book"
->}}
+{{< book-cover src="images/how-to-publish-your-phd-cover.jpg" alt="Cover of How to Publish Your PhD" >}}
 
 You’ve passed your viva, you’ve changed your title to Dr on your bank cards. The next step is usually to turn your thesis into a monograph. Although there’s no shortage of people urging you to get started, they’re probably not falling over themselves to explain exactly how to go about it. Is it just a few tweaks here and there? Or are you going to have to rewrite every single word? What on earth is a monograph, anyway?
 
@@ -102,19 +98,11 @@ The path you take through this book depends both on you and on your publisher. A
 
 You’ll notice that only half the book is dedicated to actually writing your monograph. That’s because preparation is key. You need to both work on your book and in your book and develop the ability to pivot between the two. Working on your book means managing the overall project: establishing aims, defining the scope, and measuring progress. Working in your book is the writing phase. With a tight plan in place, this writing phase will be much easier. There’s a lot of foundational work that must be done before you can see any visible evidence of your book.
 
-{{< figure
-  src="/images/iceberg.jpg"
-  alt="Diagram of iceberg"
-  align="center"
->}}
+{{< img src="images/iceberg.jpg" alt="Diagram of iceberg" center="true" >}}
 
 Although I’m here to help you publish your thesis, there’s only so much I can do. In this book, I’m focusing on the fundamentals — the processes you need to create, deploy, and refine. The next layer is the conventions in your discipline. This is where you’ll need to talk to your supervisors, friends, and colleagues to find out how this information applies in your particular context. It will vary enormously according to the type of research you’re pursuing. And then finally, the very top layer is the specifics for your project. Your monograph is completely unique. This means you’ll have to adapt what you’ve learned from me and other people to come up with a solution that’s right for you. Nobody else can tell you precisely what you should do with your book.
 
-{{< figure
-  src="/images/layers.jpg"
-  alt="Diagram showing how to use this book"
-  align="center"
->}}
+{{< img src="images/layers.jpg" alt="Diagram showing how to use this book" center="true" >}}
 
 This book is arranged in seven chapters, each focused on a specific area of publishing your PhD:
 
@@ -140,11 +128,7 @@ Are you ready? Let’s get started.
 
 ## How to Buy 
 
-{{< figure
-  src="/images/how-to-publish-your-phd-cover.jpg"
-  alt="Cover of How to Publish Your PhD"
-  class="book"
->}}
+{{< book-cover src="images/how-to-publish-your-phd-cover.jpg" alt="Cover of How to Publish Your PhD" >}}
 
 _How to Publish Your PhD_ is available in [paperback and ebook editions](https://books2read.com/u/4DKl97). You can order through your favourite online retailer or independent bookstore. The ebook edition is available through Amazon, Apple, Kobo, and all the other major channels. If you’d like to buy in bulk for your institution (20+ copies), please [contact me](mailto:me@catherinepope.com) for discounts or any other queries.
 

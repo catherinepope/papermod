@@ -20,12 +20,7 @@ Even when we start out with a clear plan, it’s easy to end up with rambling dr
 
 You now have a compact list, which is much easier to work with than scrolling back and forth through a monster Word document. It’ll take you 2-3 hours to reverse-outline a 10,000-word draft, but it’s time well spent. Although you could use a chatbot like ChatGPT or Claude, doing it yourself forces you to engage critically with what you’ve written.
 
-{{< figure
-  src="/images/numbered-paragraphs.jpg"
-  alt="Photo of numbered paragraphs"
-  caption="Stage 1 of reverse outlining"
-  align="center"
->}}
+{{< img src="images/numbered-paragraphs.jpg" alt="Photo of numbered paragraphs" caption="Stage 1 of reverse outlining" center="true" >}}
 
 ## Step Two
 
@@ -57,11 +52,6 @@ Using your reverse outline bullet point list, devise a colour-coded scheme to fl
 
 You could simply circle each bullet point with the corresponding colour or use a highlighter pen on the text itself. Either way, you’ll quickly get a sense of the balance in your chapter. Is it a sea of red? There’s no right balance between secondary sources, context, and originality, so spend some time thinking what might be appropriate for your book. Perhaps you could prune a secondary source from a six-line block quote down to a one-sentence inline quote. Then you’ve got more room to add your own insight.
 
-{{< figure
-  src="/images/colour-coding.jpg"
-  alt="Photo of colour-coded paragraphs"
-  caption="Colour-coded paragraphs"
-  align="center"
->}}
+{{< img src="images/colour-coding.jpg" alt="Photo of colour-coded paragraphs" caption="Colour-coded paragraphs" center="true" >}}
 
 Reverse outlining is beautifully simple, but it’s also time-consuming. If you need to get a sense of how long it’ll take for your book or thesis, try it out on a small sample of your writing, say 2,000 words. You can also use this technique to understand how other people structure their work. If you’ve read a piece of academic writing that was easy to follow, I’m willing to bet the author spent some time on reverse outlining.

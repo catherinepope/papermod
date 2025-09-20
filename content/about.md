@@ -5,11 +5,7 @@ description: "About page for Catherine Pope"
 hideMeta: true
 ---
 
-{{< figure
-  src="/images/Catherine-Pope.png"
-  alt="Catherine Pope"
-  class="book"
->}}
+{{< book-cover src="images/catherine-pope.png" alt="Photo of Catherine Pope" >}}
 
 Hello 👋 I’m Catherine Pope, a trainer, academic coach, and technical content creator. 
 

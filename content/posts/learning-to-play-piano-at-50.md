@@ -25,7 +25,7 @@ FlowKey is the app that seems to perform best in reviews. Although the lessons w
 
 I casually tried a few trial lessons on Simply Piano, then I was like a thing possessed. The gold stars, encouragement, and progress bars all make it really addictive. You’re encouraged to move at a lively clip. That way, you make rapid progress, which is wonderfully motivating. One moment I was muttering, “There’s no way I can play with both hands”; the next, I gazed in disbelief as my hands played independently. Soon I was playing chords, scales, arpeggios, along with a variety of styles. Then it got frustrating.
 
-{{< figure src="/images/simply-piano.png" alt="Screenshot of Simply Piano" align="center">}}
+{{< img src="images/simply-piano.jpg" alt="Screenshot of Simply Piano" caption="Screenshot of Simply Piano" center="true" >}}
 
 When I advanced to more complicated pieces, the teaching methods didn’t adjust. The emphasis is on playing as fast as possible and reaching the next level. You can play really badly and still pass, provided you’re quick. There were also really distracting backing tracks throughout, even on the classical pieces. Beautiful compositions like Für Elise were blighted by vigorous tambourine, finger-snapping, whistling, and crashing cymbals. Perhaps Bach is kicking himself for not adding maracas to Air on the G String? It sounded as though my cat was mucking about with GarageBand on my iPad. I found it impossible to focus. Also, in the lessons you can’t see the sheet music — it’s just a scrolling stave with very little control over the speed. There’s no option to study the music while it’s static, or to slow it right down. You can’t even rewind to see where you went wrong.
 
@@ -39,7 +39,7 @@ I tried Piano Marvel right at the beginning, but was immediately defeated by the
 
 Like Simply Piano, Piano Marvel offers a wide range of lessons and songs. Unlike Simply Piano, there’s much more focus on accuracy. Although it won’t force you to persevere until you get a perfect score, there’s much more detailed feedback on where you went wrong. Also, you only get awarded a Golden Ticket if you score 100%. Yes, they’re much more sparing with their positive reinforcement. Thankfully, I’ve matured a bit over the last year and am only moderately motivated by those tickets.
 
-{{< figure src="/images/piano-marvel.png" alt="Screenshot of Piano Marvel" align="center">}}
+{{< img src="images/piano-marvel.jpg" alt="Screenshot of Piano Marvel" caption="Screenshot of Piano Marvel" center="true" >}}
 
 Most importantly for me, I can study the music before playing it and I also have full control over the speed. Longer pieces are broken down into smaller chunks. Piano Marvel also offers substantial courses on technique and theory, including lots of exercises to help recognise notes by ear. While I enjoyed banging out tunes on SimplyPiano, I now really feel as though I’m learning to play the piano, rather than playing a game.
 

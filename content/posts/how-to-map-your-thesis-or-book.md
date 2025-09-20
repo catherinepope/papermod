@@ -24,12 +24,7 @@ Now use more sticky notes for jotting down the elements of each chapter – this
 
 Eventually, you’ll have a map of your book that you can see all at once.
 
-{{< figure
-  src="/images/thesis-map.jpg"
-  alt="Photo of thesis map"
-  caption="A map made of sticky notes"
-  align="center"
->}}
+{{< img src="images/thesis-map.jpg" alt="Photo of thesis map" caption="A map made of sticky notes" center="true" >}}
 
 ## Step Two
 

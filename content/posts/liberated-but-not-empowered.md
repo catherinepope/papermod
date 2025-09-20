@@ -12,12 +12,7 @@ Yesterday morning, I was filled with joy. My calendar was gloriously empty, whic
 
 Once I’d calmed down, this unedifying episode made me think of the Support-Challenge matrix from John Blakey and Ian Day’s book [Challenging Coaching](https://uk.bookshop.org/a/2760/9781904838395). If we’re lacking both challenge and support, we get stuck. If there’s support but little challenge, we become dependent. With big challenges and low support, anxiety reigns. The sweetspot is high challenge with correspondingly high support. That’s where we make progress.
 
-{{< figure
-  src="/images/support-challenge-matrix.png"
-  alt="The Support-Challenge Matrix"
-  align="center"
-  caption="The Support-Challenge Matrix"
->}}
+{{< img src="images/support-challenge-matrix.jpg" alt="The Support-Challenge Matrix" caption="The Support-Challenge Matrix" center="true" >}}
 
 This model suggests what’s wrong with personal finance. While we’re awash with innovative ways of managing our money, the support is miserably low. Challenges abound, with confusing small print and increasingly complex authentication systems. The problem is even more serious when it comes to life-changing decisions, such as choosing a pension or mortgage. If you want to actually speak to a human, it can cost thousands of pounds. Unless, of course, you’re happy for them to sell you a product on which they’re receiving a sizeable commission.
 
