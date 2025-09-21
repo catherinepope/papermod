@@ -26,6 +26,7 @@ ShowBreadCrumbs: true
 
 - [Expectations in Research Supervision Questionnaire](/docs/Expectations-in-Research-Supervision-Questionnaire.pdf) (PDF)
 - [PhD Supervision Meeting Agenda](/docs/PhD-Supervision-Meeting-Agenda.docx) (MS Word)
+- [Co-Supervisor Responsibility Matrix](/docs/Co-Supervisor-Responsibility-Matrix.docx) (MS Word)
 - [Achieving a Win-Win](../achieving-a-win-win/)
 - [The Drama Triangle](../the-drama-triangle/)
 - [The Hersey-Blanchard Model of Situational Leadership](../hersey-blanchard-doctoral-supervision/)
