@@ -28,7 +28,7 @@ How to Publish Your PhD is available in [paperback and ebook editions](https://b
 
 ## Contents
 
-### [Introduction](../introduction/) (read for free)
+### [Introduction](introduction/) (read for free)
 
 ### 1. Establishing Your Purpose
 

@@ -1,0 +1,13 @@
+# Blog post redirects - moving from root to /posts/ directory
+/why-we-should-all-be-slackers/ /posts/why-we-should-all-be-slackers/ 301
+/playing-with-dinosaurs/ /posts/playing-piano-with-dinosaurs/ 301
+/avoiding-the-complexity-trap/ /posts/avoiding-the-complexity-trap/ 301
+/open-up-by-alex-holder/ /posts/open-up-alex-holder/ 301
+/a-reflection-on-my-tiny-experiments/ /posts/a-reflection-on-my-tiny-experiments/ 301
+/tiny-experiments-what-my-cat-taught-me-about-money/ /posts/what-my-cat-taught-me-about-money/ 301
+/diderots-dishwasher/ /posts/diderots-dishwasher/ 301
+/lets-talk-german-to-owls/ /posts/lets-talk-german-to-owls/ 301
+/tiny-experiments-liberated-but-not-empowered/ /posts/liberated-but-not-empowered/ 301
+/tiny-experiments/ /posts/tiny-experiments/ 301
+/88-keys-to-happiness-learning-to-play-piano-at-50/ /posts/learning-to-play-piano-at-50/ 301
+/saturday-morning-experiments/ /posts/saturday-morning-experiments/ 301

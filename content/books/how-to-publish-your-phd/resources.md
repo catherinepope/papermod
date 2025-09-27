@@ -22,7 +22,7 @@ Thank you for buying or borrowing a copy of _How to Publish Your PhD_. If you do
 
 - [12-Week Sprint Planner](/pdfs/12-Week-Sprint.pdf) (PDF)
 - [Editing Audit](/docs/Editing-Audit.docx) (MS Word)
-- [Weekly Planner](/docs/Weekly-Planner.pdf) (PDF)
+- [Weekly Planner](/pdfs/Weekly-Planner.pdf) (PDF)
 - [Writing Audit](/docs/Writing-Audit.docx) (MS Word)
 
 ## Links
@@ -87,7 +87,7 @@ Thank you for buying or borrowing a copy of _How to Publish Your PhD_. If you do
 ### Podcasting
 
 - [H-Podcast](https://networks.h-net.org/node/84048/pages/114315/academic-podcast-roundup)
-- [Pod Academy](www.podacademy.org)
+- [Pod Academy](https://www.podacademy.org)
 
 ### Social Media
 
