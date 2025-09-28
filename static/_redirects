@@ -18,3 +18,6 @@
 /resources/the-support-challenge-matrix/ /workshops/resources/the-support-challenge-matrix/ 301
 /resources/the-drama-triangle/ /workshops/resources/the-drama-triangle/ 301
 /resources/saying-no/ /workshops/resources/saying-no/ 301
+
+# Remove WordPress comment parameters
+/about/?replytocom=*  /about/  301
