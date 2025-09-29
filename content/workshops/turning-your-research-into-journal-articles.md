@@ -7,6 +7,7 @@ categories: ["Training"]
 description: "Interactive workshop on converting research and thesis work into publishable journal articles. Learn a 5-step process for idea selection, structuring, drafting, editing, and incorporating feedback to create finished articles."
 keywords: ["journal articles", "academic publishing", "thesis to article", "research writing", "academic writing", "scholarly publishing", "writing process", "manuscript preparation", "academic journals", "publication strategy"]
 ShowBreadCrumbs: true
+hideMeta: true
 ---
 
 Are you struggling to turn your research or thesis into journal articles? You have lots of ideas, but it’s hard converting them into a structured piece of writing. You’re so focused on the details, you can’t see the bigger picture.

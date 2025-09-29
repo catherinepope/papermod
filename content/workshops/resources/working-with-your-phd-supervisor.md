@@ -10,13 +10,15 @@ ShowBreadCrumbs: true
 hideMeta: true
 ---
 
+Here are the resources from my workshop [Working with Your PhD Supervisor](../../working-with-your-phd-supervisor/).
+
 ## Books 📚
 
-- [_Words that Change Minds_](https://uk.bookshop.org/a/2760/9781733670302) by Shelle Rose Charvet
-- [_The Unwritten Rules of PhD Research_](https://uk.bookshop.org/a/2760/9780335262120) by Gordon Rugg & Marian Petre
-- [_Thanks for the Feedback_](https://uk.bookshop.org/a/2760/9780670922635) by Douglas Stone & Sheila Heen
-- [_Difficult Conversations: How to Discuss What Matters Most_](https://uk.bookshop.org/a/2760/9780670921348) by Stone, Patton, & Heen
-- [_Setting Boundaries that Stick_](https://uk.bookshop.org/a/2760/9781648481291) by Juliane Taylor Shore
+- {{< book "words_minds" >}}
+- {{< book "unwritten_rules" >}}
+- {{< book "thanks_feedback" >}}
+- {{< book "difficult_conversations" >}}
+- {{< book "setting_boundaries" >}}
 
 ## Websites 💻
 

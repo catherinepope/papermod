@@ -7,6 +7,7 @@ categories: ["Training"]
 description: "Learn to establish healthy boundaries in academia with practical strategies for saying no professionally. Workshop covers priority-setting frameworks, polite refusal techniques, and protecting time for meaningful work without damaging relationships."
 keywords: ["academic boundaries", "saying no professionally", "academic productivity", "boundary setting workshop", "academic time management", "work-life balance academia", "academic burnout prevention", "priority setting academics", "professional development", "academic wellbeing", "overcommitment solutions", "academic self-care", "research productivity", "academic stress management", "healthy work boundaries"]
 ShowBreadCrumbs: true
+hideMeta: true
 ---
 
 Are you constantly overwhelmed by requests, struggling to protect time for your most important work? Or do you feel guilty every time you decline an opportunity? Academic culture often rewards saying "yes" to everything, but this approach can lead to burnout, compromised work quality, and misaligned priorities.

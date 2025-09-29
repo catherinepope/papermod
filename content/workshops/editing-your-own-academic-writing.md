@@ -7,6 +7,7 @@ categories: ["Training"]
 description: "Interactive workshop on systematic academic editing techniques. Learn to transform messy drafts into structured writing through time planning, signposting, clarity improvement, and effective self-proofreading strategies."
 keywords: ["academic editing", "self-editing", "thesis editing", "academic writing", "editing workshop", "writing revision", "academic proofreading", "manuscript editing", "writing clarity", "academic voice"] 
 ShowBreadCrumbs: true
+hideMeta: true
 ---
 
 Are you horrified by the thought of confronting your own work? Have you left it to the last minute, secretly hoping it’s better than you think? Although editing feels overwhelming, it’s much easier when you adopt a systematic approach and develop a structured plan.

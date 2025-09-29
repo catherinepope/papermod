@@ -1,0 +1,2 @@
+{{ $book := index .Site.Data.books (.Get 0) }}
+<a href="{{ $book.bookshop }}" class="book-link">{{ $book.title }}</a> by {{ $book.author }}

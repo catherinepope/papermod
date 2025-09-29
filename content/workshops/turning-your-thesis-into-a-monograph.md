@@ -7,6 +7,7 @@ categories: ["Training"]
 description: "Workshop for post-PhD researchers ready to publish their monograph. Learn to identify publishers, write compelling book proposals, transform thesis into book, and develop an effective publishing strategy."
 keywords: ["monograph publishing", "academic book publishing", "PhD to book", "book proposal", "academic publishers", "scholarly publishing", "thesis to monograph", "academic writing", "book publishing", "scholarly books"]
 ShowBreadCrumbs: true
+hideMeta: true
 ---
 
 You’ve passed your viva and got your life back. Now everyone keeps asking, “When are you going to publish your PhD?”

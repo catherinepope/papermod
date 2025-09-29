@@ -7,6 +7,7 @@ categories: ["Training"]
 description: "Interactive workshop on creating narrative CVs for researchers. Learn to identify invisible skills, translate experience into compelling narratives, and present your research story with clarity and impact."
 keywords: ["narrative CV", "academic CV", "researcher CV", "CV writing", "academic careers", "research skills", "career development", "academic job applications", "CV workshop", "research narrative"]
 ShowBreadCrumbs: true
+hideMeta: true
 ---
 
 Narrative CVs are gaining popularity as a way for researchers to showcase a wider range of skills and experience in grant applications. But what is a narrative CV? And how does it differ from a traditional CV?

@@ -10,6 +10,7 @@ tocOpen: true
 build:
   list: false
 ShowBreadCrumbs: true
+hideMeta: true
 ---
 
 ## Payment
