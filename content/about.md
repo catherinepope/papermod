@@ -17,7 +17,7 @@ A couple of years ago, I left the tech sector to coach and train academics, from
 
 🧠 In 2023, just before my 50th birthday, I was diagnosed as autistic. Although this wasn’t a complete surprise, it took me a while to absorb the implications. Although I haven't received a formal diagnosis, it's likely I also have ADHD - which makes me AuDHD. The ADHD part of my brain loves learning new things; the autistic part enjoys developing systems for organising them. It's mostly a harmonious relationship.
 
-🎹 Like many autistic people, I develop intense interests and am able to hyperfocus on them. My current obsession is learning to play the piano. Because I often find it impossible to choose between things I love, I’m also learning classical guitar. Oh, and German, too.
+🎹 Like many autistic people, I develop intense interests and am able to hyperfocus on them. My current obsession is [learning to play the piano](../learning-to-play-piano-at-50/). Because I often find it impossible to choose between things I love, I’m also learning classical guitar. Oh, and German, too.
 
 I live in Brighton on the south coast of England with my partner [Tanya](https://www.tanyaizzard.co.uk) and [thousands of books](https://www.librarything.com/profile/catherinepope).
 
