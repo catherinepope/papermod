@@ -7,6 +7,7 @@ categories: ["Resources"]
 description: "Resources for Working with Your PhD Supervisor"
 keywords: ["academic resources", "doctoral supervision", "PhD supervisor"]
 ShowBreadCrumbs: true
+hideMeta: true
 ---
 
 ## Books 📚
