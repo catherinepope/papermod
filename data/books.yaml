@@ -4,11 +4,23 @@ burnout:
   isbn: "9781785042096"
   bookshop: "https://uk.bookshop.org/a/2760/9781785042096"
 
+detox_writing:
+  title: "Detox Your Writing: Strategies for Doctoral Researchers"
+  author: "Pat Thomson & Barbara Kamler"
+  isbn: "9780415820844"
+  bookshop: "https://uk.bookshop.org/a/2760/9780415820844"
+
 difficult_conversations:
   title: "Difficult Conversations: How to Discuss What Matters Most"
   author: "Stone, Patton, & Heen"
   isbn: "9780670921348"
   bookshop: "https://uk.bookshop.org/a/2760/9780670921348"
+
+literature_review:
+  title: "The Literature Review"
+  author: "Diana Ridley"
+  isbn: "9781446201435"
+  bookshop: "https://uk.bookshop.org/a/2760/9781446201435"
 
 setting_boundaries:
   title: "Setting Boundaries that Stick"
@@ -21,6 +33,18 @@ slow_productivity:
   author: "Cal Newport"
   isbn: "9780241652916"
   bookshop: "https://uk.bookshop.org/a/2760/9780241652916"
+
+social_scientists:
+  title: "Writing for Social Scientists"
+  author: "Howard S. Becker"
+  isbn: "9780226643939"
+  bookshop: "https://uk.bookshop.org/a/2760/9780226643939"
+
+stylish_writing:
+  title: "Stylish Academic Writing"
+  author: "Helen Sword"
+  isbn: "9780674064485"
+  bookshop: "https://uk.bookshop.org/a/2760/9780674064485"
 
 thanks_feedback:
   title: "Thanks for the Feedback"
@@ -39,3 +63,15 @@ words_minds:
   author: "Shelle Rose Charvet"
   isbn: "9781733670302"
   bookshop: "https://uk.bookshop.org/a/2760/9781733670302"
+
+write_thesis:
+  title: "How to Write a Thesis"
+  author: "Rowena Murray"
+  isbn: "9780335252978"
+  bookshop: "https://uk.bookshop.org/a/2760/9780335252978"
+
+writing_science:
+  title: "Writing Science"
+  author: "Joshua Schimel"
+  isbn: "9780199760244"
+  bookshop: "https://uk.bookshop.org/a/2760/9780199760244"

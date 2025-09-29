@@ -20,7 +20,7 @@ Here are the resources from my workshop [Working with Your PhD Supervisor](../..
 - {{< book "difficult_conversations" >}}
 - {{< book "setting_boundaries" >}}
 
-## Websites 💻
+## Websites 🕸️
 
 - [PhD Toolkit](https://www.ithinkwell.com.au/resources/PhDToolkit)
 - [The Thesis Whisperer](https://thesiswhisperer.com)

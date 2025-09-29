@@ -7,6 +7,7 @@ categories: ["Resources"]
 description: "Resources for Saying No: Establishing Healthy Boundaries in Academia workshop"
 keywords: ["academia", "boundaries", "workload"]
 ShowBreadCrumbs: true
+hideMeta: true
 ---
 
 Here are the resources from my workshop on [Saying No: Establishing Healthy Boundaries in Academia](../../saying-no/).
