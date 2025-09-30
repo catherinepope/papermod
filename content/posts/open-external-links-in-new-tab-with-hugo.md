@@ -2,11 +2,12 @@
 date: "2025-09-18T09:04:15+01:00"
 draft: false
 title: "Open External Links in a New Tab With Hugo"
-tags: ["Hugo", "Tutorial"]
+tags: ["Hugo", "Tutorials"]
 categories: ["Technology"] 
 description: "Configure Hugo to automatically open external links in new tabs while keeping internal links in the same window. Complete tutorial with code examples for YAML and TOML configs."
 keywords: ["Hugo", "external links", "render hooks", "Hugo tutorial", "web development", "static site generator", "Goldmark", "Hugo configuration", "new tab links"]
 ShowToc: true
+tocOpen: true
 ---
 
 After months of faffing around and configuring external links manually in Hugo, I decided there must be a better way. There is! Here's the solution that worked for me. Some themes include native support, so it's a case of checking the documentation and adding a line to your `hugo.yaml` or `hugo.toml` config file. If, like me, you're using a theme that doesn't support this feature, here's a method that might work for you.
