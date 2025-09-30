@@ -1,2 +1,2 @@
 {{ $book := index .Site.Data.books (.Get 0) }}
-<a href="{{ $book.bookshop }}" class="book-link">{{ $book.title }}</a> by {{ $book.author }}
+<a href="https://uk.bookshop.org/a/2760/{{ $book.isbn }}" class="book-link">{{ $book.title }}</a> by {{ $book.author }}
