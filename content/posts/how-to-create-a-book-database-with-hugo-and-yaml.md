@@ -1,16 +1,16 @@
 ---
 date: "2025-09-29T17:03:31+01:00"
-draft: true
-title: "How to Create a Book Database with Hugo"
-tags: ["Hugo", "Tutorials", "tag3"]
+draft: false
+title: "How to Create a Book Database with Hugo and YAML"
+tags: ["Hugo", "Tutorials"]
 categories: ["Technology"] 
-description: ""
-keywords: ["keyword 1", "keyword 2", "keyword 3"]
+description: "Learn how to create a reusable book database in Hugo using YAML data files and shortcodes. Save time by maintaining book details in one place and updating links site-wide instantly."
+keywords: ["Hugo", "YAML", "data files", "shortcodes", "static site generator", "Hugo tutorial", "book database", "reusable content"]
 ShowToc: true
 tocOpen: true  
 ---
 
-While creating resources for some of my workshops, I realised I was recommending the same books repeatedly. This also meant I was typing the same details repeatedly - time I could be spending reading. I then started experimenting with creating a simple database in Hugo. I wanted a solution that would allow me to maintain my book details (title, author, ISBN, and URL) in one place, then pull them into specific pages with a shortcode. This way, I'd:
+While creating resources for some of my workshops, I realised I was recommending the same books repeatedly. This also meant I was typing the same details repeatedly - time I could be spending reading. I then started experimenting with creating a simple database in Hugo. I wanted a solution that would allow me to maintain my book details (title, author, and ISBN) in one place, then pull them into specific pages with a shortcode and link to a bookstore. This way, I'd:
 
 - Save time on adding books.
 - Save time on updating any links, as they're all in one place.
@@ -31,19 +31,16 @@ setting_boundaries:
   title: "Setting Boundaries that Stick"
   author: "Juliane Taylor Shore"
   isbn: "9781648481291"
-  bookshop: "https://uk.bookshop.org/a/2760/9781648481291"
 
 thanks_feedback:
   title: "Thanks for the Feedback"
   author: "Douglas Stone & Sheila Heen"
   isbn: "9780670922635"
-  bookshop: "https://uk.bookshop.org/a/2760/9780670922635"
 
 writing_science:
   title: "Writing Science"
   author: "Joshua Schimel"
   isbn: "9780199760244"
-  bookshop: "https://uk.bookshop.org/a/2760/9780199760244"
 
 ```
 
@@ -51,10 +48,9 @@ Each of these three blocks defines a single book entry with a unique key. In a m
 
 - `title`: The book's full title
 - `author`: The author's name
-- `isbn`: The ISBN (even if you're not using this immediately, it's useful to capture this information, as it helps you build dynamic links to online bookstores).
-- `bookshop`: The URL for the book on Bookshop.org. Of course, you can change this to your preferred bookstore. 
+- `isbn`: The ISBN allows you to build dynamic links to online bookstores.
 
-The metadata is indented by two spaces.
+The metadata is indented by two spaces.[^1]
 
 You can add as many book entries as you need to this file. Here are some tips:
 
@@ -72,7 +68,7 @@ Copy and paste this code into your `book.html` file:
 
 ```html
 {{ $book := index .Site.Data.books (.Get 0) }}
-<a href="{{ $book.bookshop }}" class="book-link">{{ $book.title }}</a> by {{ $book.author }}
+<a href="https://uk.bookshop.org/a/2760/{{ $book.isbn }}" class="book-link">{{ $book.title }}</a> by {{ $book.author }}
 ```
 
 Let's look at what's happening in this code:
@@ -86,29 +82,14 @@ This line fetches the book data from your YAML file and stores it in a variable 
 - `index` looks up that key in your books data file and returns the corresponding book entry.
 - `:=` assigns the result to the `$book` variable.
 
-**Line 2:** `<a href="{{ $book.bookshop }}" class="book-link">{{ $book.title }}</a> by {{ $book.author }}`
+**Line 2:** `<a href="https://uk.bookshop.org/a/2760/{{ $book.bookshop }}" class="book-link">{{ $book.title }}</a> by {{ $book.author }}`
 
 This line generates the HTML output:
 
-- Creates a link using the book's `bookshop` URL.
+- Creates a link using the book's `isbn`. Here I've included my affiliate link for bookshop.org (`https://uk.bookshop.org/a/2760/`). You can replace this with your own link to a store of your choice.
 - Displays the book's `title` as the link text.
 - Adds "by [author name]" after the link.
 - The `book-link` class means you can style these links with CSS.
-
-Here's where your `books.yaml` and `book.html` belong in your Hugo site:
-
-```text
-your-hugo-site/
-├── data/
-│   └── books.yaml
-├── layouts/
-│   └── shortcodes/
-│       └── book.html
-└── content/
-    └── posts/
-        └── your-post.md
-```
-
 
 Now you're ready to start using that shortcode to generate book links.
 
@@ -138,10 +119,28 @@ So, when you use `{{</* book "writing_science" */>}}` in your content, it output
 <a href="https://uk.bookshop.org/a/2760/9780199760244" class="book-link">Writing Science</a> by Joshua Schimel
 ```
 
+If you ever want to link to a different bookstore, you simply update the URL in your `book.html`. All your links are updated at build time. Magic! 🪄
+
+In case you're encountering problems, make sure your `books.yaml` and `book.html` files are in the correct locations:
+
+```text
+your-hugo-site/
+├── data/
+│   └── books.yaml
+├── layouts/
+│   └── shortcodes/
+│       └── book.html
+└── content/
+    └── posts/
+        └── your-post.md
+```
+
 ## Conclusion
 
-Once you've set up your data file and shortcode, it's quick to add your books (or other resources) to multiple pages. If you ever need to change the bookstore link, you can do it in one place.
+Once you've set up your data file and shortcode, it's quick to add your books (or other resources) to multiple pages.
 
 To make all those bookstore links open in a new tab, [take a look at my other Hugo tutorial](../open-external-links-in-new-tab-with-hugo/).
 
 Data files and shortcodes are wonderfully flexible and surprisingly satisfying. You get all the benefits of Hugo's simplicity _and_ reusable content.
+
+[^1]: I think there are unedifying arguments about the 'correct' number of spaces. It works with two, so I'm sticking with that.

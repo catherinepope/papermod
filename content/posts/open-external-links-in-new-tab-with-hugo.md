@@ -10,7 +10,7 @@ ShowToc: true
 tocOpen: true
 ---
 
-After months of faffing around and configuring external links manually in Hugo, I decided there must be a better way. There is! Here's the solution that worked for me. Some themes include native support, so it's a case of checking the documentation and adding a line to your `hugo.yaml` or `hugo.toml` config file. If, like me, you're using a theme that doesn't support this feature, here's a method that might work for you.
+After months of faffing around and configuring external links manually in Hugo, I decided there must be a better way. There is! Here's the solution that worked for me for [my bookstore links](../how-to-create-a-book-database-with-hugo-and-yaml/). Some themes include native support, so it's a case of checking the documentation and adding a line to your `hugo.yaml` or `hugo.toml` config file. If, like me, you're using a theme that doesn't support this feature, here's a method that might work for you.
 
 ## Step 1 - Update your config file
 
