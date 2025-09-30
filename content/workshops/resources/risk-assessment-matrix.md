@@ -13,7 +13,7 @@ showToc: true
 
 The Risk Assessment Matrix is a fundamental (but scary) tool for evaluating and prioritising project risks based on two dimensions:
 
--  **Vertical Axis - Probability**: How likely is this event to occur?
+- **Vertical Axis - Probability**: How likely is this event to occur?
 - **Horizontal Axis - Impact**: If this event does occur, how severe would the consequences be? Or, how much disruption would it cause?
 
 {{< img src="images/risk-assessment-matrix.jpg" alt="Diagram of the Risk Assessment Matrix" caption="The Risk Assessment Matrix" center="true" >}}
