@@ -1,7 +1,7 @@
 {{ $subject := .Get 0 }}
 <ul class="book-list">
 {{ range $key, $book := $.Site.Data.books }}
-  {{ if eq $book.subject $subject }}
+  {{ if in $book.subject $subject }}
     <li>{{ partial "book-link.html" $book }}</li>
   {{ end }}
 {{ end }}

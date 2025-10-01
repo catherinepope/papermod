@@ -12,5 +12,5 @@ hideMeta: true
 
 ## Books 📚
 
-{{< book-subject "project_management" >}}
+{{< book-subject "Project Management" >}}
 
