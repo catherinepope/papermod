@@ -2,64 +2,100 @@ burnout:
   title: "Burnout"
   author: "Emily & Amelia Nagasaki"
   isbn: "9781785042096"
+  subject: ["wellbeing"]
 
 detox_writing:
   title: "Detox Your Writing: Strategies for Doctoral Researchers"
   author: "Pat Thomson & Barbara Kamler"
   isbn: "9780415820844"
+  subject: ["academic_writing"]
 
 difficult_conversations:
   title: "Difficult Conversations: How to Discuss What Matters Most"
   author: "Stone, Patton, & Heen"
   isbn: "9780670921348"
+  subject: ["working_relationships"]
+
+lead_smart:
+  title: "How to Lead Smart People"
+  author: "Arun Singh & Mike Mister"
+  isbn: "9781788161541"
+  subject: ["project_management", "working_relationships"]
 
 literature_review:
   title: "The Literature Review"
   author: "Diana Ridley"
   isbn: "9781446201435"
+  subject: ["phd", "literature_review"]
+
+making_work_visible:
+  title: "Making Work Visible"
+  author: "Dominica DeGrandis"
+  isbn: "9781950508495"
+  subject: ["project_management"]
 
 setting_boundaries:
   title: "Setting Boundaries that Stick"
   author: "Juliane Taylor Shore"
   isbn: "9781648481291"
-  bookshop: "https://uk.bookshop.org/a/2760/9781648481291"
+  subject: ["working_relationships"]
 
 slow_productivity:
   title: "Slow Productivity"
   author: "Cal Newport"
   isbn: "9780241652916"
+  subject: ["project_management"]
 
 social_scientists:
   title: "Writing for Social Scientists"
   author: "Howard S. Becker"
   isbn: "9780226643939"
+  subject: ["academic_writing"]
+
+sprint:
+  title: "Sprint: How to Solve Big Problems and Test New Ideas in Just 5 Days"
+  author: "Jake Knapp"
+  isbn: "9780593076118"
+  subject: ["project_management", "working_relationships"]
 
 stylish_writing:
   title: "Stylish Academic Writing"
   author: "Helen Sword"
   isbn: "9780674064485"
+  subject: ["academic_writing"]
 
 thanks_feedback:
   title: "Thanks for the Feedback"
   author: "Douglas Stone & Sheila Heen"
   isbn: "9780670922635"
+  subject: ["working_relationships", "phd_supervision"]
+
+twelve_week_year:
+  title: "The 12 Week Year"
+  author: "Brian P. Moran & Michael Lennington"
+  isbn: "9781394369157"
+  subject: ["project_management", "productivity"]
 
 unwritten_rules:
   title: "The Unwritten Rules of PhD Research"
   author: "Gordon Rugg & Marian Petre"
   isbn: "9780335262120"
+  subject: ["phd"]
 
 words_minds:
   title: "Words that Change Minds"
   author: "Shelle Rose Charvet"
   isbn: "9781733670302"
+  subject: ["working_relationships", "project_management"]
 
 write_thesis:
   title: "How to Write a Thesis"
   author: "Rowena Murray"
   isbn: "9780335252978"
+  subject: ["phd"]
 
 writing_science:
   title: "Writing Science"
   author: "Joshua Schimel"
   isbn: "9780199760244"
+  subject: ["academic_writing"]

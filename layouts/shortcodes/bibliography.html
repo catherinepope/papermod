@@ -1,0 +1,22 @@
+{{ $subjects := slice }}
+{{ range $key, $book := .Site.Data.books }}
+  {{ range $book.subject }}
+    {{ $subjects = $subjects | append . }}
+  {{ end }}
+{{ end }}
+{{ $subjects = $subjects | uniq | sort }}
+
+{{ range $subjects }}
+  {{ $currentSubject := . }}
+  <h2>{{ . | humanize | title }}</h2>
+  <ul class="book-list">
+  {{ range $key, $book := $.Site.Data.books }}
+    {{ if in $book.subject $currentSubject }}
+      <li>
+        <a href="https://uk.bookshop.org/a/2760/{{ $book.isbn }}">{{ $book.title }}</a> 
+        by {{ $book.author }}
+      </li>
+    {{ end }}
+  {{ end }}
+  </ul>
+{{ end }}
