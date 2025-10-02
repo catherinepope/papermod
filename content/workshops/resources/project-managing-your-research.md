@@ -14,3 +14,7 @@ hideMeta: true
 
 {{< book-subject "Project Management" >}}
 
+## Resources 🧭
+
+- [The Risk Assessment Matrix](../risk-assessment-matrix/)
+- [Time Tracking for Researchers](../../../posts/time-tracking-for-researchers/)
