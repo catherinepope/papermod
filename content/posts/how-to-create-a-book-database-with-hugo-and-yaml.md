@@ -1,7 +1,7 @@
 ---
 date: "2025-09-29T17:03:31+01:00"
 draft: false
-title: "How to Create a Book Database with Hugo and YAML"
+title: "How to Create a Book Database with Hugo and YAML - Part 1"
 tags: ["Hugo", "Tutorials"]
 categories: ["Technology"] 
 description: "Learn how to create a reusable book database in Hugo using YAML data files and shortcodes. Save time by maintaining book details in one place and updating links site-wide instantly."
@@ -140,6 +140,8 @@ your-hugo-site/
 Once you've set up your data file and shortcode, it's quick to add your books (or other resources) to multiple pages.
 
 To make all those bookstore links open in a new tab, [take a look at my other Hugo tutorial](../open-external-links-in-new-tab-with-hugo/).
+
+In the next tutorial, I'll show you [how to create subject-specific book lists](../how-to-create-a-book-database-with-hugo-and-yaml-part-2/).
 
 Data files and shortcodes are wonderfully flexible and surprisingly satisfying. You get all the benefits of Hugo's simplicity _and_ reusable content.
 
