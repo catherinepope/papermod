@@ -29,7 +29,7 @@ It's a nerdy tradition to include a kit list, so here's the stuff I use in the P
 
 ## Utilities
 
-- [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) (for keeping my laptop awake)
+- [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) (for [keeping my laptop awake](../../posts/how-to-keep-your-mac-awake/))
 - [CopyClip](https://apps.apple.com/us/app/copyclip-clipboard-history/id595191960?mt=12) (for keeping dozens of things on my clipboard)
 - [Jettison](https://www.stclairsoft.com/Jettison/) (for safely ejecting my external drive when my MacBook nods off)
 - [Rectangle Pro](https://rectangleapp.com/pro) for organising my windows into custom tiles.

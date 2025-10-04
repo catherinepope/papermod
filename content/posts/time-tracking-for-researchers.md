@@ -2,7 +2,7 @@
 date: "2025-10-02T15:41:17+01:00"
 draft: false
 title: "Time Tracking for Researchers: Improve Your Project Management with Data-Driven Planning"
-tags: ["PhD", "Academic"]
+tags: ["PhD", "Academic", "Writing"]
 categories: ["PhD Progress"]
 description: "Discover how time tracking can transform your research project management. Learn to avoid procrastination, set realistic deadlines, and say no to overcommitment with data-driven insights. Includes practical tips for tracking writing speed and estimating academic tasks."
 keywords: ["time tracking", "academic time management", "research project planning", "productivity for researchers", "estimating academic tasks", "avoiding procrastination", "project management for academics", "writing productivity", "task estimation", "toggl", "academic productivity"]
