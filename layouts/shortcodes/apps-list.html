@@ -13,7 +13,7 @@
 
 <div class="apps-list">
   {{ range $category := $uniqueTypes }}
-    <details class="app-category" open>
+    <details class="app-category">
       <summary class="category-title">
         <h3>{{ $category }}</h3>
         <span class="toggle-icon">▼</span>
@@ -34,97 +34,3 @@
     </details>
   {{ end }}
 </div>
-
-<style>
-.apps-list {
-  margin: 2rem 0;
-}
-
-.app-category {
-  margin-bottom: 1.5rem;
-  border: 1px solid #e0e0e0;
-  border-radius: 8px;
-  overflow: hidden;
-}
-
-.category-title {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 1rem 1.5rem;
-  background: #f8f9fa;
-  cursor: pointer;
-  user-select: none;
-}
-
-.category-title:hover {
-  background: #e9ecef;
-}
-
-.category-title h3 {
-  margin: 0;
-  font-size: 1.25rem;
-  color: #2c3e50;
-}
-
-.toggle-icon {
-  transition: transform 0.3s ease;
-  font-size: 0.875rem;
-  color: #6c757d;
-}
-
-details[open] .toggle-icon {
-  transform: rotate(180deg);
-}
-
-.apps-in-category {
-  padding: 1rem 1.5rem;
-}
-
-.app-item {
-  margin-bottom: 1.5rem;
-  padding-bottom: 1.5rem;
-  border-bottom: 1px solid #f0f0f0;
-}
-
-.app-item:last-child {
-  margin-bottom: 0;
-  padding-bottom: 0;
-  border-bottom: none;
-}
-
-.app-title {
-  margin: 0 0 0.5rem 0;
-  font-size: 1.1rem;
-}
-
-.app-title a {
-  color: #0066cc;
-  text-decoration: none;
-}
-
-.app-title a:hover {
-  text-decoration: underline;
-}
-
-.app-description {
-  margin: 0;
-  color: #555;
-  line-height: 1.6;
-}
-
-/* Mobile responsive */
-@media (max-width: 768px) {
-  .category-title {
-    padding: 0.875rem 1rem;
-  }
-  
-  .category-title h3 {
-    font-size: 1.1rem;
-  }
-  
-  .apps-in-category {
-    padding: 0.875rem 1rem;
-  }
-}
-</style>
