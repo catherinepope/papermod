@@ -1,6 +1,6 @@
 ---
 date: "2025-09-30T16:31:09+01:00"
-draft: true
+draft: false
 title: "Project Managing Your Research - Resources"
 tags: ["PhD", "academic"]
 categories: ["PhD Progress", "Resources"]
