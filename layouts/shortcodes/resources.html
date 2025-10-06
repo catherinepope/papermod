@@ -1,0 +1,12 @@
+{{ $tag := .Get 0 }}
+{{ $pages := .Site.RegularPages }}
+
+<ul class="book-list">
+{{ range $pages }}
+  {{ if in .Params.tags $tag }}
+    <li>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </li>
+  {{ end }}
+{{ end }}
+</ul>

@@ -2,12 +2,11 @@
 date: "2025-10-02T15:41:17+01:00"
 draft: false
 title: "Time Tracking for Researchers: Improve Your Project Management with Data-Driven Planning"
-tags: ["PhD", "Academic", "Writing"]
+tags: ["PhD", "Academic", "Writing", "Project Management"]
 categories: ["PhD Progress"]
 description: "Discover how time tracking can transform your research project management. Learn to avoid procrastination, set realistic deadlines, and say no to overcommitment with data-driven insights. Includes practical tips for tracking writing speed and estimating academic tasks."
 keywords: ["time tracking", "academic time management", "research project planning", "productivity for researchers", "estimating academic tasks", "avoiding procrastination", "project management for academics", "writing productivity", "task estimation", "toggl", "academic productivity"]
 ShowToc: true
-# OpenToc: true  
 ---
 
 When I run project management workshops, there's always one problem that everyone struggles with: how on earth do you estimate the time needed for each task? Most of us either overlook the complexities of an apparently straightforward activity, or simply forget that it *always* takes much longer than we imagine. As researchers, we vow to devise a better data-driven solution, but that'll be for the *next* project.

@@ -10,11 +10,16 @@ ShowBreadCrumbs: true
 hideMeta: true
 ---
 
+Here are the resources for [my workshop on Project Managing Your Research](../../project-managing-your-research/).
+
 ## Books 📚
 
 {{< book-subject "Project Management" >}}
 
+## Apps 💻
+
+{{< app-subject "Project Management" >}}
+
 ## Resources 🧭
 
-- [The Risk Assessment Matrix](../risk-assessment-matrix/)
-- [Time Tracking for Researchers](../../../posts/time-tracking-for-researchers/)
+{{< resources "Project Management" >}}

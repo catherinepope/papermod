@@ -1,150 +1,156 @@
 after_effects:
   title: "Adobe After Effects"
   url: "https://www.adobe.com/uk/products/aftereffects.html"
-  type: ["Video Editing"]
+  subject: ["Video Editing"]
   description: "I mainly use this motion graphics tool for animated video titles."
 
 amphetamine:
   title: "Amphetamine"
   url: "https://apps.apple.com/us/app/amphetamine/id937984704?mt=12"
-  type: ["Utilities"]
+  subject: ["Utilities"]
   description: "Prevents my Mac from going to sleep during long data transfers. Free and highly configurable."
 
 audiopen:
   title: "AudioPen"
   url: "https://audiopen.ai/"
-  type: ["Transcription", "Note-taking"]
+  subject: ["Transcription", "Note-taking"]
   description: "Turns my rambling voice notes into a clean transcript."
 
 chronosync:
   title: "Chronosync"
   url: "https://www.econtechnologies.com/chronosync/overview.html"
-  type: ["Backing up"]
+  subject: ["Backing up"]
   description: "Automatically keeps my files backed up across cloud storage and external drives."
 
 claude:
   title: "Claude"
   url: "https://claude.ai"
-  type: ["Productivity"]
+  subject: ["Productivity"]
   description: "AI assistant that helps me write, code, analyse data, and think through problems."
 
 copy_clip:
   title: "CopyClip"
   url: "https://apps.apple.com/us/app/copyclip-clipboard-history/id595191960?mt=12"
-  type: ["Utilities"]
+  subject: ["Utilities"]
   description: "Clipboard manager that remembers everything I've copied - no more losing that thing I copied five minutes ago."
 
 hazel:
   title: "Hazel"
   url: "https://www.noodlesoft.com/"
-  type: ["Automation"]
+  subject: ["Automation"]
   description: "File organiser that automatically tidies up my folders according to my rules, e.g. deleting old downloads, or moving images to a specific directory."
 
 illustrator:
   title: "Adobe Illustrator"
   url: "https://www.adobe.com/uk/products/illustrator.html"
-  type: ["Image Editing"]
+  subject: ["Image Editing"]
   description: "Vector graphics editor for creating logos, icons, and illustrations."
 
 indesign:
   title: "Adobe InDesign"
   url: "https://www.adobe.com/uk/products/indesign.html"
-  type: ["Typesetting"]
+  subject: ["subjectsetting"]
   description: "Desktop publishing software for interactive workbooks and print books."
 
 image_magick:
   title: "ImageMagick"
   url: "https://imagemagick.org"
-  type: ["Image Editing"]
+  subject: ["Image Editing"]
   description: "Command-line tool for batch-editing images, e.g. resizing and optimising."
 
 jettison:
   title: "Jettison"
   url: "https://www.stclairsoft.com/Jettison/"
-  type: ["Utilities"]
+  subject: ["Utilities"]
   description: "Auto-ejects external drives when my Mac goes to sleep - no more 'disk not ejected properly' warnings."
 
 jutoh:
   title: "Jutoh"
   url: "https://www.jutoh.com"
-  type: ["Ebook Creation"]
+  subject: ["Ebook Creation"]
   description: "Creates and formats ebooks - turns messy manuscripts into properly formatted digital books. Also supports embedded indexes. Less user-friendly than Vellum, but more powerful."
 
 koofr:
   title: "Koofr"
   url: "https://koofr.eu"
-  type: ["Backing up"]
+  subject: ["Backing up"]
   description: "Cloud storage that helps connect my other services."
 
 mac_whisper:
   title: "MacWhisper"
   url: "https://goodsnooze.gumroad.com/l/macwhisper"
-  type: ["Transcription"]
+  subject: ["Transcription"]
   description: "Accurately transcribes audio and video files using AI locally on my Mac - no internet needed."
 
 obsidian:
   title: "Obsidian"
   url: "https://obsidian.md/"
-  type: ["Note-taking"]
+  subject: ["Note-taking"]
   description: "Markdown-based note-taking app that connects my ideas with hyperlinks."
 
 photoshop:
   title: "Adobe Photoshop"
   url: "https://www.adobe.com/uk/products/photoshop.html"
-  type: ["Image Editing"]
+  subject: ["Image Editing"]
   description: "For retouching and manipulating digital images. Also good for book covers."
 
 premiere_pro:
   title: "Adobe Premiere Pro"
   url: "https://www.adobe.com/uk/products/premierepro.html"
-  type: ["Video Editing"]
+  subject: ["Video Editing"]
   description: "For creating videos for YouTube and online courses. Involves a steep learning curve, but much better than Camtasia for bigger jobs."
 
 rectangle_pro:
   title: "Rectangle Pro"
   url: "https://rectangleapp.com/pro"
-  type: ["Utilities"]
+  subject: ["Utilities"]
   description: "Window manager that snaps apps into place with keyboard shortcuts."
 
 scrivener:
   title: "Scrivener"
   url: "https://www.literatureandlatte.com"
-  type: ["Writing"]
+  subject: ["Writing"]
   description: "Project management for writers - keeps research, drafts, and notes all in one structured place."
 
 snagit:
   title: "Snagit"
   url: "https://www.techsmith.com/snagit/"
-  type: ["Image Editing"]
+  subject: ["Image Editing"]
   description: "Screen capture tool that grabs screenshots and recordings, then lets me annotate them - perfect for tutorials, bug reports, and quick explanations."
 
 text_expander:
   title: "TextExpander"
   url: "https://textexpander.com/"
-  type: ["Productivity"]
-  description: "Types out long phrases from short abbreviations - e.g. turns `;em` into my full email address and saves thousands of keystrokes."
+  subject: ["Productivity"]
+  description: "subjects out long phrases from short abbreviations - e.g. turns `;em` into my full email address and saves thousands of keystrokes."
 
 toggl_track:
   title: "Toggl Track"
   url: "https://toggl.com"
-  type: ["Productivity"]
+  subject: ["Productivity"]
   description: "Time tracker that shows where my day actually goes - the one-click timer reveals which activities are eating up my hours."
 
 toggl_focus:
   title: "Toggl Focus"
   url: "https://focus.toggl.com"
-  type: ["Productivity"]
+  subject: ["Productivity", "Project Management"]
   description: "Project planning tool with visual timelines and task boards - helps me see everything I'm doing in one place."
+
+trello:
+  title: "Trello"
+  url: "https://trello.com"
+  subject: ["Project Management"]
+  description: "Visual project boards with cards and lists - keeps project elements organized. Especially good for planning books or online courses."
 
 vellum:
   title: "Vellum"
   url: "https://vellum.pub"
-  type: ["Ebook Creation", "Typesetting"]
+  subject: ["Ebook Creation", "subjectsetting"]
   description: "Formats simple print books and ebooks with beautiful layouts. Can't do indexes, though, hence Adobe InDesign is also in my toolkit."
 
 visual_studio:
   title: "Visual Studio Code"
   url: "https://code.visualstudio.com/"
-  type: ["Coding"]
+  subject: ["Coding"]
   description: "Powerful coding environment that works with any language. I use it for maintaining this site."
 

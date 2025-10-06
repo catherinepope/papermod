@@ -2,7 +2,7 @@
 date: "2025-09-30T14:48:58+01:00"
 draft: false
 title: "Risk Assessment Matrix"
-tags: ["PhD", "academic"]
+tags: ["PhD", "Academic", "Project Management"]
 categories: ["PhD Progress", "Resources"]
 description: "Learn to use the Risk Assessment Matrix for academic projects. Identify and prioritize research risks with practical examples, from equipment failure to supervisor changes. Essential project management tool for researchers."
 keywords: ["risk assessment matrix", "academic project management", "research project risks", "risk management for researchers", "project risk analysis", "academic risk planning", "research methodology", "PhD project management", "university project planning", "risk mitigation strategies", "academic productivity", "project management tools", "research project planning", "black swan events", "contingency planning"]

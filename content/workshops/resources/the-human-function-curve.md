@@ -2,7 +2,7 @@
 date: "2025-09-16T16:55:35+01:00"
 draft: false
 title: "The Human Function Curve"
-tags: ["PhD", "Academic"]
+tags: ["PhD", "Academic", "Project Management"]
 categories: ["Resources"]
 description: "Understand the Human Function Curve and find your optimal performance zone. Learn to recognize when academic pressure becomes harmful strain and how to maintain sustainable productivity."
 keywords: ["human function curve", "academic pressure", "PhD stress", "performance optimization", "work-life balance", "academic burnout", "stress management", "productivity", "peter nixon", "sustainable work habits", "graduate student wellness"]
