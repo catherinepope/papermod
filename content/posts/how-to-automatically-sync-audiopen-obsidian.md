@@ -2,7 +2,7 @@
 date: "2025-09-15T18:04:56+01:00"
 draft: false
 title: "How to Automatically Sync AudioPen Notes with Obsidian"
-tags: ["Obsidian", "Tutorials"]
+tags: ["Obsidian", "Tutorials", "AI"]
 categories: ["Technology"] 
 description: "Learn how to automatically sync your AudioPen voice notes with Obsidian using a simple plugin. Step-by-step guide to set up seamless voice-to-text workflow for your knowledge base."
 keywords: ["AudioPen", "Obsidian", "voice notes", "sync", "automation", "note-taking", "transcription", "workflow", "plugin", "markdown", "knowledge base", "productivity"]

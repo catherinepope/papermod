@@ -13,7 +13,7 @@ amphetamine:
 audiopen:
   title: "AudioPen"
   url: "https://audiopen.ai/"
-  subject: ["Transcription", "Note-taking"]
+  subject: ["Transcription", "Note-taking", "AI"]
   description: "Turns my rambling voice notes into a clean transcript."
 
 chronosync:
@@ -25,7 +25,7 @@ chronosync:
 claude:
   title: "Claude"
   url: "https://claude.ai"
-  subject: ["Productivity"]
+  subject: ["Productivity", "AI"]
   description: "AI assistant that helps me write, code, analyse data, and think through problems."
 
 copy_clip:
@@ -81,6 +81,12 @@ mac_whisper:
   url: "https://goodsnooze.gumroad.com/l/macwhisper"
   subject: ["Transcription"]
   description: "Accurately transcribes audio and video files using AI locally on my Mac - no internet needed."
+
+notebook_lm:
+  title: "NotebookLM"
+  url: "https://notebooklm.google/"
+  subject: ["AI", "Note-taking"]
+  description: "Allows me to answer questions with my own book notes."
 
 obsidian:
   title: "Obsidian"

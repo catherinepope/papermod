@@ -1,8 +1,32 @@
+ai_thinking:
+  title: "Artificial Intelligence: A Guide for Thinking Humans"
+  author: "Melanie Mitchell"
+  isbn: "9780241404836"
+  subject: ["AI"]
+
+alignment_problem:
+  title: "The Alignment Problem: How Can Artificial Intelligence Learn Human Values?"
+  author: "Brian Christian"
+  isbn: "9781786494337"
+  subject: ["AI"]
+
 burnout:
   title: "Burnout"
   author: "Emily & Amelia Nagasaki"
   isbn: "9781785042096"
   subject: ["Wellbeing"]
+
+co_intelligence:
+  title: "Co-Intelligence: Living and Working with AI"
+  author: "Ethan Mollick"
+  isbn: "9780753560778"
+  subject: ["AI"]
+
+coming_wave:
+  title: "The Coming Wave"
+  author: "Mustafa Suleyman"
+  isbn: "9781529923834"
+  subject: ["AI"]
 
 detox_writing:
   title: "Detox Your Writing: Strategies for Doctoral Researchers"
