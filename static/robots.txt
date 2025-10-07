@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /slides/
 
-https://catherinepope.com/sitemap.xml
+Sitemap: https://catherinepope.com/sitemap.xml
