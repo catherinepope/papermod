@@ -4,8 +4,8 @@ draft: false
 title: "Streamlining Your Academic Writing with AI - Resources"
 tags: ["PhD", "academic"]
 categories: ["PhD Progress", "Resources"]
-description: ""
-keywords: ["keyword 1", "keyword 2", "keyword 3"]
+description: "Resources for workshop on Streamlining Your Writing with AI Tools"
+keywords: ["academic writing", "generative AI", "doctoral research"]
 ShowBreadCrumbs: true
 hideMeta: true
 ---
