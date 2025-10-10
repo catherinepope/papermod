@@ -12,14 +12,38 @@ hideMeta: true
 
 Here are the resources for [my workshop on Streamlining Your Writing with AI](../../streamlining-your-academic-writing-with-ai/).
 
-## Books 📚
+## AI
+
+### Books 📚
 
 {{< book-subject "AI" >}}
 
-## Apps 💻
+### Apps 💻
 
 {{< app-subject "AI" >}}
 
-## Resources 🧭
+### Resources 🧭
 
 {{< resources "AI" >}}
+
+### Websites
+
+{{< website-subject "AI" >}}
+
+### Courses
+
+{{< course-subject "AI" >}}
+
+## Writing 
+
+### Books
+
+{{< book-subject "Writing" >}}
+
+### Resources
+
+{{< resources "Writing" >}}
+
+### Websites
+
+{{< website-subject "Writing" >}}

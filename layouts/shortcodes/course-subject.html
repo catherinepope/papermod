@@ -1,0 +1,8 @@
+{{ $subject := .Get 0 }}
+<ul class="book-list">
+{{ range $key, $course := $.Site.Data.courses }}
+  {{ if in $course.subject $subject }}
+      <li><a href="{{ $course.url }}">{{ $course.title }}</a></li>
+  {{ end }}
+{{ end }}
+</ul>

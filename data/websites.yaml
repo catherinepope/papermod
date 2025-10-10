@@ -1,0 +1,44 @@
+academic_phrasebank:
+  title: "Academic Phrasebank"
+  url: "https://www.phrasebank.manchester.ac.uk"
+  subject: ["Writing"]
+  description: "This extensive resource includes examples to help you understand the mechanics of academic writing."
+
+alberto_romero:
+  title: "The Algorithmic Bridge"
+  url: "https://thealgorithmicbridge.substack.com/"
+  subject: ["AI"]
+  description: "Alberto Romero's thought pieces on the wider implications of AI."
+
+emily_bender:
+  title: "Emily Bender"
+  url: "https://medium.com/@emilymenonbender"
+  subject: ["AI"]
+  description: "Linguist and AI sceptic"
+
+ethan_mollick:
+  title: "One Useful Thing"
+  url: "https://www.oneusefulthing.org/"
+  subject: ["AI"]
+  description: "Ethan Mollicks's pragmatic but enthusiastic views of AI, with an emphasis on Higher Education."
+
+explorations_style:
+  title: "Explorations of Style"
+  url: "https://explorationsofstyle.com"
+  subject: ["Writing"]
+  description: "Rachael Cayley's thoughtful blog about all aspects of academic writing."
+
+margaret_mitchell:
+  title: "Margaret Mitchell"
+  url: "https://www.m-mitchell.com/"
+  subject: ["AI"]
+  description: "AI research scientist and ethicist."
+
+thesis_whisperer:
+  title: "The Thesis Whisperer"
+  url: "https://thesiswhisperer.com"
+  subject: ["PhD"]
+  description: "Hundreds of thoughtful posts on every aspect of being a doctoral researcher."
+
+
+

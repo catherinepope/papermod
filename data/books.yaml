@@ -32,7 +32,7 @@ detox_writing:
   title: "Detox Your Writing: Strategies for Doctoral Researchers"
   author: "Pat Thomson & Barbara Kamler"
   isbn: "9780415820844"
-  subject: ["Academic Writing"]
+  subject: ["Writing"]
 
 difficult_conversations:
   title: "Difficult Conversations: How to Discuss What Matters Most"
@@ -74,7 +74,7 @@ social_scientists:
   title: "Writing for Social Scientists"
   author: "Howard S. Becker"
   isbn: "9780226643939"
-  subject: ["Academic Writing"]
+  subject: ["Writing"]
 
 sprint:
   title: "Sprint: How to Solve Big Problems and Test New Ideas in Just 5 Days"
@@ -86,7 +86,7 @@ stylish_writing:
   title: "Stylish Academic Writing"
   author: "Helen Sword"
   isbn: "9780674064485"
-  subject: ["Academic Writing"]
+  subject: ["Writing"]
 
 thanks_feedback:
   title: "Thanks for the Feedback"
@@ -122,4 +122,4 @@ writing_science:
   title: "Writing Science"
   author: "Joshua Schimel"
   isbn: "9780199760244"
-  subject: ["Academic Writing"]
+  subject: ["Writing"]
