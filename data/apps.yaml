@@ -8,7 +8,7 @@ amphetamine:
   title: "Amphetamine"
   url: "https://apps.apple.com/us/app/amphetamine/id937984704?mt=12"
   subject: ["Utilities"]
-  description: "Prevents my Mac from going to sleep during long data transfers. Free and highly configurable."
+  description: "<a href='/posts/how-to-keep-your-mac-awake/'>Prevents my Mac from going to sleep</a> during long data transfers. Free and highly configurable."
 
 audiopen:
   title: "AudioPen"
@@ -62,7 +62,7 @@ jettison:
   title: "Jettison"
   url: "https://www.stclairsoft.com/Jettison/"
   subject: ["Utilities"]
-  description: "Auto-ejects external drives when my Mac goes to sleep - no more 'disk not ejected properly' warnings."
+  description: "<a href='/posts/how-to-safely-eject-an-external-drive-on-a-mac/'>Auto-ejects external drives when my Mac goes to sleep</a> - no more 'disk not ejected properly' warnings."
 
 jutoh:
   title: "Jutoh"

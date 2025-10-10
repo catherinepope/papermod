@@ -26,7 +26,7 @@
               <h4 class="app-title">
                 <a href="{{ $app.url }}" target="_blank" rel="noopener">{{ $app.title }}</a>
               </h4>
-              <p class="app-description">{{ $app.description }}</p>
+              <p class="app-description">{{ $app.description | safeHTML }}</p>
             </div>
           {{ end }}
         {{ end }}
