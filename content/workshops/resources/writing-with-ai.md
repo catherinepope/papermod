@@ -1,6 +1,6 @@
 ---
 date: "2025-10-06T15:31:09+01:00"
-draft: true
+draft: false
 title: "Streamlining Your Academic Writing with AI - Resources"
 tags: ["PhD", "academic"]
 categories: ["PhD Progress", "Resources"]
