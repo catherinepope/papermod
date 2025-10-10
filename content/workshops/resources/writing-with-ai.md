@@ -26,24 +26,24 @@ Here are the resources for [my workshop on Streamlining Your Writing with AI](..
 
 {{< resources "AI" >}}
 
-### Websites
+### Websites 🕸️
 
 {{< website-subject "AI" >}}
 
-### Courses
+### Courses 👩🏽‍🏫
 
 {{< course-subject "AI" >}}
 
 ## Writing 
 
-### Books
+### Books 📚
 
 {{< book-subject "Writing" >}}
 
-### Resources
+### Resources 🧭
 
 {{< resources "Writing" >}}
 
-### Websites
+### Websites 🕸️
 
 {{< website-subject "Writing" >}}

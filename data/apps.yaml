@@ -49,7 +49,7 @@ illustrator:
 indesign:
   title: "Adobe InDesign"
   url: "https://www.adobe.com/uk/products/indesign.html"
-  subject: ["subjectsetting"]
+  subject: ["Typesetting"]
   description: "Desktop publishing software for interactive workbooks and print books."
 
 image_magick:
@@ -151,7 +151,7 @@ trello:
 vellum:
   title: "Vellum"
   url: "https://vellum.pub"
-  subject: ["Ebook Creation", "subjectsetting"]
+  subject: ["Ebook Creation", "Typesetting"]
   description: "Formats simple print books and ebooks with beautiful layouts. Can't do indexes, though, hence Adobe InDesign is also in my toolkit."
 
 visual_studio:
@@ -159,4 +159,3 @@ visual_studio:
   url: "https://code.visualstudio.com/"
   subject: ["Coding"]
   description: "Powerful coding environment that works with any language. I use it for maintaining this site."
-

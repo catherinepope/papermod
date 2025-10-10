@@ -5,7 +5,7 @@
 {{/* Collect all unique types */}}
 {{ $allTypes := slice }}
 {{ range $apps }}
-  {{ range .type }}
+  {{ range .subject }}
     {{ $allTypes = $allTypes | append . }}
   {{ end }}
 {{ end }}
@@ -21,7 +21,7 @@
       
       <div class="apps-in-category">
         {{ range $key, $app := $apps }}
-          {{ if in $app.type $category }}
+          {{ if in $app.subject $category }}
             <div class="app-item">
               <h4 class="app-title">
                 <a href="{{ $app.url }}" target="_blank" rel="noopener">{{ $app.title }}</a>
