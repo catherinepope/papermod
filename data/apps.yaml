@@ -148,6 +148,12 @@ trello:
   subject: ["Project Management"]
   description: "Visual project boards with cards and lists - keeps project elements organized. Especially good for planning books or online courses."
 
+typora:
+  title: "Typora"
+  url: "https://typora.io"
+  subject: ["Writing"]
+  description: "Elegant Markdown-based editor. I can draft my documents quickly, then export them in a variety of formats. Supports code fences, diagrams, tables, and much more."
+
 vellum:
   title: "Vellum"
   url: "https://vellum.pub"
