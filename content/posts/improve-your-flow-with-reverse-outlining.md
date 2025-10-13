@@ -1,8 +1,8 @@
 ---
 date: "2024-06-26T13:15:08+01:00"
 draft: false
-title: "Improve Your Flow With Reverse Outlining"
-tags: ["PhD", "academic", "writing", "editing"]
+title: "Improve Your Flow with Reverse Outlining"
+tags: ["PhD", "academic", "Writing", "editing"]
 categories: ["PhD Progress"]
 description: "Master the reverse outlining technique to transform rambling academic drafts into coherent arguments. Step-by-step guide to analyzing paragraph structure, identifying gaps, and strengthening your thesis flow."
 keywords: ["reverse outlining", "academic writing", "thesis structure", "writing revision", "argument flow", "PhD writing", "manuscript editing", "academic revision", "writing coherence", "thesis editing"]
