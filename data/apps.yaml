@@ -133,7 +133,7 @@ text_expander:
 toggl_track:
   title: "Toggl Track"
   url: "https://toggl.com"
-  subject: ["Productivity"]
+  subject: ["Productivity", "Project Management"]
   description: "Time tracker that shows where my day actually goes - the one-click timer reveals which activities are eating up my hours."
 
 toggl_focus:
