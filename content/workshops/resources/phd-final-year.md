@@ -1,6 +1,6 @@
 ---
 date: "2025-10-15T16:11:09+01:00"
-draft: true
+draft: false
 title: "Planning the Final Year of Your PhD - Resources"
 tags: ["PhD", "academic"]
 categories: ["PhD Progress", "Resources"]
