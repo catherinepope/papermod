@@ -2,7 +2,7 @@
 date: "2024-06-27T14:04:42+01:00"
 draft: false
 title: "How to Map Your Thesis or Book"
-tags: ["PhD", "academic"]
+tags: ["PhD", "Academic", "PhD Final Year"]
 categories: ["PhD Progress"]
 description: "Learn how to map your thesis or book using sticky notes and wall space to visualize structure, identify gaps, and reorganize content. A physical approach to managing large writing projects when digital tools fall short."
 keywords: ["thesis mapping", "book structure", "writing organization", "manuscript planning", "thesis structure", "academic writing", "writing visualization", "content mapping", "book planning", "thesis revision"]

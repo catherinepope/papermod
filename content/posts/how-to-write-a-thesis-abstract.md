@@ -2,7 +2,7 @@
 date: "2020-07-18T11:42:43+01:00"
 draft: false
 title: "How to Write a Thesis Abstract"
-tags: ["PhD", "academic"]
+tags: ["PhD", "Academic", "PhD Final Year"]
 categories: ["PhD Progress"]
 description: "A comprehensive guide to writing a compelling PhD thesis abstract in 300 words. Learn how to structure your abstract to attract examiners and readers, plus practical tips for distilling your research into a perfect summary."
 keywords: ["thesis abstract", "PhD abstract", "how to write abstract", "thesis writing", "doctoral thesis", "abstract structure", "PhD completion", "thesis submission", "academic writing", "dissertation abstract"]

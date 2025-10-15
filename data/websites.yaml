@@ -40,5 +40,10 @@ thesis_whisperer:
   subject: ["PhD"]
   description: "Hundreds of thoughtful posts on every aspect of being a doctoral researcher."
 
+thinkwell:
+  title: "Thinkwell"
+  url: "https://ithinkwell.com.au"
+  subject: ["PhD"]
+  description: "Planners and templates for managing your PhD."
 
 

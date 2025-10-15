@@ -2,7 +2,7 @@
 date: "2020-07-30T11:50:06+01:00"
 draft: false
 title: "Preparing for an Online Viva"
-tags: ["PhD", "academic"]
+tags: ["PhD", "Academic", "PhD Final Year"]
 categories: ["PhD Progress"]
 description: "Complete guide to preparing for an online PhD viva examination. Covers technical setup, environment preparation, day-of logistics, and video call etiquette to ensure your virtual viva goes smoothly."
 keywords: ["online viva", "PhD viva preparation", "virtual viva voce", "thesis examination", "online PhD defense", "viva tips", "doctoral examination", "video call viva", "PhD completion", "thesis defense"]

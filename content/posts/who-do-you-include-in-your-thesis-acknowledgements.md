@@ -2,7 +2,7 @@
 date: "2020-07-08T11:36:22+01:00"
 draft: false
 title: "Who Do You Include in Your Thesis Acknowledgements?"
-tags: ["PhD", "academic"]
+tags: ["PhD", "Academic", "PhD Final Year"]
 categories: ["PhD Progress"]
 description: "A practical guide to writing PhD thesis acknowledgements, covering who to thank from supervisors to librarians, plus style tips to strike the right professional tone. Essential advice for doctoral researchers approaching submission."
 keywords: ["PhD acknowledgements", "thesis acknowledgements", "doctoral thesis", "PhD writing", "thesis submission", "academic writing", "PhD supervisors", "dissertation acknowledgements", "graduate school", "PhD completion"]
