@@ -12,6 +12,8 @@ hideMeta: true
 
 Here are the resources for [my workshop on Planning the Final Year of Your PhD](../../planning-the-final-year-of-your-phd/).
 
+🎤 You can also hear me [talking about avoiding burnout on the PhD Life Raft podcast](https://thephdliferaft.libsyn.com/catherine-pope).
+
 ## Books 📚
 
 {{< book-subject "PhD" >}}

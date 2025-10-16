@@ -34,6 +34,12 @@ margaret_mitchell:
   subject: ["AI"]
   description: "AI research scientist and ethicist."
 
+phd_liferaft:
+  title: "The PhD Life Raft"
+  url: "https://thephdliferaft.com"
+  subject: ["PhD"]
+  description: "Useful resources for doctoral researchers, including an excellent podcast"
+
 thesis_whisperer:
   title: "The Thesis Whisperer"
   url: "https://thesiswhisperer.com"
