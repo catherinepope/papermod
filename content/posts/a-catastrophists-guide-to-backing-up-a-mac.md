@@ -1,6 +1,6 @@
 ---
 date: "2025-10-17T15:14:42+01:00"
-draft: true
+draft: false
 title: "A Catastrophist's Guide to Backing Up a Mac"
 tags: ["Mac Tips", "Project Management"]
 categories: ["Technology"] 
