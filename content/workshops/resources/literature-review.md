@@ -14,7 +14,6 @@ Here are the recommended resources for my workshop on [Planning and Structuring 
 
 ## Books 📚
 
-- _How to Read a Book_ by Mortimer J. Adler
 - {{< book "social_scientists" >}}
 - {{< book "write_thesis" >}}
 - {{< book "literature_review" >}}
