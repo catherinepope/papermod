@@ -10,7 +10,7 @@ ShowToc: true
 tocOpen: true  
 ---
 
-Although being a 21st-century researcher has its challenges, we are at least blessed with some excellent tools. Scrivener and Zotero are two of the best. This dream team makes it much easier to plan and draft your writing, then add citations and bibliographies in the right format. Unfortunately, the two tools aren't directly integrated. This means finding workarounds and making compromises. In a pair of blog posts, I'll explain two solutions - one simple, one more complicated - so you can decide what's right for you.
+Although being a 21st-century researcher has its challenges, we are at least blessed with some excellent tools. Scrivener and Zotero are two of the best. This dream team makes it much easier to plan and draft your writing, then add citations and bibliographies in the right format. Unfortunately, the two tools aren't directly integrated. This means finding workarounds and making compromises. In a pair of blog posts, I'll explain two approaches - one simple, [one more complicated](../how-to-use-zotero-with-scrivener-part-2/) - so you can decide what's right for you.
 
 Let's start simple with the RTF Scan method. With this approach, you use a special citation placeholder with curly braces in Scrivener, then export your project as a RTF (Rich Text Format) file. In Zotero, you use the RTF Scan tool to replace those placeholders with proper citations from your Library.
 
@@ -134,7 +134,7 @@ To summarise on RTF Scan:
 
 💡 If you make sure your Zotero library is clean - i.e. correct information and no duplicates - you'll make life much easier for yourself.
 
-As I'll explain in the next post, there are more sophisticated approaches that give you better control in that final document. However, they are complicated and fragile. Currently, I think the RTF Scan approach offers the best combination of ease and reliability.
+As I'll explain in [the next post](../how-to-use-zotero-with-scrivener-part-2/), there are more sophisticated approaches that give you better control in that final document. However, they are complicated and fragile. Currently, I think the RTF Scan approach offers the best combination of ease and reliability.
 
 [^1]: If Zotero is already open but not in the foreground, the Scrivener shortcut may not bring it to the front. You'll need to click on Zotero in the dock the first time.
 
