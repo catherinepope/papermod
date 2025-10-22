@@ -45,7 +45,7 @@ I tried running Zotero 6 and 7 in parallel, but that didn't work for me. You mig
 
 ### Use a different workflow
 
-From scouring the Zotero discussion forums, I see there are other approaches using Markdown. The simplest (but by no means simple) approach is with a Mac-only tool called [Docdown](https://docdown.io/). You can find [a description and links on the Scrivener thread](https://forums.zotero.org/discussion/121053/a-scrivener-workflow-for-macs).
+From scouring the Zotero discussion forums, I see there are other approaches using Markdown. The simplest (but by no means simple) approach is with a Mac-only tool called [Docdown](https://github.com/lowercasename/docdown). You can find [a description and links on the Scrivener thread](https://forums.zotero.org/discussion/121053/a-scrivener-workflow-for-macs).
 
 Like other users, this method didn't work consistently for me. That's not a reflection on Docdown, which is excellent - it's much more to do with the complexity of the underlying workflow. Also, you won't get live citations in your final document (i.e. you'll be unable to edit them with the Zotero toolbar).
 
