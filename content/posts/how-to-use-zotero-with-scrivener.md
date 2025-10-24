@@ -20,7 +20,7 @@ I'm assuming you already have Zotero and Scrivener installed, and that you have 
 
 Although this step doesn't achieve proper integration, it enables a keyboard shortcut that summons your Zotero Library while you're writing. Once you get used the workflow, this reduces the friction significantly.
 
-In your Scrivener Settings, go to the **General** tab (the first one), then select **Cite** from the list on the left.
+In your Scrivener Settings, go to the **General** tab (the first one), then select **Citationse** from the list on the left.
 
 {{< img src="images/scrivener-bibliography-manager.jpg" alt="Screenshot of Bibliography Manage settings in Scrivener" caption="Bibliography Manager settings in Scrivener" center="true" >}}
 
@@ -56,7 +56,7 @@ Scrivener and Zotero are now linked, and you've added a style that helps them un
 
 In Scrivener, insert a footnote[^2] at the end of a sentence. You can use the keyboard shortcut of <span class="key">Cmd</span> + <span class="key">Ctrl</span> + <span class="key">8</span> (Mac) or <span class="key">Shift</span> + <span class="key">F5</span> (Windows) or **Insert > Footnote**. 
 
-Now use the keyboard shortcut to open your Zotero Library (<span class="key">Cmd</span> + <span class="key">Y</span> on a Mac; <span class="key">Alt</span> + <span class="key">Y</span> on Windows etc.). Find and select the item you want to cite, then use the <span class="key">Cmd</span> + <span class="key">Shift</span> + <span class="key">C</span> (Mac) <span class="key">Ctrl</span> + <span class="key">Shift</span> + <span class="key">C</span> (Windows) keyboard shortcut to copy it to your clipboard. As you've set RTF Scan as your Quick Copy style, it'll be in the correct format.
+Now use the keyboard shortcut to open your Zotero Library (<span class="key">Cmd</span> + <span class="key">Y</span> on a Mac; <span class="key">Alt</span> + <span class="key">Y</span> on Windows). Find and select the item you want to cite, then use the <span class="key">Cmd</span> + <span class="key">Shift</span> + <span class="key">C</span> (Mac) <span class="key">Ctrl</span> + <span class="key">Shift</span> + <span class="key">C</span> (Windows) keyboard shortcut to copy it to your clipboard. As you've set RTF Scan as your Quick Copy style, it'll be in the correct format.
 
 Paste your citation into that Scrivener footnote. You'll see the curly braces.
 
