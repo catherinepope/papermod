@@ -40,8 +40,8 @@ I think this is a short-term solution, though. At some point, you'll need to upg
 
 I tried running Zotero 6 and 7 in parallel, but that didn't work for me. You might get different results.
 
-✅ Retain your existing workflow.
-❌ Short-term solution.
+- ✅ Retain your existing workflow.
+- ❌ Short-term solution.
 
 ### Use a different workflow
 
@@ -49,8 +49,8 @@ From scouring the Zotero discussion forums, I see there are other approaches usi
 
 Like other users, this method didn't work consistently for me. That's not a reflection on Docdown, which is excellent - it's much more to do with the complexity of the underlying workflow. Also, you won't get live citations in your final document (i.e. you'll be unable to edit them with the Zotero toolbar).
 
-✅ If it works for you, offers a lot of control over your Zotero workflow.
-❌ Complicated and (for some users) inconsistent. 
+- ✅ If it works for you, offers a lot of control over your Zotero workflow.
+- ❌ Complicated and (for some users) inconsistent. 
 
 ### Use a different writing app
 
@@ -64,14 +64,14 @@ I'm currently experimenting with:
 
 #### Quarto
 
-Quarto is a Markdown-based scientific and technical publishing system. This powerful but complex tool allows you to create articles, presentations, websites, and books. My early hunch is that I'll be using it for full-length books, as it offers a lot of control over layout and also tools for indexing.
+[Quarto](https://quarto.org) is a Markdown-based scientific and technical publishing system. This powerful but complex tool allows you to create articles, presentations, websites, and books. My early hunch is that I'll be using it for full-length books, as it offers a lot of control over layout and also tools for indexing.
 
 Theoretically, Quarto should integrate with your Zotero library and provide a citation picker in editors like Visual Studio Code, Positron, and RStudio. This feature didn't work for me in VS Code or Positron - and it looks like I'm not alone based on forum discussions. The Better BibTex workflow was fine, though.
 
 Quarto is a big commitment and probably overkill for many use cases. Depending on your technical chops, expect to spend a month getting to grips with it.
 
-✅ Allows you to create and format content quickly, then output in a range of formats.
-❌ You need to be comfortable with using the Command Line Interface and installing lots of related tools. Or buckle up for a steep learning curve.
+- ✅ Allows you to create and format content quickly, then output in a range of formats.
+- ❌ You need to be comfortable with using the Command Line Interface and installing lots of related tools. Or buckle up for a steep learning curve.
 
 #### Zettlr
 
@@ -83,8 +83,8 @@ Although Zettlr doesn't offer direct Zotero integration, there's a relatively si
 
 I suspect I'll be using Zettlr for shorter writing projects that don't need advanced features like indexes.
 
-✅ Close to Scrivener's features, but with a simpler Zotero workflow.
-❌ Lacks Scrivener's visual planning capabilities.
+- ✅ Close to Scrivener's features, but with a simpler Zotero workflow.
+- ❌ Lacks Scrivener's visual planning capabilities.
 
 #### Obsidian
 
@@ -94,8 +94,8 @@ There are also several plugins that'll connect your Zotero library (through Bett
 
 Also, I discovered that I like keeping my main notebook and writing separate. If I try to draft a chapter in my notebook, I get overwhelmed by everyone else's ideas. But using Markdown-based solutions for both notetaking and writing means I can easily copy important quotes without worrying about formatting.
 
-✅ You can keep your writing and notes in one place and also connect your Zotero library.
-❌ It's a complicated toolchain that's likely to break.
+- ✅ You can keep your writing and notes in one place and also connect your Zotero library.
+- ❌ It's a complicated toolchain that's likely to break.
 
 It's important to experiment with writing apps before committing. The advantage of Markdown-based solutions is that your work is portable.
 
@@ -103,7 +103,7 @@ It's important to experiment with writing apps before committing. The advantage 
 
 As you can see, there are no easy or elegant solutions. In short, I think the options are:
 
-- Stick with Zotero 6 and hope someone updates the plugin (I don't think they will).
+- Stick with Zotero 6 and hope someone updates the plugin (I don't think they will) 🙈
 - Pursue one of the more complicated solutions and prepare to spend time maintaining the toolchain.
 - Use the RTF Scan method - you don't get live citations, but it's simple and reliable.
 - Find a different writing tool, like Quarto, Zettlr, or Obsidian.

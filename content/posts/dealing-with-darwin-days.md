@@ -2,7 +2,7 @@
 date: "2020-10-08T12:53:08+01:00"
 draft: false
 title: "Dealing with Darwin Days"
-tags: ["PhD", "academic"]
+tags: ["PhD", "Academic", "Wellbeing"]
 categories: ["PhD Progress"]
 description: "Practical strategies for PhD researchers having unproductive 'Darwin Days' when motivation fails. Learn how to recognize when you need rest versus when to work through easier tasks to maintain thesis progress."
 keywords: ["PhD motivation", "thesis writing blocks", "academic productivity", "research burnout", "PhD mental health", "writing motivation", "doctoral study tips", "academic procrastination", "thesis progress", "PhD wellness"]
@@ -26,4 +26,4 @@ Create a list of activities for Darwin Days. What could you still achieve, even 
 - Organising your workspace.
 - Verifying citations.
 
-No single approach will work every time a Darwin Day strikes. The longer the list, the better your chance of finding a suitable activity. If you work through all of them and still nothing’s happening, it’s a good idea to give yourself a day off. That could be a sign that you’re overdoing it.
+No single approach will work every time a Darwin Day strikes. The longer the list, the better your chance of finding a suitable activity. If you work through all of them and still nothing’s happening, it’s a good idea to give yourself a day off. That could be a sign that you’re overdoing it. And it's time to [create an energy budget](../../workshops/resources/managing-your-energy-budget/).
