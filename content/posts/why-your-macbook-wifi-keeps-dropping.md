@@ -10,8 +10,6 @@ ShowToc: true
 tocOpen: true  
 ---
 
-# Improving the Internet Connection on Your Mac
-
 I've used a few different MacBooks over the last couple of years. Although the M2 offered a big performance boost over the M1, I noticed a couple of downsides. Firstly, [the way the M2 handles external drives](../how-to-safely-eject-an-external-drive-on-a-mac/); secondly, my network connectivity repeatedly slowing down and dropping. These problems disappeared when I briefly had an M3 through work, but returned when I switched back to an M2. My network connection would suddenly drop for no apparent reason. The internet connection itself was fine, but my Mac hadn't got the memo. It turns out, my MacBook was connecting to the slower, more congested 2.4GHz network instead of the faster 5GHz band.
 
 In this post, I'll explain the solution I implemented. Although your setup will be different, hopefully these steps will at least give you a steer towards what might work for you.
