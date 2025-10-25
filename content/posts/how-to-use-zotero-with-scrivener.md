@@ -64,14 +64,17 @@ Paste your citation into that Scrivener footnote. You'll see the curly braces.
 
 🤨 If you don't see curly braces, or it looks like a normal citation, review Step 2 to ensure you've installed the RTF Scan style and set it as the Quick Copy default.
 
+To include a page number, insert a comma before the closing curly brace, then type the number. For example, this is page 3:
+
+`{Beller et al., "Rediscovering Victorian Women Sensation Writers", 2014, 3}`
+
 Repeat this process for a few more citations. It might feel cumbersome at first, but you'll soon achieve an impressive momentum. Once everything is installed and configured, the workflow is:
 
 1. Insert a footnote in Scrivener - <span class="key">Cmd</span> + <span class="key">Ctrl</span> + <span class="key">8</span> (Mac) or <span class="key">Shift</span> + <span class="key">F5</span> (Windows).
 2. Open Zotero - <span class="key">Cmd</span> + <span class="key">Y</span> (Mac) <span class="key">Alt</span> + <span class="key">Y</span> (Windows).
 3. Select the item in your Zotero Library and copy it - <span class="key">Cmd</span> + <span class="key">Shift</span> + <span class="key">C</span> (Mac) <span class="key">Ctrl</span> + <span class="key">Shift</span> + <span class="key">C</span> (Windows).
 4. Paste the item into your Scrivener footnote.
-
-At the end of your document, add `{bibliography}`. This placeholder tells Zotero where to generate your bibliography.
+5. Add the page number.
 
 ## Step 4 - Export your Scrivener document
 
@@ -91,7 +94,7 @@ I've deliberately made the footnotes shouty here so you can see the format. Zote
 
 ## Step 5 - Run RTF Scan in Zotero
 
-Now you're going to open that document in Zotero so it can replaced those curly-braced placeholders with proper citations.
+Now you're going to open that document in Zotero so it can replace those curly-braced placeholders with proper citations.
 
 In Zotero, click **Tools > RTF Scan**.
 
