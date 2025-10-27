@@ -16,6 +16,12 @@ audiopen:
   subject: ["Transcription", "Note-taking", "AI"]
   description: "Turns my rambling voice notes into a clean transcript."
 
+buttondown:
+  title: "Buttondown"
+  url: "https://buttondown.com"
+  subject: ["Website"]
+  description: "A gloriously simple and ethical email platform. Also supports Markdown."
+
 chronosync:
   title: "Chronosync"
   url: "https://www.econtechnologies.com/chronosync/overview.html"
@@ -34,11 +40,23 @@ copy_clip:
   subject: ["Utilities"]
   description: "Clipboard manager that remembers everything I've copied - no more losing that thing I copied five minutes ago."
 
+fathom_analytics:
+  title: "Fathom Analytics"
+  url: "https://usefathom.com"
+  subject: ["Website"]
+  description: "Privacy-first web analytics with a simple interface."
+
 hazel:
   title: "Hazel"
   url: "https://www.noodlesoft.com/"
   subject: ["Automation"]
   description: "File organiser that automatically tidies up my folders according to my rules, e.g. deleting old downloads, or moving images to a specific directory."
+
+hugo:
+  title: "Hugo"
+  url: "https://gohugo.io"
+  subject: ["Website"]
+  description: "Super-fast, flexible, and open-source framework for building websites."
 
 illustrator:
   title: "Adobe Illustrator"
@@ -81,6 +99,12 @@ mac_whisper:
   url: "https://goodsnooze.gumroad.com/l/macwhisper"
   subject: ["Transcription"]
   description: "Accurately transcribes audio and video files using AI locally on my Mac - no internet needed."
+
+netlify:
+  title: "Netlify"
+  url: "https://netlify.com"
+  subject: ["Website"]
+  description: "The host for my Hugo website. This is the simplest solution for static sites and also offers useful functionality, such as forms and redirects."
 
 notebook_lm:
   title: "NotebookLM"

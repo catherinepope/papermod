@@ -9,7 +9,7 @@
     {{ $allTypes = $allTypes | append . }}
   {{ end }}
 {{ end }}
-{{ $uniqueTypes := $allTypes | uniq }}
+{{ $uniqueTypes := $allTypes | uniq | sort }}
 
 <div class="apps-list">
   {{ range $category := $uniqueTypes }}
