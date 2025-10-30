@@ -1,6 +1,6 @@
 ---
 date: "2025-10-29T15:05:43Z"
-draft: true
+draft: false
 title: "How to Disable Automatic Tags in Zotero"
 tags: ["Zotero", "Academic"]
 categories: ["Technology"] 
