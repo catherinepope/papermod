@@ -26,4 +26,4 @@ Here are the resources from my workshop on [Saying No: Establishing Healthy Boun
 
 ## App 💻
 
-[Eisenhower Matrix app](https://claude.ai/public/artifacts/605e2b35-5f16-469f-8f95-3717aae94e34) (experimental!)
+[Eisenhower Matrix app](https://luminous-chimera-8d3405.netlify.app) (experimental!)
