@@ -1,10 +1,13 @@
-
 ---
 title: Subscribe
 permalink: /subscribe/
 description: "Subscribe to updates from Catherine Pope"
 hideMeta: true
 ---
+
+
+Get the latest updates delivered straight to your inbox. No spam. Unsubscribe at any time.
+
 
 {{< newsletter-form >}}
 

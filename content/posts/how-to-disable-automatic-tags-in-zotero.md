@@ -34,3 +34,9 @@ To prevent these tags from ever cluttering up your Zotero Library again:
 That's it, they'll never bother you again.
 
 This is always the most popular tip in my Zotero workshops. I hope you've found it helpful, too.
+
+---
+
+I'm currently creating a **Getting Started with Zotero** online course. Add your email below to be the first to know when it's launched:
+
+{{< newsletter-form tag="zotero" >}}

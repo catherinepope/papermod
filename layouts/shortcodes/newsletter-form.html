@@ -1,13 +1,12 @@
-<div class="newsletter-form">   
-        <div class="newsletter-description">
-            <p>Get the latest updates delivered straight to your inbox. No spam. Unsubscribe at any time.</p>
-        </div>
-        
-        <form action="https://buttondown.email/api/emails/embed-subscribe/catherinepope" method="post" target="popupwindow">
+<div class="newsletter-form">      
+        <form action="https://buttondown.com/api/emails/embed-subscribe/catherinepope" method="post" target="popupwindow">
             <div class="form-group">
                 <label for="bd-email">Email Address</label>
                 <input type="email" name="email" id="bd-email" required>
             </div>
+            {{ with .Get "tag" }}
+            <input type="hidden" name="tag" value="{{ . }}">
+            {{ end }}
             
             <button type="submit" class="submit-btn">Subscribe</button>
         </form>
