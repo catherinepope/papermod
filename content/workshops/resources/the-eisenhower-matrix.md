@@ -2,7 +2,7 @@
 date: "2025-09-19T09:04:36+01:00"
 draft: false
 title: "The Eisenhower Matrix"
-tags: ["PhD", "Academic", "Project Management"]
+tags: ["PhD", "Academic", "Project Management", "Wellbeing"]
 categories: ["Resources"]
 description: "Master the Eisenhower Matrix for PhD time management. Learn to prioritize urgent vs important tasks, avoid overwhelm, and focus on what truly matters for your research."
 keywords: ["eisenhower matrix", "time management", "PhD productivity", "academic priorities", "urgent important matrix", "research time management", "academic overwhelm", "graduate school", "thesis writing", "academic productivity", "procrastination"]

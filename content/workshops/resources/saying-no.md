@@ -22,8 +22,7 @@ Here are the resources from my workshop on [Saying No: Establishing Healthy Boun
 
 ## Resources 🧭
 
-- [The Eisenhower Matrix](../the-eisenhower-matrix/)
-- [The Human Function Curve](../the-human-function-curve/)
+{{< resources "Wellbeing" >}}
 
 ## App 💻
 

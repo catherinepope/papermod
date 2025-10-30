@@ -1,5 +1,5 @@
 {{ $tag := .Get 0 }}
-{{ $pages := .Site.RegularPages }}
+{{ $pages := .Site.AllPages }}
 
 <ul class="book-list">
 {{ range $pages }}

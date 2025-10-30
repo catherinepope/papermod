@@ -2,7 +2,7 @@
 date: "2024-10-06T11:32:47+01:00"
 draft: false
 title: "Why We Should All Be Slackers"
-tags: ["wellbeing"]
+tags: ["Wellbeing"]
 categories: ["Books"]
 description: "Discover why building 'slack' into your life is more valuable than relentless efficiency. Explore how having reserves of time, money, and skills helps you avoid the scarcity mindset and make better decisions during uncertain times."
 keywords: ["scarcity mindset", "Andrew J Scott","Lynda Gratton", "Nassim Taleb", "Black Swan", "career flexibility", "financial planning", "redundancy planning", "work-life balance"]
