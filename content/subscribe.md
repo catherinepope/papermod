@@ -13,4 +13,4 @@ Get the latest updates delivered straight to your inbox. No spam. Unsubscribe at
 
 ---
 
-ℹ️ You'll receive an email asking you to confirm your subscription. If this doesn't appear, please check your spam folder.
+ℹ️ You'll receive an email asking you to confirm your subscription. If this doesn't appear, please check your spam folder. By subscribing, you agree to my [Privacy Policy](../privacy-policy/).
