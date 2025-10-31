@@ -1,0 +1,19 @@
+{{- define "main" }}
+<article class="post-single">
+  <header class="post-header">
+    <h1 class="post-title">404 - Page Not Found</h1>
+  </header>
+  <div class="post-content">
+    <p>Sorry, the page you're looking for doesn't exist.</p>
+    <p><a href="{{ "/" | relURL }}">← Return to homepage</a></p>
+  </div>
+</article>
+
+<script>
+  // Track 404 in Fathom with the attempted URL
+  if (window.fathom) {
+    var attemptedUrl = window.location.pathname;
+    fathom.trackEvent('404 Error: ' + attemptedUrl);
+  }
+</script>
+{{- end }}
