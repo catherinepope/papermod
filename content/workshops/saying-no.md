@@ -23,7 +23,7 @@ By the end of the workshop, you'll have:
 - Gained clarity on your core priorities and learned techniques for keeping them visible and protected.
 - Understood the psychological and cultural factors that make boundary-setting challenging in academia.
 - Developed a toolkit of diplomatic yet clear language for declining projects, responsibilities, and unrealistic deadlines.
-- Created actionable strategies for saying no to requests that don't align with your goals
+- Created actionable strategies for saying no to requests that don't align with your goals.
 - Explored the difference between rigid and porous boundaries, and how to calibrate yours appropriately.
 
 You'll leave with an action plan for what you're going to say "no" to and how, along with the confidence to prioritise your most important work.

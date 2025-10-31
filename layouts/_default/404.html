@@ -10,12 +10,9 @@
 </article>
 
 <script>
-  // Track 404 in Fathom as a pageview with the attempted URL
-  if (window.fathom) {
-    var attemptedUrl = window.location.pathname;
-    fathom.trackPageview({
-      url: '/404-error' + attemptedUrl
-    });
-  }
+  window.addEventListener('load', () => {
+    const path = window.location.pathname;
+    fathom.trackEvent('404: ' + path);
+  });
 </script>
 {{- end }}
