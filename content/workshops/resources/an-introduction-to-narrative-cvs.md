@@ -103,7 +103,7 @@ In summary:
 
 - While many are based on R4RI, there is no standard format for narrative CVs.
 - Each funder will have their own format - so check carefully.
-- This format is still new and evolving - check for changes.
+- This format is still new and evolving - look out for changes.
 
 ## What are the disadvantages of the Narrative CV format?
 
@@ -125,9 +125,9 @@ It takes a while to understand the narrative CV format and its implications. The
 - When making notes, focus on how and why, not just what. Be clear and specific.
 - Use any gaps to plan your professional development.
 
-You'll need to adapt your CV for each application to ensure you're including the most relevant examples for that project and funder. This means creating a library of building blocks you can assemble. Developing this library is also helpful for when you need to create team narrative CVs. Team members can share their libraries and pick the best examples for each module. 
+💡 You'll need to adapt your CV for each application to ensure you're including the most relevant examples for that project and funder. This means creating a library of building blocks you can assemble. Developing this library is also helpful for when you need to create team narrative CVs. Team members can share their libraries and pick the best examples for each module. 
 
-In a future post, we'll explore how you build your research narrative within and across those four modules.
+In [the next post](../what-should-you-include-in-a-narrative-cv/), we'll explore what examples you might include in those four modules.
 
 
 

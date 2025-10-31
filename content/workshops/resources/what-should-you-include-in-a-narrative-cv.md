@@ -1,16 +1,16 @@
 ---
 date: "2025-10-31T11:01:29Z"
-draft: true
+draft: false
 title: "What Should You Include in a Narrative CV?"
 tags: ["PhD", "Academic", "Careers", "Narrative CVs"]
 categories: ["PhD Progress", "Resources"]
 description: "Discover what to include in your narrative CV across four key modules. Practical guidance for UK researchers on showcasing impact beyond publications."
-keywords: [["narrative CV modules", "research impact", "narrative CV examples", "R4RI modules", "academic CV writing", "research outputs", "public engagement", "development of others", "UK research funding", "Zenodo"]
+keywords: ["narrative CV modules", "research impact", "narrative CV examples", "R4RI modules", "academic CV writing", "research outputs", "public engagement", "development of others", "UK research funding", "Zenodo"]
 ShowBreadCrumbs: true
 hideMeta: true
 ---
 
-The [Narrative CV format](../../what-is-a-narrative-cv/) means thinking about your research in a new way. Rather than creating an exhaustive list of all your achievements, you tell a story that explains why the funding body should give you money.
+The [Narrative CV format](../an-introduction-to-narrative-cvs/) means thinking about your research in a new way. Rather than creating an exhaustive list of all your achievements, you tell a story that explains why the funding body should give you money.
 
 In this post, we'll consider the audience for your story and also what you might tell them.
 
@@ -22,7 +22,7 @@ With storytelling, you should think about your audience. In this case, it's the 
 - **Track record of successfully delivering projects.** Skills aren't enough, either. Funders want to know you can *finish* this research.
 - **Communication skills.** And it's not just about your research chops, either. Funders expect you to communicate with them about your progress and also to disseminate your findings more broadly.
 
-Above all, they're seeking reassurance that you're going to complete the research within the timeframe and not spend all the money on crisps.
+Above all, they're seeking reassurance that you're going to complete the research within the timeframe and not spend all the money on crisps 😳
 
 Specific funders will also have other priorities, such as:
 
