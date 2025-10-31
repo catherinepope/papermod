@@ -118,4 +118,4 @@ Your research deserves to be understood and funded. A well-crafted narrative CV 
 
 ---
 
-The narrative CV format is still relatively new, and many researchers find it challenging. If you'd like hands-on support with developing and refining your narratives, ask your institution to book one of my narrative CV workshops where we'll work through the process together and you'll receive feedback on your drafts.
+The narrative CV format is still relatively new, and many researchers find it challenging. If you'd like hands-on support with developing and refining your narratives, ask your institution to book [one of my narrative CV workshops](../../../workshops/writing-a-narrative-cv/) where we'll work through the process together and you'll receive feedback on your drafts. We also discuss how to contribute to team narrative CVs.

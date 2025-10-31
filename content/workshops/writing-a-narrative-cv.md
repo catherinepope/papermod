@@ -11,23 +11,32 @@ hideMeta: true
 alias: /workshops/developing-a-narrative-cv/
 ---
 
-Narrative CVs are gaining popularity as a way for researchers to showcase a wider range of skills and experience in grant applications. But what is a narrative CV? And how does it differ from a traditional CV?
+Narrative CVs are gaining popularity as a way for researchers to showcase a wider range of skills and experience in grant applications. This interactive workshop focuses on the practical skills of crafting compelling narrative CVs. 
 
-This interactive workshop demystifies and simplifies the process of writing a narrative CV. Through discussion, activities, and examples, you’ll learn how best to present your research story.
+Through targeted activities and examples relevant to your specific project or practice, you'll develop strategies for presenting your research story effectively.
 
 By the end of the session, you’ll be able to:
 
-- Identify your invisible skills and experience.
-- Provide evidence of your experience.
-- Translate your experience into the required structure.
-- Describe your research using clear and concise language.
-- Create a polished and professional narrative CV.
+- Identify and articulate your "invisible skills" and experience relevant to your specific project or practice
+area.
+- Provide compelling evidence of your experience and expertise.
+- Translate your experience into narrative CV structure and format.
+- Describe your research and practice using clear, impactful language.
+- Create both individual and team/group narrative CVs.
+- Develop strategies for presenting practice-based work (exhibitions, artworks, curatorial activities) as
+legitimate research within academic frameworks.
+- Begin crafting your own narrative CV with confidence.
 
-You’ll also get the opportunity to give and receive feedback with other researchers.
+The session combines discussion, hands-on activities, and peer feedback opportunities. With an experienced
+facilitator, you'll work on real examples from your own project or practice area, making the learning
+immediately applicable. You'll leave with a clear action plan and draft content for your own narrative CV,
+whether for funding applications or academic career development.
 
-With the help of an experienced facilitator, you’ll devise a strategy for writing your own narrative CV.
+**Prerequisites:** To ensure participants are able to gain maximum benefit from the workshop, there will be an
+element of pre-session reading covering the [background, fundamental principles and structure of narrative CVs](../resources/an-introduction-to-narrative-cvs/).
 
-👩🏽‍🎓 **Audience:** Researchers at all stages and in any discipline.
+👩🏽‍🎓 **Audience:** This workshop is designed for researchers who have a specific project idea they are planning to
+submit for external research funding within the next 12-18 months, or those seeking to present practice-based work (exhibitions, artworks, curatorial practice) as research in an academic CV format.
 
 ⏰ **Duration:** 3 hours
 
