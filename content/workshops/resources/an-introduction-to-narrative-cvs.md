@@ -2,7 +2,7 @@
 date: "2025-10-31T10:50:28Z"
 draft: false
 title: "An Introduction to Narrative CVs"
-tags: ["PhD", "Academic", "Careers"]
+tags: ["PhD", "Academic", "Careers", "Narrative CVs"]
 categories: ["PhD Progress", "Resources"]
 description: "Learn about narrative CVs for UK research funding. Understand the R4RI format, UKRI requirements, and how to showcase your impact beyond publications."
 keywords: ["narrative CV", "R4RI", "UKRI", "academic CV", "research funding", "grant applications", "DORA", "CoARA", "researcher resume", "UK research funders"]
