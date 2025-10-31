@@ -8,6 +8,7 @@ description: "Learn about narrative CVs for UK research funding. Understand the 
 keywords: ["narrative CV", "R4RI", "UKRI", "academic CV", "research funding", "grant applications", "DORA", "CoARA", "researcher resume", "UK research funders"]
 ShowBreadCrumbs: true
 hideMeta: true
+showToc: true
 ---
 
 Many UK funders are adopting a new approach to academic CVs. In the business world, CVs typically occupy just a few pages, but academic CVs can stretch to more than a hundred pages, especially if you're a prolific researcher. These monster documents are boring to write and also difficult for the recipient to digest. 

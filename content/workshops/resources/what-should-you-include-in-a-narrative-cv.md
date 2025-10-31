@@ -8,6 +8,7 @@ description: "Discover what to include in your narrative CV across four key modu
 keywords: ["narrative CV modules", "research impact", "narrative CV examples", "R4RI modules", "academic CV writing", "research outputs", "public engagement", "development of others", "UK research funding", "Zenodo"]
 ShowBreadCrumbs: true
 hideMeta: true
+showToc: true
 ---
 
 The [Narrative CV format](../an-introduction-to-narrative-cvs/) means thinking about your research in a new way. Rather than creating an exhaustive list of all your achievements, you tell a story that explains why the funding body should give you money.
@@ -127,7 +128,7 @@ You'll need a different narrative for each project and funder, so it's important
 
 ## Next Steps
 
-Once you have your examples, you can start assembling them to build specific narratives. That's what you'll do in the next post, where you'll also see some examples for each module.
+Once you have your examples, you can start assembling them to build specific narratives. That's what you'll do [in the next post, where you'll also see some examples for each module](../how-to-write-a-narrative-cv/).
 
 In the meantime, unearth and record those previous achievements. You can start simple with a Word document or a spreadsheet. Spending just 30 minutes on each module would be a great start.
 
