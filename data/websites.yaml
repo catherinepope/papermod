@@ -10,6 +10,12 @@ alberto_romero:
   subject: ["AI"]
   description: "Alberto Romero's thought pieces on the wider implications of AI."
 
+credit:
+  title: "CRedIT"
+  url: "https://credit.niso.org"
+  subject: ["CV"]
+  description: "A community-owned 14 role taxonomy that can be used to describe the key types of contributions typically made to the production and publication of research output such as research articles."
+
 emily_bender:
   title: "Emily Bender"
   url: "https://medium.com/@emilymenonbender"
@@ -28,11 +34,23 @@ explorations_style:
   subject: ["Writing"]
   description: "Rachael Cayley's thoughtful blog about all aspects of academic writing."
 
+glasgow:
+  title: "University of Glasgow's Narrative CV course"
+  url: "https://rise.articulate.com/share/NyPk_PNlENdfRS5R5catqqiJzs3woS3Y#/"
+  subject: ["CV"]
+  description: "A short and informative online course on writing a narrative CV."
+
 margaret_mitchell:
   title: "Margaret Mitchell"
   url: "https://www.m-mitchell.com/"
   subject: ["AI"]
   description: "AI research scientist and ethicist."
+
+orcid:
+  title: "ORCID"
+  url: "https://orcid"
+  subject: ["CV"]
+  description: "A free, unique, persistent identifier (PID) for you to use for engaging in research, scholarship, and innovation activities."
 
 phd_liferaft:
   title: "The PhD Life Raft"
@@ -51,5 +69,11 @@ thinkwell:
   url: "https://ithinkwell.com.au"
   subject: ["PhD"]
   description: "Planners and templates for managing your PhD."
+
+ukri:
+  title: "UK Research and Innovation (UKRI)"
+  url: "https://www.ukri.org/apply-for-funding/develop-your-application/resume-for-research-and-innovation-r4ri-guidance/"
+  subject: ["CV"]
+  description: "Guidance on using the Résumé for Research and Innovation (R4RI) narrative CV template."
 
 
