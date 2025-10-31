@@ -8,7 +8,7 @@ description: "Interactive workshop on creating narrative CVs for researchers. Le
 keywords: ["narrative CV", "academic CV", "researcher CV", "CV writing", "academic careers", "research skills", "career development", "academic job applications", "CV workshop", "research narrative"]
 ShowBreadCrumbs: true
 hideMeta: true
-alias: /workshops/developing-a-narrative-cv/
+aliases: ['/workshops/developing-a-narrative-cv/']
 ---
 
 Narrative CVs are gaining popularity as a way for researchers to showcase a wider range of skills and experience in grant applications. This interactive workshop focuses on the practical skills of crafting compelling narrative CVs. 
