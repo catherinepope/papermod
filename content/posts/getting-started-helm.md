@@ -23,7 +23,7 @@ To follow the steps in this tutorial, you'll need:
 - kubectl
 - minikube
 
-For guidance on installing these tools, [see my earlier blog post](../../kubernetes-minikube/).
+For guidance on installing these tools, [see my earlier blog post](../kubernetes-minikube/).
 
 ## What is Helm?
 
@@ -164,6 +164,6 @@ Then stop minikube with `minikube stop`.
 
 Admittedly, this isn't very this isn't very exciting. Yet. 
 
-In my next tutorial, we'll use Helm to install and configure WordPress locally on minikube. Then you'll be able to interact with it in your browser.
+In my next tutorial, we'll [use Helm to install and configure WordPress](../installing-wordpress-helm/) locally on minikube. Then you'll be able to interact with it in your browser.
 
 Until then, Happy Helming.
