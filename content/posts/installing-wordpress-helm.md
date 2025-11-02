@@ -1,6 +1,6 @@
 ---
 date: "2022-10-27T15:30:09Z"
-draft: true
+draft: false
 title: "Installing WordPress with Helm"
 tags: ["Tutorials", "Helm", "Kubernetes"]
 categories: ["Technology"] 
