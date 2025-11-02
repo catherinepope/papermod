@@ -73,7 +73,7 @@ Pods are the smallest unit of work on Kubernetes. Although you can create pods i
 
 In short, a Kubernetes deployment ensures the desired number of pods are running and available at all times. 
 
-The best way to create a Kubernetes deployment is *declaratively* with a YAML file. That way, your deployment is fully documented and (hopefully) stored in version control. 
+The best way to create a Kubernetes deployment is *declaratively* [with a YAML file](../kubernetes-manifest/). That way, your deployment is fully documented and (hopefully) stored in version control. 
 
 While you're getting started, though, it's much more fun to be *imperative* and issue a command.
 
@@ -169,7 +169,7 @@ That's a quick canter through a simple Kubernetes deployment. If you've finished
 - Delete your service: `kubectl delete service my-deploy-np`.
 - Stop minikube: `minikube stop`.
 
-In a future post, I'll explain [how you can use minikube with Helm](../getting-started-helm/) for more complex Kubernetes deployments. And we'll look at some declarative Kubernetes manifests, too.
+In a future post, I'll explain [how you can use minikube with Helm](../getting-started-helm/) for more complex Kubernetes deployments. And we'll look at [a declarative Kubernetes manifest](../kubernetes-manifest/), too.
 
 ---
 
