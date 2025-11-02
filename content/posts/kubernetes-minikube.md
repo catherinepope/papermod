@@ -2,7 +2,7 @@
 date: "2022-08-28T10:52:05Z"
 draft: false
 title: "Creating a Kubernetes Deployment with minikube"
-tags: ["Tutorials", "Kubernetes"]
+tags: ["Tutorials", "Kubernetes", "Docker"]
 categories: ["Technology"] 
 description: "Learn how to set up minikube on macOS and create your first Kubernetes deployment. This updated 2025 tutorial covers installation with Docker driver, creating deployments, exposing services, and using the minikube dashboard."
 keywords: ["minikube tutorial", "kubernetes local development", "minikube docker driver", "kubernetes deployment tutorial", "minikube macOS", "kubectl commands", "kubernetes beginners", "minikube dashboard", "local kubernetes cluster", "kubernetes getting started"]
