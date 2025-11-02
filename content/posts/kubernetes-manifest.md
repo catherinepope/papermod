@@ -121,6 +121,6 @@ All gone!
 
 ## Conclusion
 
-In this tutorial, you've seen how to create, update, and delete a simple Kubernetes manifest. Next time, we'll make it more sophisticated by adding a manifest for a Kubernetes Service. Then you'll have something more exciting to look at.
+In this tutorial, you've seen how to create, update, and delete a simple Kubernetes manifest. Next time, we'll make it more sophisticated by [adding a manifest for a Kubernetes Service](../kubernetes-service-manifest/). Then you'll have something more exciting to look at.
 
 I hope you enjoy your Kubernetes adventures in the meantime.
