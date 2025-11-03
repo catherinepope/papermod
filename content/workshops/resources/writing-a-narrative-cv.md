@@ -3,7 +3,7 @@ date: "2025-10-30T16:57:09Z"
 draft: false
 title: "Writing a Narrative CV"
 tags: ["Academic", "Careers"]
-# categories: 
+categories: ["Resources"]
 description: "Resources for workshop on Writing a Narrative CV"
 # keywords: ["keyword 1", "keyword 2", "keyword 3"]
 # ShowToc: true

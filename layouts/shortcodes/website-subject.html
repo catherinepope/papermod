@@ -2,7 +2,7 @@
 <ul class="book-list">
 {{ range $key, $website := $.Site.Data.websites }}
   {{ if in $website.subject $subject }}
-      <li><a href="{{ $website.url }}" target="_blank" rel="noopener noreferrer">{{ $website.title }}</a></li>
+      <li><a href="{{ $website.url }}" target="_blank" rel="noopener noreferrer">{{ $website.title }}</a> - {{ $website.description }}</li>
   {{ end }}
 {{ end }}
 </ul>
