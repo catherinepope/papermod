@@ -52,7 +52,7 @@ Here’s the current tally:
 38. [The Golden Lion of Granpère](../the-golden-lion-of-granpere/)
 39. [The Macdermots of Ballycloran](../ten-terrible-trollopes/#the-macdermots-of-ballycloran)
 40. [Ralph the Heir](../ralph-the-heir/)
-41. The Three Clerks
+41. [The Three Clerks](../the-three-clerks/)
 42. Orley Farm
 43. [The Bertrams](../ten-terrible-trollopes/#the-bertrams)
 44. [La Vendée](../ten-terrible-trollopes/#la-vend%C3%A9e)
@@ -64,4 +64,4 @@ You can discover [my favourites](../top-ten-trollopes/) and those I'd [happily n
 
 ---
 
-**UPDATE:** Revisiting this post 14 years later, I realise I didn't write up four of the novels. This is probably for the good reason that I needed to get on with my thesis (which wasn't about Trollope) 🧐 I'll pursue a much more modest challenge in 2025, re-reading and reflecting on [_Linda Tressel_](../linda-tressel/), _Kept in the Dark_, _Orley Farm_, and _The Three Clerks_.
+**UPDATE:** Revisiting this post 14 years later, I realise I didn't write up four of the novels. This is probably for the good reason that I needed to get on with my thesis (which wasn't about Trollope) 🧐 I'll pursue a much more modest challenge in 2025, re-reading and reflecting on [_Linda Tressel_](../linda-tressel/), _Kept in the Dark_, _Orley Farm_, and [_The Three Clerks_](../the-three-clerks/).

@@ -37,6 +37,7 @@ The one redeeming feature is Arabella Trefoil, an alpha female intent on bagging
 ## [The Small House at Allington](/posts/the-small-house-at-allington/)
 
 This is a controversial choice, as I know it is a favourite of many fellow Trollopites. Although it’s the penultimate Chronicle of Barsetshire, it blends in with the others like an orange in a coal heap.
+
 My main objection can be summarised in two words: Lily Dale. Uggghhh. She plunges herself into “perpetual widowhood” for a man who is entirely without merit and considers herself legally bound to him. I wondered whether their relationship had been consummated, and she therefore felt unable to give herself to another man. In any case, she really needed to pull herself together, rather than moping about like a particularly morose Emo.
 
 ## [Mr Scarborough’s Family](/posts/mr-scarboroughs-family/)
