@@ -1,6 +1,6 @@
 ---
 date: "2025-11-05T15:57:13Z"
-draft: true
+draft: false
 title: "How to Create a Linux Virtual Machine on a Mac"
 tags: ["Mac Tips", "Tutorials"]
 categories: ["Technology"] 
