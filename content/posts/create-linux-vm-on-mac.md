@@ -14,7 +14,7 @@ As a technical writer, I often work with different operating systems and environ
 
 In this tutorial, I'll explain how to create a Linux virtual machine (VM) on an Apple Silicon Mac using UTM (which stands for Universal Turing Machine). UTM is free, open-source virtualisation software that's specifically designed for macOS. 
 
-I previously used VirtualBox, which stopped working a couple of years ago. Although there's a developer preview of an updated version, it's not production-ready and I couldn't get it to work for me. UTM is built specifically for macOS and uses Apple's own Virtualisation framework.
+I previously used VirtualBox, which stopped working a couple of years ago. Although there's a developer preview of an updated version, it's not production-ready and I couldn't get it to work for me. UTM is built specifically for macOS and uses Apple's own Virtualization framework.
 
 To follow this tutorial, you'll need:
 
