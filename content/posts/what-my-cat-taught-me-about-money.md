@@ -8,7 +8,7 @@ description: "A personal reflection on how grief and life events impact financia
 keywords: ["financial decisions", "grief and money", "emotional financial planning", "tiny experiments", "financial flexibility", "reversible decisions", "financial advice", "pension schemes"] 
 ---
 
-On day two of my [Tiny Experiment](posts/tiny-experiments), I struggled to access my feelings about money. My beloved cat had just died and I felt overwhelmed. Humphry had been my furry sidekick for almost eighteen years and had seen me through some bumpy times. Although he didn’t have a lot to say about money, he did enjoy two passive income streams. Perhaps he should have written a book instead?
+On day two of my [Tiny Experiment](/posts/tiny-experiments), I struggled to access my feelings about money. My beloved cat had just died and I felt overwhelmed. Humphry had been my furry sidekick for almost eighteen years and had seen me through some bumpy times. Although he didn’t have a lot to say about money, he did enjoy two passive income streams. Perhaps he should have written a book instead?
 
 Anyway, losing Humph reminded that traditional financial advice usually assumes we’re in the best possible position to make an important decision. But often that decision is prompted by an unpleasant life event, such as a bereavement, divorce, or redundancy. To make matters worse, those decisions can involve long-term commitments, such as a fixing a mortgage rate or buying an annuity for retirement. The security we crave in that moment becomes a trap later on.
 
