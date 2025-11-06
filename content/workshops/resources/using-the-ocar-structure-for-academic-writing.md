@@ -2,7 +2,7 @@
 date: "2025-10-31T14:20:52Z"
 draft: false
 title: "Using the OCAR Structure for Academic Writing"
-tags: ["PhD", "Academic", "Narrative CV", "Writing"]
+tags: ["PhD", "Academic", "Narrative CVs", "Writing"]
 categories: ["PhD Progress", "Resources"]
 description: "Learn how to use the OCAR structure for academic writing. A practical framework for researchers to craft compelling narratives in papers and proposals."
 keywords: ["OCAR structure", "academic writing", "research storytelling", "writing framework", "thesis writing", "academic narratives", "research communication", "scientific writing", "narrative CV", "funding applications"]
