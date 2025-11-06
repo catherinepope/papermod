@@ -8,6 +8,8 @@ description: ""
 keywords: ["keyword 1", "keyword 2", "keyword 3"]
 ShowBreadCrumbs: true
 hideMeta: true
+build:
+  list: false
 ---
 
 This is a fictitious funding call for the Writing a Narrative CV workshop.
