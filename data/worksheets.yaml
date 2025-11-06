@@ -13,6 +13,6 @@ editing_audit:
 writing_audit:
   title: "Writing Audit"
   url: "/docs/Writing-Audit.docx"
-  subject: ["PhD"]
+  subject: ["PhD", "Writing"]
   description: "Template for tracking the writing stage."
 
