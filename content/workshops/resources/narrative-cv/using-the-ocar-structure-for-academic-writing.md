@@ -29,13 +29,13 @@ There are variations on the basic OCAR structure. For instance, you could use O*
 
 Here's a short fictitious example to show how OCAR works in practice:
 
-- **Opening:** Recent advances in machine learning have transformed how we analyze large datasets, but these tools remain inaccessible to many researchers without programming expertise.
+- **Opening:** Recent advances in machine learning have transformed how we analyse large datasets, but these tools remain inaccessible to many researchers without programming expertise.
 
 - **Challenge:** How could we create an interface that allows non-technical researchers to apply machine learning methods to their own data?
 
 - **Action:** We developed and tested a browser-based tool with 50 researchers across five disciplines. Participants completed analysis tasks and provided feedback on usability.
 
-- **Resolution:** Our tool enabled researchers to conduct analyses previously requiring specialist skills, democratizing access to advanced methods. This approach could be applied to other technical barriers in research.
+- **Resolution:** Our tool enabled researchers to conduct analyses previously requiring specialist skills, democratising access to advanced methods. This approach could be applied to other technical barriers in research.
 
 For funding applications, you'd write this in the future tense, describing what you're hoping to do, rather than what you did.
 

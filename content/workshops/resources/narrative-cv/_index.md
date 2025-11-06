@@ -5,6 +5,8 @@ title: "Writing a Narrative CV"
 tags: ["Academic", "Careers"]
 categories: ["Resources"]
 description: "Resources for workshop on Writing a Narrative CV"
+showBreadcrumbs: true
+layout: single
 # keywords: ["keyword 1", "keyword 2", "keyword 3"]
 # ShowToc: true
 # OpenToc: true  
