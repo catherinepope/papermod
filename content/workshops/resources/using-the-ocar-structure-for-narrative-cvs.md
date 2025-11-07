@@ -76,7 +76,6 @@ Each OCAR level should add different value:
 
 Avoid simply restating the same achievement at three different lengths.
 
-
 ### Getting the proportions wrong
 
 Within each OCAR narrative, aim for roughly:
@@ -92,9 +91,8 @@ Many researchers spend too long on context (Opening) and downplay the impact (Re
 
 "I wanted to improve things" is too general at any level. Compare:
 
-❌ Vague: "I wanted to make research more accessible"
-
-✅ Specific: "How could we enable researchers without programming expertise to apply machine learning methods to their own data?"
+- ❌ Vague: "I wanted to make research more accessible"
+- ✅ Specific: "How could we enable researchers without programming expertise to apply machine learning methods to their own data?"
 
 ### Resolution that doesn't connect to Opening
 
@@ -104,8 +102,8 @@ Your Resolution should circle back to the problem you identified in the Opening,
 
 The best way to understand how OCAR works at multiple levels is to see it in practice. I've created two fully annotated narrative CVs showing the OCAR structure at all three levels:
 
-- Annotated Example 1: Applied Theatre Researcher - Early-mid career, community engagement focus
-- Annotated Example 2: Health/Methods Researcher - Established career, methodological innovation focus
+- [Annotated Example 1: Applied Theatre Researcher](../narrative-cv-example-arts-humanities/) - Early-mid career, community engagement focus
+- [Annotated Example 2: Health/Methods Researcher](../narrative-cv-example-stem/) - Established career, methodological innovation focus
 
 Each example includes collapsible annotations showing exactly where each OCAR element appears at the Personal Statement, module, and individual example levels.
 

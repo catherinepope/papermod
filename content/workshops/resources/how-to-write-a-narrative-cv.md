@@ -106,9 +106,9 @@ This theme also helps you create the "Personal Statement" section of your narrat
 
 This is an iterative process. You'll draft, identify themes, refine, and adjust as you see how your examples work together.
 
-For more detailed guidance on this process, see [Using the OCAR Structure at Multiple Levels in Your Narrative CV](../using-the-ocar-structure-for-narrative-cvs/)
+<!--For more detailed guidance on this process, see [Using the OCAR Structure at Multiple Levels in Your Narrative CV](../using-the-ocar-structure-for-narrative-cvs/)
 
-<!-- In the **Writing Your Narrative CV** workshop, we work through this refinement process in detail, helping you identify your strongest narratives and craft them into a cohesive application. -->
+In the **Writing Your Narrative CV** workshop, we work through this refinement process in detail, helping you identify your strongest narratives and craft them into a cohesive application. -->
 
 ## Conclusion
 
@@ -117,7 +117,7 @@ Admittedly, writing a narrative CV is more demanding than listing achievements i
 Remember:
 
 - Start with [relevant examples for each module](../what-should-you-include-in-a-narrative-cv/).
-- [Use OCAR]((../using-the-ocar-structure-for-academic-writing/)) to structure each narrative.
+- [Use OCAR]((../using-the-ocar-structure-for-academic-writing/) to structure each narrative.
 - Look for the overarching theme that connects your work.
 - Use that theme for your personal statement.
 - Refine ruthlessly to meet word limits and funder expectations.
