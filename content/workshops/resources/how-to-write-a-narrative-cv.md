@@ -117,7 +117,7 @@ Admittedly, writing a narrative CV is more demanding than listing achievements i
 Remember:
 
 - Start with [relevant examples for each module](../what-should-you-include-in-a-narrative-cv/).
-- [Use OCAR]((../using-the-ocar-structure-for-academic-writing/) to structure each narrative.
+- [Use OCAR](../using-the-ocar-structure-for-academic-writing/) to structure each narrative.
 - Look for the overarching theme that connects your work.
 - Use that theme for your personal statement.
 - Refine ruthlessly to meet word limits and funder expectations.
