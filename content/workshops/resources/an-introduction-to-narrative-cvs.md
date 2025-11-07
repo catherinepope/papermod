@@ -27,7 +27,7 @@ As the narrative CV is selective, it's usually much shorter than a traditional a
 
 Key features:
 
-- Much shorter than a traditional CV (sometimes just 2 pages).
+- Much shorter than a traditional CV.
 - Recognises a broader range of outputs.
 - Tells a story, but backed up with facts.
 - Explains *how* and *why*, not just *what*.
@@ -80,7 +80,7 @@ You need to explain how you have contributed to:
 - **Impact on wider research and innovation community** - these activities could include peer review, journal editing, conference organisation, or building research networks.
 - **Impact on broader society** - for instance, policy influence, public engagement, or collaborations with non-academic partners.
 
-There is usually a strict word limit for this component, which typically ranges from 1,000-2,000 words, depending on the funder. **Always check the current application guidance** as these limits can change between funding rounds.
+There is usually a strict word limit for this component, which typically ranges from 1,000-2,000 words, depending on the funder. **Always check the current application guidance** as these limits can change between funding rounds. It's up to you how many contributions you include in each module, but you mustn't exceed the limit.
 
 If you're an early career researcher, you're not expected to have contributed to all these areas. But it's useful for identifying gaps in your professional development.
 
@@ -116,7 +116,7 @@ We've considered the advantages of the narrative CV format, but what are some of
 - Adoption isn't yet universal, so you need to also maintain a traditional CV.
 - It's a lot of extra work for you.
 
-On the positive side, capturing all your research activities for the narrative CV is also helpful for job applications, promotions, or simply to get a sense of achievement. It's easy to discount those one-off events you organised, or the mentorship scheme in which you participated.
+On the positive side, capturing all your research activities for the narrative CV is also helpful for job applications, promotions, or simply to get a sense of achievement. It's easy to discount those one-off events you organised, or the mentorship scheme in which you participated. Now there's an opportunity to gain some recognition.
 
 ## Next steps
 
