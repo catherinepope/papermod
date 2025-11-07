@@ -104,7 +104,11 @@ Once you've identified your theme, you can refine your individual narratives to 
 
 This theme also helps you create the "Personal Statement" section of your narrative CV.
 
-This is an iterative process. You'll draft, identify themes, refine, and adjust as you see how your examples work together. In the **Writing Your Narrative CV** workshop, we work through this refinement process in detail, helping you identify your strongest narratives and craft them into a cohesive application.
+This is an iterative process. You'll draft, identify themes, refine, and adjust as you see how your examples work together.
+
+For more detailed guidance on this process, see [Using the OCAR Structure at Multiple Levels in Your Narrative CV](../using-the-ocar-structure-for-narrative-cvs/)
+
+<!-- In the **Writing Your Narrative CV** workshop, we work through this refinement process in detail, helping you identify your strongest narratives and craft them into a cohesive application. -->
 
 ## Conclusion
 
