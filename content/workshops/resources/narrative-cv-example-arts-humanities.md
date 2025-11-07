@@ -2,10 +2,10 @@
 date: "2025-11-06T17:03:44Z"
 draft: true
 title: "Narrative CV Example - Arts and Humanities"
-tags: ["PhD", "academic"]
-categories: ["PhD Progress", "Resources"]
-description: ""
-keywords: ["keyword 1", "keyword 2", "keyword 3"]
+# tags: ["PhD", "academic"]
+# categories: ["PhD Progress", "Resources"]
+# description: ""
+# keywords: ["keyword 1", "keyword 2", "keyword 3"]
 ShowBreadCrumbs: true
 hideMeta: true
 ---
@@ -20,7 +20,7 @@ Important reminders:
 
 ## Personal Statement
 
-<details>
+<details class="ocar-breakdown">
 <summary>💡 How this Personal Statement derives from OCAR</summary>
 
 **Extended OCAR version (what you might draft first):**
@@ -48,7 +48,7 @@ Applied theatre practitioner-researcher committed to creating inclusive performa
 
 ## Module 1: Generation & flow of new ideas
 
-<details>
+<details class="ocar-breakdown">
 <summary>💡 Module-level OCAR breakdown</summary>
 
 - **Opening:** Traditional participatory theatre creates barriers for many excluded communities.
@@ -61,7 +61,7 @@ Applied theatre practitioner-researcher committed to creating inclusive performa
 
 Throughout my practice-based research, I've been interested in how applied theatre methods can be adapted to work effectively with communities who have been historically excluded from mainstream arts. Traditional participatory theatre approaches often assume certain levels of literacy, mobility, and cultural familiarity that create barriers for many groups. I wanted to develop and document methods that genuinely centre accessibility and cultural responsiveness in applied theatre practice. I have pursued this through developing new devising approaches, creating practice documentation, and contributing to methodological discourse in the field.
 
-<details>
+<details class="ocar-breakdown">
 <summary>💡 Individual example OCAR breakdown</summary>
 
 - **Opening:** Deaf and hard-of-hearing participants find traditional workshops inaccessible.
@@ -73,7 +73,7 @@ Throughout my practice-based research, I've been interested in how applied theat
 
 Many Deaf and hard-of-hearing participants find traditional theatre workshops inaccessible, as they often rely heavily on verbal instructions and audio cues. I wanted to create a devising methodology that placed visual and embodied communication at the centre, rather than treating sign language interpretation as an addition. Working with a local Deaf theatre company, I co-developed a visual devising framework over six months, involving eight Deaf and hearing participants. We experimented with image-based prompts, tactile exploration, and visual scoring systems for structuring scenes. I documented the process through video and reflective writing, presenting findings at the Applied Theatre Researchers conference. The framework has since been adopted by two other community theatre organisations, and I was invited to deliver a CPD workshop for 15 theatre practitioners on visual devising methods. Participants reported the approach "transformed" how they thought about accessible practice.
 
-<details>
+<details class="ocar-breakdown">
 <summary>💡 Individual example OCAR breakdown</summary>
 
 - **Opening:** Practitioners struggle to articulate impact beyond anecdotal evidence.
@@ -85,7 +85,7 @@ Many Deaf and hard-of-hearing participants find traditional theatre workshops in
 
 Applied theatre practitioners often struggle to articulate the impact of their work beyond anecdotal evidence, limiting their ability to secure funding and demonstrate value to stakeholders. I wanted to create accessible evaluation tools specifically designed for community-based performance projects, recognising that standard academic assessment frameworks don't capture the nuances of this work. I developed a reflective evaluation toolkit combining participant journals, creative response methods (such as post-performance drawings), and structured group discussions. I piloted this across three community projects involving 45 participants total, refining the approach based on feedback. I published the toolkit as an open-access resource on the Applied Theatre Hub website, accompanied by a 2,000-word practice-as-research article explaining the methodology. The toolkit has been downloaded 300+ times, and two practitioners have contacted me to share how they've adapted it for their contexts.
 
-<details>
+<details class="ocar-breakdown">
 
 <summary>💡 Module-level Resolution</summary>
 
@@ -97,7 +97,7 @@ These contributions have provided practical tools and documented knowledge that 
 
 ## Module 2: Development of others
 
-<details>
+<details class="ocar-breakdown">
 <summary>💡 Module-level OCAR breakdown</summary>
 
 - **Opening:** Many emerging practitioners face isolation and lack appropriate mentorship for practice-based research.
@@ -109,7 +109,7 @@ These contributions have provided practical tools and documented knowledge that 
 
 Early in my career, I experienced the isolation of being a practice-based researcher in a predominantly text-focused department, struggling to find mentorship that understood the specific challenges of this work. I recognized that many emerging applied theatre practitioners face similar challenges — navigating between academic and community contexts, managing precarious employment, and validating practice as research. I wanted to create supportive structures that would help early career practitioners develop confidence and skills while building community. I established peer support networks, mentored student practitioners, and contributed to professional development opportunities.
 
-<details>
+<details class="ocar-breakdown">
 
 <summary>💡 Individual example OCAR breakdown</summary>
 
@@ -122,7 +122,7 @@ Early in my career, I experienced the isolation of being a practice-based resear
 
 Postgraduate students in our department pursuing practice-based research often felt uncertain about how to document their work, balance artistic and academic writing, and prepare for viva examinations that would assess both performance and thesis. I wanted to create a supportive space where students could share these challenges and learn from each other's approaches. I initiated a monthly practice-as-research reading group, inviting six MA and PhD students to discuss methodology texts, share work-in-progress, and troubleshoot practical challenges. I facilitated discussions and invited external practitioners to join sessions. Over two years, the group supported 10 students through their research journeys. Three participants specifically mentioned the group in their thesis acknowledgments, noting it "provided essential peer support" during challenging stages. The group continues to meet, now student-led, creating a sustainable support structure.
 
-<details>
+<details class="ocar-breakdown">
 
 <summary>💡 Individual example OCAR breakdown</summary>
 
@@ -135,7 +135,7 @@ Postgraduate students in our department pursuing practice-based research often f
 
 A local youth theatre organisation wanted to develop their facilitators' skills in working with neurodivergent young people, but lacked internal expertise and budget for extensive external training. I wanted to share my knowledge in a way that would be immediately practical and sustainable for the organisation. I volunteered to deliver a half-day workshop for eight youth theatre facilitators, focusing on sensory-aware practice, clear communication strategies, and creating predictable workshop structures. I developed a one-page resource guide with practical tips that facilitators could reference during sessions. I also offered to observe two workshops and provide feedback to individual facilitators. Post-workshop feedback showed 100% of participants felt "more confident" working with neurodivergent young people, and the organisation reported that parent feedback improved notably, with specific praise for the "thoughtful accommodations" being made.
 
-<details>
+<details class="ocar-breakdown">
 
 <summary>💡 Module-level Resolution</summary>
 
@@ -147,7 +147,7 @@ These initiatives have supported approximately 20 early career practitioners and
 
 ## Module 3: Impact on wider research and innovation community
 
-<details>
+<details class="ocar-breakdown">
 
 <summary>💡 Module-level OCAR breakdown</summary>
 
@@ -160,7 +160,7 @@ These initiatives have supported approximately 20 early career practitioners and
 
 Throughout my involvement in the applied theatre community, I've noticed how certain administrative and organisational practices unintentionally exclude practitioners with limited time, resources, or specific access needs. Professional conferences often require expensive registration fees, assume ability to travel and stay overnight, and schedule events during school hours — all barriers for freelance practitioners, those with caring responsibilities, or disabled practitioners. I wanted to contribute to making applied theatre networks more genuinely inclusive and accessible to diverse practitioners. I have taken on committee roles, advocated for accessible event practices, and contributed to building more equitable professional structures.
 
-<details>
+<details class="ocar-breakdown">
 
 <summary>💡 Individual example OCAR breakdown</summary>
 
@@ -173,7 +173,7 @@ Throughout my involvement in the applied theatre community, I've noticed how cer
 
 Our regional applied theatre network held quarterly networking events that consistently attracted the same 15-20 practitioners, missing many who couldn't attend evening events in the city centre or afford the £15 fee. I wanted to understand and address these barriers to participation. As a committee member, I proposed and led a consultation process, creating an online survey and conducting phone interviews with 12 practitioners who had never attended events. Based on this feedback, I advocated for changes including: introducing a sliding scale fee (£5-£15), alternating between daytime and evening events, providing virtual attendance options, and rotating venues to include more accessible locations. I also suggested we provide childcare information for each venue. Following these changes, attendance increased to an average of 30 practitioners per event, with notably more diverse participation in terms of career stage, geographic location, and caring responsibilities. Three new attendees have since joined the committee, bringing fresh perspectives.
 
-<details>
+<details class="ocar-breakdown">
 <summary>💡 Individual example OCAR breakdown</summary>
 
 - **Opening:** Journal published predominantly text-based articles, excluding practice-based researchers.
@@ -185,7 +185,7 @@ Our regional applied theatre network held quarterly networking events that consi
 
 The _Applied Theatre Journal_ published predominantly text-based articles, making it difficult for practice-based researchers to share their work and limiting the field's engagement with embodied and visual knowledge. I wanted to advocate for more inclusive publication formats that would genuinely welcome practice-based contributions. When invited to peer review for the journal, I consistently provided constructive feedback on articles but also used the "comments to editors" section to suggest how the journal could support practice-based submissions. After reviewing three articles, I was invited to join a working group exploring alternative formats. I contributed ideas drawn from my own documentation practice and examples from other journals. The journal subsequently introduced a "Practice Pages" section allowing video documentation, visual essays, and annotated performance scores. I submitted one of the first Practice Pages contributions, and the section now publishes 4-6 practice-based pieces annually, significantly broadening who can contribute to the journal.
 
-<details>
+<details class="ocar-breakdown">
 
 <summary>💡 Module-level Resolution</summary>
 
@@ -197,7 +197,7 @@ These three contributions have helped make the applied theatre community more ac
 
 ## Module 4: Impact on broader society
 
-<details>
+<details class="ocar-breakdown">
 
 <summary>💡 Module-level OCAR breakdown</summary>
 
@@ -210,7 +210,7 @@ These three contributions have helped make the applied theatre community more ac
 
 Throughout my applied theatre work, I've been committed to the principle that everyone should have opportunities to participate in creative expression, regardless of background or circumstance. However, many communities face compounded barriers — socioeconomic disadvantage, discrimination, lack of local arts provision — that make theatre participation feel irrelevant or inaccessible. I wanted to ensure my practice directly benefited communities experiencing marginalisation, creating genuine opportunities for creative expression and community connection. I have developed partnerships with community organizations, created performances centring marginalized experiences, and contributed to local cultural infrastructure.
 
-<details>
+<details class="ocar-breakdown">
 
 <summary>💡 Individual example OCAR breakdown</summary>
 
@@ -223,7 +223,7 @@ Throughout my applied theatre work, I've been committed to the principle that ev
 
 Older adults in a social housing estate experienced high levels of isolation, with limited local activities and declining community spaces. The residents' association wanted to address this problem but lacked resources for traditional arts programming. I wanted to co-create a sustainable creative project that would be shaped by residents' own interests and build community connections. I partnered with the residents' association to establish a weekly reminiscence theatre group, initially funded by a £2,000 grant from the local council that I helped them apply for. Over eight months, I facilitated sessions with 12 regular participants (aged 65-84), using their memories and experiences as source material. We created a 20-minute performance that was shared at the estate's community center, attended by 40+ residents and family members. Participants reported feeling "valued" and "less lonely," and several formed friendships extending beyond the sessions. The group continued meeting informally after the funded period ended, now facilitated by one of the participants, demonstrating the project's sustainability.
 
-<details>
+<details class="ocar-breakdown">
 
 <summary>💡 Individual example OCAR breakdown</summary>
 
@@ -236,7 +236,7 @@ Older adults in a social housing estate experienced high levels of isolation, wi
 
 Young asylum seekers and refugees attending a local support center experienced trauma, cultural dislocation, and limited opportunities for creative expression in their new environment. Traditional verbal therapies often felt culturally inappropriate or linguistically inaccessible. The support center wanted to offer alternative forms of expression and connection. I wanted to create a safe creative space that didn't require high levels of English proficiency and respected participants' autonomy about what they chose to share. I developed and delivered a 10-week non-verbal devising project with eight young people (aged 16-21) from six different countries. We used movement, image-making, and soundscaping to explore themes the participants chose: home, journey, and hope. Rather than performing for an external audience, we created a video document that participants controlled—they decided what was recorded and who could view it. The support center staff reported that participants showed "increased confidence" and several continued engaging with other center activities. Two participants requested the video to share with family members, using it to communicate experiences they found difficult to verbalise.
 
-<details>
+<details class="ocar-breakdown">
 
 <summary>💡 Individual example OCAR breakdown</summary>
 
@@ -249,7 +249,7 @@ Young asylum seekers and refugees attending a local support center experienced t
 
 Local schools in our area had very limited drama provision, with one secondary school having cut its drama department entirely due to budget constraints. This particularly impacted students who might benefit most from creative subjects — those struggling academically or experiencing social-emotional challenges. I wanted to bring applied theatre into schools that couldn't otherwise access it. I secured £3,000 from a local charitable trust to deliver a term-long project at the school with reduced drama provision, working with a group of 15 Year 9 students (aged 13-14) identified by teachers as potentially benefiting from creative engagement. We created a forum theatre piece exploring peer pressure and decision-making. Students performed for three other Year 9 classes (90+ students), facilitating discussions about the issues raised. Teachers reported that participating students showed "improved confidence and collaboration skills," and the school invited me back the following year, finding budget to continue the work. Two students told me the project "made school better" and one asked about studying drama at college—a pathway they hadn't previously considered.
 
-<details>
+<details class="ocar-breakdown">
 
 <summary>💡 Module-level Resolution</summary>
 

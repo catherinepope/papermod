@@ -40,6 +40,12 @@ glasgow:
   subject: ["CV"]
   description: "Excellent Narrative CV resources."
 
+knowledge_commons:
+  title: "Knowledge Commons"
+  url: "https://hcommons.org"
+  subject: ["CV"]
+  description: "Open Access platform for networking and sharing research outputs in any digital format."
+
 leeds:
   title: "University of Leeds"
   url: "https://sway.cloud.microsoft/leRUQ6hLgatSupGY"

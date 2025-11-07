@@ -219,14 +219,13 @@ details[open] .toggle-icon {
   font-weight: normal;
 }
 
-/* Add spacing between collapsible OCAR breakdowns */
-details {
+/* Only style OCAR breakdowns, not all details elements */
+details.ocar-breakdown {
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
 }
 
-/* Optional: style the summary (clickable part) */
-details summary {
+details.ocar-breakdown summary {
   cursor: pointer;
   padding: 0.5rem;
   background-color: #f8f9fa;
@@ -234,11 +233,10 @@ details summary {
   margin-bottom: 0.5rem;
 }
 
-details summary:hover {
+details.ocar-breakdown summary:hover {
   background-color: #e9ecef;
 }
 
-/* Optional: add padding to the content when expanded */
-details[open] {
+details.ocar-breakdown[open] {
   padding-bottom: 0.5rem;
 }
