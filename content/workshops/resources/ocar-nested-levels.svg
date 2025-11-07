@@ -1,0 +1,42 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Define styles -->
+  <defs>
+    <style>
+      .box { fill: none; stroke-width: 2; }
+      .cv-box { stroke: #2c5282; fill: #ebf4ff; }
+      .module-box { stroke: #2f855a; fill: #f0fff4; }
+      .example-box { stroke: #c05621; fill: #fffaf0; }
+      .label { font-family: Arial, sans-serif; font-weight: bold; }
+      .title { font-size: 18px; fill: #1a202c; }
+      .ocar-label { font-size: 14px; fill: #4a5568; }
+      .level-label { font-size: 16px; }
+    </style>
+  </defs>
+  
+  <!-- Title -->
+  <text x="400" y="30" class="label title" text-anchor="middle">OCAR Structure: Three Nested Levels</text>
+  
+  <!-- CV Level (Outermost box) -->
+  <rect x="50" y="60" width="700" height="500" class="box cv-box" rx="5"/>
+  <text x="70" y="90" class="label level-label" fill="#2c5282">CV Level: Personal Statement</text>
+  <text x="70" y="115" class="ocar-label">Opening: Career-long commitment to inclusive practice</text>
+  <text x="70" y="135" class="ocar-label">Challenge: How to make theatre genuinely accessible?</text>
+  <text x="70" y="155" class="ocar-label">Action: Developed methods, partnerships, advocacy (across all 4 modules)</text>
+  <text x="70" y="175" class="ocar-label">Resolution: Positioned to lead inclusive, impactful projects</text>
+  
+  <!-- Module Level (Middle box) -->
+  <rect x="100" y="200" width="600" height="300" class="box module-box" rx="5"/>
+  <text x="120" y="230" class="label level-label" fill="#2f855a">Module Level: e.g., Module 1 - Generation of new ideas</text>
+  <text x="120" y="255" class="ocar-label">Opening: Technical barriers prevent access to advanced methods</text>
+  <text x="120" y="275" class="ocar-label">Challenge: How to democratise access to tools and methods?</text>
+  <text x="120" y="295" class="ocar-label">Action: Created tools, training, infrastructure (3 examples)</text>
+  <text x="120" y="315" class="ocar-label">Resolution: Enabled hundreds to adopt previously inaccessible methods</text>
+  
+  <!-- Example Level (Innermost box) -->
+  <rect x="150" y="340" width="500" height="140" class="box example-box" rx="5"/>
+  <text x="170" y="370" class="label level-label" fill="#c05621">Individual Example: Visual devising framework</text>
+  <text x="170" y="395" class="ocar-label">Opening: Deaf participants find traditional workshops inaccessible</text>
+  <text x="170" y="415" class="ocar-label">Challenge: Centre visual/embodied communication, not BSL as add-on</text>
+  <text x="170" y="435" class="ocar-label">Action: Co-developed framework with Deaf theatre company</text>
+  <text x="170" y="455" class="ocar-label">Resolution: Adopted by 2 orgs; "transformed" practitioners' thinking</text>
+</svg>

@@ -218,3 +218,27 @@ details[open] .toggle-icon {
   font-size: 0.85em;
   font-weight: normal;
 }
+
+/* Add spacing between collapsible OCAR breakdowns */
+details {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+/* Optional: style the summary (clickable part) */
+details summary {
+  cursor: pointer;
+  padding: 0.5rem;
+  background-color: #f8f9fa;
+  border-radius: 4px;
+  margin-bottom: 0.5rem;
+}
+
+details summary:hover {
+  background-color: #e9ecef;
+}
+
+/* Optional: add padding to the content when expanded */
+details[open] {
+  padding-bottom: 0.5rem;
+}

@@ -2,17 +2,16 @@
 date: "2025-11-06T17:00:40Z"
 draft: true
 title: "Funding Call"
-tags: ["PhD", "academic"]
-categories: ["PhD Progress", "Resources"]
-description: ""
-keywords: ["keyword 1", "keyword 2", "keyword 3"]
+# tags: ["PhD", "academic"]
+# categories: ["PhD Progress", "Resources"]
 ShowBreadCrumbs: true
 hideMeta: true
 build:
   list: false
+showToc: true
 ---
 
-This is a fictitious funding call for the Writing a Narrative CV workshop.
+>This is a fictitious funding call for the [Writing a Narrative CV](../writing-a-narrative-cv/) workshop. Use the guidelines below to draft your own narrative CV. What examples could you include in each module that reflect the priorities of this funding body? Remember: you can include non-academic examples, e.g. voluntary work.
 
 ## The Community Knowledge Exchange Fund
 
@@ -22,7 +21,7 @@ This is a fictitious funding call for the Writing a Narrative CV workshop.
 
 **Duration:** 12-24 months
 
-**Eligibility:** Researchers at any career stage working in arts, humanities, or creative practice-based fields at UK institutions
+**Eligibility:** Researchers at any career stage working in arts, humanities, or creative practice-based fields at UK institutions.
 
 ### Purpose
 
