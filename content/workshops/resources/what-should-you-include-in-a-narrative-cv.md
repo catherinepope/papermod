@@ -2,8 +2,8 @@
 date: "2025-10-31T11:01:29Z"
 draft: false
 title: "What Should You Include in a Narrative CV?"
-tags: ["PhD", "Academic", "Careers", "Narrative CVs"]
-categories: ["PhD Progress", "Resources"]
+# tags: ["PhD", "Academic", "Careers", "Narrative CVs"]
+# categories: ["PhD Progress", "Resources"]
 description: "Discover what to include in your narrative CV across four key modules. Practical guidance for UK researchers on showcasing impact beyond publications."
 keywords: ["narrative CV modules", "research impact", "narrative CV examples", "R4RI modules", "academic CV writing", "research outputs", "public engagement", "development of others", "UK research funding", "Zenodo"]
 ShowBreadCrumbs: true
@@ -17,7 +17,7 @@ In this post, we'll consider the audience for your story and also what you might
 
 ## Thinking about your audience
 
-With storytelling, you should think about your audience. In this case, it's the members of the funding panel. What do they want to know about **you** when they're reading your application? Well, they're almost certainly looking for:
+With storytelling, you start by thinking about your audience. In this case, it's the members of the funding panel. What do they want to know about **you** when they're reading your application? Well, they're almost certainly looking for:
 
 - **Relevant experience.** Do you have the skills to carry out the research? Enthusiasm isn't enough.
 - **Track record of successfully delivering projects.** Skills aren't enough, either. Funders want to know you can *finish* this research.
@@ -35,7 +35,7 @@ Specific funders will also have other priorities, such as:
 
 These priorities might be explicit on their website, or implicit through the types of project they typically fund.
 
-Above all, funders want **relevance**. Increasingly, academic research needs to have an impact beyond universities. How is your research going to change people's lives?
+Ultimately, funders want **relevance**. Increasingly, academic research needs to have an impact beyond universities. How is your research going to change people's lives? This doesn't mean developing a vaccine, it could just involve making small improvements to a local community.
 
 Reviewers are also given **specific** criteria. These are usually available on the funder's website.
 
@@ -120,7 +120,7 @@ It's a good idea to organise these examples and artefacts on a platform like [Ze
 
 While your institution may have its own repository (and you might be required to use it), having everything in one platform that you control is particularly valuable if you move between institutions.
 
-You could also capture your broader experience on LinkedIn, where you'll also reach a broader audience. Funders might look at your LinkedIn profile to get a sense of your career and connections. There's no need to interact, if that feels uncomfortable or inauthentic, but a basic LinkedIn presence is rapidly becoming essential for academics.
+You could also capture your broader experience on LinkedIn, where you'll also reach a more diverse audience. Funders might look at your LinkedIn profile to get a sense of your career and connections. There's no need to interact, if that feels uncomfortable or inauthentic, but a basic LinkedIn presence is rapidly becoming essential for academics.
 
 Audit your existing experience, then make sure you're capturing current and future activities in a way that'll help you assemble your narrative CV. 
 
@@ -128,8 +128,8 @@ You'll need a different narrative for each project and funder, so it's important
 
 ## Next Steps
 
-Once you have your examples, you can start assembling them to build specific narratives. That's what you'll do [in the next post, where you'll also see some examples for each module](../how-to-write-a-narrative-cv/).
+Once you have your examples, you can start assembling them to build specific narratives. <!-- That's what you'll do [in the next post, where you'll also see some examples for each module](../how-to-write-a-narrative-cv/). -->
 
 In the meantime, unearth and record those previous achievements. You can start simple with a Word document or a spreadsheet. Spending just 30 minutes on each module would be a great start.
 
-🍪 And don't forget to give yourself a big pat on the back and a biscuit for everything you've achieved so far.
+🍪 And don't forget to reward yourself with a biscuit for everything you've achieved so far.

@@ -2,8 +2,8 @@
 date: "2025-10-31T15:26:01Z"
 draft: false
 title: "How to Write a Narrative CV"
-tags: ["PhD", "Academic", "Careers", "Narrative CVs"]
-categories: ["PhD Progress", "Resources"]
+# tags: ["PhD", "Academic", "Careers", "Narrative CVs"]
+# categories: ["PhD Progress", "Resources"]
 description: "Step-by-step guide to writing narrative CVs for UK research funding. Learn the OCAR structure with before/after examples across all four R4RI modules."
 keywords: ["narrative CV writing", "OCAR structure", "R4RI examples", "academic CV guide", "research funding applications", "narrative CV modules", "UK research grants", "UKRI applications", "CV writing guide", "narrative storytelling"]
 ShowBreadCrumbs: true
@@ -15,9 +15,11 @@ As discussed [in the previous post](../what-should-you-include-in-a-narrative-cv
 
 In this post, we'll explore a step-by-step method and some examples for the four modules.
 
-## Writing your narrative
+## The Method
 
-### Step 1: Choose your achievement
+For each module ...
+
+### Step 1: Choose an achievement
 
 - Pick something relevant to this specific application.
 - Make sure it demonstrates the right competencies for this module.
@@ -40,9 +42,11 @@ In this post, we'll explore a step-by-step method and some examples for the four
 - Remove any redundancy (e.g. use "regularly", rather than "on a regular basis").
 - Check word count against funder requirements.
 
+It's up to you how many examples you include in each module. The only rules are the word limit set by the funder. For example, if you have a limit of 500 words per module, you might decide to include one detailed contribution, or three shorter contributions, each comprising ~150 words.
+
 ## Narrative Examples
 
-Here are fictitious examples from the four modules. You'll see the bullet point summary from a traditional CV, followed by a narrative equivalent showing the OCAR structure.
+Here are fictitious examples for the four modules. You'll see the bullet point summary from a traditional CV, followed by a narrative equivalent showing the OCAR structure.
 
 ### Module 1: Generation & flow of new ideas
 
@@ -52,17 +56,17 @@ Here are fictitious examples from the four modules. You'll see the bullet point 
 
 #### Narrative CV
 
-"Health researchers had long struggled to establish clear connections between [B and C] and patient outcomes due to fragmented datasets and methodological limitations (Opening). This critical knowledge gap hindered both clinical decision-making and policy development in addressing these significant health determinants (Challenge). I addressed this challenge by completing a complex data integration using [method A] and coauthoring an innovative early analysis of the effects of \[B and C] on health outcomes \[DOI],introducing a novel approach to synthesizing previously disconnected evidence (Action).This foundational study (cited XXX times since X year) catalysed significant field advancement, serving as the cornerstone for a series of research community workshops organised by \[organisation D], ultimately securing a substantial \[funder] award of $amount for the \[E] consortium to extend this work and implement findings at scale(Resolution)."
+"Health researchers had long struggled to establish clear connections between [B and C] and patient outcomes due to fragmented datasets and methodological limitations **(Opening)**. This critical knowledge gap hindered both clinical decision-making and policy development in addressing these significant health determinants **(Challenge)**. I addressed this challenge by completing a complex data integration using [method A] and coauthoring an innovative early analysis of the effects of \[B and C] on health outcomes \[DOI],introducing a novel approach to synthesising previously disconnected evidence **(Action)**.This foundational study (cited XXX times since X year) catalysed significant field advancement, serving as the cornerstone for a series of research community workshops organised by \[organisation D], ultimately securing a substantial \[funder] award of £amount for the \[E] consortium to extend this work and implement findings at scale**(Resolution)**."
 
 ### Module 2: Development of others
 
 #### Traditional CV
 
-"Co-organized career development seminar series, 2023-2024"
+"Co-organised career development seminar series, 2023-2024"
 
 #### Narrative CV
 
-Early career researchers in our department faced significant uncertainty about career options  beyond academia (Opening). Recognising this knowledge gap could lead to talent loss and missed opportunities for cross-sector collaboration (Challenge), I took initiative as a member of the department of X early career researcher committee to co-organize a strategic career development seminar series, personally inviting diverse speakers from the pharmaceutical industry and university professional services to share authentic career pathway experiences (Action). This initiative successfully engaged ~30 ECRs per seminar, with feedback specifically noting the sessions were ‘informative and inspiring,’ thereby expanding professional networks and helping researchers envision concrete next steps in their career development (Resolution).
+Early career researchers in our department faced significant uncertainty about career options beyond academia **(Opening)**. Recognising this knowledge gap could lead to talent loss and missed opportunities for cross-sector collaboration **(Challenge)**, I took initiative as a member of the department of X early career researcher committee to co-organize a strategic career development seminar series, personally inviting diverse speakers from the pharmaceutical industry and university professional services to share authentic career pathway experiences **(Action)**. This initiative successfully engaged ~30 ECRs per seminar, with feedback specifically noting the sessions were ‘informative and inspiring,’ thereby expanding professional networks and helping researchers envision concrete next steps in their career development **(Resolution)**.
 
 ### Module 3: Wider research and innovation community
 
@@ -72,7 +76,7 @@ Early career researchers in our department faced significant uncertainty about c
 
 #### Narrative CV
 
-"Despite increasing awareness of diversity issues, our department lacked specific support for neurodiverse researchers and staff, creating barriers to full participation and potential contributions (Opening). The absence of tailored accommodations and understanding of neurodiversity needs was limiting talented individuals’ ability to thrive in our academic environment and contributing to feelings of exclusion (Challenge). As a committed member of the department X Equality, Diversity and Inclusivity committee, I proactively identified this gap and initiated and led a dedicated working group on neurodiversity, bringing together stakeholders from across the department to develop practical, actionable solutions (Action). This focused effort yielded tangible improvements to our departmental culture, including the creation of a comprehensive good practice guide for organising inclusive departmental events and the implementation of specialised training opportunities for HR staff, transforming how our department supports neurodiverse colleagues (Resolution)."
+"Despite increasing awareness of diversity issues, our department lacked specific support for neurodiverse researchers and staff, creating barriers to full participation and potential contributions **(Opening)**. The absence of tailored accommodations and understanding of neurodiversity needs was limiting talented individuals’ ability to thrive in our academic environment and contributing to feelings of exclusion **(Challenge)**. As a committed member of the department X Equality, Diversity and Inclusivity committee, I proactively identified this gap and initiated and led a dedicated working group on neurodiversity, bringing together stakeholders from across the department to develop practical, actionable solutions **(Action)**. This focused effort yielded tangible improvements to our departmental culture, including the creation of a comprehensive good practice guide for organising inclusive departmental events and the implementation of specialised training opportunities for HR staff, transforming how our department supports neurodiverse colleagues **(Resolution)**."
 
 ### Module 4: Broader society
 
@@ -82,7 +86,7 @@ Early career researchers in our department faced significant uncertainty about c
 
 #### Narrative CV
 
-"Patients suffering from \[condition C], which affects \[XX] individuals across the UK, had limited effective treatment options, often relying on suboptimal approaches (Opening). Standard treatments like \[C] frequently resulted in inadequate symptom management, reduced quality of life, and placed significant financial burden on both patients and healthcare systems (Challenge). My rigorous research into \[A] systematically investigated and documented the clinical effectiveness of the alternative approach \[B], providing critical scientific evidence through carefully designed studies that quantified both improved patient outcomes and economic advantages (Action). This evidence was formally appraised by the National Institute for Health and Care Excellence in \[date] and directly contributed to their authoritative recommendation that [B] represents a cost-saving option for treating patients who would otherwise be offered \[C], fundamentally changing treatment pathways and improving care for thousands of patients nationwide (Resolution)."
+"Patients suffering from \[condition C], which affects \[XX] individuals across the UK, had limited effective treatment options, often relying on suboptimal approaches **(Opening)**. Standard treatments like \[C] frequently resulted in inadequate symptom management, reduced quality of life, and placed significant financial burden on both patients and healthcare systems **(Challenge)**. My rigorous research into \[A] systematically investigated and documented the clinical effectiveness of the alternative approach \[B], providing critical scientific evidence through carefully designed studies that quantified both improved patient outcomes and economic advantages **(Action)**. This evidence was formally appraised by the National Institute for Health and Care Excellence in \[date] and directly contributed to their authoritative recommendation that \[B] represents a cost-saving option for treating patients who would otherwise be offered \[C], fundamentally changing treatment pathways and improving care for thousands of patients nationwide **(Resolution)**."
 
 ## Refining your narrative
 
@@ -100,7 +104,7 @@ Once you've identified your theme, you can refine your individual narratives to 
 
 This theme also helps you create the "Personal Statement" section of your narrative CV.
 
-This is an iterative process. You'll draft, identify themes, refine, and adjust as you see how your examples work together. In the Writing Your Narrative CV  workshop, we work through this refinement process in detail, helping you identify your strongest narratives and craft them into a cohesive application.
+This is an iterative process. You'll draft, identify themes, refine, and adjust as you see how your examples work together. In the **Writing Your Narrative CV** workshop, we work through this refinement process in detail, helping you identify your strongest narratives and craft them into a cohesive application.
 
 ## Conclusion
 
@@ -116,6 +120,6 @@ Remember:
 
 Your research deserves to be understood and funded. A well-crafted narrative CV helps you tell that story more effectively.
 
----
+<!--
 
-The narrative CV format is still relatively new, and many researchers find it challenging. If you'd like hands-on support with developing and refining your narratives, ask your institution to book [one of my narrative CV workshops](../../../workshops/writing-a-narrative-cv/) where we'll work through the process together and you'll receive feedback on your drafts. We also discuss how to contribute to team narrative CVs.
+The narrative CV format is still relatively new, and many researchers find it challenging. If you'd like hands-on support with developing and refining your narratives, ask your institution to book [one of my narrative CV workshops](../../../workshops/writing-a-narrative-cv/) where we'll work through the process together and you'll receive feedback on your drafts. We also discuss how to contribute to team narrative CVs. -->
