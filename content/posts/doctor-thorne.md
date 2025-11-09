@@ -6,6 +6,7 @@ tags: ["Victorian", "fiction", "Anthony Trollope"]
 categories: ["Books"]
 description: "A review of Anthony Trollope's 1858 novel 'Doctor Thorne,' the third Barsetshire Chronicle featuring illegitimate Mary Thorne's love for Frank Gresham and her secret inheritance. Discover Trollope's most successful novel with its sensation plot devised by his brother Tom."
 keywords: ["Anthony Trollope", "Doctor Thorne", "Barsetshire Chronicles", "Mary Thorne", "Frank Gresham", "illegitimate birth", "sensation novel", "inheritance plot", "class barriers"]
+aliases: ["/posts/dr-thorne/"] 
 ---
 
 {{< book-cover src="images/doctor-thorne.jpg" alt="Cover of Doctor Thorne by Anthony Trollope" >}}
