@@ -1,7 +1,7 @@
 ---
 date: "2025-11-06T17:00:40Z"
 draft: true
-title: "Funding Call"
+title: "Fictitious Funding Call for Narrative CV workshop"
 # tags: ["PhD", "academic"]
 # categories: ["PhD Progress", "Resources"]
 ShowBreadCrumbs: true
@@ -11,7 +11,9 @@ build:
 showToc: true
 ---
 
->This is a fictitious funding call for the [Writing a Narrative CV](../writing-a-narrative-cv/) workshop. Use the guidelines below to draft your own narrative CV. What examples could you include in each module that reflect the priorities of this funding body? Remember: you can include non-academic examples, e.g. voluntary work.
+>This is a **fictitious** funding call for the [Writing a Narrative CV](../writing-a-narrative-cv/) workshop. Use the guidelines below to draft your own narrative CV. What examples could you include in each module that reflect the priorities of this funding body? Remember: you can include non-academic examples, e.g. voluntary work.
+
+💡 For inspiration, [take a look at this sample CV](../narrative-cv-example-arts-humanities/).
 
 ## The Community Knowledge Exchange Fund
 
