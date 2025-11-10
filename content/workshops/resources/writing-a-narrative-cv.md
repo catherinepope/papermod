@@ -69,12 +69,8 @@ All the materials you need will appear here on 5th December 👀
 
 You'll get some further guidance and activities to complete at the end of the session, along with a copy of the slides.
 
-<!-- 
-
-- Strengthening your narrative CV
-- Narrative CV action plan
-
--->
+- Strengthening your Narrative CV
+- Narrative CV Action Plan
 
 ### Websites 🕸️
 

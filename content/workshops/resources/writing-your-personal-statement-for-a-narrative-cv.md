@@ -219,7 +219,7 @@ The Personal Statement should emerge naturally from your module-level narratives
 
 1. Complete the exercises to identify your research identity.
 2. Draft your full OCAR version (don't start with the short version!)
-3. Condense progressively, testing at each stage.
+3. Condense progressively, testing at each stage - for more guidance, take a look at this post on [strengthening the language in your narrative CV](../strengthening-your-narrative-cv-language/).
 4. Review the [annotated narrative CV example](../narrative-cv-example-arts-humanities/) to see a Personal Statement in context.
 5. Read [Using OCAR at Three Levels](../using-the-ocar-structure-for-narrative-cvs/) to understand how your Personal Statement connects to your full narrative
 

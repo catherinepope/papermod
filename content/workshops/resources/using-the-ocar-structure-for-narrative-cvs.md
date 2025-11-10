@@ -123,8 +123,8 @@ This back-and-forth between levels is what makes narrative CVs challenging — b
 
 ## Next Steps
 
-1. Review the annotated narrative CV examples to see nested OCAR in practice.
-2. Read [How to Write a Narrative CV](../how-to-write-a-narrative-cv/) for step-by-step guidance on drafting your narratives.
-3. Consult [Writing Your Personal Statement](../writing-your-personal-statement-for-a-narrative-cv/) for guidance on the CV-level OCAR.
+1. Review the [annotated narrative CV example](../narrative-cv-example-arts-humanities/) to see nested OCAR in practice.
+2. Consult [Writing Your Personal Statement](../writing-your-personal-statement-for-a-narrative-cv/) for guidance on the CV-level OCAR.
+3. Read [Strengthening Your Narrative CV Language](../strengthening-your-narrative-cv-language/) for step-by-step guidance on editing your narratives.
 
 The nested OCAR structure might feel complex at first, but it creates a powerful, coherent narrative that helps funders understand not just what you've done, but who you are as a researcher and why you're the right person for their funding.

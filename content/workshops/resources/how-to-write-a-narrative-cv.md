@@ -122,6 +122,8 @@ Remember:
 - Use that theme for your personal statement.
 - Refine ruthlessly to meet word limits and funder expectations.
 
+<!-- link to Strengthening Your Narrative CV Language -->
+
 Your research deserves to be understood and funded. A well-crafted narrative CV helps you tell that story more effectively.
 
 <!--
