@@ -15,7 +15,7 @@ build:
   list: false
 ---
 
-👋 Hello. I'm facilitating the **Writing a Narrative CV** workshop on 5th December (10am - 1pm). Here's everything you need to know.
+👋 Hello. I'm facilitating the **Writing a Narrative CV** workshop on 5th December (10am-1pm). Here's everything you need to know.
 
 ## Before the workshop ✅
 
@@ -28,9 +28,11 @@ It would also be helpful for you to read:
 
 - [Using the OCAR structure for academic writing](../using-the-ocar-structure-for-academic-writing/)
 
+You'll be using OCAR to build your narrative.
+
 ### What to expect 🧐
 
-In the workshop, I'll introduce a fictitious funding call. Then I'll guide you through the steps of writing a narrative CV that supports your proposed project. You'll work through practical exercises to draft sections of your own narrative CV.
+In the workshop, I'll introduce a fictitious funding call. Then I'll guide you through the steps of writing a narrative CV that supports your proposed project. Even if you're not apply for funding, this framework will help you describe your practice to academic audiences.
 
 By the end of the session, you'll have:
 
@@ -43,7 +45,7 @@ By the end of the session, you'll have:
 To participate fully in the activities, please bring:
 
 - **Your research history:** A copy of your traditional academic CV, publication list, and notes on activities not typically included (e.g., peer review, mentoring, committee work, public engagement).
-- **A project idea:** This can be vague! You just need a general sense of what kind of funding you might apply for. We're only covering the narrative CV, not the full proposal.
+- **A project idea:** This can be vague! You just need a general sense of what kind of project you might propose. We're only covering the narrative CV, not the full proposal.
 - **Writing tools:** A laptop/tablet with your preferred writing app and screen space to view workshop materials alongside your writing.
 
 ### Questions?
@@ -54,16 +56,13 @@ Otherwise, I'm looking forward to meeting you soon!
 
 ## During the workshop
 
-All the materials you need will appear here on 5th December 👀
-
-<!-- secret squirrel
+Links to all the materials you need will appear here on 5th December 👀
 
 - Funding call
-- How to Write a Narrative CV
-- More about OCAR.
 - Narrative CV outline
-
--->
+- Narrative CV example
+- Using the OCAR structure to create related narratives
+- Writing your Personal Statement
 
 ## After the workshop
 
@@ -71,6 +70,7 @@ You'll get some further guidance and activities to complete at the end of the se
 
 - Strengthening your Narrative CV
 - Narrative CV Action Plan
+- Team Narrative CV example
 
 ### Websites 🕸️
 
