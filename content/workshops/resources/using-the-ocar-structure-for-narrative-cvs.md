@@ -2,12 +2,13 @@
 date: "2025-11-07T09:55:25Z"
 draft: true
 title: "Using the OCAR Structure at Multiple Levels in Your Narrative CV"
-# tags: ["tag 1", "tag2", "tag3"]
-# categories: 
-# description: ""
-# keywords: ["keyword 1", "keyword 2", "keyword 3"]
-# ShowToc: true
-# OpenToc: true  
+tags: ["PhD", "Academic", "Careers"]
+categories: ["PhD Progress", "Resources"]
+description: "Learn how OCAR structure works at three nested levels in narrative CVs. Understand the fractal approach from individual examples to Personal Statement."
+keywords: ["OCAR narrative CV", "nested OCAR structure", "three level OCAR", "narrative CV structure", "fractal narrative CV", "OCAR framework", "building narrative CV", "R4RI structure", "narrative CV levels", "academic CV framework"]
+showToc: true
+# OpenToc: true
+hideMeta: true
 ---
 
 If you've read [How to Write a Narrative CV](../how-to-write-a-narrative-cv/), you've seen the step-by-step process for drafting individual examples using OCAR. In this post, we'll explore a more complex aspect: how OCAR works at **three nested levels** within your narrative CV, and how to avoid common pitfalls when using this structure.
@@ -24,9 +25,9 @@ As I mentioned in an earlier post, [the OCAR framework](../using-the-ocar-struct
 
 In your narrative CV, OCAR works at three distinct levels:
 
-1. Individual example level: The story of each specific contribution.
-2. Module level: The story that connects multiple examples within each of the four modules.
-3. CV level: The overarching story that spans all four modules (your Personal Statement)
+1. **Individual example level:** The story of each specific contribution.
+2. **Module level:** The story that connects multiple examples within each of the four modules.
+3. **CV level:** The overarching story that spans all four modules (your Personal Statement)
 
 That overarching story becomes your personal statement: the story of you as a researcher.
 
@@ -62,7 +63,7 @@ Your module-level OCAR shouldn't simply repeat what's in individual examples. In
 
 Your Personal Statement (2-3 sentences) is the most condensed OCAR, distilling your entire career narrative. It should emerge naturally from your module-level narratives, not the other way around.
 
-First draft the full OCAR version (3-4 paragraphs), then condense it ruthlessly to its essence. For more guidance on this process, see Writing Your Personal Statement.
+First draft the full OCAR version (3-4 paragraphs), then condense it ruthlessly to its essence. For more guidance on this process, see [Writing Your Personal Statement](../writing-your-personal-statement-for-a-narrative-cv/).
 
 ## Common Pitfalls with Narrative CVs
 
@@ -70,9 +71,9 @@ First draft the full OCAR version (3-4 paragraphs), then condense it ruthlessly 
 
 Each OCAR level should add different value:
 
-- **Individual:** Specific details of this contribution
-- **Module:** How examples connect thematically
-- **CV:** Your overarching research identity
+- **Individual:** Specific details of this contribution.
+- **Module:** How examples connect thematically.
+- **CV:** Your overarching researcher identity.
 
 Avoid simply restating the same achievement at three different lengths.
 
@@ -80,10 +81,10 @@ Avoid simply restating the same achievement at three different lengths.
 
 Within each OCAR narrative, aim for roughly:
 
-- Opening: 20%
-- Challenge: 15%
-- Action: 40%
-- Resolution: 25%
+- **Opening:** 20%
+- **Challenge:** 15%
+- **Action:** 40%
+- **Resolution:** 25%
 
 Many researchers spend too long on context (Opening) and downplay the impact (Resolution).
 
@@ -102,8 +103,8 @@ Your Resolution should circle back to the problem you identified in the Opening,
 
 The best way to understand how OCAR works at multiple levels is to see it in practice. I've created two fully annotated narrative CVs showing the OCAR structure at all three levels:
 
-- [Annotated Example 1: Applied Theatre Researcher](../narrative-cv-example-arts-humanities/) - Early-mid career, community engagement focus
-- [Annotated Example 2: Health/Methods Researcher](../narrative-cv-example-stem/) - Established career, methodological innovation focus
+- [Annotated Example 1: Applied Theatre Researcher](../narrative-cv-example-arts-humanities/) - Early-mid career, community engagement focus.
+- [Annotated Example 2: Health/Methods Researcher](../narrative-cv-example-stem/) - Established career, methodological innovation focus.
 
 Each example includes collapsible annotations showing exactly where each OCAR element appears at the Personal Statement, module, and individual example levels.
 
@@ -124,6 +125,6 @@ This back-and-forth between levels is what makes narrative CVs challenging — b
 
 1. Review the annotated narrative CV examples to see nested OCAR in practice.
 2. Read [How to Write a Narrative CV](../how-to-write-a-narrative-cv/) for step-by-step guidance on drafting your narratives.
-3. Consult Writing Your Personal Statement for guidance on the CV-level OCAR.
+3. Consult [Writing Your Personal Statement](../writing-your-personal-statement-for-a-narrative-cv/) for guidance on the CV-level OCAR.
 
 The nested OCAR structure might feel complex at first, but it creates a powerful, coherent narrative that helps funders understand not just what you've done, but who you are as a researcher and why you're the right person for their funding.

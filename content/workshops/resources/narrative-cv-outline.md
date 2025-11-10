@@ -14,6 +14,11 @@ This template shows the structure of a narrative CV with space for planning your
 
 ⚠️ Remember: these bullet points are for planning. Your final narrative CV should be written in full prose paragraphs, not bullet points!
 
+Use these fictitious examples for inspiration:
+
+- [Arts and Humanities](../narrative-cv-example-arts-humanities/)
+- [STEM](../narrative-cv-example-stem)
+
 ## Personal Statement
 
 [2-3 sentences - draft this last!]

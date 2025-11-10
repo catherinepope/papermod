@@ -45,7 +45,7 @@ The two-sentence Personal Statement distils this full OCAR into its essence:
 
 </details>
 
-Applied theatre practitioner-researcher committed to creating inclusive performance spaces where marginalised voices can be heard and valued. I develop participatory projects that centre community experiences, advocate for accessible theatre practices, and contribute to building a more equitable arts sector.
+Applied theatre practitioner-researcher committed to creating inclusive performance spaces where marginalised voices are heard and valued. I lead participatory projects that centre community experiences, advocate for accessible theatre practices, and contribute to building a more equitable arts sector.
 
 ## Module 1: Generation & flow of new ideas
 
