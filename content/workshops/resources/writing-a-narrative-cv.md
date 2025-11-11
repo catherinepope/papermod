@@ -61,7 +61,7 @@ Links to all the materials you need will appear here on 5th December 👀
 - Funding call
 - Narrative CV outline
 - Narrative CV example
-- Using the OCAR structure to create related narratives
+- Using the OCAR structure to create multi-level narratives
 - Writing your Personal Statement
 
 ## After the workshop
