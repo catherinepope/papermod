@@ -11,6 +11,7 @@ build:
   list: false
 ShowBreadCrumbs: true
 hideMeta: true
+aliases: ["/terms-and-conditions/"]
 ---
 
 ## Payment
