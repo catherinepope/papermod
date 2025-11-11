@@ -9,6 +9,7 @@ keywords: ["STEM narrative CV", "narrative CV example", "research accessibility"
 ShowToc: true
 # OpenToc: true
 hideMeta: true
+showBreadcrumbs: true
 ---
 
 This is a fictitious narrative CV created to demonstrate the OCAR structure in response to [an equally fictitious funding call](../funding-call-stem/). It's designed to help you understand how the framework works, not to provide a template to copy. Use this example for understanding the approach, then make it your own. Click the arrows for commentary on how the OCAR framework was applied in each section.

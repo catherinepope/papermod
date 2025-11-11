@@ -9,6 +9,7 @@ keywords: ["team narrative CV example", "collaborative CV example", "annotated t
 showToc: true
 # OpenToc: true
 hideMeta: true
+showBreadcrumbs: true
 ---
 
 # Team Narrative CV: Climate Stories Collective

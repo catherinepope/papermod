@@ -2,18 +2,21 @@
 date: "2025-11-07T17:35:47Z"
 draft: true
 title: "Fictitious Funding Call for Narrative CV workshop"
-# tags: ["tag 1", "tag2", "tag3"]
-# categories: 
-# description: ""
-# keywords: ["keyword 1", "keyword 2", "keyword 3"]
+tags: ["Academic", "Careers"]
+categories: ["Resources"]
+description: "Fictitious STEM funding call for research accessibility projects. Practice example for writing narrative CVs focused on democratizing access to research methods."
+keywords: ["STEM funding call example", "research accessibility funding", "narrative CV requirements", "R4RI STEM application", "science funding example", "accessibility funding call", "STEM narrative CV", "research methods funding", "open science funding", "funding call practice"]
 # ShowToc: true
 # OpenToc: true  
 hideMeta: true
+showBreadcrumbs: true
 ---
 
->This is a **fictitious** funding call for the [Writing a Narrative CV](../writing-a-narrative-cv/) workshop. Use the guidelines below to draft your own narrative CV. What examples could you include in each module that reflect the priorities of this funding body? Remember: you can include non-academic examples, e.g. voluntary work.
+This is a **fictitious** funding call for the [Writing a Narrative CV](../writing-a-narrative-cv/) workshop. Use the guidelines below to draft your own narrative CV. What examples could you include in each module that reflect the priorities of this funding body? Remember: you can include non-academic examples, e.g. voluntary work.
 
 💡 For inspiration, [take a look at this sample CV](../narrative-cv-example-stem/).
+
+---
 
 ## The Research Accessibility and Innovation Fund
 

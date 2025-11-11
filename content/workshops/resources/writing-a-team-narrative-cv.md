@@ -9,6 +9,7 @@ keywords: ["team narrative CV", "collaborative CV writing", "team funding applic
 showToc: true
 # OpenToc: true
 hideMeta: true
+showBreadcrumbs: true
 ---
 
 Team funding applications require a different approach to [narrative CVs](./an-introduction-to-narrative-cvs/). Rather than showcasing individual excellence, you need to demonstrate collective strength and complementary expertise. The main challenge is that you're doing this within the same word limits as an individual CV 😲

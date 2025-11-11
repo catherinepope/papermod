@@ -9,6 +9,7 @@ keywords: ["OCAR narrative CV", "nested OCAR structure", "three level OCAR", "na
 showToc: true
 # OpenToc: true
 hideMeta: true
+showBreadcrumbs: true
 ---
 
 If you've read [How to Write a Narrative CV](../how-to-write-a-narrative-cv/), you've seen the step-by-step process for drafting individual examples using OCAR. In this post, we'll explore a more complex aspect: how OCAR works at **three nested levels** within your narrative CV, and how to avoid common pitfalls when using this structure.
