@@ -7,7 +7,8 @@ categories: ["Technology"]
 description: "Complete backup strategy guide for Mac users and researchers. Learn Time Machine, ChronoSync, cloud storage, and the 3-2-1 rule to protect your data."
 keywords: ["backup strategy", "Mac backup", "Time Machine", "ChronoSync", "data backup", "academic backup", "researcher data protection", "cloud backup", "external drive backup", "3-2-1 backup rule", "backup for researchers", "Mac data recovery", "backup software comparison", "academic data management", "research data backup"]
 ShowToc: true
-tocOpen: true  
+#tocOpen: true
+aliases: ["/protecting-your-assets-by-backing-up/"]
 ---
 
 One of my most memorable moments in academia was when two PhD researchers lost all their work just before submission. In one case, it was a house fire; in the other, a laptop stolen with the backup drive attached. This was devastating. In both cases, they'd created backups. Unfortunately, though, those backups were in the same physical location as the original files.

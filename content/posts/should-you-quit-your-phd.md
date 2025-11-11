@@ -6,6 +6,7 @@ tags: ["PhD", "academic"]
 categories: ["PhD Progress"]
 description: "Guidance for PhD students considering quitting their doctorate. Learn decision-making frameworks, hear from someone who quit successfully, and discover strategies for continuing if you choose to persist."
 keywords: ["PhD quitting", "leaving PhD", "doctoral completion", "PhD mental health", "PhD decision making", "academic burnout", "PhD persistence", "doctoral attrition", "PhD motivation"]
+aliases: ["/should-you-quit-your-phd/"]
 ---
 
 At a recent business networking event, I met no fewer than three people who’d quit their PhD. Although they believed it was the right decision, they still felt a sense of failure or defeat. Estimates vary, but it’s likely that around 40% of PhD students leave. The figures are much higher for part-time students and stratospheric for those pursuing professional doctorates. Because universities are squeamish about sharing the true figures, people who struggle think they’re in a tiny minority. The reasons for quitting will come as no surprise: mental health problems, job insecurity, financial worries, and supervisory conflict are just a few. For valuable insights and discussion on these reasons, [hop over to The Thesis Whisperer](https://thesiswhisperer.com/tag/quitting/).
