@@ -8,6 +8,7 @@ description: "Resources for workshop on Planning the Final Year of Your PhD"
 # keywords: ["keyword 1", "keyword 2", "keyword 3"]
 ShowBreadCrumbs: true
 hideMeta: true
+aliases: ["/final-year/"]
 ---
 
 Here are the resources for [my workshop on Planning the Final Year of Your PhD](../../planning-the-final-year-of-your-phd/).
