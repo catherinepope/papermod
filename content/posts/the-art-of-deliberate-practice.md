@@ -6,6 +6,7 @@ categories: ["Books"]
 tags: ["learning"]
 description: "Explore Anders Ericsson's research on deliberate practice and why there are no shortcuts to mastery. Learn how to break out of the 'good enough' rut by challenging yourself systematically, whether in music, business, or creative pursuits."
 keywords: ["deliberate practice", "Anders Ericsson", "skill improvement", "mastery", "Peak book", "practice techniques", "learning skills", "professional development"]
+aliases: ["/posts/2020-07-06-art-deliberate-practice/"]
 ---
 
 One of my [favourite cartoons](https://www.savagechickens.com/2016/04/practice.html) shows a despondent chicken telling his violin teacher, “I don’t want to practice! I want to skip to the part where I’m awesome.” I feel like this every time I try to learn something new. Although I’m certainly not becoming more patient with age, I do now have a reasonably realistic idea of what it takes to actually get good at something. This is mainly due to the work of [Professor Anders Ericsson, who sadly died last week](https://www.nytimes.com/2020/07/01/science/anders-ericsson-dead.html).
