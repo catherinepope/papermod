@@ -37,13 +37,13 @@ Key features:
 
 <details class="ocar-breakdown">
 
-<summary>💡 How this Personal Statement emerges from OCAR</summary>
+<summary>💡 How this Team Statement emerges from OCAR</summary>
 
 **Extended OCAR version (what you might draft first):**
 
 **Opening:** Climate change disproportionately affects marginalised communities, yet these voices are often absent from climate discourse and decision-making. Traditional approaches to climate communication struggle to convey both the urgency and the human dimensions of environmental crisis in ways that foster meaningful action.
 
-**Challenge:** How can we center the experiences and knowledge of frontline communities in climate discourse while creating accessible, emotionally resonant narratives that combine scientific understanding with lived experience and inspire equitable climate action?
+**Challenge:** How can we centre the experiences and knowledge of frontline communities in climate discourse while creating accessible, emotionally resonant narratives that combine scientific understanding with lived experience and inspire equitable climate action?
 
 **Action:** Our team brings together complementary expertise: Dr. Martinez's creative practice in participatory theatre and community arts (Module 1, 4); Dr. Chen's environmental data visualisation and accessible science communication (Module 1, 4); Dr. Okafor's community-engaged research and equitable partnership methodologies (Module 2, 4); and Early Career Researcher Jamie Williams's experience in inclusive research practices and digital storytelling (Module 1, 2, 3). Together, we have developed arts-based methods for climate communication, built authentic community partnerships, supported diverse researchers, and contributed to more inclusive approaches within our respective fields.
 
@@ -54,12 +54,11 @@ Key features:
 The team statement distils our collective OCAR:
 
 - **Sentence 1** establishes our complementary expertise and shared commitment.
-- **Sentence 2** summarises our collective action across all modules.
-- **Sentence 3** shows our integrated approach and what makes this team unique.
+- **Sentence 2** summarises our collective action across all modules and shows the integrated approach that makes this team unique.
 
 </details>
 
-Interdisciplinary research team combining creative practice, environmental science, and community engagement expertise to address climate justice through collaborative storytelling. We develop participatory arts projects that center marginalised voices in climate discourse, create innovative methods for translating complex environmental data into accessible narratives, and build sustainable partnerships between researchers, artists, and frontline communities. Our collective approach combines academic rigour with creative practice and community knowledge to foster climate action grounded in equity and lived experience.
+Interdisciplinary research team combining creative practice, environmental science, and community engagement expertise to address climate justice through collaborative storytelling. We develop participatory arts projects that centre marginalised voices in climate discourse, create innovative methods for translating complex environmental data into accessible narratives, and build sustainable partnerships between researchers, artists, and frontline communities.
 
 ## Module 1: Generation & flow of new ideas
 
@@ -74,14 +73,14 @@ Interdisciplinary research team combining creative practice, environmental scien
 
 </details>
 
-Our team has collectively recognised that climate communication often fails to engage diverse audiences because it relies heavily on abstract data and technical language that alienates rather than connects. We wanted to develop innovative methods that translate complex environmental information into emotionally resonant narratives while honouring the knowledge and experiences of communities most affected by climate change. We have pursued this through three complementary approaches: creating participatory performance methodologies, developing accessible data visualisation tools, and establishing frameworks for integrating community knowledge with scientific evidence.
+Our team has collectively recognised that climate communication often fails to engage diverse audiences because it relies heavily on abstract data and technical language that alienates rather than connects. We have developed innovative methods that translate complex environmental information into emotionally resonant narratives while honouring the knowledge and experiences of communities most affected by climate change through three complementary approaches: creating participatory performance methodologies, developing accessible data visualisation tools, and establishing frameworks for integrating community knowledge with scientific evidence.
 
 <details class="ocar-breakdown">
 
 <summary>💡 Individual example OCAR breakdown</summary>
 
 - **Opening:** Communities lack creative platforms to share climate impact experiences; researchers struggle to communicate human dimensions.
-- **Challenge:** Develop performance methodology capturing emotional weight and community resilience
+- **Challenge:** Develop performance methodology capturing emotional weight and community resilience.
 - **Action:** Martinez developed "Climate Witness Theatre" with coastal community; facilitated 18-month project with 25 residents; created 3 performances for 200+ including policymakers; published open-access toolkit.
 - **Resolution:** Methodology adapted by 4 organisations; feedback noted it "gave voice to experiences policymakers needed to hear".
 
@@ -89,7 +88,7 @@ Our team has collectively recognised that climate communication often fails to e
 
 </details>
 
-Communities facing environmental injustice often lack creative platforms to share their experiences of climate impacts, while climate researchers struggle to communicate the human dimensions of environmental data. Dr. Martinez wanted to develop a performance methodology that could capture both the emotional weight of climate impacts and the resilience of affected communities. Working with a coastal community experiencing flooding and displacement, she developed "Climate Witness Theatre," a participatory devising approach that transforms residents' testimonies into powerful performance pieces. Over 18 months, she facilitated workshops with 25 community members (aged 16-78), creating three performances attended by 200+ audience members including local council members and regional policymakers. The methodology was documented and published as an open-access toolkit \[DOI], and has since been adapted by four other community organisations working on environmental justice. Feedback highlighted how the approach "gave voice to experiences policymakers needed to hear."
+Communities facing environmental injustice often lack creative platforms to share their experiences of climate impacts, while climate researchers struggle to communicate the human dimensions of environmental data. Working with a coastal community experiencing flooding and displacement, Dr. Martinez developed "Climate Witness Theatre," a performance methodology that captures both the emotional weight of climate impacts and the resilience of affected communities. This participatory devising approach transforms residents' testimonies into powerful performance pieces. Over 18 months, she facilitated workshops with 25 community members (aged 16-78), creating three performances attended by 200+ audience members including local council members and regional policymakers. The methodology was documented and published as an open-access toolkit \[DOI], and has since been adapted by four other community organisations working on environmental justice. Feedback highlighted how the approach "gave voice to experiences policymakers needed to hear.
 
 <details class="ocar-breakdown">
 
@@ -104,7 +103,8 @@ Communities facing environmental injustice often lack creative platforms to shar
 
 </details>
 
-Environmental datasets on air quality, temperature changes, and pollution levels are typically presented in formats inaccessible to non-specialists, limiting community understanding and engagement with local environmental issues. Dr. Chen wanted to create visualisation tools that make complex environmental data immediately comprehensible while maintaining scientific accuracy. She developed an open-source data visualisation platform specifically designed for community use, allowing residents to explore hyperlocal environmental data through interactive maps and timelines. The platform was piloted with three environmental justice organizations representing 5,000+ community members. Dr. Chen provided training to 15 community organisers on using the tools for advocacy. The platform has been accessed 12,000+ times and was cited in two community-led planning consultations, with organisers reporting thath it "transformed how we could advocate with evidence."
+Strengthened paragraph:
+"Environmental datasets on air quality, temperature changes, and pollution levels are typically presented in formats inaccessible to non-specialists, limiting community understanding and engagement with local environmental issues. Dr. Chen developed an open-source data visualisation platform that makes complex environmental data immediately comprehensible while maintaining scientific accuracy, specifically designed for community use. The platform allows residents to explore hyperlocal environmental data through interactive maps and timelines. She piloted it with three environmental justice organisations representing 5,000+ community members and provided training to 15 community organisers on using the tools for advocacy. The platform has been accessed 12,000+ times and was cited in two community-led planning consultations, with organisers reporting that it "transformed how we could advocate with evidence".
 
 <details class="ocar-breakdown">
 
@@ -119,7 +119,7 @@ Environmental datasets on air quality, temperature changes, and pollution levels
 
 </details>
 
-Academic research often treats community knowledge as supplementary to scientific evidence, creating hierarchies that undervalue lived experience. Dr. Okafor and Jamie Williams wanted to establish a methodological framework that genuinely integrates community observations with scientific monitoring as equal forms of evidence. Together, they developed and tested a "Parallel Evidence Framework" through a 12-month project with an urban community concerned about industrial pollution. The framework structured community environmental observations alongside scientific air quality monitoring, creating datasets that honoured both knowledge systems. They published the methodology in Environmental Justice Research \[DOI] and presented findings at the Community-Based Participatory Research conference. Three research teams have subsequently adopted the framework, and one community group used it to successfully petition for additional environmental monitoring in their area.
+Academic research often treats community knowledge as supplementary to scientific evidence, creating hierarchies that undervalue lived experience. Dr. Okafor and Jamie Williams developed and tested a "Parallel Evidence Framework" that genuinely integrates community observations with scientific monitoring as equal forms of evidence. Through a 12-month project with an urban community concerned about industrial pollution, the framework structured community environmental observations alongside scientific air quality monitoring, creating datasets that honoured both knowledge systems. They published the methodology in Environmental Justice Research \[DOI] and presented findings at the Community-Based Participatory Research conference. Three research teams have subsequently adopted the framework, and one community group used it to successfully petition for additional environmental monitoring in their area.
 
 <details class="ocar-breakdown">
 
@@ -144,7 +144,7 @@ These three complementary approaches—participatory performance, accessible vis
 
 </details>
 
-Our team has observed how early career researchers working at the intersection of arts, science, and community engagement often struggle to find mentorship that understands the unique challenges of transdisciplinary, community-based work. Traditional academic structures privilege single-discipline expertise and individual achievement, leaving researchers who work collaboratively or across boundaries feeling isolated. We wanted to create supportive structures and opportunities that would help early career researchers develop confidence in transdisciplinary practice while building inclusive research communities. We have established peer networks, provided targeted mentorship, and created professional development opportunities that honour diverse research pathways.
+Our team has observed how early career researchers working at the intersection of arts, science, and community engagement often struggle to find mentorship that understands the unique challenges of transdisciplinary, community-based work. Traditional academic structures privilege single-discipline expertise and individual achievement, leaving researchers who work collaboratively or across boundaries feeling isolated. We have established peer networks, provided targeted mentorship, and created professional development opportunities that help early career researchers develop confidence in transdisciplinary practice while building inclusive research communities that honour diverse research pathways.
 
 <details class="ocar-breakdown">
 
@@ -159,7 +159,7 @@ Our team has observed how early career researchers working at the intersection o
 
 </details>
 
-Postgraduate students pursuing practice-based environmental research felt uncertain about how to balance artistic practice with scientific rigour, and how to articulate the value of creative methods to sceptical academic audiences. Dr. Martinez initiated a quarterly "Art-Science Methods" seminar series, inviting established researchers working at disciplinary intersections to share their experiences and strategies. She organised eight seminars over two years, engaging 40+ students across five institutions. Students could attend virtually, making it accessible to those at institutions without strong art-science programs. Jamie Williams co-facilitated discussion sessions, bringing a near-peer perspective that helped students see viable career pathways. Post-seminar surveys showed 90% of participants felt "more confident articulating the value of creative research methods," and four students reported the series directly influenced their thesis methodologies.
+Postgraduate students pursuing practice-based environmental research felt uncertain about how to balance artistic practice with scientific rigour, and how to articulate the value of creative methods to sceptical academic audiences. Dr. Martinez initiated a quarterly "Art-Science Methods" seminar series, inviting established researchers working at disciplinary intersections to share their experiences and strategies. She organised eight seminars over two years, engaging 40+ students across five institutions. Students could attend virtually, making it accessible to those at institutions without strong art-science programs. Jamie Williams co-facilitated discussion sessions, bringing a near-peer perspective that helped students identify viable career pathways. Post-seminar surveys showed 90% of participants felt "more confident articulating the value of creative research methods," and four students reported the series directly influenced their thesis methodologies.
 
 <details class="ocar-breakdown">
 
@@ -167,14 +167,14 @@ Postgraduate students pursuing practice-based environmental research felt uncert
 
 - **Opening:** Community partners interested in developing research skills but lacked access to traditional training.
 - **Challenge:** Create accessible research training for community members wanting to conduct environmental justice research.
-- **Action:** Okafor developed 6-week course at community center for 12 residents (ages 22-67); Chen contributed data sessions.
+- **Action:** Okafor developed 6-week course at community centre for 12 residents (ages 22-67); Chen contributed data sessions.
 - **Resolution:** 10 completed; 3 led own projects; 1 enrolled in master's program; course described as "opening doors I didn't know existed".
 
 **Team contribution:** Dr. Okafor (lead), Dr. Chen (guest sessions) - collaborative training delivery.
 
 </details>
 
-Community partners who participated in research projects often expressed interest in developing their own research skills but lacked access to traditional academic training pathways. Dr. Okafor wanted to create accessible research training specifically designed for community members wanting to conduct their own environmental justice research. She developed and delivered a six-week "Community Research Methods" course through a local community center, attended by 12 residents ranging in age from 22 to 67. The course covered research design, ethical considerations, data collection, and advocacy strategies, using environmental justice examples throughout. Dr. Chen contributed two sessions on data analysis and visualisation. Ten participants completed the course, with three going on to lead their own community research projects and one enrolling in a part-time master's program, citing the course as "opening doors I didn't know existed."
+Community partners who participated in research projects often expressed interest in developing their own research skills but lacked access to traditional academic training pathways. Dr. Okafor developed and delivered a six-week "Community Research Methods" course specifically designed for community members wanting to conduct their own environmental justice research, delivered through a local community centre and attended by 12 residents ranging in age from 22 to 67. The course covered research design, ethical considerations, data collection, and advocacy strategies, using environmental justice examples throughout. Dr. Chen contributed two sessions on data analysis and visualisation. Ten participants completed the course, with three going on to lead their own community research projects and one enrolling in a part-time master's program, citing the course as "opening doors I didn't know existed".
 
 <details class="ocar-breakdown">
 
@@ -214,7 +214,8 @@ Collectively, our team has supported over 60 researchers and community members i
 
 </details>
 
-Our team has recognised that arts-based environmental research remains marginalised in both traditional science spaces and in arts/humanities communities, creating challenges for researchers working at these intersections. Academic structures, funding mechanisms, and publication venues often struggle to accommodate transdisciplinary work that doesn't fit conventional categories. We wanted to contribute to building more inclusive infrastructure that recognises and supports arts-science environmental research as a legitimate and valuable approach. We have taken on leadership roles in professional organisations, advocated for inclusive practices, and helped establish standards and spaces for transdisciplinary environmental research.
+Transdisciplinary environmental research faces structural barriers: funders categorise work as either "science" or "arts," journals reject submissions that don't fit disciplinary norms, and early-career researchers lack cross-domain mentorship. To address this, Dr. Chen served as founding chair of the Arts-Science Environmental Research Network, establishing evaluation criteria now used by 12 UK funders. Dr. Martinez convened quarterly cross-sector roundtables (2020-2024), bringing together 45 researchers, 8 funding bodies, and 15 arts organisations to develop shared standards. These efforts produced tangible infrastructure: two transdisciplinary journal sections, a mentorship programme connecting 60 early-career researchers with supervisors, and a funding stream supporting 23 collaborations totalling £4.2M.
+
 
 <details class="ocar-breakdown">
 
@@ -229,7 +230,7 @@ Our team has recognised that arts-based environmental research remains marginali
 
 </details>
 
-The Environmental Research Network, a key professional organisation in our field, held conferences primarily featuring traditional scientific presentations, with creative or participatory methods relegated to poster sessions or fringe events. Dr. Martinez and Dr. Chen jointly proposed and organised a new conference strand called "Creative Climate Communication" as members of the conference planning committee. They curated three sessions featuring performances, interactive installations, and data visualisations alongside traditional presentations. The strand attracted 100+ attendees — the highest attendance of any parallel session — and received enthusiastic feedback with 85% of evaluations noting it "expanded my understanding of what environmental research can be." The strand is now a permanent conference feature, and two other environmental research organisations have contacted them about establishing similar programming.
+The Environmental Research Network, a key professional organisation in our field, held conferences primarily featuring traditional scientific presentations, with creative or participatory methods relegated to poster sessions or fringe events. Dr. Martinez and Dr. Chen jointly proposed and organised a new conference strand called "Creative Climate Communication" as members of the conference planning committee. They curated three sessions featuring performances, interactive installations, and data visualisations alongside traditional presentations. The strand attracted 100+ attendees — the highest attendance of any parallel session — and received enthusiastic feedback with 85% of evaluations noting it "expanded my understanding of what environmental research can be". The strand is now a permanent conference feature, and two other environmental research organisations have contacted them about establishing similar programming.
 
 <details class="ocar-breakdown">
 
@@ -244,7 +245,7 @@ The Environmental Research Network, a key professional organisation in our field
 
 </details>
 
-Peer reviewers for environmental justice journals often lacked frameworks for assessing community-engaged and arts-based research, sometimes applying inappropriate criteria that privileged traditional scientific methods. Dr. Okafor wanted to develop clearer guidance for evaluating participatory and creative environmental research. When invited to join the editorial board of Community Environmental Research, she proposed and led the development of supplementary review guidelines specifically for community-engaged and creative methodologies. She convened a working group of six researchers (including Dr. Martinez) to draft the guidelines, incorporating feedback from community research partners. The guidelines were adopted by the journal and published as an open-access resource \[DOI], subsequently being adapted by two other journals. Reviewers reported the guidelines "clarified how to assess rigour in participatory work" and increased confidence in reviewing non-traditional submissions.
+Peer reviewers for environmental justice journals lacked frameworks for assessing community-engaged and arts-based research, often applying inappropriate criteria that privileged traditional scientific methods. When invited to join the editorial board of Community Environmental Research, Dr. Okafor proposed and led the development of supplementary review guidelines specifically for community-engaged and creative methodologies. She convened a working group of six researchers (including Dr. Martinez) to draft the guidelines, incorporating feedback from community research partners. The journal adopted the guidelines and published them as an open-access resource \[DOI]; two other journals subsequently adapted them. Reviewers reported the guidelines "clarified how to assess rigour in participatory work" and increased confidence in reviewing non-traditional submissions.
 
 <details class="ocar-breakdown">
 
@@ -284,7 +285,7 @@ Through these three initiatives—creating conference space, establishing review
 
 </details>
 
-Our team shares a commitment to ensuring that environmental research and creative practice directly benefit communities experiencing climate injustice. However, academic outputs often remain inaccessible to the communities most affected by environmental issues, and climate policy discussions frequently exclude voices of frontline communities. We wanted to ensure our work translated into tangible benefits for communities facing environmental challenges while amplifying marginalised voices in climate discourse. We have developed community partnerships, influenced local environmental policy, and created accessible public resources that center justice and equity.
+Academic outputs often remain inaccessible to communities most affected by environmental issues, and climate policy discussions frequently exclude voices of frontline communities. Our team ensures environmental research and creative practice directly benefit communities experiencing climate injustice. We developed community partnerships, influenced local environmental policy, and created accessible public resources that centre justice and equity.
 
 <details class="ocar-breakdown">
 
@@ -314,7 +315,7 @@ A low-income neighbourhood adjacent to an industrial estate experienced concerni
 
 </details>
 
-Public discourse about climate change often focuses on polar bears and distant glaciers, failing to connect with urban audiences or convey how climate impacts affect daily life in UK cities. Dr. Martinez wanted to create accessible public performances that made climate change feel immediate and locally relevant. She developed "Climate in Our Streets," a series of short site-specific performances presented in public spaces across three cities, each addressing local climate impacts (flooding, heat vulnerability, air quality). The performances, created with local residents and presented free of charge, were attended by 500+ people who wouldn't typically engage with climate information. Dr. Chen designed accompanying info graphics displayed at performance sites, translating local climate data into accessible formats. Post-performance surveys showed 78% of audiences reported "better understanding how climate change affects my community" and 65% took at least one action afterward (from signing petitions to attending council meetings). The project received coverage in three regional newspapers, extending reach to an estimated 50,000 additional residents.
+Public discourse about climate change focuses on polar bears and distant glaciers, failing to connect with urban audiences or convey how climate impacts shape daily life in UK cities. Dr. Martinez created "Climate in Our Streets," a series of short site-specific performances in public spaces across three cities, each addressing local climate impacts: flooding, heat vulnerability, and air quality. Working with local residents, she presented free performances that reached 500+ people who wouldn't typically engage with climate information. Dr. Chen designed accompanying infographics displayed at performance sites, translating local climate data into accessible formats. Post-performance surveys showed 78% of audiences reported "better understanding how climate change affects my community" and 65% took at least one action afterward, from signing petitions to attending council meetings. Three regional newspapers covered the project, extending reach to an estimated 50,000 additional residents.
 
 <details class="ocar-breakdown">
 
