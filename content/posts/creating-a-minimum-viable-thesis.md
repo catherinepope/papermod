@@ -6,6 +6,7 @@ tags: ["PhD", "Academic", "PhD Final Year"]
 categories: ["PhD Progress"]
 description: "Apply agile methodology to PhD completion with the Minimum Viable Thesis approach. Learn why aiming for 'good enough' rather than perfection can speed up submission and let examiners guide final improvements."
 keywords: ["Minimum Viable Thesis", "PhD completion", "thesis submission", "perfectionism", "PhD strategy", "thesis corrections", "doctoral examination", "PhD productivity", "academic perfectionism", "thesis planning"]
+aliases: ["/creating-a-minimum-viable-thesis/"]
 
 ---
 
