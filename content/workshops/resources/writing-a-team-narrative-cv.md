@@ -44,6 +44,9 @@ This individual preparation makes collaborative writing much easier. When you me
 
 ## Discussing as a Team
 
+SIGNPOST DELPHI METHOD
+
+
 ### Step 1: Share and discuss
 
 Meet and review everyone's example libraries. Ideally, share those libraries in advance (for example, as a shared Google Doc). Make sure all information is in a format that everyone can access.
