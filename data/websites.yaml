@@ -94,4 +94,8 @@ ukri:
   subject: ["CV"]
   description: "Guidance on using the Résumé for Research and Innovation (R4RI) narrative CV template."
 
-
+zenodo:
+  title: "Zenodo"
+  url: "https://zenodo.org"
+  subject: ["CV"]
+  description: "Open repository that allows researchers to deposit papers, data sets, research software, reports, and any other related digital artefacts."
