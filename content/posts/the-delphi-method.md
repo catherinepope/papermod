@@ -54,6 +54,8 @@ Five mid-career researchers from different institutions are applying for funding
 
 **Outcome:** Within two weeks, they've reached consensus on their collective strengths, identified clear complementary expertise, and made a strategic decision about team composition. Most importantly, everyone has been given the time and space to contribute ideas. The final CV tells a coherent story about an interdisciplinary team uniquely positioned to address climate justice through collaborative practice.
 
+👉 For more details on how this would work in practice, see [Using the Delphi Method in Research Teams](../../workshops/resources/the-delphi-method-for-research-teams/).
+
 ### Conclusion
 
 Before you try this yourself, it's worth considering whether it's right for your situation.
