@@ -52,3 +52,7 @@ yarn.lock
 
 # Local Netlify folder
 .netlify/
+
+
+# Dashboard
+dashboard.html

@@ -1,0 +1,26 @@
+{
+  "name": "papermod",
+  "version": "1.0.0",
+  "description": "Hugo site with Papermod theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dashboard": "node generate-dashboard.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catherinepope/papermod.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/catherinepope/papermod/issues"
+  },
+  "homepage": "https://github.com/catherinepope/papermod#readme",
+  "dependencies": {
+    "glob": "^11.0.3",
+    "gray-matter": "^4.0.3"
+  }
+}

@@ -1,5 +1,5 @@
 ---
-date: "2025-11-07T16:17:17Z"
+date: "2025-11-17T16:17:17Z"
 draft: true
 title: "Writing Your Personal Statement for a Narrative CV"
 tags: ["PhD", "Academic", "Careers"]
