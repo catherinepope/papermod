@@ -28,6 +28,7 @@
 /posts/2022-10-26-getting-started-helm/ /posts/getting-started-helm/ 301
 /posts/2022-10-18-kubernetes-service-manifest/ /posts/kubernetes-service-manifest/ 301
 /posts/2022-10-18-kubernetes-manifest/ /posts/kubernetes-manifest/ 301
+/how-tomatoes-can-help-you-finish-your-phd/ /posts/pomodoro-technique/ 301
 
 # Resources redirects - moving to workshops directory
 
@@ -36,3 +37,7 @@
 /resources/the-drama-triangle/ /workshops/resources/the-drama-triangle/ 301
 /resources/saying-no/ /workshops/resources/saying-no/ 301
 /resources/achieving-a-win-win/ /workshops/resources/achieving-a-win-win/ 301
+
+# PDF redirects
+
+/wp-content/uploads/2021/09/SWOT-Analysis.pdf /pdfs/SWOT-Analysis.pdf 301
