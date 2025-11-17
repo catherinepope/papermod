@@ -71,6 +71,4 @@ You'll get some further guidance and activities to complete at the end of the se
 - Narrative CV Action Plan
 - Team Narrative CV example
 
-### Websites 🕸️
-
-{{< website-subject "CV" >}}
+<!-- ### Websites 🕸️ -->
