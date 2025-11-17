@@ -1,6 +1,6 @@
 ---
 date: "2025-11-17T15:32:24Z"
-draft: true
+draft: false
 title: "The Art of Uncertainty"
 # tags: ["tag 1", "tag2", "tag3"]
 categories: ["Books"]
