@@ -1,8 +1,8 @@
 ---
-date: "2025-10-30T16:57:09Z"
+date: "2025-11-14T14:57:09Z"
 draft: false
 title: "Writing a Narrative CV - Leiden"
-tags: ["Academic", "Careers"]
+# tags: ["Academic", "Careers"]
 # categories: ["Resources"]
 description: "Guidance for workshop on Writing a Narrative CV"
 showBreadcrumbs: true
@@ -45,7 +45,7 @@ By the end of the session, you'll have:
 To participate fully in the activities, please bring:
 
 - **Your research history:** A copy of your traditional academic CV, publication list, and notes on activities not typically included (e.g., peer review, mentoring, committee work, public engagement, even organisation).
-- **A project idea:** You just need a general sense of the project aims. We're only covering the narrative CV, not the full proposal.
+- **Details of your project idea:** This is to ensure you're including the most relevant examples in your narrative CV.
 - **Writing tools:** A laptop/tablet with your preferred writing app and screen space to view workshop materials alongside your writing.
 
 ### Questions?
