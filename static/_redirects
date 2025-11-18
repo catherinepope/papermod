@@ -1,5 +1,6 @@
 # Blog post redirects - moving from root to /posts/ directory
 
+/blog/ /posts/ 301
 /why-we-should-all-be-slackers/ /posts/why-we-should-all-be-slackers/ 301
 /playing-with-dinosaurs/ /posts/playing-piano-with-dinosaurs/ 301
 /avoiding-the-complexity-trap/ /posts/avoiding-the-complexity-trap/ 301
@@ -37,6 +38,11 @@
 /resources/the-drama-triangle/ /workshops/resources/the-drama-triangle/ 301
 /resources/saying-no/ /workshops/resources/saying-no/ 301
 /resources/achieving-a-win-win/ /workshops/resources/achieving-a-win-win/ 301
+
+# General
+
+/books/how-to-finish-your-phd/companion/ /books/how-to-finish-your-phd/resources/ 301
+
 
 # PDF redirects
 
