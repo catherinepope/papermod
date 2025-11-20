@@ -94,7 +94,7 @@ Although I can now access this file from any device, I can't access it when I'm 
 
 ## Conclusion
 
-There are some more complicated ways around external file storage - you can [check the Zotero documentation for details](https://www.zotero.org/support/sync). I think it's best to keep it simple and use the built-in Zotero storage. Most people don't exceed the free limit. You can keep within it by making sure you're not saving any unnecessary content or retaining files you no longer need. Whatever approach you take, make sure it's intentional. That way, you won't suddenly lose your journal articles.
+There are some more complicated ways around external file storage - you can [check the Zotero documentation for details](https://www.zotero.org/support/sync). I think it's best to keep it simple and use the built-in Zotero storage. Most people don't exceed the free limit. You can keep within it by making sure you're not saving any unnecessary content or retaining files you no longer need. Whatever approach you take, make sure it's intentional. That way, you won't suddenly lose your journal articles. If you're comfortable with installing plugins and want to use cloud storage, take a look at my post on [Zotmoov](../managing-zotero-attachments-with-zotmoov/).
 
 ---
 

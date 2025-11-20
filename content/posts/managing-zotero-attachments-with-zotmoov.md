@@ -1,6 +1,6 @@
 ---
 date: "2025-11-20T15:02:10Z"
-draft: true
+draft: false
 title: "Managing Zotero Attachments with Zotmoov"
 tags: ["Zotero", "Tutorials"]
 categories: ["Technology"]
@@ -65,13 +65,13 @@ Let's make sure everything works:
 3. Check your cloud storage folder: the PDF should be there 👀
 4. In Zotero, expand the item to see its attachments. You should see a link icon on the PDF, indicating it's a linked file rather than a stored file.
 
-If the PDF has been moved successfully, Zotmoov is working 🎉 From now on, all new attachments are automatically moved to your external storage. They'll no longer count towards your Zotero storage limit.
+If the PDF was moved successfully, Zotmoov is working 🎉 From now on, all new attachments are automatically moved to your external storage. They'll no longer count towards your Zotero storage limit.
 
 ## Moving existing attachments with Zotmoov
 
 If you already have PDFs stored in Zotero before installing Zotmoov, you'll need to move them manually. Fortunately, you can do this in bulk:
 
-1. In your Zotero library, select the items you want to move (use **Ctrl+A** on Windows or **Cmd+A** on Mac to select all items).
+1. In your Zotero library, select the items you want to move (use <span class="key">Ctrl</span> + <span class="key">A</span> on Windows or <span class="key">Cmd</span> + <span class="key">A</span> on Mac to select all items).
 2. Or you can search for items with PDF attachments by clicking the search icon, choosing **Advanced Search**, the selecting **Attachment File Type > PDF** (see screenshot below)
 3. Right-click on the selected files.
 4. Choose **ZotMoov: Move Selected to Directory**.
@@ -95,4 +95,4 @@ For other Zotmoov features and advanced configuration options, see the [Zotmoov 
 
 While Zotfile is no longer an option for Zotero 7 users, Zotmoov provides a straightforward way to automatically manage your PDF storage with cloud drives. Combined with Zotero 7's built-in features for annotation extraction and file renaming, you have everything you need to keep your research library organised without hitting storage limits.
 
-Personally, I pay $20 a year for additional Zotero storage, as I prefer not to rely on just one cloud host. However, one of Zotero's many advantages is its array of plugins. A big thank you to the Zotfile developers who helped so many of us. And another big thank you to the Zotmoov team for this valuable contribution.
+Personally, I pay $20 a year for additional Zotero storage, as I prefer not to rely on just one cloud host. However, one of Zotero's many advantages is its array of plugins. A big thank you to the Zotfile developers who helped so many of us. And another big thank you to the Zotmoov team for this valuable plugin.
