@@ -96,3 +96,9 @@ For other Zotmoov features and advanced configuration options, see the [Zotmoov 
 While Zotfile is no longer an option for Zotero 7 users, Zotmoov provides a straightforward way to automatically manage your PDF storage with cloud drives. Combined with Zotero 7's built-in features for annotation extraction and file renaming, you have everything you need to keep your research library organised without hitting storage limits.
 
 Personally, I pay $20 a year for additional Zotero storage, as I prefer not to rely on just one cloud host. However, one of Zotero's many advantages is its array of plugins. A big thank you to the Zotfile developers who helped so many of us. And another big thank you to the Zotmoov team for this valuable plugin.
+
+---
+
+I'm currently creating a **Getting Started with Zotero** online course. Add your email below to be the first to know when it's launched:
+
+{{< newsletter-form tag="zotero" >}}
