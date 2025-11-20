@@ -1,19 +1,14 @@
 ---
 date: "2025-11-18T08:07:50Z"
-draft: true
+draft: false
 title: "Running Out of Zotero Storage? Here's What to Do"
 tags: ["Zotero"]
 categories: ["Technology"] 
 description: "Learn how to manage Zotero storage limits and avoid running out of space. Discover when to upgrade your storage plan, how to use linked files, and the best ways to sync PDFs across multiple devices."
 keywords: ["Zotero storage", "Zotero storage limit", "Zotero sync", "Zotero linked files", "Zotero file syncing", "Zotero storage full", "manage Zotero storage"]
 ShowToc: true
-tocOpen: true  
+tocOpen: false
 ---
-
-- [ ] Add screenshots
-- [ ] Mention images and web snapshots
-- [ ] Test with Dropbox
-- [x] Add link to documentation
 
 If you've been merrily saving ebooks, journal articles, and web snapshots to Zotero, you might run out of storage space. There's a limit to how much you can sync for free. In this post, I'll explain how to check your storage limit, how to save storage space, and how to increase the space.
 
@@ -21,11 +16,17 @@ The current limit is 300Mb, which usually equates to a few hundred PDFs. Once yo
 
 ## Checking your Zotero storage
 
-To check how much space you've used, visit the Zotero website. If you're not already logged in, do so by clicking the Login link in the top-right hand corner of the Zotero homepage.
+To check how much space you've used, visit the Zotero website. If you're not already logged in, do so by clicking the **Log In** link in the top-right hand corner of the Zotero homepage.
 
-Now click Upgrade Storage. You can see your quota and how much of it you've used. 
+{{< img src="images/zotero-upgrade-storage.jpg" alt="Screenshot of Zotero homepage" center="true" >}}
 
-If you're nudging towards 100%, you could simply click **Purge Storage** to delete all your attachments. It's very unlikely you actually want to do this, though, as you'd lose all those files you saved.
+Now click **Upgrade Storage**. You can see your quota and how much of it you've used.
+
+{{< img src="images/zotero-storage.jpg" alt="Screenshot of Zotero storage settings" center="true" >}}
+
+Here you can see that I've exceeded my quota, which means I can no longer sync my Library.
+
+If you've exceeded or are nudging towards 100%, you could simply click **Purge Storage in My Library** to delete all your attachments. It's very unlikely you actually want to do this, though, as you'd lose all those files you saved.
 
 The good news is that extra Zotero space is very cheap. 2Gb costs only $20 a year and this should give you space for several thousand PDFs. $20 is a small price to pay to have all your PDFs safely stored on Zotero and accessible from any device. It's been the same price for years, so they're unlikely to suddenly increase it.
 
@@ -39,32 +40,38 @@ On a Mac, it's **Zotero > Preferences**
 
 Uncheck the box that says **Sync attachment files in My Library**. 
 
-This prevents your PDFs from being uploaded to Zotero's servers and counting toward your storage limit. However, your citation data (authors, titles, tags, notes, etc.) still sync across all your devices - only the PDF files themselves won't sync.
+{{< img src="images/zotero-file-syncing.jpg" alt="Screenshot of Zotero file syncing settings" center="true" >}}
 
-The problem with disabling syncing is that you'll only be able to access your PDFs on the computer where they are saved - they won't be synced to all your devices. Also, they're not backed up to the Zotero server.
+This prevents your PDFs, images, and web snapshots from being uploaded to Zotero's servers and counting toward your storage limit. However, your citation data (authors, titles, tags, notes, etc.) still sync across all your devices - only the file attachments themselves won't sync.
+
+The problem with disabling syncing is that you'll only be able to access those file attachments on the computer where they are saved - they won't be synced to all your devices. Also, they're not backed up to the Zotero server.
 
 ## Linking Zotero to external files
 
-If you already have lots of articles stored elsewhere and don't want to pay for Zotero storage, you could just link to them instead. You can either link to a local file on your device, or one that's stored in a cloud storage platform like Dropbox. 
+If you already have lots of journal articles stored elsewhere and don't want to pay for Zotero storage, you could just link to them instead. You can either link to a local file on your device, or one that's stored in a cloud storage platform like Dropbox. 
 
-I'll show you both methods now.
+I'll show you both methods.
 
 ### Linking a local file
 
-You can link to files stored on your computer instead of storing them in Zotero. Right-click the item to which you want to attach your PDF, click **Add Attachment**, then **Linked File**. 
+You can link to files stored on your computer instead of storing them in Zotero. Right-click the item to which you want to attach your PDF, click **Add Attachment**, then **Linked File**.
+
+{{< img src="images/zotero-linked-file.jpg" alt="Screenshot of linking a file in Zotero" center="true" >}}
 
 The PDF is now attached to the item, but the file itself won't be synced to the Zotero server. Zotero syncs the *link information* (the file path), but not the actual file.
 
 **Important**: If you use Zotero on multiple devices, you'll need to:
 
 - Keep the PDFs themselves in sync using cloud storage (like Dropbox) OR manually copy them to each device.
-- Set up the "Linked Attachment Base Directory" in Zotero on each device (under **Advanced > Files and Folders**) so Zotero knows where to find the files.
+- Set up the "Linked Attachment Base Directory" in Zotero on each device (under **Advanced > Files and Folders**) so Zotero knows where to find the files. As you'll see, this needs to be the same location or file path.
+
+{{< img src="images/zotero-base-directory.jpg" alt="Screenshot of Zotero base directory settings" center="true" >}}
 
 Without these steps, you'll see the linked file listed in Zotero on your other devices, but won't be able to open it.
 
 If you want to convert linked files back to stored files (so they sync through Zotero), you can do this from the **Tools > Manage Attachments** menu.
 
-This attachment no longer has a link on its icon.
+{{< img src="images/zotero-manage-attachments.jpg" alt="Screenshot of Manage Attachments feature in Zotero" center="true" >}}
 
 ### Linking a remote file
 
@@ -75,9 +82,15 @@ Here's how it would work with Dropbox.
 - Find the local version of your file - usually in the Dropbox folder.
 - Right-click the file, then choose **Copy Dropbox link**.
 - In Zotero, right-click the item, choose **Add Attachment**, then **Web Link**. 
-- Paste the Dropbox URL in the box. 
+- Paste the Dropbox URL in the box.
 
-You'll see the Dropbox URL has been stored. I can then click the link to view the file. Although I can now access this file from any device, I can't access it when I'm offline. And the text won't be searchable within Zotero.
+{{< img src="images/zotero-web-link.jpg" alt="Screenshot of adding web link in Zotero" center="true" >}}
+
+You'll see the Dropbox URL has been stored. I can then click the link to view the file. 
+
+{{< img src="images/zotero-dropbox-link.jpg" alt="Screenshot of linked Dropbox file in Zotero" center="true" >}}
+
+Although I can now access this file from any device, I can't access it when I'm offline. And the text won't be searchable within Zotero.
 
 ## Conclusion
 
