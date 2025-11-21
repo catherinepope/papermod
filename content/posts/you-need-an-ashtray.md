@@ -5,7 +5,8 @@ title: "You Need an Ashtray"
 tags: ["money", "Tiny Experiments"]
 # category: 
 description: "A personal reflection on why traditional budgeting often fails when life becomes unpredictable. Explore Dana Miranda's argument that budget culture can be toxic and discover a more flexible approach to managing unexpected expenses."
-keywords: ["budgeting problems", "Dana Miranda", "You Don't Need a Budget", "budget culture", "financial planning", "unexpected expenses", "emergency fund", "flexible budgeting", "personal finance"] 
+keywords: ["budgeting problems", "Dana Miranda", "You Don't Need a Budget", "budget culture", "financial planning", "unexpected expenses", "emergency fund", "flexible budgeting", "personal finance"]
+aliases: ["/tiny-experiment-you-need-an-ashtray/"]
 ---
 
 Since I was a tiny pope, I’ve always been good with budgeting. I’d carefully plan my larger purchases (usually books or LPs) then steadily add the money to an ashtray in my knicker drawer. I’ve no idea why I didn’t use a piggy bank like a normal person. But, hey, it worked. The money I saved as a child actually got me out of a few pickles in my twenties. All those Saturday jobs, paper rounds, and holiday gigs added up – especially when interest rates were high. As the years progressed, though, and my responsibilities changed, I found it harder rather than easier to budget.
