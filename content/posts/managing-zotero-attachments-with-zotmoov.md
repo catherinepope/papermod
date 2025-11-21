@@ -8,7 +8,6 @@ description: "Zotfile no longer works with Zotero 7. Learn how to use Zotmoov in
 keywords: ["Zotfile", "Zotmoov", "Zotero 7", "Zotfile alternative", "Zotero cloud storage", "Zotero linked files", "Zotfile replacement", "Zotero 7 plugins"]
 ShowToc: true
 # OpenToc: true
-aliases: ["/how-to-make-zotero-even-better-with-zotfile/"]
 ---
 
 In my previous post, I explained [several options for managing your Zotero storage](../managing-storage-in-zotero/). If you're willing to install a plugin, there's another solution: [Zotmoov](https://github.com/wileyyugioh/zotmoov).
