@@ -4,9 +4,8 @@ date:   "2019-01-05 10:19:28 +0100"
 draft: false
 categories: ["Books"]
 tags: ["wellbeing"]
-description: "A review of Shahroo Izadi's 'The Kindness Method,' exploring a compassionate approach to changing destructive habits. Discover why being kind to yourself works better than punishing schedules for lasting behavioral change and breaking compulsive behaviors."
+description: "A review of Shahroo Izadi's 'The Kindness Method,' exploring a compassionate approach to changing destructive habits. Discover why being kind to yourself works better than punishing schedules for lasting behavioral change and breaking compulsive behaviours."
 keywords: ["Shahroo Izadi", "The Kindness Method", "book review", "habit change", "behavioral change", "self-help books", "compassionate self-improvement", "sustainable change"]
-aliases: ["/the-kindness-method-by-shahroo-izadi/"]
 ---
 
 {{< book-cover src="images/the-kindness-method.jpg" alt="Cover of The Kindness Method by Shahroo Izadi" >}}
