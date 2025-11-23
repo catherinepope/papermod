@@ -1,13 +1,14 @@
 ---
 date: "2025-11-23T11:01:17Z"
 draft: false
-title: "What to Include in Your Academic LinkedIn Profile"
+title: "What Should You Include in Your Academic LinkedIn Profile?"
 tags: ["PhD", "Academic"]
 categories: ["PhD Progress", "Resources"]
 description: "A practical guide to optimising your LinkedIn profile for academic researchers. Learn how to structure your headline, About section, and key profile elements to support your research goals, from securing funding to building collaborations."
 keywords: ["LinkedIn for academics", "academic LinkedIn profile", "researcher LinkedIn guide", "LinkedIn for PhD students", "academic networking", "research profile optimisation", "LinkedIn headline for researchers", "academic social media"]
 ShowBreadCrumbs: true
 hideMeta: true
+showToc: true
 ---
 
 In the good old days, LinkedIn was just for the corporate world. Increasingly, though, it's becoming an essential part of your academic web presence. Publishers, funders, employers, collaborators, and participants all expect to find your profile. Given its commercial emphasis, how can you make LinkedIn serve your research interests? In this guide, I'll walk you through the main sections of a LinkedIn profile and suggest how you can use it to your best advantage.
@@ -158,7 +159,7 @@ Keep in mind that you're asking a favour. Recommendations can be effective when 
 
 ## Conclusion
 
-Crafting a strong LinkedIn profile takes time - and it's not a case of "set it and forget it", either. You need to make sure it's up-to-date and relevant to your _current_ research priority. But if you consider how each section can work for you, this is time well spent. With over 1 billion users, LinkedIn can help you reach a much wider audience. Remember: there's no right way to use LinkedIn - just a way that works for you and your research.
+Crafting a strong LinkedIn profile takes time - and it's not a case of "set it and forget it", either. You need to make sure it's up-to-date and relevant to your _current_ research priority. But if you consider how each section can work for you, this is time well spent. Once you a strong profile in place, you can start [deciding what to post](../what-to-share-on-academic-linkedin/). With over 1 billion users, LinkedIn can help you reach a much wider audience. Remember: there's no right way to use LinkedIn - just a way that works for you and your research.
 
 ---
 
