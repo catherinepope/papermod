@@ -2,7 +2,7 @@
 date: "2025-11-23T13:34:15Z"
 draft: false
 title: "What Should You Post on Academic LinkedIn?"
-tags: ["PhD", "Academic"]
+tags: ["PhD", "Academic", "LinkedIn"]
 categories: ["PhD Progress", "Resources"]
 description: "Practical guide to posting on LinkedIn for academic researchers. Learn what to share, how to craft engaging posts, and ways to add value without self-promotion. Tips for building your professional presence authentically."
 keywords: ["LinkedIn posting for academics", "what to post on LinkedIn", "academic social media strategy", "LinkedIn content for researchers", "professional posting tips", "LinkedIn for PhD students", "academic networking content", "researcher visibility online"]
@@ -21,6 +21,8 @@ Instead of sharing what you've had for lunch, you could:
 - Recommend a book/article/website: "Just read \[colleague's] paper on X - it brilliantly addresses..."
 
 This improves the signal to noise ratio. And you earn a reputation as someone who is up-to-date with what's happening in their field.
+
+Think about [who's in your network](../how-to-build-your-academic-network-on-linkedin/) and what they'd like to see.
 
 ## Crafting a LinkedIn post
 

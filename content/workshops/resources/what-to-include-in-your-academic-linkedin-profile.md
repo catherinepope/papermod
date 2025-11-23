@@ -2,7 +2,7 @@
 date: "2025-11-23T11:01:17Z"
 draft: false
 title: "What Should You Include in Your Academic LinkedIn Profile?"
-tags: ["PhD", "Academic"]
+tags: ["PhD", "Academic", "LinkedIn"]
 categories: ["PhD Progress", "Resources"]
 description: "A practical guide to optimising your LinkedIn profile for academic researchers. Learn how to structure your headline, About section, and key profile elements to support your research goals, from securing funding to building collaborations."
 keywords: ["LinkedIn for academics", "academic LinkedIn profile", "researcher LinkedIn guide", "LinkedIn for PhD students", "academic networking", "research profile optimisation", "LinkedIn headline for researchers", "academic social media"]
@@ -13,7 +13,7 @@ showToc: true
 
 In the good old days, LinkedIn was just for the corporate world. Increasingly, though, it's becoming an essential part of your academic web presence. Publishers, funders, employers, collaborators, and participants all expect to find your profile. Given its commercial emphasis, how can you make LinkedIn serve your research interests? In this guide, I'll walk you through the main sections of a LinkedIn profile and suggest how you can use it to your best advantage.
 
-Before we start, it's important to emphasise that there's no "right way" to use LinkedIn. And how you use it depends on what you're trying to achieve: find employment, recruit researchers, increase the visibility of your research. Although you might have several aims, it's best to make _one_ your priority - that way, it's easier to measure whether you've been successful. 
+Before we start, it's important to emphasise that there's no "right way" to use LinkedIn. And how you use it depends on what you're trying to achieve: find employment, recruit researchers, increase the visibility of your research. Although you might have several aims, it's best to make _one_ your priority - that way, it's easier to measure whether you've been successful. Think about [who's in your network](../how-to-build-your-academic-network-on-linkedin/) and what they want to see.
 
 Keep that priority in mind when you're planning the sections below.
 
@@ -27,7 +27,7 @@ Although you can include your address and phone number, you almost certainly don
 
 🔒 Under **Settings > Visibility**, you can control who has access to those contact details.
 
-The most useful section here is **Add Website**. Here you could add links to:
+The most useful section here is **Add Website**. Here you could add up to three links to:
 
 - Your university profile (for credibility) 🥸
 - Institutional repositories (for making your research visible) 
