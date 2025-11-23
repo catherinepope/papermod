@@ -7,6 +7,7 @@ categories: ["Training"]
 description: "Interactive LinkedIn workshop for academic researchers. Learn to build a professional profile, expand your network, and increase research visibility. Suitable for researchers at all stages and disciplines. 2-hour session available for universities."
 keywords: ["LinkedIn workshop for academics", "academic networking workshop", "LinkedIn training for researchers", "researcher professional development", "academic visibility training", "LinkedIn for PhD students", "university workshop LinkedIn", "research networking skills"]
 hideMeta: true
+showBreadCrumbs: true
 ---
 
 Would you like to unlock the potential of LinkedIn to advance your career? In this interactive workshop, you’ll discover how to use LinkedIn to enhance your professional network, showcase your research, and increase your visibility in the academic community and beyond.

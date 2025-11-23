@@ -2,10 +2,12 @@
 date: "{{ .Date }}"
 draft: true
 title: "{{ replace .File.ContentBaseName "-" " " | title }}"
-tags: ["academic", "workshops"]
+tags: ["Academic", "Workshops"]
 categories: ["Training"] 
 description: ""
 keywords: ["keyword 1", "keyword 2", "keyword 3"] 
+showBreadCrumbs: true
+hideMeta: true
 ---
 
 
@@ -20,4 +22,4 @@ keywords: ["keyword 1", "keyword 2", "keyword 3"]
 - ""
 - ""
 
-{{< booking-info duration="" price="" >}}
+{{< booking-info duration="2-hour" price="£525" >}}

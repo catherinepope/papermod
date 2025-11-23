@@ -44,7 +44,10 @@ Your LinkedIn posts are also showcasing your communication skills to potential f
 
 Think twice before sharing personal struggles, criticising institutions, or entering political debates. LinkedIn makes you highly visible, so consider who's looking at your profile and what they can see 👀
 
-
 ## Conclusion
 
 It's much better to lurk on LinkedIn than to add a lot of noise. Although posting on LinkedIn makes many of us feel vulnerable, occasional thoughtful posts establish your expertise and also _strengthen_ the academic community. And there's no magic posting frequency - quality matters more than quantity. Other users are much more likely to share your posts if they contain valuable content. Above all, use LinkedIn in way that feels manageable for _you_.
+
+---
+
+This content is part of my workshop on [Creating a Strong Academic LinkedIn Profile](../../creating-a-strong-academic-linkedin-profile/)
