@@ -30,7 +30,7 @@ It’s never too late to get started! No judgement or pressure, just empowerment
 
 This workshop is delivered by Alex Pearson.
 
-**Alex Pearson MBE** specialises in Personal Leadership and Sustainability and is a qualified Carbon Literacy Trainer and Climate Fresk facilitator. She is also a Senior Lecturer at the University of Sussex Business School. Alex is most at home in a changing environment and is able quickly to see solutions and opportunities. Alex spent 25 years in Beijing, where she worked with organisations of all sizes to inspire and develop their individual and team capabilities. She now shares her knowledge and experience through the Yurt Academy as a management trainer, consultant and facilitator with clients in the UK.
+**Alex Pearson MBE** specialises in Personal Leadership and Sustainability and is a qualified Carbon Literacy Trainer and Climate Fresk facilitator. She is also Associate Professor at the University of Sussex Business School. Alex is most at home in a changing environment and is able quickly to see solutions and opportunities. Alex spent 25 years in Beijing, where she worked with organisations of all sizes to inspire and develop their individual and team capabilities. She now shares her knowledge and experience through the Yurt Academy as a management trainer, consultant and facilitator with clients in the UK. Alex is author of _Curious, Creative, Connected – Engaging Human Intelligence in a Tech-driven World_.
 
 👩🏽‍🎓 **Audience:** Researchers at all stages and in any discipline.
 
