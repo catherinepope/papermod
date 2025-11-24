@@ -62,6 +62,8 @@ When someone sends you a connection request, check their profile. Do you know th
 
 Inevitably, there are dozens of tools that will create a LinkedIn network for you. Don't be tempted! Although they'll undoubtedly save you time, you'll end up with a lot of meaningless connections. Also, people are much less likely to accept a connection if they suspect it's automated. Online networking still needs to be human: this is just another way of maintaining _genuine_ relationships.
 
+👉 [LinkedIn without Tears: A Guide for Academics](../../../posts/linked-without-tears-a-guide-for-academics/)
+
 ---
 
 This content is part of my workshop on [Creating a Strong Academic LinkedIn Profile](../../creating-a-strong-academic-linkedin-profile/)

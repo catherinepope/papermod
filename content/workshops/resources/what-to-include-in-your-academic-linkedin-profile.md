@@ -161,6 +161,8 @@ Keep in mind that you're asking a favour. Recommendations can be effective when 
 
 Crafting a strong LinkedIn profile takes time - and it's not a case of "set it and forget it", either. You need to make sure it's up-to-date and relevant to your _current_ research priority. But if you consider how each section can work for you, this is time well spent. Once you a strong profile in place, you can start [deciding what to post](../what-to-share-on-academic-linkedin/). With over 1 billion users, LinkedIn can help you reach a much wider audience. Remember: there's no right way to use LinkedIn - just a way that works for you and your research.
 
+👉 [LinkedIn without Tears: A Guide for Academics](../../../posts/linked-without-tears-a-guide-for-academics/)
+
 ---
 
 This content is part of my workshop on [Creating a Strong Academic LinkedIn Profile](../../creating-a-strong-academic-linkedin-profile/)
