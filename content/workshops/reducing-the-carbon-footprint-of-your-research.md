@@ -4,8 +4,8 @@ draft: false
 title: "Reducing the Carbon Footprint of Your Research"
 tags: ["Academic", "Workshops"]
 categories: ["Training"] 
-# description: ""
-# keywords: ["keyword 1", "keyword 2", "keyword 3"] 
+description: "Interactive workshop helping academic researchers understand and reduce their carbon footprint through practical, achievable actions."
+keywords: ["carbon footprint", "sustainable research", "academic sustainability", "carbon literacy", "climate action for researchers", "sustainable academic practices", "research emissions", "carbon reduction", "environmental impact", "green research"] 
 showBreadCrumbs: true
 hideMeta: true
 ---
