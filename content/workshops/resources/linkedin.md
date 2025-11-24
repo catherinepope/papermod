@@ -7,7 +7,9 @@ categories: ["Resources"]
 # description: ""
 # keywords: ["keyword 1", "keyword 2", "keyword 3"]
 # ShowToc: true
-# OpenToc: true  
+# OpenToc: true
+hideMeta: true
+showBreadCrumbs: true
 ---
 
 Here are some additional resources for my workshop on [**Creating a Strong Academic LinkedIn Profile**](../../creating-a-strong-academic-linkedin-profile/).

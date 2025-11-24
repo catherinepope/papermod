@@ -1,0 +1,35 @@
+<svg viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer Circle -->
+  <circle cx="300" cy="300" r="250" fill="#e8f4f8" stroke="#0077b5" stroke-width="3"/>
+  
+  <!-- Middle Circle -->
+  <circle cx="300" cy="300" r="170" fill="#b8dde8" stroke="#0077b5" stroke-width="3"/>
+  
+  <!-- Inner Circle -->
+  <circle cx="300" cy="300" r="90" fill="#6eb8d4" stroke="#0077b5" stroke-width="3"/>
+  
+  <!-- Labels -->
+  <!-- Outer Circle Label -->
+  <text x="300" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
+    Outer Circle
+  </text>
+  <text x="300" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#555">
+    Wider Community
+  </text>
+  
+  <!-- Middle Circle Label -->
+  <text x="300" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#333">
+    Middle Circle
+  </text>
+  <text x="300" y="190" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#555">
+    Active Network
+  </text>
+  
+  <!-- Inner Circle Label -->
+  <text x="300" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#fff">
+    Inner Circle
+  </text>
+  <text x="300" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#fff">
+    Close Collaborators
+  </text>
+</svg>

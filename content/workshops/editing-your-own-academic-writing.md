@@ -2,7 +2,7 @@
 date: "2025-08-26T16:38:47+01:00"
 draft: false
 title: "Editing Your Own Academic Writing"
-tags: ["academic", "workshops"]
+tags: ["Academic", "Workshops"]
 categories: ["Training"] 
 description: "Interactive workshop on systematic academic editing techniques. Learn to transform messy drafts into structured writing through time planning, signposting, clarity improvement, and effective self-proofreading strategies."
 keywords: ["academic editing", "self-editing", "thesis editing", "academic writing", "editing workshop", "writing revision", "academic proofreading", "manuscript editing", "writing clarity", "academic voice"] 
