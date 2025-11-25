@@ -1,7 +1,7 @@
 ---
 date: "2025-11-24T15:53:23Z"
 draft: false
-title: "Linked without Tears: A Guide for Academics"
+title: "LinkedIn without Tears: A Guide for Academics"
 tags: ["PhD", "Academic", "LinkedIn"]
 categories: ["PhD Progress", "Resources"]
 description: "Practical LinkedIn strategy for academic researchers who find social media overwhelming. Learn how to use LinkedIn effectively without wasting time, from setting intentions to managing your feed and building meaningful connections."
