@@ -8,6 +8,7 @@ description: "Practical LinkedIn strategy for academic researchers who find soci
 keywords: ["LinkedIn strategy for academics", "LinkedIn tips for researchers", "academic social media management", "LinkedIn time management", "researcher networking strategy", "LinkedIn for PhD students", "academic professional development", "managing LinkedIn effectively"]
 ShowBreadCrumbs: true
 hideMeta: true
+aliases: ["/posts/linked-without-tears-a-guide-for-academics/"]
 ---
 
 When I talk to academics about LinkedIn, the most common word I hear is "grubby," swiftly followed by "timesink". Although networking is vital for most of us, these platforms are designed to keep us clicking like eejits all day long. You don't get funding for reaching an impressive number of likes, and it's easy to lose half a day when you intended to spend just five minutes.
