@@ -5,7 +5,7 @@ title: "Capturing Research Notes With AudioPen"
 tags: ["Obsidian", "AI"]
 categories: ["Technology"]
 description: "AudioPen transforms voice notes into structured text for academic researchers. Learn how to use this AI tool responsibly for reading notes, field observations, and research workflows while respecting institutional policies."
-keywords: "AudioPen", "academic research tools", "voice notes for researchers", "AI note-taking", "research workflow", "reading notes", "academic writing tools", "transcription for academics"
+keywords: ["AudioPen", "academic research tools", "voice notes for researchers", "AI note-taking", "research workflow", "reading notes", "academic writing tools", "transcription for academics"]
 # ShowToc: true
 # OpenToc: true  
 ---
