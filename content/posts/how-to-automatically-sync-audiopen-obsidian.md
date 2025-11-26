@@ -10,7 +10,7 @@ ShowToc: true
 # OpenToc: true  
 ---
 
-I've been an enthusiastic user of [AudioPen](https://audiopen.ai) for a few years. This brilliant app records and accurately transcribes your voice notes in moments. You can either opt for a light tidy to add punctuation and remove your ums and ahs, or ask it to make you sound like Cicero. 
+I've been an enthusiastic user of [AudioPen](https://audiopen.ai) for a few years. This brilliant app [records and accurately transcribes your voice notes in moments](../capturing-research-notes-with-audiopen/). You can either opt for a light tidy to add punctuation and remove your ums and ahs, or ask it to make you sound like Cicero. 
 
 Although you can organise your notes in AudioPen using folders and tags, most of us nerdy types already have a preferred note-taking app. In my case, that's [Obsidian](https://obsidian.md). If you don't know Obsidian, it's a powerful yet simple app that stores your notes and plain markdown files and gives you various ways to make connections between them.
 
