@@ -16,8 +16,6 @@ Readwise makes it easy to capture, organise, and revisit highlights from whateve
 
 ## Capturing highlights
 
-{{< book-cover src="images/Readwise-add-highlights-via-camera.jpg.jpg" alt="Screenshot of Readwise app" caption="Adding highlights with the Readwise app" >}}
-
 Readwise integrates directly with ereaders, including Kindles, Kobos, and Apple Books. Anything you highlight is automatically saved to your Readwise Library, along with comments or notes you've made.
 
 If, like me, you prefer physical books, you can use the Readwise app to capture highlights by taking a photo. This works with both iPhones and Androids. Readwise quickly transcribes the text from the image, then prompts you to add the page number and any notes. I find the accuracy very high, even on older books and with different languages. You do need a steady hand and good lighting, though.
@@ -58,4 +56,4 @@ I always feel happy when my [Readwise](https://readwise.io) subscription is due 
 
 👉 We discuss Readwise and similar tools in my workshop [Accelerate Your Research with AI](../../workshops/accelerating-research-with-ai/).
 
-[1]: I'm not affiliated in any way with Readwise, just an enthusiastic user.
+[^1]: I'm not affiliated in any way with Readwise, just an enthusiastic user.
