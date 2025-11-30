@@ -20,13 +20,13 @@ Here's how I use MacWhisper:
 
 ## 1. Recording and transcribing voice notes
 
-I mainly use MacWhisper to make notes on meetings, projects, and anything I'm learning. If a thought pops into my head, it's usually much easier to say it than to write it down. MacWhisper works in most apps, and I can just press a key then start speaking. For any sensitive data, I use MacWhisper with a local Obsidian vault - that way, nothing leaves my laptop. 
+I mainly use MacWhisper to make notes on workshops, projects, and anything I'm learning. If a thought pops into my head, it's usually much easier to say it than to write it down. MacWhisper works in most apps, and I can just press a key then start speaking. For any sensitive data, I use MacWhisper with a local Obsidian vault - that way, nothing leaves my laptop. 
 
 Although Apple devices have their own built-in dictation tool, I find MacWhisper a lot more reliable and flexible.
 
 ## 2. Transcribing webinars
 
-I started delivering webinars long before Covid, so have an extensive library of recordings. MacWhisper quickly generates a good quality transcript that I can then turn into other learning materials, such as blog posts or scripts for online courses. Although, of course the transcript needs tidying and updating, it provides a respectable first draft.
+I started delivering webinars long before Covid, so have an extensive library of recordings. MacWhisper quickly generates a good quality transcript that I can then turn into other learning materials, such as blog posts or scripts for online courses. Although, of course, the transcript needs tidying and updating, it provides a respectable first draft.
 
 Through searching these transcripts, I often find my younger self speaking confidently about something I can barely remember 😳
 
@@ -48,7 +48,7 @@ And there's a MacWhisper phone app for recording and transcribing on the move.
 
 As you might've have spotted from the name, this tool only works on a Mac. As I'm lucky enough not to have used a Windows machine for many years, I don't know what the PC equivalent might be.
 
-MacWhisper is much less accurate than [AudioPen](../capturing-research-notes-with-audiopen/). I find it sometimes doesn't include any punctuation, or inserts a jaunty "Thank you for watching!" at the end of the transcript. For me, this is a reasonable compromised in exchange for data privacy. I use AudioPen where accuracy matters; MacWhisper where privacy is more important.
+MacWhisper is much less accurate than [AudioPen](../capturing-research-notes-with-audiopen/). I find it sometimes doesn't include any punctuation, or inserts a jaunty "Thank you for watching!" at the end of the transcript. For me, this is a reasonable compromise in exchange for data privacy. I use AudioPen where accuracy matters; MacWhisper where privacy is more important.
 
 You can improve both the speed and accuracy of MacWhisper by downloading a larger transcription model. The largest models are several gigabytes, though, so you need plenty of space on your hard drive. MacWhisper works fine with the default model, but the larger one is more powerful.
 
@@ -63,5 +63,5 @@ Also, you can use the Find and Replace settings to create a custom vocabulary fo
 [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper) currently costs $59 for personal use. This is a one-off payment, and you'll also receive updates. I think this is great value, given the quality and flexibility of the tool. Developer Jordi Bruin updates it regularly and quickly fixes any problems. This cost compares favourably with AudioPen, which is $99 a year. As MacWhisper runs locally, it's also faster than AudioPen, and will handle much larger files. The limit in AudioPen is 15 minutes, whereas MacWhisper happily transcribes a one-hour recording. But, as I mentioned earlier, AudioPen scores much higher on accuracy. Although I don't use MacWhisper for everything, it's an important part of my workflow. 
 
 [^1]: I'm not affiliated in any way with MacWhisper, I'm just an enthusiastic user.
-[^2]: Although MacWhisper is much safer than other tools, you still need to check that it conforms to any data processing regulations at your institution. And, of course, you need to be careful about where you *store* the transcript.
+[^2]: Although MacWhisper is much safer than other tools, you still need to check that it conforms to any data processing regulations at your institution. And you still need to be careful about where you *store* the transcript.
 
