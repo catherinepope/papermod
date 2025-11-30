@@ -98,7 +98,7 @@ mac_whisper:
   title: "MacWhisper"
   url: "https://goodsnooze.gumroad.com/l/macwhisper"
   subject: ["Transcription"]
-  description: "<a href='posts/recording-and-transcribing-with-macwhisper/'>Accurately transcribes audio and video files</a> using AI locally on my Mac - no internet needed."
+  description: "<a href='/posts/recording-and-transcribing-with-macwhisper/'>Accurately transcribes audio and video files</a> using AI locally on my Mac - no internet needed."
 
 netlify:
   title: "Netlify"
