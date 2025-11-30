@@ -60,7 +60,7 @@ Used wisely, tools like AudioPen can streamline your research workflow. I've [li
 
 The free version of AudioPen is limited to 3-minute recordings, which is probably enough to capture a thought. With the paid version, you can record up to 15 minutes and even upload existing voice notes. You also get access to many more features, such as the ability to create custom vocabularies and super summaries of multiple notes. This costs $99pa or $159 for two years. AudioPen is available as Android and iPhone apps and also works on any web-enabled device.[^1]
 
-AudioPen isn't just for reading, either. You could use it to record field notes or even transcribe interviews - you'll get the original unedited transcription for comparison. But, as with any AI tool, you need to make sure you know what it's doing. And, of course, you shouldn't use apps like AudioPen for holding sensitive data.
+AudioPen isn't just for reading, either. You could use it to record field notes or even transcribe interviews - you'll get the original unedited transcription for comparison. But, as with any AI tool, you need to make sure you know what it's doing. And, of course, you shouldn't use apps like AudioPen for holding sensitive data. For a privacy-first (and cheaper) alternative, take a look at [my post on MacWhisper](../recording-and-transcribing-with-macwhisper/).
 
 For reading, though, [AudioPen](https://audiopen.ai) makes it easier to hold a book *and* a cup of tea.
 

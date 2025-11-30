@@ -1,7 +1,7 @@
 ---
 date: "2025-11-27T14:03:10Z"
 draft: false
-title: "Streamline Your Notetaking With Readwise"
+title: "Streamline Your Notetaking with Readwise"
 tags: ["Notetaking", "AI"]
 categories: ["Technology"] 
 description: "Discover how Readwise helps academic researchers capture, organize, and export highlights from books, articles, and PDFs. Learn how to streamline your research notes into one central system."
