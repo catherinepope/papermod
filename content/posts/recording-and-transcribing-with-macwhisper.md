@@ -20,7 +20,7 @@ Here's how I use MacWhisper:
 
 ## 1. Recording and transcribing voice notes
 
-I mainly use MacWhisper to make notes on workshops, projects, and anything I'm learning. If a thought pops into my head, it's usually much easier to say it than to write it down. MacWhisper works in most apps, and I can just press a key then start speaking. For any sensitive data, I use MacWhisper with a local Obsidian vault - that way, nothing leaves my laptop. 
+I mainly use MacWhisper to make notes on workshops, projects, and anything I'm learning. If a thought pops into my head, it's usually much easier to say it than to write it down. MacWhisper works in most apps, so I can just press a key and start speaking. For any sensitive data, I use MacWhisper with a local Obsidian vault - that way, nothing leaves my laptop. 
 
 Although Apple devices have their own built-in dictation tool, I find MacWhisper a lot more reliable and flexible.
 
