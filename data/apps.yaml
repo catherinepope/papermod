@@ -14,7 +14,7 @@ audiopen:
   title: "AudioPen"
   url: "https://audiopen.ai/"
   subject: ["Transcription", "Note-taking", "AI"]
-  description: "Turns my rambling voice notes into a clean transcript."
+  description: "Turns my <a href='/posts/capturing-research-notes-with-audiopen/'>rambling voice notes into a clean transcript</a>."
 
 buttondown:
   title: "Buttondown"
@@ -98,7 +98,7 @@ mac_whisper:
   title: "MacWhisper"
   url: "https://goodsnooze.gumroad.com/l/macwhisper"
   subject: ["Transcription"]
-  description: "Accurately transcribes audio and video files using AI locally on my Mac - no internet needed."
+  description: "<a href='posts/recording-and-transcribing-with-macwhisper/'>Accurately transcribes audio and video files</a> using AI locally on my Mac - no internet needed."
 
 netlify:
   title: "Netlify"
@@ -129,6 +129,12 @@ premiere_pro:
   url: "https://www.adobe.com/uk/products/premierepro.html"
   subject: ["Video Editing"]
   description: "For creating videos for YouTube and online courses. Involves a steep learning curve, but much better than Camtasia for bigger jobs."
+
+readwise:
+  title: "Readwise"
+  url: "https://readwise.io"
+  subject: ["Note-taking"]
+  description: "<a href='/posts/streamline-your-notetaking-with-readwise/'>Keeps all my reading notes in one place</a> and exports to them to Obsidian. "
 
 rectangle_pro:
   title: "Rectangle Pro"
