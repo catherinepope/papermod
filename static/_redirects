@@ -35,6 +35,9 @@
 /the-kindness-method-by-shahroo-izadi/ /posts/kindness-method/ 301
 /should-you-hire-a-professional-proofreader-for-your-thesis/ /posts/should-you-hire-a-professional-proofreader-for-your-thesis/ 301
 /how-to-defeat-your-inner-critic-and-keep-writing/ /posts/how-to-defeat-your-inner-critic-and-keep-writing/ 301
+/implementing-feedback-from-your-supervisor/ /posts/implementing-feedback-from-your-supervisor/ 301
+/the-art-of-deliberate-practice/ /posts/the-art-of-deliberate-practice/ 301
+/posts/2022-09-25-create-jekyll-site-docker/ /posts/create-jekyll-site-docker/ 301
 
 # Resources redirects - moving to workshops directory
 
@@ -48,6 +51,7 @@
 
 /books/how-to-finish-your-phd/companion/ /books/how-to-finish-your-phd/resources/ 301
 /books/how-to-publish-your-phd/companion/ /books/how-to-publish-your-phd/resources/ 301
+/kubernetes/ /tags/kubernetes/ 301
 
 
 # PDF redirects

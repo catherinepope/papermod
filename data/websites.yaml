@@ -10,6 +10,12 @@ alberto_romero:
   subject: ["AI"]
   description: "Alberto Romero's thought pieces on the wider implications of AI."
 
+cate_denial:
+  title: "Cate Denial"
+  url: "https://catherinedenial.org/blog/uncategorized/against-generative-ai/"
+  subject: ["AI"]
+  description: "Professor Cate Denial's comprehensive list of resources discussing the problems with GenAI."
+
 credit:
   title: "CRedIT"
   url: "https://credit.niso.org"
