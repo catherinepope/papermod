@@ -38,7 +38,7 @@ If you can squeeze out 500 words per day, this would add up to 10,000 words over
 
 Next time the Procrastination Fairy visits, you'll be too busy to notice her.
 
-I hope that helps. In my next post, I’ll be talking about the importance of protecting time for writing, and staying focused.
+I hope that helps. In my next post, I’ll be talking about the importance of [protecting time for writing, and staying focused](../to-write-more-you-need-less-time/).
 
 ---
 
