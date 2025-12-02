@@ -61,7 +61,7 @@ You can then use these bullet points as scaffolding for your writing. It’s muc
 
 You might find this approach too prescriptive, especially if your writing is reflective rather than empirical. Sometimes structure is helpful, other times it gets in the way. Experiment to learn what works for you in different contexts. And don’t restrict yourself to a structure that isn’t working – you can always go back to the storyboard.
 
-I hope that’s helpful. In my next post, I’ll address the tricky business of overcoming procrastination and staying motivated.
+I hope that’s helpful. In my next post, I’ll address the tricky business of [overcoming procrastination and staying motivated](../overcoming-procrastination-staying-motivated-three-strategies-getting-writing/).
 
 ---
 
