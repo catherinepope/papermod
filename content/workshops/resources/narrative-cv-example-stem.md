@@ -1,8 +1,8 @@
 ---
-date: "2025-11-07T16:41:41Z"
-draft: true
+date: "2025-12-03T14:41:41Z"
+draft: false
 title: "Narrative CV Example - STEM"
-tags: ["PhD", "Academic", "Careers"]
+tags: ["PhD", "Academic", "Careers", "Narrative CVs"]
 categories: ["PhD Progress", "Resources"]
 description: "Annotated STEM narrative CV example showing OCAR structure across all four R4RI modules. See how to demonstrate accessibility, inclusivity, and impact."
 keywords: ["STEM narrative CV", "narrative CV example", "research accessibility", "annotated CV example", "R4RI STEM", "science CV example", "methods development CV", "inclusive research CV", "OCAR narrative CV", "academic CV STEM"]
@@ -12,7 +12,11 @@ hideMeta: true
 showBreadcrumbs: true
 ---
 
-This is a fictitious narrative CV created to demonstrate the OCAR structure in response to [an equally fictitious funding call](../funding-call-stem/). It's designed to help you understand how the framework works, not to provide a template to copy. Use this example for understanding the approach, then make it your own. Click the arrows for commentary on how the OCAR framework was applied in each section.
+This is a **fictitious** narrative CV created to demonstrate the OCAR structure in response to [an equally fictitious funding call](../funding-call-stem/). It's designed to help you understand how the framework works, not to provide a template to copy. Any resemblance to real research is coincidental.
+
+Use this example for understanding the approach, then make it your own. 
+
+Click the arrows for commentary on how the OCAR framework was applied in each section.
 
 👉 Important reminders:
 
@@ -42,7 +46,7 @@ This is a fictitious narrative CV created to demonstrate the OCAR structure in r
 
 **Condensed version (published):**
 
-The three-sentence Personal Statement distils this full OCAR into its essence:
+The two-sentence Personal Statement distils this full OCAR into its essence:
 
 - **Sentence 1** combines Opening + Challenge: the core commitment
 - **Sentence 2** summarises Action across all four modules: what you actually do
