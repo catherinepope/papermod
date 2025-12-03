@@ -20,6 +20,12 @@ Here are the further resources for my workshop on [Boosting Your Writing Product
 
 {{< worksheet-subject "Writing" >}}
 
+## Accountability 👀
+
+- [Focusmate](https://focusmate.com)
+- [Write or Else](https://www.writeorelse.com)
+- [Written? Kitten?](https://writtenkitten.co)
+
 ## Resources 🧭
 
 {{< resources "Writing" >}}
