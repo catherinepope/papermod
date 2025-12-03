@@ -1,8 +1,8 @@
 ---
-date: "2025-11-06T17:00:40Z"
-draft: true
+date: "2025-12-03T13:00:40Z"
+draft: false
 title: "Fictitious Funding Call for Narrative CV workshop"
-# tags: ["PhD", "academic"]
+# tags: ["PhD", "Academic", "Narrative CV"]
 # categories: ["PhD Progress", "Resources"]
 ShowBreadCrumbs: true
 hideMeta: true
@@ -29,7 +29,7 @@ showToc: true
 
 The Community Knowledge Exchange Fund supports projects that bridge academic research and community knowledge, creating meaningful collaborations that benefit both partners. We particularly welcome projects that:
 
-- Co-create knowledge with communities who have been underrepresented in research.
+- Co-create knowledge with communities who have been under-represented in research.
 - Challenge traditional hierarchies between academic and community expertise.
 - Develop innovative methods for participatory research or creative practice.
 - Build sustainable relationships beyond the funding period.

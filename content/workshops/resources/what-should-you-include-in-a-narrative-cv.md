@@ -2,8 +2,8 @@
 date: "2025-10-31T11:01:29Z"
 draft: false
 title: "What Should You Include in a Narrative CV?"
-# tags: ["PhD", "Academic", "Careers", "Narrative CVs"]
-# categories: ["PhD Progress", "Resources"]
+tags: ["PhD", "Academic", "Careers", "Narrative CVs"]
+categories: ["PhD Progress", "Resources"]
 description: "Discover what to include in your narrative CV across four key modules. Practical guidance for UK researchers on showcasing impact beyond publications."
 keywords: ["narrative CV modules", "research impact", "narrative CV examples", "R4RI modules", "academic CV writing", "research outputs", "public engagement", "development of others", "UK research funding", "Zenodo"]
 ShowBreadCrumbs: true
@@ -128,7 +128,7 @@ You'll need a different narrative for each project and funder, so it's important
 
 ## Next Steps
 
-Once you have your examples, you can start assembling them to build specific narratives. <!-- That's what you'll do [in the next post, where you'll also see some examples for each module](../how-to-write-a-narrative-cv/). -->
+Once you have your examples, you can start assembling them to build specific narratives. That's what you'll do [in the next post, where you'll also see some examples for each module](../how-to-write-a-narrative-cv/).
 
 In the meantime, unearth and record those previous achievements. You can start simple with a Word document or a spreadsheet. Spending just 30 minutes on each module would be a great start.
 

@@ -1,18 +1,19 @@
 ---
-date: "2025-11-07T16:25:15Z"
-draft: true
+date: "2025-12-03T14:15:15Z"
+draft: false
 title: "Strengthening Your Narrative CV Language"
-tags: ["PhD", "Academic", "Careers"]
+tags: ["PhD", "Academic", "Careers", "Narrative CVs"]
 description: "5 essential language principles for narrative CVs. Learn how to use active voice, strong verbs, and precise language to maximise impact within word limits."
 keywords: ["narrative CV writing", "academic writing tips", "CV language", "active voice CV", "narrative CV editing", "strong verbs academic", "precise writing", "CV word choice", "narrative CV improvement", "academic CV writing"]
 ShowToc: true
 # OpenToc: true
 hideMeta: true
+showBreadcrumbs: true
 ---
 
 Unlike a traditional CV where you list achievements with bullet points, a narrative CV requires you to write in paragraphs. This means the quality of your writing is crucial. With strict word limits (typically 1,000-2,000 words for the entire CV), every single word must earn its place. Poor word choices, vague language, or passive constructions waste precious space and weaken your impact.
 
-You've learned the [OCAR structure](../using-the-ocar-structure-for-academic-writing/), [gathered your examples across the four modules](./what-should-you-include-in-a-narrative-cv/), and understood [how to build narratives at multiple levels](../using-the-ocar-structure-for-narrative-cvs/). Now it's time to refine the language to make your narratives powerful and clear. Here are 5 stages for you to work through.
+You've learned the [OCAR structure](../using-the-ocar-structure-for-academic-writing/), [gathered your examples across the four modules](../what-should-you-include-in-a-narrative-cv/), and understood [how to build narratives at multiple levels](../using-the-ocar-structure-for-narrative-cvs/). Now it's time to refine the language to make your narratives powerful and clear. Here are 5 stages for you to work through.
 
 ## 1. Use the active voice
 
@@ -78,7 +79,7 @@ Clarity about your role builds credibility with reviewers. They need to understa
 - ❌ "The team achieved significant results"
 - ✅ "As project lead, I coordinated the team's efforts, resulting in..."
 
-💡 The [CRediT taxonomy](https://credit.niso.org) can help you describe the key types of contributions typically made to the production and publication of research output such as research articles.
+💡 The [CRediT taxonomy](https://credit.niso.org) helps you describe the key types of contributions typically made to the production and publication of research outputs such as research articles.
 
 ## 5. Be precise and specific
 
@@ -137,6 +138,6 @@ Use this checklist when reviewing your draft:
 Strong, precise language combined with the OCAR structure creates compelling narratives that help funders understand your impact. Review the annotated examples to see these language principles in action:
 
 - [Annotated Narrative CV Example: Arts and Humanities](../narrative-cv-example-arts-humanities/)
-- [Annotated Narrative CV Example: STEM](./narrative-cv-example-stem/)
+- [Annotated Narrative CV Example: STEM](../narrative-cv-example-stem/)
 
 For the complete process of developing your narrative CV, see [How to Write a Narrative CV](../how-to-write-a-narrative-cv/). Every word in your narrative CV is precious. Make each one count.

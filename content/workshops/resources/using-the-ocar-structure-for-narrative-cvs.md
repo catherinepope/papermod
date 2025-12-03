@@ -1,8 +1,8 @@
 ---
-date: "2025-11-07T09:55:25Z"
-draft: true
+date: "2025-12-03T09:55:25Z"
+draft: false
 title: "Using the OCAR Structure at Multiple Levels in Your Narrative CV"
-tags: ["PhD", "Academic", "Careers"]
+tags: ["PhD", "Academic", "Careers", "Narrative CVs"]
 categories: ["PhD Progress", "Resources"]
 description: "Learn how OCAR structure works at three nested levels in narrative CVs. Understand the fractal approach from individual examples to Personal Statement."
 keywords: ["OCAR narrative CV", "nested OCAR structure", "three level OCAR", "narrative CV structure", "fractal narrative CV", "OCAR framework", "building narrative CV", "R4RI structure", "narrative CV levels", "academic CV framework"]
@@ -28,7 +28,7 @@ In your narrative CV, OCAR works at three distinct levels:
 
 1. **Individual example level:** The story of each specific contribution.
 2. **Module level:** The story that connects multiple examples within each of the four modules.
-3. **CV level:** The overarching story that spans all four modules (your Personal Statement)
+3. **CV level:** The overarching story that spans all four modules (your [Personal Statement](../writing-your-personal-statement-for-a-narrative-cv/))
 
 That overarching story becomes your personal statement: the story of you as a researcher.
 
@@ -64,7 +64,7 @@ Your module-level OCAR shouldn't simply repeat what's in individual examples. In
 
 Your Personal Statement (2-3 sentences) is the most condensed OCAR, distilling your entire career narrative. It should emerge naturally from your module-level narratives, not the other way around.
 
-First draft the full OCAR version (3-4 paragraphs), then condense it ruthlessly to its essence. For more guidance on this process, see [Writing Your Personal Statement](../writing-your-personal-statement-for-a-narrative-cv/).
+First draft the full OCAR version (3-4 paragraphs), then distil it ruthlessly to its essence. For more guidance on this process, see [Writing Your Personal Statement](../writing-your-personal-statement-for-a-narrative-cv/).
 
 ## Common Pitfalls with Narrative CVs
 
@@ -87,7 +87,7 @@ Within each OCAR narrative, aim for roughly:
 - **Action:** 40%
 - **Resolution:** 25%
 
-Many researchers spend too long on context (Opening) and downplay the impact (Resolution).
+💡 Many researchers spend too long on context (Opening) and downplay the impact (Resolution).
 
 ### Vague Challenges
 
@@ -117,8 +117,8 @@ Creating these nested narratives requires working at all three levels simultaneo
 2. Look for patterns to identify module-level narratives.
 3. Refine individual examples to strengthen the module narrative.
 4. Identify your overarching theme across modules.
-5. Draft your Personal Statement.
-6. Adjust module and individual narratives to reinforce the overall story.
+5. Draft your [Personal Statement](../writing-your-personal-statement-for-a-narrative-cv/).
+6. Adjust module and individual narratives to [reinforce the overall story](../strengthening-your-narrative-cv-language/).
 
 This back-and-forth between levels is what makes narrative CVs challenging — but also powerful. You're not just writing four separate modules; you're creating a cohesive story that works at three scales simultaneously.
 

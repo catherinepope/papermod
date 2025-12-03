@@ -1,17 +1,18 @@
 ---
-date: "2025-11-17T16:17:17Z"
-draft: true
+date: "2025-12-03T13:17:17Z"
+draft: false
 title: "Writing Your Personal Statement for a Narrative CV"
-tags: ["PhD", "Academic", "Careers"]
+tags: ["PhD", "Academic", "Careers", "Narrative CVs"]
 categories: ["PhD Progress", "Resources"]
 description: "Learn how to write a compelling Personal Statement for your narrative CV. Step-by-step guidance from finding your research identity to the final 2-3 sentences."
 keywords: ["personal statement narrative CV", "academic personal statement", "research identity", "narrative CV personal statement", "writing personal statement", "R4RI personal statement", "academic CV statement", "condensing personal statement", "researcher identity statement", "funding application statement"]
 ShowToc: true
 # OpenToc: true  
 hideMeta: true
+showBreadcrumbs: true
 ---
 
-Your Personal Statement is possibly the most challenging part of a narrative CV. In just 2-3 sentences,[^1] you need to convey your research identity, your approach, and why you're the right person for the funding 😳 It's not a mini-biography or a list of achievements — you're distilling your overarching research narrative.
+Your Personal Statement is possibly the most challenging part of a [narrative CV](../an-introduction-to-narrative-cvs/). In just 2-3 sentences,[^1] you need to convey your research identity, your approach, and why you're the right person for the funding 😳 It's not a mini-biography or a list of achievements — you're distilling your overarching research narrative.
 
 How on earth do you compress your entire career into a few sentences?
 
@@ -77,13 +78,13 @@ Don't worry about length yet. Just get the full story down.
 
 Now identify the absolute essentials:
 
-- Your core commitment/motivation (from Opening)
-- Your distinctive approach (from Challenge/Action)
-- The breadth of your contributions (acknowledging all modules)
+- Your core commitment/motivation (from Opening).
+- Your distinctive approach (from Challenge/Action).
+- The breadth of your contributions (acknowledging all modules).
 
 **Step 3: Refine to 2-3 sentences (~50 words)**
 
-This is the hardest edit. Every word must earn its place! You're aiming for:
+This is the hardest edit. Every word must earn its place. You're aiming for:
 
 - **Sentence 1:** Your research identity and core commitment.
 - **Sentence 2:** What you actually do (spanning your four modules)
@@ -221,7 +222,7 @@ The Personal Statement should emerge naturally from your module-level narratives
 2. Draft your full OCAR version (don't start with the short version!)
 3. Condense progressively, testing at each stage - for more guidance, take a look at this post on [strengthening the language in your narrative CV](../strengthening-your-narrative-cv-language/).
 4. Review the [annotated narrative CV example](../narrative-cv-example-arts-humanities/) to see a Personal Statement in context.
-5. Read [Using OCAR at Three Levels](../using-the-ocar-structure-for-narrative-cvs/) to understand how your Personal Statement connects to your full narrative
+5. Read [Using OCAR at Three Levels](../using-the-ocar-structure-for-narrative-cvs/) to understand how your Personal Statement connects to your full narrative.
 
 Your Personal Statement is difficult to write because it requires extensive self-reflection and ruthless editing. But when it works, it immediately tells reviewers who you are as a researcher and why they should fund you. Also, you'll no longer panic when someone asks you to describe your research at a conference. 
 

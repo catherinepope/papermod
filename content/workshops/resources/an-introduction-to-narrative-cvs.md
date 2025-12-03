@@ -129,6 +129,3 @@ It takes a while to understand the narrative CV format and its implications. The
 💡 You'll need to adapt your CV for each application to ensure you're including the most relevant examples for that project and funder. This means creating a library of building blocks you can assemble. Developing this library is also helpful for when you need to create team narrative CVs. Team members can share their libraries and pick the best examples for each module. 
 
 In [the next post](../what-should-you-include-in-a-narrative-cv/), we'll explore what examples you might include in those four modules.
-
-
-

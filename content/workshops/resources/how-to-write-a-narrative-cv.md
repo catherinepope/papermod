@@ -2,8 +2,8 @@
 date: "2025-10-31T15:26:01Z"
 draft: false
 title: "How to Write a Narrative CV"
-# tags: ["PhD", "Academic", "Careers", "Narrative CVs"]
-# categories: ["PhD Progress", "Resources"]
+tags: ["PhD", "Academic", "Careers", "Narrative CVs"]
+categories: ["PhD Progress", "Resources"]
 description: "Step-by-step guide to writing narrative CVs for UK research funding. Learn the OCAR structure with before/after examples across all four R4RI modules."
 keywords: ["narrative CV writing", "OCAR structure", "R4RI examples", "academic CV guide", "research funding applications", "narrative CV modules", "UK research grants", "UKRI applications", "CV writing guide", "narrative storytelling"]
 ShowBreadCrumbs: true
@@ -106,9 +106,9 @@ This theme also helps you create the "Personal Statement" section of your narrat
 
 This is an iterative process. You'll draft, identify themes, refine, and adjust as you see how your examples work together.
 
-<!--For more detailed guidance on this process, see [Using the OCAR Structure at Multiple Levels in Your Narrative CV](../using-the-ocar-structure-for-narrative-cvs/)
+For more detailed guidance on this process, see [Using the OCAR Structure at Multiple Levels in Your Narrative CV](../using-the-ocar-structure-for-narrative-cvs/).
 
-In the **Writing Your Narrative CV** workshop, we work through this refinement process in detail, helping you identify your strongest narratives and craft them into a cohesive application. -->
+In my [Writing Your Narrative CV workshop](../../writing-a-narrative-cv/), we work through this refinement process in detail, helping you identify your strongest narratives and craft them into a cohesive application.
 
 ## Conclusion
 
@@ -119,13 +119,11 @@ Remember:
 - Start with [relevant examples for each module](../what-should-you-include-in-a-narrative-cv/).
 - [Use OCAR](../using-the-ocar-structure-for-academic-writing/) to structure each narrative.
 - Look for the overarching theme that connects your work.
-- Use that theme for your personal statement.
-- Refine ruthlessly to meet word limits and funder expectations.
-
-<!-- link to Strengthening Your Narrative CV Language -->
+- Use that theme for your [personal statement](../writing-your-personal-statement-for-a-narrative-cv/).
+- [Refine ruthlessly](../strengthening-your-narrative-cv-language/) to meet word limits and funder expectations.
 
 Your research deserves to be understood and funded. A well-crafted narrative CV helps you tell that story more effectively.
 
-<!--
+---
 
-The narrative CV format is still relatively new, and many researchers find it challenging. If you'd like hands-on support with developing and refining your narratives, ask your institution to book [one of my narrative CV workshops](../../../workshops/writing-a-narrative-cv/) where we'll work through the process together and you'll receive feedback on your drafts. We also discuss how to contribute to team narrative CVs. -->
+👉 The narrative CV format is still relatively new, and many researchers find it challenging. If you'd like hands-on support with developing and refining your narratives, ask your institution to book [one of my narrative CV workshops](../../../workshops/writing-a-narrative-cv/) where we'll work through the process together and you'll receive feedback on your drafts. We also discuss how to contribute to team narrative CVs.

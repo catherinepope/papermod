@@ -1,13 +1,15 @@
 ---
 date: "2025-11-07T12:59:24Z"
-draft: true
+draft: false
 title: "Narrative CV Outline"
 # tags: ["tag 1", "tag2", "tag3"]
 # categories: 
 # description: ""
 # keywords: ["keyword 1", "keyword 2", "keyword 3"]
 # ShowToc: true
-# OpenToc: true  
+# OpenToc: true
+hideMeta: true
+showBreadcrumbs: true
 ---
 
 This template shows the structure of a narrative CV with space for planning your OCAR elements. Copy and paste into your preferred writing app and adapt as needed — you might need fewer or more examples per module depending on your word limit.
@@ -21,7 +23,7 @@ Use these fictitious examples for inspiration:
 
 ## Personal Statement
 
-[2-3 sentences - draft this last!]
+2-3 sentences - draft this last!
 
 See: [Writing Your Personal Statement](../writing-your-personal-statement-for-a-narrative-cv/) for guidance
 

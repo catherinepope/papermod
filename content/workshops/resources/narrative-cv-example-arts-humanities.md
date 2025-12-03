@@ -1,16 +1,19 @@
 ---
-date: "2025-11-06T17:03:44Z"
-draft: true
+date: "2025-12-03T13:03:44Z"
+draft: false
 title: "Narrative CV Example - Arts and Humanities"
-tags: ["PhD", "Academic", "Careers"]
+tags: ["PhD", "Academic", "Careers", "Narrative CVs"]
 categories: ["PhD Progress", "Resources"]
 description: "Annotated narrative CV example for applied theatre researchers. See how OCAR structure works across all four R4RI modules with detailed commentary."
 keywords: ["narrative CV example", "annotated CV", "applied theatre", "OCAR examples", "R4RI narrative CV", "arts humanities CV", "practice-based research CV", "community engagement CV", "narrative CV template", "academic CV examples"]
 ShowBreadCrumbs: true
 hideMeta: true
+showToc: true
 ---
 
-This is a fictitious narrative CV created to demonstrate the OCAR structure in response to [an equally fictitious funding call](../funding-call/). It's designed to help you understand how the framework works, not to provide a template to copy. Use this example for understanding the approach, then make it your own. Click the arrows for commentary on how the OCAR framework was applied in each section.
+This is a **fictitious** narrative CV created to demonstrate the OCAR structure in response to [an equally fictitious funding call](../funding-call/). It's designed to help you understand how the framework works, not to provide a template to copy. Use this example for understanding the approach, then make it your own. Any resemblance to real research is coincidental.
+
+Click the arrows for commentary on how the OCAR framework was applied in each section.
 
 👉 Important reminders:
 
