@@ -62,15 +62,17 @@ Links to all the materials you need will appear here on 5th December 👀
 - Narrative CV outline
 - Narrative CV example
 - Using the OCAR structure to create multi-level narratives
-- Writing your Personal Statement
 
 ## After the workshop
 
 You'll get some further guidance and activities to complete at the end of the session, along with a copy of the slides.
 
+- Writing your Personal Statement
 - Strengthening your Narrative CV
 - Narrative CV Action Plan
+- Writing a Team Narrative CV
 - Team Narrative CV example
+- The Delphi Method: A Better Way to Make Team Decisions
 
 ### Websites 🕸️
 
