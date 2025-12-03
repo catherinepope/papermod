@@ -1,8 +1,8 @@
 ---
 date: "2025-11-07T18:03:21Z"
-draft: true
+draft: false
 title: "Narrative CV Example - Teams"
-tags: ["Academic", "Careers"]
+tags: ["Academic", "Careers", "Narrative CVs"]
 categories: ["Resources"]
 description: "Annotated team narrative CV example showing OCAR structure for collaborative climate justice project. See how to demonstrate complementary expertise and team cohesiveness."
 keywords: ["team narrative CV example", "collaborative CV example", "annotated team CV", "R4RI team example", "team OCAR structure", "climate research team CV", "interdisciplinary team CV", "team funding application", "collaborative research CV", "team attribution examples"]
@@ -14,7 +14,9 @@ showBreadcrumbs: true
 
 # Team Narrative CV: Climate Stories Collective
 
-⚠️ **Disclaimer**: This is a fictitious team narrative CV created to demonstrate [the OCAR structure](../using-the-ocar-structure-for-narrative-cvs/) in response to an equally [fictitious funding call](../funding-call-teams/). It's designed to help you understand how the framework works for team applications, not to provide a template to copy.
+⚠️ **Disclaimer**: This is a fictitious team narrative CV created to demonstrate [the OCAR structure](../using-the-ocar-structure-for-narrative-cvs/) in response to an equally [fictitious funding call](../funding-call-teams/). Any resemblance to real research is coincidental.
+
+It's designed to help you understand how the framework works for team applications, not to provide a template to copy.
 
 - Your narrative CV should reflect your team's authentic experience and voice.
 - Every funder has different requirements - always check current guidelines.

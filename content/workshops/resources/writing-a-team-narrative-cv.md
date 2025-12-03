@@ -1,8 +1,8 @@
 ---
-date: "2025-11-10T14:37:57Z"
-draft: true
+date: "2025-12-03T14:37:57Z"
+draft: false
 title: "Writing a Team Narrative CV"
-tags: ["Academic", "Careers"]
+tags: ["Academic", "Careers", "Narrative CVs"]
 categories: ["Resources"]
 description: "Learn how to write team narrative CVs for collaborative funding applications. Practical guidance on demonstrating collective strength and complementary expertise."
 keywords: ["team narrative CV", "collaborative CV writing", "team funding application", "R4RI team CV", "writing team CV", "academic team applications", "collaborative research CV", "team personal statement", "group narrative CV", "team research applications"]
@@ -12,14 +12,14 @@ hideMeta: true
 showBreadcrumbs: true
 ---
 
-Team funding applications require a different approach to [narrative CVs](./an-introduction-to-narrative-cvs/). Rather than showcasing individual excellence, you need to demonstrate collective strength and complementary expertise. The main challenge is that you're doing this within the same word limits as an individual CV 😲
+Team funding applications require a different approach to [narrative CVs](../an-introduction-to-narrative-cvs/). Rather than showcasing individual excellence, you need to demonstrate collective strength and complementary expertise. The main challenge is that you're doing this within the same word limits as an individual CV 😲
 
 This post covers what changes (and what stays the same) when writing team narrative CVs, and provides a practical process for developing them collaboratively.
 
 ## What do team and individual narrative CVs have in common?
 
 - The four R4RI modules - your team still needs to address all four areas of contribution.
-- The OCAR structure remains effective - it works at the same three nested levels (Team Statement, module narratives, individual examples).
+- The [OCAR structure](../using-the-ocar-structure-for-narrative-cvs/) remains effective - it works at the same three nested levels (Team Statement, module narratives, individual examples).
 - Word limits - funders don't give you extra words for having more people (typically still a total of 1,500-2,000 words).
 - Need for specifics - you still need concrete examples with numbers, outcomes, and impact.
 
@@ -27,7 +27,7 @@ This post covers what changes (and what stays the same) when writing team narrat
 
 - The focus shifts from individual to collective. It's not about showing that everyone is excellent; it's showing how this specific team offers the right combination of expertise to deliver the proposed project.
 - You need to demonstrate complementarity. Why does this specific combination of people create something greater than individuals working separately?
-- A Team Statement replaces the Personal Statement. This opening needs to convey collective identity.
+- A Team Statement replaces the [Personal Statement](../writing-your-personal-statement-for-a-narrative-cv/). This opening needs to convey collective identity.
 
 Above all, you're answering the question: "Why is this the right team for this project?", not "Why are these good researchers?" Funders need to understand each team member's specific contribution and expertise, and also get a sense that you can all work together successfully to deliver the project within the timeframe.
 
@@ -44,12 +44,9 @@ This individual preparation makes collaborative writing much easier. When you me
 
 ## Discussing as a Team
 
-SIGNPOST DELPHI METHOD
-
-
 ### Step 1: Share and discuss
 
-Meet and review everyone's example libraries. Ideally, share those libraries in advance (for example, as a shared Google Doc). Make sure all information is in a format that everyone can access.
+Meet and review everyone's example libraries. Ideally, share those libraries in advance (for example, as a shared Google Doc). Make sure all information is in a format that everyone can access. The[ Delphi Method](../../../posts/the-delphi-method/) might be an effective approach.
 
 You can use the following questions as the basis for your discussion:
 
@@ -86,7 +83,7 @@ You can develop this team narrative by discussing:
 - How is the team's expertise complementary?
 - What makes this team distinctive?
 
-For example, the Climate Stories Collective team's narrative centres on "bridging creative practice, environmental science, and community engagement to address climate justice." Each member contributes different expertise toward this shared goal.
+For example, the [Climate Stories Collective team's narrative](../narrative-cv-example-teams/) centres on "bridging creative practice, environmental science, and community engagement to address climate justice." Each member contributes different expertise toward this shared goal.
 
 ### Step 4: Assign drafting responsibility
 
@@ -101,7 +98,7 @@ Having one drafter prevents the CV from reading like it was written by committee
 
 ## Writing the Team Narrative
 
-Team narrative CVs use the same OCAR structure at three levels, but adapted for collective storytelling.
+Team narrative CVs use the same [OCAR structure at three levels](../using-the-ocar-structure-for-narrative-cvs/), but adapted for collective storytelling.
 
 👉 You can [see a sample team narrative CV](../narrative-cv-example-teams/), including commentary on how it emerged from the OCAR structure.
 
@@ -113,9 +110,9 @@ Your Team Statement replaces the individual Personal Statement. It should:
 - Hint at complementary expertise.
 - Touch on breadth of contributions across modules.
 
-Here's an example from the Climate Stories Collective:
+Here's an example from the fictional Climate Stories Collective:
 
->"Interdisciplinary research team combining creative practice, environmental science, and community engagement expertise to address climate justice through collaborative storytelling. We develop participatory arts projects that centre marginalized voices in climate discourse, create innovative methods for translating complex environmental data into accessible narratives, and build sustainable partnerships between researchers, artists, and frontline communities."
+>"Interdisciplinary research team combining creative practice, environmental science, and community engagement expertise to address climate justice through collaborative storytelling. We develop participatory arts projects that centre marginalised voices in climate discourse, create innovative methods for translating complex environmental data into accessible narratives, and build sustainable partnerships between researchers, artists, and frontline communities."
 
 This immediately tells funders: what expertise the team combines, what they do, and their distinctive approach.
 
@@ -137,7 +134,7 @@ Each example should clearly indicate who did what. For example:
 - "Dr. Chen and Dr. Okafor partnered to establish..." (joint leadership)
 - "Working with Dr. Martinez, I facilitated..." (collaborative effort with clear roles)
 
-Funders reading your team CV should be able to understand each member's specific expertise and contribution.
+💡 Funders reading your team CV should be able to understand each member's specific expertise and contribution.
 
 ## The Challenges of Team Narrative CVs
 
@@ -171,4 +168,4 @@ If disagreements arise:
 - Consult [the fictional team funding call example](../funding-call-teams/) to understand what funders look for.
 - Read [What Should You Include in a Narrative CV?](../what-should-you-include-in-a-narrative-cv/) to build your personal library of examples.
 
- Team narrative CVs demand coordination, compromise, and clear communication. But the process of developing them strengthens your team and clarifies everyone's contribution before the project even starts. It's time well spent.
+Team narrative CVs demand coordination, compromise, and clear communication. But the process of developing them strengthens your team and clarifies everyone's contribution before the project even starts. It's time well spent.

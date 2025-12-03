@@ -1,15 +1,17 @@
 ---
-date: "2025-11-07T17:57:37Z"
-draft: true
+date: "2025-12-03T14:57:37Z"
+draft: false
 title: "Fictitious Teams Funding Call for Narrative CV workshop"
-tags: ["Academic", "Careers"]
-categories: ["Resources"]
-description: "Fictitious team funding call for arts and humanities collaborative research. Practice example for writing team narrative CVs with clear assessment criteria."
-keywords: ["team funding call example", "collaborative arts funding", "team narrative CV requirements", "R4RI team application", "arts humanities team grant", "collaborative research funding", "team CV example", "funding call criteria", "team application example", "research team funding"]
+# tags: ["Academic", "Careers"]
+# categories: ["Resources"]
+# description: "Fictitious team funding call for arts and humanities collaborative research. Practice example for writing team narrative CVs with clear assessment criteria."
+# keywords: ["team funding call example", "collaborative arts funding", "team narrative CV requirements", "R4RI team application", "arts humanities team grant", "collaborative research funding", "team CV example", "funding call criteria", "team application example", "research team funding"]
 # ShowToc: true
 # OpenToc: true
 hideMeta: true
 showBreadcrumbs: true
+build:
+  list: false
 ---
 
 This is a fictitious funding call for the [Writing a Narrative CV](../writing-a-narrative-cv/) workshop. Use the guidelines below to draft your team narrative CV. What examples could you include in each module that reflect the priorities of this funding body?
@@ -87,7 +89,7 @@ Your team narrative CV will be assessed on:
 
 ---
 
-### Notes on the team narrative CV
+### Notes on the team narrative CV 📝
 
 The team narrative CV should:
 
