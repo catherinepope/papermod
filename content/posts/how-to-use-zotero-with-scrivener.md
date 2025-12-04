@@ -8,7 +8,7 @@ description: "Learn how to integrate Zotero and Scrivener using the RTF Scan met
 keywords: ["Zotero", "Scrivener", "RTF Scan", "academic writing", "citations", "bibliography", "research tools", "writing workflow"]
 ShowToc: true
 tocOpen: true
-aliases: ["/posts/how-to-use-zotero-with-scrivener-part-1"]
+aliases: ["/posts/how-to-use-zotero-with-scrivener-part-1/"]
 ---
 
 Although being a 21st-century researcher has its challenges, we are at least blessed with some excellent tools. Scrivener and Zotero are two of the best. This dream team makes it much easier to plan and draft your writing, then add citations and bibliographies in the right format. Unfortunately, the two tools aren't directly integrated. This means finding workarounds and making compromises. In a pair of blog posts, I'll explain two approaches - one simple, [one more complicated](../how-to-use-zotero-with-scrivener-part-2/) - so you can decide what's right for you.
