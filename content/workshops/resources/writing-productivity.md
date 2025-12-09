@@ -8,6 +8,7 @@ description: "Resources for workshop on Boosting Your Writing Productivity"
 # keywords: ["Academic writing", "writing productivity", "writing progress"]
 ShowBreadCrumbs: true
 hideMeta: true
+aliases: ["/boosting-your-writing-productivity/"]
 ---
 
 Here are the further resources for my workshop on [Boosting Your Writing Productivity](../../../workshops/boosting-your-writing-productivity).

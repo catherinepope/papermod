@@ -10,50 +10,42 @@ ShowToc: true
 tocOpen: true  
 ---
 
-CHECK THE DOCS FIRST
-
-https://www.zotero.org/support/kb/importing_records_from_endnote
+One of the questions I’m asked most frequently is whether it’s possible for EndNote users to switch easily to Zotero. Yes, it is! Many of the tutorials focus on exporting your library in RIS format. Although this is relatively straightforward, this method doesn't retain your PDF attachments, groups, or formatting. In this tutorial, I'll walk you through the XML method. You need to follow the instructions precisely, but you'll get a much better result.
 
 
+## 1. Export a RIS file from EndNote
 
-One of the questions I’m asked most frequently is whether it’s possible for EndNote users to switch easily to Zotero. Yes, it is! The official documentation is a bit overwhelming, so here’s a short guide to explain what you need to do in three easy steps. There’s also a screencast at the end.
+A RIS file is a format that allows citation tools to exchange data.
 
-1) Specify a new output format in EndNote
-This exports your library in a format that can be understood by Zotero.
+In EndNote, make sure you have **All References** selected on the left, then click **File > Export** and save the file somewhere you can easily find it. The file type should 
 
-In EndNote, click Edit on the top menu, then Output Styles, then Open Style Manager.
 
-Open Style Manager in EndNote
+ The name defaults to `library`, but you might want to call it something more distinctive like `Mendeley`.
 
-Keep scrolling down the list of styles until you find one called Refman (RIS) Export (alternatively, pressing the letter r on your keyboard should take you there more quickly).
+{{< img src="images/mendeley-all-references.jpg" alt="Screenshot of Mendeley" center="true" >}}
 
-RefMan (RIS) Export
+Open Zotero and click **File > Import**. Locate the file you just exported from Mendeley. You then have a couple of options:
 
-Check the box next to Refman (RIS) Export, then click the smaller x in the top right-hand corner to close the style manager (don’t click the bigger X, else it’ll close EndNote.
+- Check the box if you want to place your imported items in a new collection with the same name as your saved file. If you leave the box unchecked, they'll just be added to **My Library**.
 
-Close Style Manager in EndNote
+- Choose whether you want to copy any attachments to your Zotero storage folder - they then contribute towards your [storage limit](../managing-storage-in-zotero/) of 300Mb. If you choose **Link to files in original location**, they won't be synced by Zotero.
 
-2) Export your EndNote library
-Click File then Export and you’ll be prompted to save the file. Make sure it’s somewhere you can easily locate it for the next step. Your desktop is fine. The file type should be Text File (*.txt) and the output style Refman (RIS) Export (the one we just added in the style manager).
-
-By default, it’s set to export only the references you’ve selected in EndNote. As you probably want everything, you should uncheck this box.
-
-Select output style in EndNote
-
-Click Save and the file is created for you.
-
-You can now close EndNote.
-
-3) Import into Zotero
-In Zotero, click File then Import. Find the file you created in the previous step (it’s called My EndNote Library) then click Open.
-
-Import into Zotero
-
-Zotero will start importing your EndNote library.
-
-Importing items into Zotero
+{{< img src="images/zotero-import-mendeley.jpg" alt="Screenshot of Zotero" center="true" >}}
 
 You should now see that Zotero has created a new collection called My EndNote Library, which now contains all your imported items.
 
-Unfortunately, Zotero won’t retain your EndNote groups or file attachments, but this method does save you a lot of inputting. If you’re feeling both brave and geeky, there are some detailed instructions on how to tweak Zotero so that it’ll import your files from EndNote, too.
+There are two problems with this method:
 
+- It doesn't export PDFs attachments.
+- You won't retain any of your EndNote groups or the formatting in your records.
+
+Method 2 is fiddlier, but more powerful.
+
+
+
+
+## Conclusion
+
+https://www.zotero.org/support/kb/importing_records_from_endnote
+
+Creating this tutorial has reminded me how much I dislike EndNote. If you're moving to Zotero, I feel sure you're going to be much happier.
