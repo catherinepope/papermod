@@ -48,3 +48,9 @@ You should now see that Zotero has created a new Collection called `My EndNote L
 I think this method is both effective and straightforward, provided you save your `.xml` file in the right place. For more information and troubleshooting, [visit the Zotero support page](https://www.zotero.org/support/kb/importing_records_from_endnote).
 
 Creating this tutorial has reminded me how much I dislike EndNote. If you're moving to Zotero, I feel sure you're going to be much happier.
+
+---
+
+I'm currently creating a **Getting Started with Zotero** online course. Add your email below to be the first to know when it's launched:
+
+{{< newsletter-form tag="zotero" >}}
