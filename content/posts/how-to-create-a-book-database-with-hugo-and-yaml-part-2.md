@@ -171,6 +171,6 @@ your-hugo-site/
 
 ## Conclusion
 
-With the code we've explored in this tutorial, you can do much more with that YAML database. I use these examples to create reading lists for my workshops. It takes seconds to add a list of all the books on academic writing, for instance. In the next tutorial, I'll explain how to display a full bibliography. Hope to see you there.
+With the code we've explored in this tutorial, you can do much more with that YAML database. I use these examples to create reading lists for my workshops. It takes seconds to add a list of all the books on academic writing, for instance. In the next tutorial, I'll explain [how to display a full bibliography](../how-to-create-a-book-database-with-hugo-and-yaml-part-3/). Hope to see you there.
 
 [^1]: If the lack of hyphen in "12 Week" is bothering you, I feel your pain.
