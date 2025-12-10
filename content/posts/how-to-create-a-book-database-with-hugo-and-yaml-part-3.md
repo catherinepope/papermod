@@ -10,7 +10,7 @@ ShowToc: true
 tocOpen: true  
 ---
 
-Once I got my YAML book list set up, I couldn't stop thinking of different uses for it. Although I'm mainly using it to generate reading lists for specific workshops, I thought it would be useful to also generate a [full reading list or bibliography](../../workshops/resources/bibliography/).
+Once I got my YAML book list set up, I couldn't stop thinking of different uses for it. Although I'm mainly using it to generate reading lists for specific workshops, I thought it would be useful to also generate a [full reading list or bibliography](../../workshops/resources/reading-list/).
 
 In this tutorial, I'll extend the code from [Part 1](../how-to-create-a-book-database-with-hugo-and-yaml/) and [Part 2](../how-to-create-a-book-database-with-hugo-and-yaml-part-2/) to retrieve and display all the books, arranged by subject. To follow along, you'll need the following files from those earlier tutorials:
 

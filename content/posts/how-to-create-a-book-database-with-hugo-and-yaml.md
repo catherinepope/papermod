@@ -7,7 +7,8 @@ categories: ["Technology"]
 description: "Learn how to create a reusable book database in Hugo using YAML data files and shortcodes. Save time by maintaining book details in one place and updating links site-wide instantly."
 keywords: ["Hugo", "YAML", "data files", "shortcodes", "static site generator", "Hugo tutorial", "book database", "reusable content"]
 ShowToc: true
-tocOpen: true  
+tocOpen: true
+aliases: ["/posts/how-to-create-a-book-database-with-hugo-and-yaml-part-1/"]
 ---
 
 While creating resources for some of my workshops, I realised I was recommending the same books repeatedly. This also meant I was typing the same details repeatedly - time I could be spending reading. I then started experimenting with creating a simple database in Hugo. I wanted a solution that would allow me to maintain my book details (title, author, and ISBN) in one place, then pull them into specific pages with a shortcode and link to a bookstore. This way, I'd:
