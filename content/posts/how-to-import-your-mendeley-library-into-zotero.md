@@ -41,6 +41,8 @@ However, Method 2 is the answer.
 
 If you're using Zotero 7, you can take advantage of a more sophisticated approach where Zotero talks directly to Mendeley.
 
+⚠️ **Before importing:** It's a good idea to temporarily disable automatic sync in Zotero. Go to **Edit > Settings** (Windows) or **Zotero > Settings** (Mac), click the **Sync** tab, and uncheck **Sync automatically**. You can re-enable this after checking your imported library looks correct.
+
 In Zotero, click **File > Import**, then **Mendeley Reference Manager online import**. 
 
 {{< img src="images/Zotero-mendeley-online-import.jpg" alt="Screenshot of Zotero import options" center="true" >}}

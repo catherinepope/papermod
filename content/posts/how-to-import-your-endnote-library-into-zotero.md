@@ -31,6 +31,8 @@ In EndNote, click **File > Export**. You'll see a pop-up window like this:
 
 ## Import the XML file into Zotero
 
+⚠️ **Before importing:** It's a good idea to temporarily disable automatic sync in Zotero. Go to **Edit > Settings** (Windows) or **Zotero > Settings** (Mac), click the **Sync** tab, and uncheck **Sync automatically**. You can re-enable this after checking your imported library looks correct.
+
 In Zotero, click **File > Import**, then locate the file you just exported from EndNote. You then have a couple of options:
 
 - Check the box if you want to place your imported items in a new Collection (Zotero's equivalent of Groups) with the same name as your saved file (e.g. `My Endnote Library`). If you leave the box unchecked, they'll just be added to **My Library**.
@@ -47,7 +49,7 @@ You should now see that Zotero has created a new Collection called `My EndNote L
 
 I think this method is both effective and straightforward, provided you save your `.xml` file in the right place. For more information and troubleshooting, [visit the Zotero support page](https://www.zotero.org/support/kb/importing_records_from_endnote).
 
-Creating this tutorial has reminded me how much I dislike EndNote. If you're moving to Zotero, I feel sure you're going to be much happier.
+Creating this tutorial has reminded me of EndNote's clunkiness. If you're moving to Zotero, I feel sure you're going to be much happier.
 
 ---
 
