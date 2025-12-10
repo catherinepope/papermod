@@ -76,6 +76,12 @@ oxford:
   subject: "CV"
   description: "Case studies and interviews on experiences of creating a Narrative CV."
 
+pep_cv:
+  title: "Peer Exchange Platform for Narrative-style CVs (PEP-CV)"
+  url: "https://pep-cv.mariecuriealumni.eu/"
+  subject: "CV"
+  description: "Discuss how to best present a diverse range of experiences, achievements, and career paths."
+
 phd_liferaft:
   title: "The PhD Life Raft"
   url: "https://thephdliferaft.com"
