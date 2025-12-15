@@ -12,7 +12,27 @@
 <script>
   window.addEventListener('load', () => {
     const path = window.location.pathname;
-    fathom.trackEvent('404: ' + path);
+    
+    // List of bot/scanner patterns to ignore
+    const botPatterns = [
+      '/docker/',
+      '/kubernetes/',
+      '/wp-admin/',
+      '/wp-content/',
+      '/wordpress/',
+      '/.env',
+      '/admin/',
+      '/phpmyadmin/',
+      '/webinar/'
+    ];
+    
+    // Check if path matches any bot pattern
+    const isBot = botPatterns.some(pattern => path.toLowerCase().includes(pattern));
+    
+    // Only track if it's NOT a bot pattern
+    if (!isBot) {
+      fathom.trackEvent('404: ' + path);
+    }
   });
 </script>
 {{- end }}
