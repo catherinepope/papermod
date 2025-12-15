@@ -36,9 +36,9 @@ In the workshop, I'll start by getting you thinking about your funder's requirem
 
 By the end of the session, you'll have:
 
-- Drafted at least one complete module section using the OCAR structure.
-- Identified your strongest examples across all four modules.
-- Understood how to create an overarching narrative for your CV.
+- Identified your strongest examples for inclusion in your CV.
+- Drafted some components using the OCAR structure.
+- Understood how to create an overarching research narrative.
 
 ### What you'll need 👜
 
@@ -58,7 +58,6 @@ Otherwise, I'm looking forward to meeting you soon!
 
 Links to all the materials you need will appear here on 17th December 👀
 
-- Narrative CV outline
 - Narrative CV example
 - Using the OCAR structure to create multi-level narratives
 - Writing your Personal Statement
@@ -71,4 +70,6 @@ You'll get some further guidance and activities to complete at the end of the se
 - Narrative CV Action Plan
 - Team Narrative CV example
 
-<!-- ### Websites 🕸️ -->
+### Websites 🕸️
+
+{{< website-subject "CV" >}}

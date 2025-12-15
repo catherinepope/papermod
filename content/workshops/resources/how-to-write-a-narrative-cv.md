@@ -13,7 +13,7 @@ showToc: true
 
 As discussed [in the previous post](../what-should-you-include-in-a-narrative-cv/), for each narrative CV, you need to identify your audience and gather relevant examples. Now it's time to start writing. [OCAR (Opening, Challenge, Action, Resolution)](../using-the-ocar-structure-for-academic-writing/) provides a framework for turning your achievements into compelling narratives that show how and why, not just what.
 
-In this post, we'll explore a step-by-step method and some examples for the four modules.
+In this post, we'll explore a step-by-step method and some examples for the four modules in [UKRI's R4RI format](https://www.ukri.org/apply-for-funding/develop-your-application/resume-for-research-and-innovation-r4ri-guidance/).
 
 ## The Method
 

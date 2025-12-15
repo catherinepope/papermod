@@ -43,7 +43,7 @@ With these funder priorities in mind, let's look at how the four modules help yo
 
 ## The Narrative CV modules
 
-Narrative CV templates usually ask you to explain your contribution across four modules. You can think of these modules as themes for your story:
+Narrative CV templates based on [UKRI's R4RI format](https://www.ukri.org/apply-for-funding/develop-your-application/resume-for-research-and-innovation-r4ri-guidance/) usually ask you to explain your contribution across four modules. You can think of these modules as themes for your story:
 
 - Generation and flow of new ideas, hypotheses, tools, or knowledge
 - Development of others
@@ -120,7 +120,7 @@ It's a good idea to organise these examples and artefacts on a platform like [Ze
 
 While your institution may have its own repository (and you might be required to use it), having everything in one platform that you control is particularly valuable if you move between institutions.
 
-You could also capture your broader experience on LinkedIn, where you'll also reach a more diverse audience. Funders might look at your LinkedIn profile to get a sense of your career and connections. There's no need to interact, if that feels uncomfortable or inauthentic, but a basic LinkedIn presence is rapidly becoming essential for academics.
+You could also capture your broader experience on LinkedIn, where you'll also reach a more diverse audience. Funders might look at your LinkedIn profile to get a sense of your career and connections. There's no need to interact, if that feels uncomfortable or inauthentic, but a [basic LinkedIn presence](../../../posts/linkedin-without-tears-a-guide-for-academics/) is rapidly becoming essential for academics.
 
 Audit your existing experience, then make sure you're capturing current and future activities in a way that'll help you assemble your narrative CV. 
 

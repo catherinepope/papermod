@@ -57,7 +57,7 @@ In September 2020, [UK Research and Innovation](https://www.ukri.org/what-we-do/
 
 ## What does a Narrative CV look like?
 
-Although the R4RI format is the most common, every funder will have their own flavour or interpretation of it. You should always check the funder's website for precise guidance on their requirements. However, there are broad similarities. 
+**Although the R4RI format is the most common, every funder will have their own flavour or interpretation of it.** You should always check the funder's website for precise guidance on their requirements. However, there are broad similarities. 
 
 Let's take a look at the common components.
 
