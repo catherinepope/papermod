@@ -1,6 +1,6 @@
 ---
 date: "2023-03-30T15:12:30Z"
-draft: true
+draft: false
 title: "How to Add a Theme as a Hugo Module"
 tags: ["Hugo", "Tutorials"]
 categories: ["Technology"] 
