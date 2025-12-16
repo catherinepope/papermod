@@ -12,7 +12,7 @@ hideMeta: true
 showBreadcrumbs: true
 ---
 
-This is a **fictitious** narrative CV created to demonstrate the OCAR structure in response to [an equally fictitious funding call](../funding-call-stem/). It's designed to help you understand how the framework works, not to provide a template to copy. Any resemblance to real research is coincidental.
+This is a **fictitious** narrative CV created to demonstrate the OCAR structure in response to [an equally fictitious funding call](../funding-call-stem/). It's designed to help you understand how the [R4RI format](https://www.ukri.org/apply-for-funding/develop-your-application/resume-for-research-and-innovation-r4ri-guidance/) works, not to provide a template to copy. Any resemblance to real research is coincidental.
 
 Use this example for understanding the approach, then make it your own. 
 

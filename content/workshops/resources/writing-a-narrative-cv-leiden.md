@@ -56,19 +56,21 @@ Otherwise, I'm looking forward to meeting you soon!
 
 ## During the workshop
 
-Links to all the materials you need will appear here on 17th December 👀
+👀 Here are links to all the materials you'll need to refer to:
 
-- Narrative CV example
-- Using the OCAR structure to create multi-level narratives
-- Writing your Personal Statement
+- [Narrative CV example](../narrative-cv-example-stem/)
+- [Using the OCAR structure to create multi-level narratives](../using-the-ocar-structure-for-narrative-cvs/)
+- [Strengthening your Narrative CV](../strengthening-your-narrative-cv-language/)
 
 ## After the workshop
 
-You'll get some further guidance and activities to complete at the end of the session, along with a copy of the slides.
+We won't be able to cover everything during the session, so here are some resources to help you continue working on your narrative CV:
 
-- Strengthening your Narrative CV
-- Narrative CV Action Plan
-- Team Narrative CV example
+- [Writing your Personal Statement](../writing-your-personal-statement-for-a-narrative-cv/)
+- [Narrative CV Action Plan](../how-to-write-a-narrative-cv/)
+- [Writing a Team Narrative CV](../writing-a-team-narrative-cv/)
+- [Team Narrative CV example](../narrative-cv-example-teams/)
+- [The Delphi Method: A Better Way to Make Team Decisions](../../../posts/the-delphi-method/)
 
 ### Websites 🕸️
 

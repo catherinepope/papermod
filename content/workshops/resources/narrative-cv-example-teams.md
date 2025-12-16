@@ -16,7 +16,7 @@ showBreadcrumbs: true
 
 ⚠️ **Disclaimer**: This is a fictitious team narrative CV created to demonstrate [the OCAR structure](../using-the-ocar-structure-for-narrative-cvs/) in response to an equally [fictitious funding call](../funding-call-teams/). Any resemblance to real research is coincidental.
 
-It's designed to help you understand how the framework works for team applications, not to provide a template to copy.
+It's designed to help you understand how the [R4RI format](https://www.ukri.org/apply-for-funding/develop-your-application/resume-for-research-and-innovation-r4ri-guidance/) works, not to provide a template to copy, not to provide a template to copy.
 
 - Your narrative CV should reflect your team's authentic experience and voice.
 - Every funder has different requirements - always check current guidelines.
