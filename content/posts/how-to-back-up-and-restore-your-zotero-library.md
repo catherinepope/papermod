@@ -84,7 +84,7 @@ Now the remote version is overwritten with the local restored version 😅
 
 Imagine your cat has trampled over your keyboard and deleted most of your items 😼 You hadn't quite got around to scheduling a backup job, and now Zotero has just synced the radically pruned version to the server. 
 
-Those `.bak` files lurking in your Zotero folder can come to the rescue. Zotero creates automatically daily backups, typically keeping the two most recent versions: `zotero.sqlite.bak` (the latest) and `zotero.sqlite.1.bak`.
+Those `.bak` files lurking in your Zotero folder can come to the rescue. Zotero automatically creates daily backups, typically keeping the two most recent versions: `zotero.sqlite.bak` (the latest) and `zotero.sqlite.1.bak`.
 
 Here's what to do:
 
