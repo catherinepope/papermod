@@ -34,7 +34,7 @@ If you want to try Hugo yourself, there's a [quickstart guide in the documentati
 
 Then find a theme you like - there are hundreds available through [the Hugo themes directory](https://themes.gohugo.io) - and experiment. The good thing about Hugo is that you can easily create and test sites locally. If you make a complete mess, just delete it and start again.
 
-I found [Ty Wall's WordPress to Hugo course](https://www.udemy.com/course/wp-to-hugo/?src=sac&kw=hugo) very helpful. It's not been updated since 2021, but the principles and workflow remain the same.
+I found [Ty Walls' Migrate from WordPress to Hugo course](https://www.udemy.com/course/wp-to-hugo/?src=sac&kw=hugo) very helpful. It's not been updated since 2021, but the principles and workflow remain the same.
 
 Hugo is good if:
 
