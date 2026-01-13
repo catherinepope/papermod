@@ -41,7 +41,7 @@ The two most important elements are:
 - `zotero.sqlite` - the database that stores all your Zotero data, including metadata, notes, and tags. Zotero loads this database when it starts up.
 - The `storage` folder - this is where your attachments are stored, such as PDFs and web snapshots.
 
-Other folders include your styles and plugins, e.g. `better-bibtex`, which also has it's own database.
+Other folders include your styles and plugins, e.g. `better-bibtex`, which also has its own database.
 
 You'll notice a couple of `zotero.sqlite` files with a `.bak` suffix. These files provide one method of restoring your Zotero Library if it gets corrupted. More on that in a moment.
 
