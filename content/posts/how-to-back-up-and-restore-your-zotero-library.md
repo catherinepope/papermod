@@ -18,7 +18,7 @@ In this post, I'll explain how to back up your Zotero Library, and then outline 
 
 You might have already have a solution (such as Time Machine on a Mac) that automatically backs up everything on your computer. If so, you just need to double-check that the Zotero directory is included.
 
-To locate your Zotero directory, go to **Settings** (Mac) or **Preferences** (Windows) **> Advanced**, then scroll down to the **Files and Folders** section. Under **Data Directory Location**, you'll see where all your Zotero data is stored.
+To locate your Zotero directory, go to **Settings** (Windows) or **Preferences** (Mac) **> Advanced**, then scroll down to the **Files and Folders** section. Under **Data Directory Location**, you'll see where all your Zotero data is stored.
 
 {{< img src="images/zotero-data-directory-location.jpg" alt="Zotero Data Directory location" center="true" >}}
 
