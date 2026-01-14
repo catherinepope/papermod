@@ -35,7 +35,7 @@ Once downloaded:
 
 Next, you need to tell Zotmoov where to move your files. 
 
-On Windows, go to **Edit > Settings**. On Mac, it's **Zotero > Preferences**.
+On Windows, go to **Edit > Settings**. On Mac, it's **Zotero > Settings**.
 
 1. Click the new **Zotmoov** tab.
 
