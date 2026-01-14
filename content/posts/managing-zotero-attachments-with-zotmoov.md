@@ -86,7 +86,7 @@ Zotmoov moves all the PDFs to your cloud storage folder and converts them to lin
 Zotmoov focuses primarily on moving files. If you relied on other Zotfile features, here's where you can find them:
 
 - **Annotation extraction:** This is now built into Zotero 7. Right-click on any PDF and select - **Add Note from Annotations** to extract your highlights and notes.
-- **File renaming:** Zotero 7 has improved its built-in file renaming capabilities. You can customise how files are named in **Settings/Preferences > General > File Renaming**.
+- **File renaming:** Zotero 7 has improved its built-in file renaming capabilities. You can customise how files are named in **Settings > General > File Renaming**.
 
 For other Zotmoov features and advanced configuration options, see the [Zotmoov documentation on GitHub](https://github.com/wileyyugioh/zotmoov).
 
