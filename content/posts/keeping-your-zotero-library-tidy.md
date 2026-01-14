@@ -50,7 +50,7 @@ Over time, you'll probably find you've created variations of the same tag, such 
 
 In a previous post, [I showed you how to disable and remove automatic tags](../how-to-disable-automatic-tags-in-zotero/). In case they've crept back in, here's a reminder.
 
-Click **Zotero > Preferences/Settings**, then the **General** tab. Then uncheck the box that says **Automatically tag items with keywords and subject headings**. 
+Click **Edit > Settings** (Windows) or **Zotero > Settings** (Mac), then the **General** tab. Then uncheck the box that says **Automatically tag items with keywords and subject headings**. 
 
 Then delete any existing automatic tags by right-clicking them in the tag browser and choosing **Delete Tag**, or delete them all by clicking the small funnel icon next to the search box and choosing **Delete Automatic Tags in This Library**. If you're not sure whether they're useful, you can uncheck **Show Automatic** to just hide them.
 
