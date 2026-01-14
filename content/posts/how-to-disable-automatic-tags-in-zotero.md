@@ -26,7 +26,7 @@ If you have a lingering suspicion those tags might be helpful, you could just hi
 
 To prevent these tags from ever cluttering up your Zotero Library again:
 
-1. Go to your Zotero Settings/Preferences and select the **General** tab on the left.
+1. Go to your Zotero Settings and select the **General** tab on the left.
 2. Under **Miscellaneous** uncheck the box that says **Automatically tag items with keywords and subject headings**.
 
 {{< img src="images/zotero-disable-automatic-tags.jpg" alt="Screenshot of automatic tags settings in Zotero" center="true" >}}
