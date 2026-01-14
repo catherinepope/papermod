@@ -36,7 +36,7 @@ If you're saving a lot of PDFs but don't want to spend the money, another option
 
 On Windows, this is under **Edit > Settings**.
 
-On a Mac, it's **Zotero > Preferences** 
+On a Mac, it's **Zotero > Settings** 
 
 Uncheck the box that says **Sync attachment files in My Library**. 
 
