@@ -78,3 +78,9 @@ You'll now see your saved search at the bottom of My Library.
 Any new additions are automatically added; anything that was added more than 7 days ago is automatically removed. If you're unlikely to check it weekly, make sure you set this to a more realistic cadence.
 
 If you carry out these Zotero housekeeping tasks at least monthly, your future self will thank you 😇
+
+---
+
+I'm currently creating a **Getting Started with Zotero** online course. Add your email below to be the first to know when it's launched:
+
+{{< newsletter-form tag="zotero" >}}
