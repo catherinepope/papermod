@@ -1,6 +1,6 @@
 ---
 date: "2026-01-16T13:33:37Z"
-draft: true
+draft: false
 title: "How to Create Forms for Hugo with Netlify"
 tags: ["Hugo", "Netlify"]
 categories: ["Technology"] 
