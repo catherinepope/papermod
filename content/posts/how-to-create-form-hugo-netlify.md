@@ -1,7 +1,7 @@
 ---
 date: "2026-01-16T13:33:37Z"
 draft: true
-title: "How to Create Form Hugo Netlify"
+title: "How to Create Forms for Hugo with Netlify"
 tags: ["Hugo", "Netlify"]
 categories: ["Technology"] 
 description: "Learn how to add a contact form to your Hugo static site using Netlify's free form handling service. Step-by-step tutorial with code examples, spam protection, and email notifications."

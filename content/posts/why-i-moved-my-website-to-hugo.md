@@ -22,7 +22,7 @@ While Static Site Generators are simple, you can achieve more sophisticated resu
 
 I chose the [Papermod theme](https://github.com/adityatelange/hugo-PaperMod), as it's simple and well-maintained. It took me a couple of hours to get everything configured, then I was able to publish posts in minutes. As SSGs use text files, you can write them in any app you like. I use Visual Studio Code with the Markdown All in One extension. Many of my thoughts start in Obsidian, which is also Markdown-based. That makes it easy to transplant them into a blog post without having to fiddle with the formatting.
 
-Although it's not essential, you can make your Hugo site a git repository. This means you've got version control and you can automatically trigger deployment through GitHub or GitLab. I'm using Netlify with my GitHub repo. Every time I make and commit a change, my site is built and deployed in around 30 seconds. Netlify also offers a free forms feature which is much simpler than any of the WordPress plugins I've used.
+Although it's not essential, you can make your Hugo site a git repository. This means you've got version control and you can automatically trigger deployment through GitHub or GitLab. I'm using Netlify with my GitHub repo. Every time I make and commit a change, my site is built and deployed in around 30 seconds. [Netlify also offers a free forms feature](../how-to-create-form-hugo-netlify/) which is much simpler than any of the WordPress plugins I've used.
 
 The loading time for the website is super-fast, too. One of my priorities is to reduce the carbon footprint of my web presence. According to the [Website Carbon Calculator](https://www.websitecarbon.com), my site achieves an A+ rating, which makes it cleaner than 99% of all websites 🎉
 
