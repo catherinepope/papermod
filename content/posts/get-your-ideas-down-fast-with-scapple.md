@@ -66,6 +66,4 @@ If you're writing a thesis, dissertation, or any academic piece longer than a fe
 
 ---
 
-👉 I'm not affiliated in any way with Scapple or its developers. I just think it's a great tool 🤓
-
-{{< helpful >}}
+👉 I'm not affiliated in any way with Scapple or its developers. I just think it's a great tool.
