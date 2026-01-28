@@ -27,7 +27,7 @@ Apps Script is a cloud-based JavaScript platform for Google Drive. It lets you a
 
 You'd need to ensure that you also understand the code before running it. If that's the case, here's what to do:
 
-1. Go to https://script.google.com.
+1. Go to [https://script.google.com](https://script.google.com).
 2. Click **New Project** in the top left corner.
 3. Delete the placeholder code.
 4. Paste the following code.
@@ -101,7 +101,7 @@ To run the script:
 
 {{< img src="images/apps-script.jpg" alt="Screenshot of Apps Script" center="true" >}}
 
-Accept any requests for authorisation. Naturally, the script needs access to both your GMail and Google Drive.
+Accept any requests for authorisation. Naturally, the script needs access to both your Gmail and Google Drive.
 
 The speed depends on the size of your files and the busyness of Google's servers. My batches took roughly 3 minutes each. Once a batch has finished, click **Run** again. Repeat until the log shows that there's nothing left to process.
 
