@@ -3,7 +3,7 @@ title: "Creating and Running a Docker Image of Your Website"
 date: 2022-08-21
 draft: false
 category: ["Technology"]
-tags: ["Docker", "tutorials"]
+tags: ["Docker", "Tutorials", "DevOps"]
 showToc: true
 tocOpen: true
 description: "Learn how to package a simple website with nginx as a Docker image in this step-by-step tutorial. Discover how to create a Dockerfile, build custom images, and serve websites locally using Docker containers - no complex web server setup required."

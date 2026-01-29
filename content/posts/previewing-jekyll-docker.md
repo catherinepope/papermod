@@ -2,7 +2,7 @@
 title: Previewing Jekyll Sites with Docker
 date: 2022-08-14
 categories: ["Technology"]
-tags: ["Jekyll", "tutorials"]
+tags: ["Jekyll", "Tutorials", "DevOps"]
 description: "Learn how to preview Jekyll sites using Docker instead of installing Ruby locally. Step-by-step guide with Docker run commands and Docker Compose setup for easier Jekyll development."
 keywords: ["Jekyll Docker", "Jekyll preview", "Docker Compose Jekyll", "Jekyll development environment", "static site generator", "Jekyll tutorial", "Docker tutorial"]
 showToc: true
