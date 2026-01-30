@@ -1,5 +1,5 @@
 ---
-date: "2026-01-30T09:49:49Z"
+date: "2026-01-30T07:49:49Z"
 draft: false
 title: "How to Use Zotero With Google Docs"
 tags: ["Zotero"]
