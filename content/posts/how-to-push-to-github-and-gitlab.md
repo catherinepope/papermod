@@ -18,10 +18,10 @@ In this post, I'll share the solution that worked for me.
 
 For this to work, you need:
 
-- An existing local git repository
-- A GitHub repo with remote configured
-- A GitLab account
-- [SSH keys for authentication with both GitHub and GitLab](https://gist.github.com/marcoandre1/4b0fbca83104e08d3e729a25a0cba4eb)
+- An existing local git repository.
+- A GitHub repo with remote configured.
+- A GitLab account.
+- [SSH keys for authentication with both GitHub and GitLab](https://gist.github.com/marcoandre1/4b0fbca83104e08d3e729a25a0cba4eb).
 
 💡 I use the [GitHub](https://cli.github.com/) and [GitLab CLI](https://gitlab.com/gitlab-org/cli) tools, each with their own SSH key. This way, you can create repos from the command line, rather than having to go the the website. If you use Homebrew, you can install them with `brew install gh` and `brew install glab` respectively.
 
@@ -94,5 +94,3 @@ If it hasn't worked, run `git remote -v` again and check for typos in the URLs. 
 ## Conclusion
 
 There are possibly more elegant solutions, but this approach suited my purposes perfectly. With the CLI tools, it takes under a minute to create the repos in two places and add the remotes. Provided, of course, that I type all the details properly ☺️
-
-
