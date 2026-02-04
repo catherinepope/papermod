@@ -29,6 +29,8 @@ Here are the resources for [my workshop on Making Progress Your PhD](../../makin
 - [How to Map Your Thesis or Book](/posts/how-to-map-your-thesis-or-book/)
 - [Creating a Minimum Viable Thesis](/posts/creating-a-minimum-viable-thesis/)
 - [Time Tracking for Researchers](/posts/time-tracking-for-researchers/)
+- [Managing Your Energy Budget](/workshops/resources/managing-your-energy-budget/)
+- [The Human Function Curve](/workshops/resources/the-human-function-curve/)
 
 ## Worksheets 📝
 
