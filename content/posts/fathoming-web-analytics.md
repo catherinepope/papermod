@@ -12,7 +12,7 @@ keywords: ["Fathom Analytics", "Google Analytics alternative", "privacy-first an
 
 One of my pet hates is cookie notices. Not only do they constantly interrupt my web browsing, but also it's a faff to set them up on my own sites. Thanks to GDPR and similar legislation, website owners are legally required to obtain consent for collecting visitors' personal data with tools such as Google Analytics.
 
-I was delighted to discover [Fathom Analytics](https://usefathom.com/ref/GENPTJ), a straightforward alternative to Google Analytics that doesn't require cookie notices. Yes, that's right. Fathom doesn't collect personal data: it anonymises visitors' IP addresses and doesn't track people across websites. Plus, [all the data from EU traffic is processed within the EU](https://usefathom.com/legal/compliance), which helps with GDPR compliance.
+I was delighted to discover [Fathom Analytics](https://usefathom.com/ref/GENPTJ), a straightforward alternative to Google Analytics that _doesn't require cookie notices_. Yes, that's right. Fathom doesn't collect personal data: it anonymises visitors' IP addresses and doesn't track people across websites. Plus, [all the data from EU traffic is processed within the EU](https://usefathom.com/legal/compliance), which helps with GDPR compliance.
 
 Fathom was founded in 2018 by Paul Jarvis and Jack Ellis. You might know Paul Jarvis from his excellent book _Company of One_, in which he explained the advantages of working alone. We'll conveniently ignore the fact that he then went on to form a company of two. Anyway, their focus is on maintaining a simple-to-use tool that prioritises privacy. They describe it as "insightful, not invasive", which is a good tagline for any of us.
 
