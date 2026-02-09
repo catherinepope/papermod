@@ -1,5 +1,5 @@
 ---
-date: "2026-02-09T07:49:16Z"
+date: "2026-02-09T08:49:16Z"
 draft: false
 title: "How to Add Fathom Analytics to Hugo"
 tags: ["Hugo"]
