@@ -14,7 +14,7 @@ Here are the resources for [my workshop on Turning Your Thesis into a Monograph]
 
 🎤 You can also hear me [talking about publishing your thesis on the PhD Life Raft podcast](https://podcasts.apple.com/gb/podcast/how-to-publish-your-phd-with-catherine-pope/id1537420258?i=1000600440859).
 
-## Books
+## Books 📚
 
 - [_How to Publish Your PhD_](/books/how-to-publish-your-phd/) by Catherine Pope
 
