@@ -52,7 +52,7 @@ How different neurodivergent traits affect information processing.
 
 ### Resources
 
-- Kirsh, D. (1995). The intelligent use of space. _Artificial Intelligence_, 73, 31–68.
+- Kirsh, D. (1995). [The intelligent use of space](https://philarchive.org/rec/KIRTIU). _Artificial Intelligence_, 73, 31–68.
 - Wilson, J. (2026). _A Brain that Breathes_.
 - [Padlet for discussing ideas and sharing resources](https://padlet.com/drcatherinepope/neurodiversity-network-externalising-and-organising-your-res-vqgh2jhcaykw701z).
 
