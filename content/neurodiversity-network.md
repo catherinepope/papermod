@@ -40,7 +40,7 @@ For Zoom links, please [contact the administrator](mailto:chaseneurodiversity@gm
 
 - Why externalisation matters for neurodivergent thinkers (reducing cognitive load, making the invisible visible, getting a sense of progress).  
 - Demonstration of visual organisation methods (mind map, concept map, timeline/flowchart). 
-- From spatial to hierarchical - the bridge between visual organisation and written structure.  
+- The bridge between visual organisation and written structure.  
   
 ### Group Discussion
 
@@ -70,6 +70,7 @@ How different neurodivergent traits affect information processing.
 
 - Kirsh, D. (1995). [The intelligent use of space](https://philarchive.org/rec/KIRTIU). _Artificial Intelligence_, 73, 31–68.
 - [Padlet for discussing ideas and sharing resources](https://padlet.com/drcatherinepope/neurodiversity-network-externalising-and-organising-your-res-vqgh2jhcaykw701z).
+- [Padlet for discussing topics for sessions 2 and 3](https://padlet.com/drcatherinepope/alternatives-for-next-session-8p6bfwlwhjywcpcn).
 
 At the end of session 1, we'll discuss potential topics for the second and third sessions.
 
