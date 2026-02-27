@@ -1,0 +1,89 @@
+<svg width="900" height="620" viewBox="0 0 900 620" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
+
+  <rect width="900" height="620" fill="#f5f5f0"/>
+
+  <!-- Branch lines - drawn first so they sit behind the nodes -->
+  
+  <!-- Gender and Power branch lines -->
+  <path d="M 450,310 C 350,310 280,160 200,140" stroke="#d4a840" stroke-width="3" fill="none"/>
+  <path d="M 200,140 C 160,130 110,80 80,70" stroke="#d4a840" stroke-width="2" fill="none"/>
+  <path d="M 200,140 C 150,160 90,170 60,180" stroke="#d4a840" stroke-width="2" fill="none"/>
+  <path d="M 200,140 C 180,180 140,230 120,250" stroke="#d4a840" stroke-width="2" fill="none"/>
+
+  <!-- Landscape and Setting branch lines -->
+  <path d="M 450,310 C 550,310 620,160 700,140" stroke="#6a9e5e" stroke-width="3" fill="none"/>
+  <path d="M 700,140 C 740,130 790,80 820,70" stroke="#6a9e5e" stroke-width="2" fill="none"/>
+  <path d="M 700,140 C 750,155 800,170 830,178" stroke="#6a9e5e" stroke-width="2" fill="none"/>
+  <path d="M 700,140 C 720,180 760,230 780,250" stroke="#6a9e5e" stroke-width="2" fill="none"/>
+
+  <!-- Class and Social Mobility branch lines -->
+  <path d="M 450,310 C 350,310 280,460 200,480" stroke="#6e8faa" stroke-width="3" fill="none"/>
+  <path d="M 200,480 C 160,490 110,520 80,530" stroke="#6e8faa" stroke-width="2" fill="none"/>
+  <path d="M 200,480 C 150,460 100,430 70,420" stroke="#6e8faa" stroke-width="2" fill="none"/>
+
+  <!-- Narrative Structure branch lines -->
+  <path d="M 450,310 C 550,310 620,460 700,480" stroke="#a8708c" stroke-width="3" fill="none"/>
+  <path d="M 700,480 C 740,490 790,520 820,530" stroke="#a8708c" stroke-width="2" fill="none"/>
+  <path d="M 700,480 C 750,465 800,440 830,430" stroke="#a8708c" stroke-width="2" fill="none"/>
+  <path d="M 700,480 C 730,510 760,550 780,570" stroke="#a8708c" stroke-width="2" fill="none"/>
+
+  <!-- Central node -->
+  <ellipse cx="450" cy="310" rx="85" ry="40" fill="#ffffff" stroke="#666" stroke-width="2"/>
+  <text x="450" y="305" text-anchor="middle" font-size="13" font-weight="bold" fill="#333">Wuthering</text>
+  <text x="450" y="322" text-anchor="middle" font-size="13" font-weight="bold" fill="#333">Heights</text>
+
+  <!-- Gender and Power branch -->
+  <ellipse cx="200" cy="140" rx="70" ry="28" fill="#fff9b0" stroke="#d4a840" stroke-width="2"/>
+  <text x="200" y="136" text-anchor="middle" font-size="12" font-weight="bold" fill="#555">Gender and</text>
+  <text x="200" y="152" text-anchor="middle" font-size="12" font-weight="bold" fill="#555">Power</text>
+
+  <rect x="10" y="54" width="130" height="32" rx="14" fill="#fff9b0" stroke="#e0d870" stroke-width="1"/>
+  <text x="75" y="75" text-anchor="middle" font-size="10" fill="#555">domestic confinement</text>
+
+  <rect x="10" y="166" width="100" height="32" rx="14" fill="#fff9b0" stroke="#e0d870" stroke-width="1"/>
+  <text x="60" y="187" text-anchor="middle" font-size="10" fill="#555">marriage plot</text>
+
+  <rect x="50" y="236" width="130" height="32" rx="14" fill="#fff9b0" stroke="#e0d870" stroke-width="1"/>
+  <text x="115" y="257" text-anchor="middle" font-size="10" fill="#555">inheritance law</text>
+
+  <!-- Landscape and Setting branch -->
+  <ellipse cx="700" cy="140" rx="70" ry="28" fill="#b8d9b0" stroke="#6a9e5e" stroke-width="2"/>
+  <text x="700" y="136" text-anchor="middle" font-size="12" font-weight="bold" fill="#555">Landscape</text>
+  <text x="700" y="152" text-anchor="middle" font-size="12" font-weight="bold" fill="#555">and Setting</text>
+
+  <rect x="765" y="54" width="120" height="32" rx="14" fill="#b8d9b0" stroke="#8cb882" stroke-width="1"/>
+  <text x="825" y="75" text-anchor="middle" font-size="10" fill="#555">moors as psyche</text>
+
+  <rect x="775" y="162" width="120" height="32" rx="14" fill="#b8d9b0" stroke="#8cb882" stroke-width="1"/>
+  <text x="835" y="183" text-anchor="middle" font-size="10" fill="#555">pathetic fallacy</text>
+
+  <rect x="720" y="236" width="130" height="32" rx="14" fill="#b8d9b0" stroke="#8cb882" stroke-width="1"/>
+  <text x="785" y="251" text-anchor="middle" font-size="10" fill="#555">indoor vs outdoor</text>
+  <text x="785" y="263" text-anchor="middle" font-size="10" fill="#555">= tame vs wild</text>
+
+  <!-- Class and Social Mobility branch -->
+  <ellipse cx="200" cy="480" rx="70" ry="28" fill="#b0c4de" stroke="#6e8faa" stroke-width="2"/>
+  <text x="200" y="476" text-anchor="middle" font-size="12" font-weight="bold" fill="#555">Class and</text>
+  <text x="200" y="492" text-anchor="middle" font-size="12" font-weight="bold" fill="#555">Mobility</text>
+
+  <rect x="10" y="514" width="130" height="32" rx="14" fill="#b0c4de" stroke="#8aa8c4" stroke-width="1"/>
+  <text x="75" y="535" text-anchor="middle" font-size="10" fill="#555">servants as narrators</text>
+
+  <rect x="10" y="404" width="120" height="32" rx="14" fill="#b0c4de" stroke="#8aa8c4" stroke-width="1"/>
+  <text x="70" y="425" text-anchor="middle" font-size="10" fill="#555">dialect marks class</text>
+
+  <!-- Narrative Structure branch -->
+  <ellipse cx="700" cy="480" rx="70" ry="28" fill="#e8c8d8" stroke="#a8708c" stroke-width="2"/>
+  <text x="700" y="476" text-anchor="middle" font-size="12" font-weight="bold" fill="#555">Narrative</text>
+  <text x="700" y="492" text-anchor="middle" font-size="12" font-weight="bold" fill="#555">Structure</text>
+
+  <rect x="765" y="514" width="130" height="32" rx="14" fill="#e8c8d8" stroke="#c8a0b4" stroke-width="1"/>
+  <text x="830" y="535" text-anchor="middle" font-size="10" fill="#555">frame narrative</text>
+
+  <rect x="775" y="414" width="120" height="32" rx="14" fill="#e8c8d8" stroke="#c8a0b4" stroke-width="1"/>
+  <text x="835" y="435" text-anchor="middle" font-size="10" fill="#555">unreliable narrator</text>
+
+  <rect x="720" y="554" width="130" height="32" rx="14" fill="#e8c8d8" stroke="#c8a0b4" stroke-width="1"/>
+  <text x="785" y="575" text-anchor="middle" font-size="10" fill="#555">non-linear time</text>
+
+</svg>

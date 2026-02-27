@@ -1,0 +1,116 @@
+<svg width="900" height="620" viewBox="0 0 900 620" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
+
+  <rect width="900" height="620" fill="#f5f5f0"/>
+
+  <!-- Connection lines - drawn first so they sit behind nodes -->
+  
+  <!-- Gender to Landscape -->
+  <line x1="255" y1="115" x2="615" y2="115" stroke="#999" stroke-width="1.5"/>
+  <!-- Gender to Class -->
+  <line x1="170" y1="140" x2="170" y2="370" stroke="#999" stroke-width="1.5"/>
+  <!-- Gender to Narrative -->
+  <line x1="255" y1="130" x2="615" y2="390" stroke="#999" stroke-width="1.5" stroke-dasharray="6,4"/>
+  <!-- Landscape to Narrative -->
+  <line x1="700" y1="140" x2="700" y2="370" stroke="#999" stroke-width="1.5"/>
+  <!-- Class to Narrative -->
+  <line x1="255" y1="400" x2="615" y2="400" stroke="#999" stroke-width="1.5"/>
+  <!-- Landscape to Class -->
+  <line x1="615" y1="130" x2="255" y2="385" stroke="#999" stroke-width="1.5" stroke-dasharray="6,4"/>
+
+  <!-- Relationship labels on lines -->
+  
+  <!-- Gender to Landscape label -->
+  <rect x="370" y="82" width="130" height="24" rx="4" fill="#f5f5f0" stroke="none"/>
+  <text x="435" y="99" text-anchor="middle" font-size="10" font-style="italic" fill="#777">space constrains</text>
+
+  <!-- Gender to Class label -->
+  <rect x="100" y="235" width="130" height="24" rx="4" fill="#f5f5f0" stroke="none"/>
+  <text x="165" y="252" text-anchor="middle" font-size="10" font-style="italic" fill="#777">intersects with</text>
+
+  <!-- Landscape to Narrative label -->
+  <rect x="635" y="235" width="130" height="24" rx="4" fill="#f5f5f0" stroke="none"/>
+  <text x="700" y="252" text-anchor="middle" font-size="10" font-style="italic" fill="#777">expressed through</text>
+
+  <!-- Class to Narrative label -->
+  <rect x="370" y="412" width="130" height="24" rx="4" fill="#f5f5f0" stroke="none"/>
+  <text x="435" y="429" text-anchor="middle" font-size="10" font-style="italic" fill="#777">shapes who narrates</text>
+
+  <!-- Gender to Narrative label (diagonal) -->
+  <rect x="395" y="232" width="120" height="24" rx="4" fill="#f5f5f0" stroke="none"/>
+  <text x="455" y="249" text-anchor="middle" font-size="10" font-style="italic" fill="#777">silences voices</text>
+
+  <!-- Landscape to Class label (diagonal) -->
+  <rect x="355" y="278" width="140" height="24" rx="4" fill="#f5f5f0" stroke="none"/>
+  <text x="425" y="295" text-anchor="middle" font-size="10" font-style="italic" fill="#777">determines access to</text>
+
+  <!-- Main nodes -->
+
+  <!-- Gender and Power -->
+  <rect x="85" y="85" width="170" height="56" rx="8" fill="#fff9b0" stroke="#d4a840" stroke-width="2"/>
+  <text x="170" y="110" text-anchor="middle" font-size="13" font-weight="bold" fill="#555">Gender</text>
+  <text x="170" y="128" text-anchor="middle" font-size="13" font-weight="bold" fill="#555">and Power</text>
+
+  <!-- Landscape and Setting -->
+  <rect x="615" y="85" width="170" height="56" rx="8" fill="#b8d9b0" stroke="#6a9e5e" stroke-width="2"/>
+  <text x="700" y="110" text-anchor="middle" font-size="13" font-weight="bold" fill="#555">Landscape</text>
+  <text x="700" y="128" text-anchor="middle" font-size="13" font-weight="bold" fill="#555">and Setting</text>
+
+  <!-- Class and Mobility -->
+  <rect x="85" y="370" width="170" height="56" rx="8" fill="#b0c4de" stroke="#6e8faa" stroke-width="2"/>
+  <text x="170" y="395" text-anchor="middle" font-size="13" font-weight="bold" fill="#555">Class and</text>
+  <text x="170" y="413" text-anchor="middle" font-size="13" font-weight="bold" fill="#555">Mobility</text>
+
+  <!-- Narrative Structure -->
+  <rect x="615" y="370" width="170" height="56" rx="8" fill="#e8c8d8" stroke="#a8708c" stroke-width="2"/>
+  <text x="700" y="395" text-anchor="middle" font-size="13" font-weight="bold" fill="#555">Narrative</text>
+  <text x="700" y="413" text-anchor="middle" font-size="13" font-weight="bold" fill="#555">Structure</text>
+
+  <!-- Sub-nodes for Gender -->
+  <rect x="20" y="170" width="130" height="30" rx="12" fill="#fff9b0" stroke="#e0d870" stroke-width="1"/>
+  <text x="85" y="190" text-anchor="middle" font-size="10" fill="#555">domestic confinement</text>
+  <line x1="130" y1="141" x2="100" y2="170" stroke="#d4a840" stroke-width="1"/>
+
+  <rect x="190" y="170" width="110" height="30" rx="12" fill="#fff9b0" stroke="#e0d870" stroke-width="1"/>
+  <text x="245" y="190" text-anchor="middle" font-size="10" fill="#555">marriage plot</text>
+  <line x1="210" y1="141" x2="235" y2="170" stroke="#d4a840" stroke-width="1"/>
+
+  <!-- Sub-nodes for Landscape -->
+  <rect x="620" y="170" width="120" height="30" rx="12" fill="#b8d9b0" stroke="#8cb882" stroke-width="1"/>
+  <text x="680" y="190" text-anchor="middle" font-size="10" fill="#555">moors as psyche</text>
+  <line x1="680" y1="141" x2="680" y2="170" stroke="#6a9e5e" stroke-width="1"/>
+
+  <rect x="755" y="170" width="120" height="30" rx="12" fill="#b8d9b0" stroke="#8cb882" stroke-width="1"/>
+  <text x="815" y="190" text-anchor="middle" font-size="10" fill="#555">pathetic fallacy</text>
+  <line x1="740" y1="141" x2="790" y2="170" stroke="#6a9e5e" stroke-width="1"/>
+
+  <!-- Sub-nodes for Class -->
+  <rect x="20" y="320" width="140" height="30" rx="12" fill="#b0c4de" stroke="#8aa8c4" stroke-width="1"/>
+  <text x="90" y="340" text-anchor="middle" font-size="10" fill="#555">servants as narrators</text>
+  <line x1="120" y1="370" x2="100" y2="350" stroke="#6e8faa" stroke-width="1"/>
+
+  <rect x="180" y="450" width="130" height="30" rx="12" fill="#b0c4de" stroke="#8aa8c4" stroke-width="1"/>
+  <text x="245" y="470" text-anchor="middle" font-size="10" fill="#555">dialect marks class</text>
+  <line x1="200" y1="426" x2="225" y2="450" stroke="#6e8faa" stroke-width="1"/>
+
+  <!-- Sub-nodes for Narrative -->
+  <rect x="620" y="450" width="120" height="30" rx="12" fill="#e8c8d8" stroke="#c8a0b4" stroke-width="1"/>
+  <text x="680" y="470" text-anchor="middle" font-size="10" fill="#555">frame narrative</text>
+  <line x1="670" y1="426" x2="670" y2="450" stroke="#a8708c" stroke-width="1"/>
+
+  <rect x="755" y="450" width="130" height="30" rx="12" fill="#e8c8d8" stroke="#c8a0b4" stroke-width="1"/>
+  <text x="820" y="470" text-anchor="middle" font-size="10" fill="#555">unreliable narrator</text>
+  <line x1="740" y1="426" x2="790" y2="450" stroke="#a8708c" stroke-width="1"/>
+
+  <rect x="615" y="510" width="130" height="30" rx="12" fill="#e8c8d8" stroke="#c8a0b4" stroke-width="1"/>
+  <text x="680" y="530" text-anchor="middle" font-size="10" fill="#555">non-linear time</text>
+  <line x1="670" y1="480" x2="670" y2="510" stroke="#a8708c" stroke-width="1"/>
+
+  <!-- Legend for line styles -->
+  <g transform="translate(340, 530)">
+    <line x1="0" y1="10" x2="30" y2="10" stroke="#999" stroke-width="1.5"/>
+    <text x="38" y="14" font-size="10" fill="#888">direct relationship</text>
+    <line x1="0" y1="30" x2="30" y2="30" stroke="#999" stroke-width="1.5" stroke-dasharray="6,4"/>
+    <text x="38" y="34" font-size="10" fill="#888">tension or contradiction</text>
+  </g>
+
+</svg>

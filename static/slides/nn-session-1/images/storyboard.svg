@@ -1,0 +1,115 @@
+<svg width="900" height="620" viewBox="0 0 900 620" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
+
+  <rect width="900" height="620" fill="#f5f5f0"/>
+
+  <!-- Title -->
+  <text x="450" y="35" text-anchor="middle" font-size="18" font-weight="bold" fill="#333">Chapter Storyboard</text>
+  <text x="450" y="55" text-anchor="middle" font-size="12" fill="#777">each panel becomes a section of writing</text>
+
+  <!-- Connecting arrows between panels -->
+  <defs>
+    <marker id="arr" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+      <polygon points="0,0 8,3 0,6" fill="#bbb"/>
+    </marker>
+  </defs>
+
+  <!-- Row 1 arrows -->
+  <line x1="275" y1="155" x2="305" y2="155" stroke="#bbb" stroke-width="1.5" marker-end="url(#arr)"/>
+  <line x1="585" y1="155" x2="615" y2="155" stroke="#bbb" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- Row connector: row 1 to row 2 -->
+  <path d="M 850,210 C 870,240 870,250 850,270" stroke="#bbb" stroke-width="1.5" fill="none" marker-end="url(#arr)"/>
+
+  <!-- Row 2 arrows (right to left) -->
+  <line x1="615" y1="340" x2="585" y2="340" stroke="#bbb" stroke-width="1.5" marker-end="url(#arr)"/>
+  <line x1="305" y1="340" x2="275" y2="340" stroke="#bbb" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- Row connector: row 2 to row 3 -->
+  <path d="M 50,400 C 30,430 30,440 50,460" stroke="#bbb" stroke-width="1.5" fill="none" marker-end="url(#arr)"/>
+
+  <!-- Row 3 arrow -->
+  <line x1="275" y1="530" x2="305" y2="530" stroke="#bbb" stroke-width="1.5" marker-end="url(#arr)"/>
+
+  <!-- Panel 1: Introduction / Claim -->
+  <rect x="30" y="80" width="240" height="150" rx="6" fill="#ffffff" stroke="#a8708c" stroke-width="2"/>
+  <rect x="30" y="80" width="240" height="30" rx="6" fill="#e8c8d8" stroke="#a8708c" stroke-width="2"/>
+  <rect x="30" y="104" width="240" height="2" fill="#a8708c"/>
+  <text x="150" y="101" text-anchor="middle" font-size="12" font-weight="bold" fill="#555">1. Introduction</text>
+  <text x="45" y="132" font-size="10" fill="#666">Central claim: narrative structure</text>
+  <text x="45" y="147" font-size="10" fill="#666">is a strategy for representing</text>
+  <text x="45" y="162" font-size="10" fill="#666">silenced voices</text>
+  <text x="45" y="185" font-size="9" font-style="italic" fill="#999">Sets up the argument spine</text>
+  <text x="45" y="200" font-size="9" font-style="italic" fill="#999">and previews the three moves</text>
+
+  <!-- Panel 2: Historical Context -->
+  <rect x="310" y="80" width="240" height="150" rx="6" fill="#ffffff" stroke="#6e8faa" stroke-width="2"/>
+  <rect x="310" y="80" width="240" height="30" rx="6" fill="#b0c4de" stroke="#6e8faa" stroke-width="2"/>
+  <rect x="310" y="104" width="240" height="2" fill="#6e8faa"/>
+  <text x="430" y="101" text-anchor="middle" font-size="12" font-weight="bold" fill="#555">2. Context</text>
+  <text x="325" y="132" font-size="10" fill="#666">Class and gender in 1840s</text>
+  <text x="325" y="147" font-size="10" fill="#666">Yorkshire: who could speak,</text>
+  <text x="325" y="162" font-size="10" fill="#666">who was spoken about</text>
+  <text x="325" y="185" font-size="9" font-style="italic" fill="#999">Chronological: establishes the</text>
+  <text x="325" y="200" font-size="9" font-style="italic" fill="#999">social world the novel depicts</text>
+
+  <!-- Panel 3: Unreliable Narrators -->
+  <rect x="620" y="80" width="240" height="150" rx="6" fill="#ffffff" stroke="#a8708c" stroke-width="2"/>
+  <rect x="620" y="80" width="240" height="30" rx="6" fill="#e8c8d8" stroke="#a8708c" stroke-width="2"/>
+  <rect x="620" y="104" width="240" height="2" fill="#a8708c"/>
+  <text x="740" y="101" text-anchor="middle" font-size="12" font-weight="bold" fill="#555">3. Unreliable Narrators</text>
+  <text x="635" y="132" font-size="10" fill="#666">Move 1: Nelly and Lockwood</text>
+  <text x="635" y="147" font-size="10" fill="#666">are unreliable in ways that</text>
+  <text x="635" y="162" font-size="10" fill="#666">track their social position</text>
+  <text x="635" y="185" font-size="9" font-style="italic" fill="#999">Argument: first move, linking</text>
+  <text x="635" y="200" font-size="9" font-style="italic" fill="#999">class (theme) to narrative form</text>
+
+  <!-- Panel 4: Non-linear Time -->
+  <rect x="620" y="265" width="240" height="150" rx="6" fill="#ffffff" stroke="#d4a840" stroke-width="2"/>
+  <rect x="620" y="265" width="240" height="30" rx="6" fill="#fff9b0" stroke="#d4a840" stroke-width="2"/>
+  <rect x="620" y="289" width="240" height="2" fill="#d4a840"/>
+  <text x="740" y="286" text-anchor="middle" font-size="12" font-weight="bold" fill="#555">4. Non-linear Time</text>
+  <text x="635" y="317" font-size="10" fill="#666">Move 2: the chronology disrupts</text>
+  <text x="635" y="332" font-size="10" fill="#666">the readers ability to settle</text>
+  <text x="635" y="347" font-size="10" fill="#666">into a comfortable judgement</text>
+  <text x="635" y="370" font-size="9" font-style="italic" fill="#999">Argument: second move, using</text>
+  <text x="635" y="385" font-size="9" font-style="italic" fill="#999">chronological analysis as evidence</text>
+
+  <!-- Panel 5: Gender and Landscape -->
+  <rect x="310" y="265" width="240" height="150" rx="6" fill="#ffffff" stroke="#6a9e5e" stroke-width="2"/>
+  <rect x="310" y="265" width="240" height="30" rx="6" fill="#b8d9b0" stroke="#6a9e5e" stroke-width="2"/>
+  <rect x="310" y="289" width="240" height="2" fill="#6a9e5e"/>
+  <text x="430" y="286" text-anchor="middle" font-size="12" font-weight="bold" fill="#555">5. Gender and Landscape</text>
+  <text x="325" y="317" font-size="10" fill="#666">The moors as the one space</text>
+  <text x="325" y="332" font-size="10" fill="#666">where Catherine escapes</text>
+  <text x="325" y="347" font-size="10" fill="#666">domestic and social constraint</text>
+  <text x="325" y="370" font-size="9" font-style="italic" fill="#999">Thematic: connecting gender</text>
+  <text x="325" y="385" font-size="9" font-style="italic" fill="#999">and landscape to the argument</text>
+
+  <!-- Panel 6: The Novel Refuses -->
+  <rect x="30" y="265" width="240" height="150" rx="6" fill="#ffffff" stroke="#a8708c" stroke-width="2"/>
+  <rect x="30" y="265" width="240" height="30" rx="6" fill="#e8c8d8" stroke="#a8708c" stroke-width="2"/>
+  <rect x="30" y="289" width="240" height="2" fill="#a8708c"/>
+  <text x="150" y="286" text-anchor="middle" font-size="12" font-weight="bold" fill="#555">6. Narrative Resistance</text>
+  <text x="45" y="317" font-size="10" fill="#666">Move 3: the unsettling effect</text>
+  <text x="45" y="332" font-size="10" fill="#666">is the point. Lockwood fails</text>
+  <text x="45" y="347" font-size="10" fill="#666">as a detached outsider</text>
+  <text x="45" y="370" font-size="9" font-style="italic" fill="#999">Argument: third move, bringing</text>
+  <text x="45" y="385" font-size="9" font-style="italic" fill="#999">all themes together</text>
+
+  <!-- Panel 7: Conclusion -->
+  <rect x="30" y="460" width="240" height="130" rx="6" fill="#ffffff" stroke="#666" stroke-width="2"/>
+  <rect x="30" y="460" width="240" height="30" rx="6" fill="#e0e0e0" stroke="#666" stroke-width="2"/>
+  <rect x="30" y="484" width="240" height="2" fill="#666"/>
+  <text x="150" y="481" text-anchor="middle" font-size="12" font-weight="bold" fill="#555">7. Conclusion</text>
+  <text x="45" y="512" font-size="10" fill="#666">Return to central claim.</text>
+  <text x="45" y="527" font-size="10" fill="#666">What has this reading revealed</text>
+  <text x="45" y="542" font-size="10" fill="#666">about voice, power, and form?</text>
+  <text x="45" y="565" font-size="9" font-style="italic" fill="#999">Wider implications for how we</text>
+  <text x="45" y="580" font-size="9" font-style="italic" fill="#999">read Victorian fiction</text>
+
+  <!-- Panel 8: placeholder / next steps -->
+  <rect x="310" y="460" width="240" height="130" rx="6" fill="#ffffff" stroke="#ccc" stroke-width="1.5" stroke-dasharray="6,4"/>
+  <text x="430" y="520" text-anchor="middle" font-size="11" fill="#bbb">Next section...</text>
+  <text x="430" y="540" text-anchor="middle" font-size="10" fill="#ccc">Segue</text>
+
+</svg>
