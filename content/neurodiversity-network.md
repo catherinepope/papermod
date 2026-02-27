@@ -34,6 +34,8 @@ For Zoom links, please [contact the administrator](mailto:chaseneurodiversity@gm
 
 **Wednesday 4th March, 11am-1pm**
 
+📝 For this session, it's helpful if you have paper, pens, and sticky notes available.
+
 ### Facilitator Content
 
 - Why externalisation matters for neurodivergent thinkers (reducing cognitive load, making the invisible visible, getting a sense of progress).  
@@ -50,10 +52,23 @@ How different neurodivergent traits affect information processing.
 - Mapping your ideas.
 - Translating maps into a writing structure.
 
+<!--
+
+### Diagrams
+
+- [Mind Map](/images/mind-map.svg)
+- [Concept Map](/images/concept-map.svg)
+- [Affinity Map](/images/affinity-map.svg)
+- [Chronological Thread](/images/chronological-thread.svg)
+- [Thematic Thread](/images/thematic-thread.svg)
+- [Argument Thread](/images/argument-thread.svg)
+- [Storyboard](/images/storyboard.svg)
+
+-->
+
 ### Resources
 
 - Kirsh, D. (1995). [The intelligent use of space](https://philarchive.org/rec/KIRTIU). _Artificial Intelligence_, 73, 31–68.
-- Wilson, J. (2026). _A Brain that Breathes_.
 - [Padlet for discussing ideas and sharing resources](https://padlet.com/drcatherinepope/neurodiversity-network-externalising-and-organising-your-res-vqgh2jhcaykw701z).
 
 At the end of session 1, we'll discuss potential topics for the second and third sessions.

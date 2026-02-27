@@ -1,0 +1,103 @@
+<svg width="900" height="620" viewBox="0 0 900 620" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, sans-serif">
+  
+  <rect width="900" height="620" fill="#f5f5f0"/>
+  
+  <g transform="translate(60, 40)">
+    <rect x="0" y="0" width="120" height="72" rx="3" fill="#fff9b0" stroke="#e0d870" stroke-width="1" transform="rotate(-2, 60, 36)"/>
+    <text x="60" y="28" text-anchor="middle" font-size="11" fill="#444">female characters</text>
+    <text x="60" y="44" text-anchor="middle" font-size="11" fill="#444">confined to</text>
+    <text x="60" y="60" text-anchor="middle" font-size="11" fill="#444">domestic space</text>
+    
+    <rect x="130" y="10" width="120" height="72" rx="3" fill="#fff9b0" stroke="#e0d870" stroke-width="1" transform="rotate(1, 190, 46)"/>
+    <text x="190" y="38" text-anchor="middle" font-size="11" fill="#444">marriage as</text>
+    <text x="190" y="54" text-anchor="middle" font-size="11" fill="#444">economic contract</text>
+    
+    <rect x="15" y="85" width="120" height="72" rx="3" fill="#fff9b0" stroke="#e0d870" stroke-width="1" transform="rotate(1.5, 75, 121)"/>
+    <text x="75" y="113" text-anchor="middle" font-size="11" fill="#444">inheritance law</text>
+    <text x="75" y="129" text-anchor="middle" font-size="11" fill="#444">and property rights</text>
+    
+    <rect x="145" y="90" width="120" height="72" rx="3" fill="#fff9b0" stroke="#e0d870" stroke-width="1" transform="rotate(-1, 205, 126)"/>
+    <text x="205" y="113" text-anchor="middle" font-size="11" fill="#444">who controls</text>
+    <text x="205" y="129" text-anchor="middle" font-size="11" fill="#444">the narrative</text>
+    <text x="205" y="145" text-anchor="middle" font-size="11" fill="#444">voice?</text>
+  </g>
+  
+  <g transform="translate(540, 30)">
+    <rect x="0" y="0" width="120" height="72" rx="3" fill="#fff9b0" stroke="#8cb882" stroke-width="1" transform="rotate(1, 60, 36)"/>
+    <text x="60" y="28" text-anchor="middle" font-size="11" fill="#444">moors as</text>
+    <text x="60" y="44" text-anchor="middle" font-size="11" fill="#444">psychological</text>
+    <text x="60" y="60" text-anchor="middle" font-size="11" fill="#444">landscape</text>
+    
+    <rect x="130" y="8" width="120" height="72" rx="3" fill="#fff9b0" stroke="#8cb882" stroke-width="1" transform="rotate(-1.5, 190, 44)"/>
+    <text x="190" y="36" text-anchor="middle" font-size="11" fill="#444">indoor vs outdoor</text>
+    <text x="190" y="52" text-anchor="middle" font-size="11" fill="#444">= tame vs wild</text>
+    
+    <rect x="40" y="85" width="120" height="72" rx="3" fill="#fff9b0" stroke="#8cb882" stroke-width="1" transform="rotate(0.5, 100, 121)"/>
+    <text x="100" y="108" text-anchor="middle" font-size="11" fill="#444">weather mirrors</text>
+    <text x="100" y="124" text-anchor="middle" font-size="11" fill="#444">emotional state</text>
+    <text x="100" y="140" text-anchor="middle" font-size="11" fill="#444">(pathetic fallacy)</text>
+    
+    <rect x="170" y="90" width="120" height="72" rx="3" fill="#fff9b0" stroke="#8cb882" stroke-width="1" transform="rotate(-0.8, 230, 126)"/>
+    <text x="230" y="118" text-anchor="middle" font-size="11" fill="#444">London = moral</text>
+    <text x="230" y="134" text-anchor="middle" font-size="11" fill="#444">corruption?</text>
+  </g>
+
+  <g transform="translate(80, 280)">
+    <rect x="0" y="0" width="120" height="72" rx="3" fill="#fff9b0" stroke="#8aa8c4" stroke-width="1" transform="rotate(-1, 60, 36)"/>
+    <text x="60" y="28" text-anchor="middle" font-size="11" fill="#444">servants as</text>
+    <text x="60" y="44" text-anchor="middle" font-size="11" fill="#444">witnesses /</text>
+    <text x="60" y="60" text-anchor="middle" font-size="11" fill="#444">narrators</text>
+    
+    <rect x="130" y="5" width="120" height="72" rx="3" fill="#fff9b0" stroke="#8aa8c4" stroke-width="1" transform="rotate(1.2, 190, 41)"/>
+    <text x="190" y="28" text-anchor="middle" font-size="11" fill="#444">education as</text>
+    <text x="190" y="44" text-anchor="middle" font-size="11" fill="#444">route out of</text>
+    <text x="190" y="60" text-anchor="middle" font-size="11" fill="#444">poverty</text>
+    
+    <rect x="50" y="85" width="120" height="72" rx="3" fill="#fff9b0" stroke="#8aa8c4" stroke-width="1" transform="rotate(0.8, 110, 121)"/>
+    <text x="110" y="108" text-anchor="middle" font-size="11" fill="#444">dialect and</text>
+    <text x="110" y="124" text-anchor="middle" font-size="11" fill="#444">speech patterns</text>
+    <text x="110" y="140" text-anchor="middle" font-size="11" fill="#444">mark class</text>
+  </g>
+
+  <g transform="translate(520, 270)">
+    <rect x="0" y="0" width="120" height="72" rx="3" fill="#fff9b0" stroke="#c8a0b4" stroke-width="1" transform="rotate(0.5, 60, 36)"/>
+    <text x="60" y="28" text-anchor="middle" font-size="11" fill="#444">unreliable</text>
+    <text x="60" y="44" text-anchor="middle" font-size="11" fill="#444">narrator:</text>
+    <text x="60" y="60" text-anchor="middle" font-size="11" fill="#444">Nelly Dean</text>
+    
+    <rect x="130" y="10" width="120" height="72" rx="3" fill="#fff9b0" stroke="#c8a0b4" stroke-width="1" transform="rotate(-1, 190, 46)"/>
+    <text x="190" y="33" text-anchor="middle" font-size="11" fill="#444">nested stories</text>
+    <text x="190" y="49" text-anchor="middle" font-size="11" fill="#444">within stories</text>
+    <text x="190" y="65" text-anchor="middle" font-size="11" fill="#444">(frame narrative)</text>
+    
+    <rect x="60" y="90" width="120" height="72" rx="3" fill="#fff9b0" stroke="#c8a0b4" stroke-width="1" transform="rotate(1.5, 120, 126)"/>
+    <text x="120" y="118" text-anchor="middle" font-size="11" fill="#444">time jumps:</text>
+    <text x="120" y="134" text-anchor="middle" font-size="11" fill="#444">why non-linear?</text>
+    
+    <rect x="190" y="85" width="120" height="72" rx="3" fill="#fff9b0" stroke="#c8a0b4" stroke-width="1" transform="rotate(-0.5, 250, 121)"/>
+    <text x="250" y="113" text-anchor="middle" font-size="11" fill="#444">reader is</text>
+    <text x="250" y="129" text-anchor="middle" font-size="11" fill="#444">outsider looking</text>
+    <text x="250" y="145" text-anchor="middle" font-size="11" fill="#444">in (Lockwood)</text>
+  </g>
+
+  <g transform="translate(350, 490)">
+    <rect x="0" y="0" width="120" height="72" rx="3" fill="#fff9b0" stroke="#d4c4a0" stroke-width="1" transform="rotate(-1.5, 60, 36)"/>
+    <text x="60" y="23" text-anchor="middle" font-size="11" fill="#444">ghosts: literal</text>
+    <text x="60" y="39" text-anchor="middle" font-size="11" fill="#444">or metaphorical?</text>
+    <text x="60" y="55" text-anchor="middle" font-size="11" fill="#444">not sure yet</text>
+  </g>
+  
+  <g transform="translate(170, 465)">
+    <rect x="0" y="0" width="120" height="72" rx="3" fill="#fff9b0" stroke="#d4c4a0" stroke-width="1" transform="rotate(2, 60, 36)"/>
+    <text x="60" y="28" text-anchor="middle" font-size="11" fill="#444">compare with</text>
+    <text x="60" y="44" text-anchor="middle" font-size="11" fill="#444">Jane Eyre?</text>
+  </g>
+
+  <g transform="translate(370, 165)">
+    <rect x="0" y="0" width="120" height="72" rx="3" fill="#fff9b0" stroke="#e0d870" stroke-width="1" transform="rotate(-0.5, 60, 36)"/>
+    <text x="60" y="23" text-anchor="middle" font-size="10" fill="#888">fits both groups</text>
+    <text x="60" y="40" text-anchor="middle" font-size="11" fill="#444">Cathy's freedom</text>
+    <text x="60" y="56" text-anchor="middle" font-size="11" fill="#444">on the moors</text>
+  </g>
+
+</svg>
