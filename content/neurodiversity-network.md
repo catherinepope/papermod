@@ -52,8 +52,6 @@ How different neurodivergent traits affect information processing.
 - Mapping your ideas.
 - Translating maps into a writing structure.
 
-<!--
-
 ### Diagrams
 
 - [Mind Map](/images/mind-map.svg)
@@ -63,8 +61,6 @@ How different neurodivergent traits affect information processing.
 - [Thematic Thread](/images/thematic-thread.svg)
 - [Argument Thread](/images/argument-thread.svg)
 - [Storyboard](/images/storyboard.svg)
-
--->
 
 ### Resources
 
