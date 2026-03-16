@@ -70,12 +70,33 @@ How different neurodivergent traits affect information processing.
 
 At the end of session 1, we'll discuss potential topics for the second and third sessions.
 
-## Session 2 - topic tbc
+## Session 2 - Establishing Your Writing Workflow
 
 **Wednesday 1st April, 11am-1pm**
 
-## Session 3 - topic tbc
+If you missed Session 1, you can [view the presentation here](/slides/nn-session-1/).
+
+### Facilitator Content
+
+- Introducing constraints to reduce the number of decisions you need to make.
+- Creating reusable structures for academic writing.
+- Approaching your draft as a set of building blocks, rather than a linear sequence.
+- Separating your planning, writing, and editing activities.
+
+### Group Discussion
+
+Why academic writing feels daunting, and how different neurodivergent traits can affect our ability to get started.
+
+### Exercises
+
+- Clarifying your purpose and audience.
+- Sketching your structure.
+- Experimenting with different approaches to writing.
+- Identifying where you get stuck in your writing and creating your own workflow.
+
+## Session 3 - Editing Your Own Academic Writing
 
 **Wednesday 10th June, 11am-1pm**
 
+Details coming soon.
 
