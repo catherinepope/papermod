@@ -26,7 +26,9 @@ In each session, we'll:
 
 Although the sessions provide an opportunity to interact with other researchers, you are welcome to participate in any way that feels comfortable for you. You can speak, type in the chatbox, or remain in the background with your camera off. There is no pressure. And you don't need to disclose your neurotype, unless you want to.
 
-On this page, I'll share details of each session, along with more information on the ideas we'll be discussing. 
+On this page, I'll share details of each session, along with related resources. 
+
+[Padlet for discussing ideas and sharing resources](https://padlet.com/drcatherinepope/neurodiversity-network-externalising-and-organising-your-res-vqgh2jhcaykw701z).
 
 For Zoom links, please [contact the administrator](mailto:chaseneurodiversity@gmail.com).
 
@@ -65,10 +67,6 @@ How different neurodivergent traits affect information processing.
 ### Resources
 
 - Kirsh, D. (1995). [The intelligent use of space](https://philarchive.org/rec/KIRTIU). _Artificial Intelligence_, 73, 31–68.
-- [Padlet for discussing ideas and sharing resources](https://padlet.com/drcatherinepope/neurodiversity-network-externalising-and-organising-your-res-vqgh2jhcaykw701z).
-- [Padlet for discussing topics for sessions 2 and 3](https://padlet.com/drcatherinepope/alternatives-for-next-session-8p6bfwlwhjywcpcn).
-
-At the end of session 1, we'll discuss potential topics for the second and third sessions.
 
 ## Session 2 - Establishing Your Writing Workflow
 
@@ -93,6 +91,10 @@ Why academic writing feels daunting, and how different neurodivergent traits can
 - Sketching your structure.
 - Experimenting with different approaches to writing.
 - Identifying where you get stuck in your writing and creating your own workflow.
+
+### Resources
+
+- [Using the OCAR Structure for Academic Writing](/workshops/resources/using-the-ocar-structure-for-academic-writing/)
 
 ## Session 3 - Editing Your Own Academic Writing
 
