@@ -68,11 +68,13 @@ How different neurodivergent traits affect information processing.
 
 - Kirsh, D. (1995). [The intelligent use of space](https://philarchive.org/rec/KIRTIU). _Artificial Intelligence_, 73, 31–68.
 
+### Presentation
+
+- [Slides](/slides/nn-session-1/).
+
 ## Session 2 - Establishing Your Writing Workflow
 
 **Wednesday 1st April, 11am-1pm**
-
-If you missed Session 1, you can [view the presentation here](/slides/nn-session-1/).
 
 ### Facilitator Content
 
@@ -95,6 +97,10 @@ Why academic writing feels daunting, and how different neurodivergent traits can
 ### Resources
 
 - [Using the OCAR Structure for Academic Writing](/workshops/resources/using-the-ocar-structure-for-academic-writing/)
+
+### Presentation
+
+- [Slides](/slides/nn-session-2/).
 
 ## Session 3 - Editing Your Own Academic Writing
 
