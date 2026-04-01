@@ -70,7 +70,7 @@ How different neurodivergent traits affect information processing.
 
 ### Presentation
 
-- [Slides](/slides/nn-session-1/).
+- [Slides](/slides/nn-session-1/)
 
 ## Session 2 - Establishing Your Writing Workflow
 
@@ -100,7 +100,7 @@ Why academic writing feels daunting, and how different neurodivergent traits can
 
 ### Presentation
 
-- [Slides](/slides/nn-session-2/).
+- [Slides](/slides/nn-session-2/)
 
 ## Session 3 - Editing Your Own Academic Writing
 
