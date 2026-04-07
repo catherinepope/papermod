@@ -18,6 +18,5 @@ hideMeta: true
 - [_How to Own the Room_](https://uk.bookshop.org/a/2760/9781804999004) by Viv Groskop
 - [_Made to Stick_](https://uk.bookshop.org/a/2760/9780099505693) by Chip Heath & Dan Heath
 - [_TED Talks Storytelling: 23 Storytelling Techniques from the Best TED Talks_] by Akash Karia
-
 - [_The Laws of Connection_](https://uk.bookshop.org/a/2760/9781837260645) by David Robson
 - _Find Your Red Thread_ by Tamsen Webster
