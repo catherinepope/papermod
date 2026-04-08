@@ -1,6 +1,6 @@
 ---
 date: "2026-04-01T15:44:22+01:00"
-draft: true
+draft: false
 title: "Three Minute Thesis"
 tags: ["PhD", "academic"]
 categories: ["PhD Progress", "Resources"]
@@ -10,7 +10,11 @@ ShowBreadCrumbs: true
 hideMeta: true
 ---
 
-## Books 📚
+This page will contain details of the training day for Three Minute Thesis finalists
+
+## Further Resources
+
+###ß Books 📚
 
 - [_TED Talks: The Official TED Guide to Public Speaking_](https://uk.bookshop.org/a/2760/9781472228062) by Chris Anderson
 - _This is a Voice: 99 Exercises to Train, Project and Harness the Power of Your Voice_ by Jeremy Fisher & Gillyanne Kayes
