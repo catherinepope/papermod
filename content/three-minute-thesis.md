@@ -8,9 +8,42 @@ categories: ["PhD Progress", "Resources"]
 # keywords: ["keyword 1", "keyword 2", "keyword 3"]
 # ShowBreadCrumbs: true
 hideMeta: true
+searchHidden: true
+build:
+  list: false
+  publishResources: false
 ---
 
-This page will contain details of the training day for Three Minute Thesis finalists
+Congratulations on reaching the Three Minute Thesis final! 🎉 My name is Catherine Pope, and I'm facilitating the training day. Here's some more information about what you can expect.
+
+This day is an opportunity for you to work intensively on your presentation in a supportive environment. By the end of the session, you'll have:
+
+- A stronger narrative.
+- A greater understanding of the competition.
+- More confidence 💪
+
+You need to bring:
+
+- You current presentation.
+- Paper and pens.
+- Energy!
+
+## Outline
+
+Here are the approximate timings for the day. Depending on the number of attendees, we might finish earlier. You can take shorter breaks as needed throughout the day.
+
+
+| 10.00-10.20 | Welcome & Introductions          |
+| ----------- | -------------------------------- |
+| 10.00-10.40 | Presentations in small groups    |
+| 10.40-11.20 | What is effective communication? |
+| 11.20-11.45 | Thinking about your audience     |
+| 11.45-12.30 | Telling your story               |
+| 12.30-13.00 | LUNCH                            |
+| 13.00-13.30 | Prep time                        |
+| 14.00-15.00 | Presentations                    |
+| 15.00-15.45 | Enhancing your performance       |
+| 15.45-16.00 | Conclusion                       |
 
 ## Further Resources
 
