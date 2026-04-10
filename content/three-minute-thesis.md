@@ -19,7 +19,7 @@ Congratulations on reaching the Three Minute Thesis final! 🎉 My name is Cathe
 This day is an opportunity for you to work intensively on your presentation in a supportive environment. By the end of the session, you'll have:
 
 - A stronger narrative.
-- A greater understanding of the competition.
+- A greater understanding of the 3MT competition.
 - More confidence 💪
 
 You need to bring:
@@ -47,7 +47,7 @@ Here are the approximate timings for the day. Depending on the number of attende
 
 ## Further Resources
 
-###ß Books 📚
+### Books 📚
 
 - [_TED Talks: The Official TED Guide to Public Speaking_](https://uk.bookshop.org/a/2760/9781472228062) by Chris Anderson
 - _This is a Voice: 99 Exercises to Train, Project and Harness the Power of Your Voice_ by Jeremy Fisher & Gillyanne Kayes
