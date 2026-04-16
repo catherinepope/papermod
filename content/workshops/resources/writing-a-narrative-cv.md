@@ -15,7 +15,7 @@ build:
   list: false
 ---
 
-👋 Hello. I'm facilitating the **Writing a Narrative CV** workshop on 5th December (10am-1pm). Here's everything you need to know.
+👋 Hello. I'm facilitating the **Writing a Narrative CV** workshop on 6th May (1-4pm). Here's everything you need to know.
 
 ## Before the workshop ✅
 
