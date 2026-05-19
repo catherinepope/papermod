@@ -10,8 +10,8 @@ build:
 # categories: 
 # description: ""
 # keywords: ["keyword 1", "keyword 2", "keyword 3"]
-# ShowToc: true
-# OpenToc: true
+ShowToc: true
+OpenToc: true
 hideMeta: true
 disableShare: true
 ---
@@ -106,5 +106,24 @@ Why academic writing feels daunting, and how different neurodivergent traits can
 
 **Wednesday 10th June, 11am-1pm**
 
-Details coming soon.
+### Facilitator Content
+
+- Breaking down the editing process into three stages:
+  - Structure
+  - Flow
+  - Details
+
+### Group Discussion
+
+What are some of the specific challenges around editing your own writing? What strategies have worked for you?
+
+### Exercises
+
+- Reverse outlining
+- Improving the clarity of your writing
+
+<!--### Resources
+
+- [Improve Your Flow with Reverse Outlining](/posts/improve-your-flow-with-reverse-outlining/) -->
+
 
