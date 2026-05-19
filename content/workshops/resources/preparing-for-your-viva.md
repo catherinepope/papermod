@@ -18,7 +18,11 @@ Here are the resources for [my workshop on Preparing for Your Viva](../../prepar
 
 ## Websites 🕸️
 
-{{< website-subject "Viva" >}}
+- ["I Will Survive (The Viva)"](https://spanishcinephilia.wordpress.com/2015/10/27/i-will-survive-the-viva-part-one/) - three-part blog series
+- [13 Steps I took to prepare for my PhD viva](https://salmapatel.co.uk/academia/phd-viva-preparation-steps/)
+- [Viva Survivors](https://viva-survivors.com)
+
+_In these resources, you'll notice references to "surviving" the viva. Everyone survives the viva - there have been no reported fatalities._
 
 ## Resources 🧭
 
