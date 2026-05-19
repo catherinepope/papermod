@@ -64,6 +64,12 @@ making_work_visible:
   isbn: "9781950508495"
   subject: ["Project Management"]
 
+phd_viva:
+  title: "The PhD Viva"
+  author: "Peter Smith"
+  isbn: "9781137395764"
+  subject: ["Viva"]
+
 setting_boundaries:
   title: "Setting Boundaries that Stick"
   author: "Juliane Taylor Shore"
@@ -93,6 +99,12 @@ stylish_writing:
   author: "Helen Sword"
   isbn: "9780674064485"
   subject: ["Writing"]
+
+survive_viva:
+  title: "How to Survive Your Viva"
+  author: "Rowena Murray"
+  isbn: "9780335263882"
+  subject: ["Viva"]
 
 thanks_feedback:
   title: "Thanks for the Feedback"

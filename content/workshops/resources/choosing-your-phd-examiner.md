@@ -2,7 +2,7 @@
 date: "2026-05-18T15:45:31+01:00"
 draft: false
 title: "Choosing Your PhD Examiner"
-tags: ["PhD", "academic", "viva", "PhD Final Year"]
+tags: ["PhD", "academic", "Viva", "PhD Final Year"]
 categories: ["PhD Progress", "Resources"]
 # description: ""
 # keywords: ["keyword 1", "keyword 2", "keyword 3"]
