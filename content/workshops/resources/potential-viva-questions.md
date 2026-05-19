@@ -47,6 +47,14 @@ Here are some potential viva questions to use in your practice sessions. You'll 
 - What are the implications of your research for the wider field?
 - How would you continue your research?
 
+## Interdisciplinary
+
+- How do you position your thesis in relation to the disciplines it draws on — do you see it as primarily belonging to one field, or as genuinely sitting between them?
+- Where the disciplines you engaged with offered conflicting methods, frameworks, or assumptions, how did you navigate or resolve those tensions?
+- How did you handle differences in terminology or key concepts across disciplines — particularly where the same term carries different meanings in different fields?
+- Which scholarly communities would benefit most from your research, and how would you communicate your findings to each?
+- What disciplinary conventions did you follow in presenting your work — for instance, in citation practices, evidential standards, or thesis structure — and why?
+
 ## Literature review
 
 - Summarise an influential concept or thinker and explain why this was so significant for your work.
