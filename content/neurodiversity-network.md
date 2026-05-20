@@ -106,6 +106,8 @@ Why academic writing feels daunting, and how different neurodivergent traits can
 
 **Wednesday 10th June, 11am-1pm**
 
+_Please bring a short piece of writing (~2,000 words) to work on during the exercises._
+
 ### Facilitator Content
 
 - Breaking down the editing process into three stages:
@@ -125,5 +127,3 @@ What are some of the specific challenges around editing your own writing? What s
 <!--### Resources
 
 - [Improve Your Flow with Reverse Outlining](/posts/improve-your-flow-with-reverse-outlining/) -->
-
-
