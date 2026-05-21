@@ -8,6 +8,8 @@ categories: ["PhD Progress", "Resources"]
 # keywords: ["keyword 1", "keyword 2", "keyword 3"]
 ShowToc: true
 OpenToc: true  
+ShowBreadCrumbs: true
+hideMeta: true
 ---
 
 Here are some potential viva questions to use in your practice sessions. You'll need to adapt them to fit your specific research. Make sure you vary the questions and don't just rehearse the same answers. Ideally, get other people to ask you questions. It's important to get used to thinking on the spot.
