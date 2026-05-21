@@ -7,7 +7,7 @@ categories: ["PhD Progress", "Resources"]
 # description: ""
 # keywords: ["keyword 1", "keyword 2", "keyword 3"]
 ShowToc: true
-# OpenToc: true  
+OpenToc: true  
 ---
 
 Here are some potential viva questions to use in your practice sessions. You'll need to adapt them to fit your specific research. Make sure you vary the questions and don't just rehearse the same answers. Ideally, get other people to ask you questions. It's important to get used to thinking on the spot.
@@ -47,14 +47,6 @@ Here are some potential viva questions to use in your practice sessions. You'll 
 - What are the implications of your research for the wider field?
 - How would you continue your research?
 
-## Interdisciplinary
-
-- How do you position your thesis in relation to the disciplines it draws on — do you see it as primarily belonging to one field, or as genuinely sitting between them?
-- Where the disciplines you engaged with offered conflicting methods, frameworks, or assumptions, how did you navigate or resolve those tensions?
-- How did you handle differences in terminology or key concepts across disciplines — particularly where the same term carries different meanings in different fields?
-- Which scholarly communities would benefit most from your research, and how would you communicate your findings to each?
-- What disciplinary conventions did you follow in presenting your work — for instance, in citation practices, evidential standards, or thesis structure — and why?
-
 ## Literature review
 
 - Summarise an influential concept or thinker and explain why this was so significant for your work.
@@ -69,5 +61,43 @@ Here are some potential viva questions to use in your practice sessions. You'll 
 - Were there any issues around your selection and collection of data?
 - Was there any other material you wanted to use but couldn’t or didn’t?
 - What are the limitations of this study? How could you address them?
-- Were there any ethical concerns with your project? How have you addressed them?
+- What were the ethical concerns with your project? How have you addressed them?
 - What counter‐arguments are there to your main argument?
+
+## Interdisciplinary
+
+- How do you position your thesis in relation to the disciplines it draws on — do you see it as primarily belonging to one field, or as genuinely sitting between them?
+- Where the disciplines you engaged with offered conflicting methods, frameworks, or assumptions, how did you navigate or resolve those tensions?
+- How did you handle differences in terminology or key concepts across disciplines — particularly where the same term carries different meanings in different fields?
+- Which scholarly communities would benefit most from your research, and how would you communicate your findings to each?
+- What disciplinary conventions did you follow in presenting your work and why?
+
+## Professional Doctorate
+
+- How would you explain the key findings of your research to a practitioner audience?
+- What practical implications do your findings have for policy or practice in your field?
+- How did you navigate ethical considerations specific to researching within your professional context?
+- In what ways has your research changed your own professional practice?
+- How would you implement your findings in a professional setting, and what barriers might you anticipate?
+- What future research directions emerge from your work that would be valuable to professionals in your field?
+
+## Practice-based Doctorate
+
+- What methodological challenges did you encounter in integrating theory with practice?
+- How does your work contribute to both your artistic/professional field and academic discourse?
+- How did your practice evolve in response to your research findings?
+- In what ways does your practice challenge or extend existing paradigms in your field?
+- How would you position your work in relation to other practitioners in your discipline?
+- What ethical considerations arose during your practice-based research?
+- How did you navigate the balance between artistic/professional innovation and academic rigour?
+- What unexpected insights emerged from the interplay between theory and practice?
+
+## Thesis by Papers
+
+- How do the papers in your thesis form a coherent body of work, rather than a collection of separate studies?
+- Some of your papers were co-authored. How would you characterise your individual contribution to each?
+- Where the papers were written at different stages of your doctorate, how has your thinking developed across them?
+- Are there tensions or contradictions between the papers, and if so, how do you account for them?
+- What does your integrative chapter add that the papers themselves do not?
+- If you were to write an additional paper to strengthen the thesis, what would it address and why?
+- How do you see these papers contributing to the field beyond the doctorate — for example, in terms of future research directions or practical applications?
