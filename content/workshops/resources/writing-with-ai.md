@@ -18,6 +18,11 @@ Here are the resources for [my workshop on Streamlining Your Writing with AI](..
 
 {{< book-subject "AI" >}}
 
+### Journal Articles
+
+- Visani Scozzi, Monica, Stephann Makri, and Pranava Madhyastha, ‘“Although Powerful, It’s Not Infallible”: Investigating Academic Researchers’ Verification Challenges with LLMs’, _Proceedings of the 2026 Conference on Human Information Interaction and Retrieval_ (New York, NY, USA), CHIIR ’26, 22 March 2026, pp. 73–83, [doi:10.1145/3786304.3787865](https://dl.acm.org/doi/10.1145/3786304.3787865)
+
+
 ### Apps 💻
 
 {{< app-subject "AI" >}}
