@@ -7,7 +7,8 @@ categories: ["PhD Progress", "Resources"]
 # description: ""
 # keywords: ["keyword 1", "keyword 2", "keyword 3"]
 ShowToc: true
-# OpenToc: true  
+# OpenToc: true
+hideMeta: true
 ---
 
 If you have a disability or specific condition, you're entitled to request adaptations for your viva. When communicating your needs, quote relevant legislation and guidance. For example, "As stated in the Equality Act 2010, the following adaptations will help ensure my viva is conducted fairly." This reminds your institution of their obligations and carries more weight than an informal request.
