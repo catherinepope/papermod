@@ -10,7 +10,7 @@ ShowToc: true
 # OpenToc: true  
 ---
 
-Although you can't necessarily _choose_ your PhD examiner, you’re allowed to _suggest someone_. And this is a power you should use wisely. Your university isn’t obliged to accept your recommendation, but they should at least consider it and take reasonable steps see whether that person is both appropriate and available. You typically don’t have much say in the selection of the internal examiner. This is whoever is available in your School who hasn’t had significant involvement in your PhD so far.
+Although you can't necessarily _choose_ your PhD examiner, you’re allowed to _suggest someone_. And this is a power you should use wisely, especially [if you need adaptations](/workshops/resources/requesting-viva-adaptations/). Your university isn’t obliged to accept your recommendation, but they should at least consider it and take reasonable steps see whether that person is both appropriate and available. You typically don’t have much say in the selection of the internal examiner. This is whoever is available in your School who hasn’t had significant involvement in your PhD so far.
 
 ## Who can be an external examiner?
 
