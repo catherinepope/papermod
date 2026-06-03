@@ -1,0 +1,1 @@
+import{o,e as s,g as t,i as a}from"../modules/vue-D9O8BHnV.js";import{u as r}from"./context-D1NYmfxh.js";const c={class:"slidev-layout quote"},_={class:"my-auto"},d={__name:"quote",setup(l){return r(),(e,n)=>(o(),s("div",c,[t("div",_,[a(e.$slots,"default")])]))}};export{d as _};
