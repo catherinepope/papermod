@@ -127,3 +127,9 @@ What are some of the specific challenges around editing your own writing? What s
 <!--### Resources
 
 - [Improve Your Flow with Reverse Outlining](/posts/improve-your-flow-with-reverse-outlining/) -->
+
+## Half-day Writing Retreat
+
+**Wednesday 10th July, 10am-1pm**
+
+This online retreat gives you the opportunity to focus on your writing in a structured and supportive environment. In advance, you'll receive help with setting realistic goals and organising your research material.
