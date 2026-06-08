@@ -9,6 +9,10 @@ I offer the following workshops for researchers. **They are all delivered online
 
 You’ll find more information in my [Workshop Terms and Conditions](/workshops/terms-and-conditions/).
 
+If you would like to see the blurb and outline for any of the session, please contact me@catherinepope.com.
+
+I am also happy to design bespoke sessions.
+
 ## PhD Progress
 
 ### How to Finish Your PhD
@@ -17,7 +21,7 @@ You’ll find more information in my [Workshop Terms and Conditions](/workshops/
 
 ### Planning and Structuring Your Thesis
 
-A 2-hour workshop for PhD researchers who need a clear, practical approach to planning and writing their thesis. Attendees learn how to organise their research, structure an argument, and develop a realistic writing plan to meet the submission deadline.
+<!-- A 2-hour workshop for PhD researchers who need a clear, practical approach to planning and writing their thesis. Attendees learn how to organise their research, structure an argument, and develop a realistic writing plan to meet the submission deadline.//-->
 
 ### Preparing for Your Viva
   
@@ -27,7 +31,7 @@ A 2-hour workshop for PhD researchers who need a clear, practical approach to pl
 
 ### Making Time for Writing
 
-### From Reading to Writing
+### From Reading to Writing: Create a Workflow that Sticks
 
 ### Externalising and Organising Your Research Brain
 
