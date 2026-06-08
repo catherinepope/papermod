@@ -7,6 +7,7 @@ build:
   list: never
 robots: noindex
 searchHidden: true
+hideMeta: true
 ---
 
 I offer the following workshops for researchers. **They are all delivered online through Zoom.** The maximum capacity is 30 attendees – this is to ensure that I can make the sessions interactive and answer all the questions.
