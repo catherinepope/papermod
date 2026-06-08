@@ -8,6 +8,10 @@ description: "Interactive workshop on building effective PhD supervisor relation
 keywords: ["PhD supervision", "supervisor relationship", "doctoral supervision", "PhD communication", "research supervision", "supervisor feedback", "PhD autonomy", "doctoral relationships", "supervisory meetings", "PhD guidance"]
 ShowBreadCrumbs: true
 hideMeta: true
+build:
+  list: never
+robots: noindex
+searchHidden: true
 ---
 
 The supervisor-student relationship is one of the most important factors in PhD success, yet many researchers struggle to make it work effectively. This interactive workshop helps you build a productive professional relationship with your supervisors.

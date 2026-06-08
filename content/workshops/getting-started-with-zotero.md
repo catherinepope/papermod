@@ -8,10 +8,10 @@ description: "Interactive demonstration of Zotero reference management software.
 keywords: ["Zotero", "reference management", "citation software", "bibliography", "academic references", "research tools", "citation styles", "Zotero workshop", "academic writing tools", "research organization"]
 ShowBreadCrumbs: true
 hideMeta: true
-searchHidden: true
 build:
-  list: false
-  publishResources: false
+  list: never
+robots: noindex
+searchHidden: true
 disableShare: true
 ---
 

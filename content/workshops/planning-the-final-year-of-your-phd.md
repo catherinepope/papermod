@@ -8,6 +8,10 @@ description: "Interactive workshop for PhD students planning their final year. C
 keywords: ["PhD final year", "thesis completion", "PhD planning", "viva preparation", "PhD examiners", "doctoral completion", "thesis editing", "PhD timeline", "doctorate finishing", "PhD strategy"]
 ShowBreadCrumbs: true
 hideMeta: true
+build:
+  list: never
+robots: noindex
+searchHidden: true
 ---
 
 There’s so much to fit into your final year, and it’s hard to plan without a clear direction. This interactive workshop provides a clear roadmap and guidance so you can create an action plan. With the help of an experienced facilitator, you’ll understand the challenges ahead and how you can confront them. We’ll cover topics including:

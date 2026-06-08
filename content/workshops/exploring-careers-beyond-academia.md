@@ -8,6 +8,10 @@ description: "Interactive workshop for PhD researchers exploring non-academic ca
 keywords: ["PhD careers", "academic career transition", "non-academic careers", "transferable skills", "industry careers", "PhD job search", "career change", "alternative careers", "PhD skills", "career development"]
 ShowBreadCrumbs: true
 hideMeta: true
+build:
+  list: never
+robots: noindex
+searchHidden: true
 ---
 
 Are you starting to wonder, “What else can I do with my PhD?” You’ve invested years in developing specialised expertise, but you’re curious about opportunities outside the traditional academic path.

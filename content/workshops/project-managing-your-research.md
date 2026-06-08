@@ -8,6 +8,10 @@ description: "Interactive workshop on practical project management for academic 
 keywords: ["academic project management", "research project management", "PhD project management", "research planning", "academic productivity", "project scheduling", "research goals", "milestone tracking", "academic workflow", "research organization"]
 ShowBreadCrumbs: true
 hideMeta: true
+build:
+  list: never
+robots: noindex
+searchHidden: true
 ---
 
 Are you ready to take control of your research? As an academic, you’re probably juggling multiple projects, requiring effective planning and execution. As an academic, you probably also lack the time to devise a proper strategy.

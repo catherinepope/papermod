@@ -8,11 +8,11 @@ categories: ["Training"]
 # keywords: ["literature review", "PhD literature review", "thesis writing", "academic research", "critical evaluation", "research planning", "thesis structure", "doctoral writing", "research methodology", "academic synthesis"]
 ShowBreadCrumbs: true
 hideMeta: true
-searchHidden: true
-build:
-  list: false
-  publishResources: false
 disableShare: true
+build:
+  list: never
+robots: noindex
+searchHidden: true
 ---
 
 Research thinking is seldom tidy. Ideas arrive out of sequence, connections appear from unexpected directions, and the sheer volume of material you're holding in your head at any one time makes progress difficult. For neurodivergent researchers, this challenge is often amplified, as your working memory is already managing additional demands.

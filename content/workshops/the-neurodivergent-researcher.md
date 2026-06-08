@@ -8,10 +8,10 @@ categories: ["Training"]
 # keywords: ["literature review", "PhD literature review", "thesis writing", "academic research", "critical evaluation", "research planning", "thesis structure", "doctoral writing", "research methodology", "academic synthesis"]
 ShowBreadCrumbs: true
 hideMeta: true
-searchHidden: true
 build:
-  list: false
-  publishResources: false
+  list: never
+robots: noindex
+searchHidden: true
 disableShare: true
 ---
 

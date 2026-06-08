@@ -8,6 +8,11 @@ description: "Interactive workshop on converting research and thesis work into p
 keywords: ["journal articles", "academic publishing", "thesis to article", "research writing", "academic writing", "scholarly publishing", "writing process", "manuscript preparation", "academic journals", "publication strategy"]
 ShowBreadCrumbs: true
 hideMeta: true
+build:
+  list: never
+robots: noindex
+searchHidden: true
+disableShare: true
 ---
 
 Are you struggling to turn your research or thesis into journal articles? You have lots of ideas, but it’s hard converting them into a structured piece of writing. You’re so focused on the details, you can’t see the bigger picture.

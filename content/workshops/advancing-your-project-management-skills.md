@@ -8,6 +8,10 @@ description: "Advanced workshop for researchers transitioning to leadership role
 keywords: ["research leadership", "academic project management", "research team management", "multi-project management", "academic leadership", "research administration", "stakeholder management", "research portfolio", "team building", "academic careers"]
 ShowBreadCrumbs: true
 hideMeta: true
+build:
+  list: never
+robots: noindex
+searchHidden: true
 ---
 
 As your research career progresses, you’ll increasingly find yourself managing teams, juggling multiple projects, and navigating complex relationships. This workshop is designed for researchers who are already comfortable with the fundamentals of project management and are ready to tackle the challenges of academic leadership roles.

@@ -8,6 +8,10 @@ description: "Interactive workshop on using AI tools to enhance academic writing
 keywords: ["AI writing tools", "academic writing", "AI for academics", "writing productivity", "AI ethics", "academic AI", "writing assistance", "scholarly writing", "AI integration", "writing workshop"]
 ShowBreadCrumbs: true
 hideMeta: true
+build:
+  list: never
+robots: noindex
+searchHidden: true
 ---
 
 In this interactive session, you’ll discover how AI-powered tools can help you write faster, improve clarity, and streamline your process. From grammar and style enhancements to structural organisation, you’ll explore a wealth of possibilities. 

@@ -8,6 +8,10 @@ description: "Interactive workshop for mid-stage PhD students needing direction 
 keywords: ["PhD progress", "doctoral motivation", "PhD middle stage", "thesis completion", "PhD productivity", "doctoral wellbeing", "PhD planning", "research momentum", "PhD support", "doctoral success"]
 ShowBreadCrumbs: true
 hideMeta: true
+build:
+  list: never
+robots: noindex
+searchHidden: true
 ---
 
 Are you part-way through your PhD and wondering how to keep going? Do you need a push to progress to the final stages? Perhaps you’re unsure what happens next or what’s expected of you. It’s common to lose a sense of direction and momentum in the tricky middle part of your doctorate.

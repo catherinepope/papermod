@@ -8,6 +8,10 @@ categories: ["Training"]
 # keywords: ["literature review", "PhD literature review", "thesis writing", "academic research", "critical evaluation", "research planning", "thesis structure", "doctoral writing", "research methodology", "academic synthesis"]
 ShowBreadCrumbs: true
 hideMeta: true
+build:
+  list: never
+robots: noindex
+searchHidden: true
 ---
 
 Researchers face an ever-expanding set of demands: writing, teaching, administration, supervision, grant applications, knowledge exchange, and more. The challenge isn't just finding time — it's making deliberate decisions about where your time and energy actually go, and protecting what matters most from what's merely urgent.

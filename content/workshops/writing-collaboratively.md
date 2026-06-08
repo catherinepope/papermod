@@ -8,6 +8,10 @@ categories: ["Training"]
 # keywords: ["literature review", "PhD literature review", "thesis writing", "academic research", "critical evaluation", "research planning", "thesis structure", "doctoral writing", "research methodology", "academic synthesis"]
 ShowBreadCrumbs: true
 hideMeta: true
+build:
+  list: never
+robots: noindex
+searchHidden: true
 ---
 
 Co-authored outputs are a cornerstone of research — but the process of writing with others is rarely as straightforward as it should be.

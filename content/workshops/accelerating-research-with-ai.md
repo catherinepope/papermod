@@ -8,6 +8,10 @@ description: "Interactive workshop on using AI tools to accelerate academic rese
 keywords: ["AI research tools", "researcher development", "generative AI", "literature search", "research acceleration", "AI ethics", "research methodology", "academic productivity", "AI-powered research", "research training"]
 ShowBreadCrumbs: true
 hideMeta: true
+build:
+  list: never
+robots: noindex
+searchHidden: true
 ---
 
 Do you spend hours searching for relevant literature? Do you feel like you’re always playing catch-up? In this interactive session, you’ll explore tools and techniques designed to accelerate your research process. Learn how to harness the power of generative AI to find the most relevant material, save time, and make significant progress with your project. 

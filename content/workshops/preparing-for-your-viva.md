@@ -7,10 +7,10 @@ categories: ["Training"]
 description: "Learn how to prepare for and excel in your PhD viva examination. This comprehensive workshop covers strategic preparation, question handling techniques, examiner selection, and confidence-building strategies for doctoral candidates."
 keywords: ["PhD viva", "viva preparation", "doctoral examination", "thesis defense", "PhD examination", "viva voce", "doctoral viva", "PhD defense", "examiner questions", "thesis examination", "doctoral milestone", "PhD completion", "viva anxiety", "doctoral success", "PhD workshop"]
 hideMeta: true
-searchHidden: true
 build:
-  list: false
-  publishResources: false
+  list: never
+robots: noindex
+searchHidden: true
 disableShare: true
 ---
 

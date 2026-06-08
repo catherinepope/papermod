@@ -8,6 +8,11 @@ description: "Workshop on promoting academic research through digital scholarshi
 keywords: ["academic online presence", "digital scholarship", "research promotion", "Open Access", "academic blogging", "research podcasting", "academic videos", "science communication", "research impact", "scholarly communication"]
 ShowBreadCrumbs: true
 hideMeta: true
+disableShare: true
+build:
+  list: never
+robots: noindex
+searchHidden: true
 ---
 
 Are you ready to share your research with a wider audience but unsure how to move beyond traditional academic publishing? Your work deserves to reach people who can benefit from it, but navigating the digital landscape can feel daunting.

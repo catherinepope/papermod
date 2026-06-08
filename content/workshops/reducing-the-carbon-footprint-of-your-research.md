@@ -8,6 +8,10 @@ description: "Interactive workshop helping academic researchers understand and r
 keywords: ["carbon footprint", "sustainable research", "academic sustainability", "carbon literacy", "climate action for researchers", "sustainable academic practices", "research emissions", "carbon reduction", "environmental impact", "green research"] 
 showBreadCrumbs: true
 hideMeta: true
+build:
+  list: never
+robots: noindex
+searchHidden: true
 ---
 
 What’s your research carbon footprint? While the average person in the UK emits 5 tonnes of carbon dioxide each year, many academics emit more than 15 tonnes. To maintain safe and equitable boundaries, the planet needs us to emit only 2 tonnes per year.

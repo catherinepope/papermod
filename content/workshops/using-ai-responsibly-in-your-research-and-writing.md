@@ -8,10 +8,10 @@ description: "Interactive workshop on using AI tools to enhance academic writing
 keywords: ["AI writing tools", "academic writing", "AI for academics", "writing productivity", "AI ethics", "academic AI", "writing assistance", "scholarly writing", "AI integration", "writing workshop"]
 ShowBreadCrumbs: true
 hideMeta: true
-searchHidden: true
 build:
-  list: false
-  publishResources: false
+  list: never
+robots: noindex
+searchHidden: true
 disableShare: true
 ---
 

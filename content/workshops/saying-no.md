@@ -8,6 +8,10 @@ description: "Learn to establish healthy boundaries in academia with practical s
 keywords: ["academic boundaries", "saying no professionally", "academic productivity", "boundary setting workshop", "academic time management", "work-life balance academia", "academic burnout prevention", "priority setting academics", "professional development", "academic wellbeing", "overcommitment solutions", "academic self-care", "research productivity", "academic stress management", "healthy work boundaries"]
 ShowBreadCrumbs: true
 hideMeta: true
+build:
+  list: never
+robots: noindex
+searchHidden: true
 ---
 
 Are you constantly overwhelmed by requests, struggling to protect time for your most important work? Or do you feel guilty every time you decline an opportunity? Academic culture often rewards saying "yes" to everything, but this approach can lead to burnout, compromised work quality, and misaligned priorities.

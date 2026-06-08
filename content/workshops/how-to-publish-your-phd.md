@@ -8,7 +8,11 @@ description: "Workshop for post-PhD researchers ready to publish their monograph
 keywords: ["monograph publishing", "academic book publishing", "PhD to book", "book proposal", "academic publishers", "scholarly publishing", "thesis to monograph", "academic writing", "book publishing", "scholarly books"]
 ShowBreadCrumbs: true
 hideMeta: true
-alias: /turning-your-thesis-into-a-monograph/
+build:
+  list: never
+robots: noindex
+searchHidden: true
+disableShare: true
 ---
 
 You’ve passed your viva and got your life back. Now everyone keeps asking, “When are you going to publish your PhD?”
