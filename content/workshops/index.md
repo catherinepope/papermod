@@ -67,6 +67,8 @@ I am also happy to design bespoke sessions.
 
 ### Supporting PhD Researchers
 
+### Getting Doctoral Researchers Writing
+
 ### Embracing Neurodivergence in the Supervisory Relationship
 
 ### Managing a Research Project
