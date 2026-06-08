@@ -1,5 +1,7 @@
 ---
 title: Researcher Training for CHASE
+date: "2026-06-07T16:37:34+01:00"
+draft: false
 description: "Workshops delivered by Catherine Pope"
 hideMeta: true
 searchHidden: true
