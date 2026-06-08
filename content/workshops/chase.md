@@ -3,12 +3,6 @@ title: Researcher Training for CHASE
 date: "2026-06-07T16:37:34+01:00"
 draft: false
 description: "Workshops delivered by Catherine Pope"
-hideMeta: true
-searchHidden: true
-build:
-  list: never
-  render: always
-disableShare: true
 ---
 
 I offer the following workshops for researchers. **They are all delivered online through Zoom.** The maximum capacity is 30 attendees – this is to ensure that I can make the sessions interactive and answer all the questions.
