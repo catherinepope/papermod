@@ -6,8 +6,8 @@ description: "Workshops delivered by Catherine Pope"
 hideMeta: true
 searchHidden: true
 build:
-  list: false
-  publishResources: false
+  list: never
+  render: always
 disableShare: true
 ---
 
