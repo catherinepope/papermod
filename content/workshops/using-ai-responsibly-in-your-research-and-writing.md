@@ -35,4 +35,4 @@ _This session can be adapted to conform to institutional policies, if the releva
 
 ⏰ **Duration:** 3 hours
 
-{{< booking-info duration="3-hour" price="£800" >}}
+{{< booking-info duration="3-hour" price="800" >}}
