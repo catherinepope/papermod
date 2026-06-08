@@ -8,6 +8,11 @@ description: "Interactive demonstration of Zotero reference management software.
 keywords: ["Zotero", "reference management", "citation software", "bibliography", "academic references", "research tools", "citation styles", "Zotero workshop", "academic writing tools", "research organization"]
 ShowBreadCrumbs: true
 hideMeta: true
+searchHidden: true
+build:
+  list: false
+  publishResources: false
+disableShare: true
 ---
 
 Do you spend hours trying to find the source of that really important paper? Are you despairing at the thought of compiling your bibliography? Perhaps you have already a referencing tool, but it’s not right for you. You need Zotero! 
@@ -28,4 +33,4 @@ By the end of the session, you’ll be a confident Zotero user, ready to produce
 
 ⏰ **Duration:** 2 hours
 
-{{< booking-info duration="2-hour" price="£525" >}}
+{{< booking-info duration="2-hour" price="550" >}}

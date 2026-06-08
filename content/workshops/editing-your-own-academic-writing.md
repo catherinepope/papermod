@@ -12,7 +12,7 @@ hideMeta: true
 
 Are you horrified by the thought of confronting your own work? Have you left it to the last minute, secretly hoping it’s better than you think? Although editing feels overwhelming, it’s much easier when you adopt a systematic approach and develop a structured plan.
 
-Through activities and tutorials, this interactive workshop provides you with a clear strategy for turning that messy draft into a structured piece of writing. 
+Through activities and tutorials, this interactive workshop provides you with a three-stage strategy for turning that messy draft into a structured piece of writing. 
 
 With the help of an experienced facilitator, you’ll break the process down into more manageable chunks. You’ll also get the opportunity to apply the techniques to a piece of writing.
 
@@ -37,4 +37,4 @@ This session can be adapted to focus specifically on editing a doctoral thesis.
 - “Editing is definitely one of my biggest hurdles with academic writing, but the workshop has made it feel so much more doable and straightforward to structure. The end of the DPhil and tackling that big editing load doesn’t feel nearly as overwhelming now! So thank you so much for all your help and guidance today.”
 - “Catherine delivered a great workshop – with advice and lessons seldom offered by other PhD training.”
 
-{{< booking-info duration="3-hour" price="£775" >}}
+{{< booking-info duration="3-hour" price="800" >}}

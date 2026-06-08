@@ -1,13 +1,14 @@
 ---
 date: "2025-08-26T17:04:47+01:00"
 draft: false
-title: "Turning Your Thesis into a Monograph"
+title: "How to Publish Your PhD"
 tags: ["academic", "workshops"]
 categories: ["Training"] 
 description: "Workshop for post-PhD researchers ready to publish their monograph. Learn to identify publishers, write compelling book proposals, transform thesis into book, and develop an effective publishing strategy."
 keywords: ["monograph publishing", "academic book publishing", "PhD to book", "book proposal", "academic publishers", "scholarly publishing", "thesis to monograph", "academic writing", "book publishing", "scholarly books"]
 ShowBreadCrumbs: true
 hideMeta: true
+alias: /turning-your-thesis-into-a-monograph/
 ---
 
 You’ve passed your viva and got your life back. Now everyone keeps asking, “When are you going to publish your PhD?”
@@ -25,8 +26,9 @@ You’ll learn about:
 - Understanding the differences between a thesis and a monograph.
 - Deciding on the right structure.
 - Developing a productive writing process.
+- Alternatives to monographs.
 
-By the end of the session, you’ll be ready to get going with drafting your proposal
+By the end of the session, you’ll be ready to get going with drafting your proposal.
 
 👩🏽‍🎓 **Audience:** Researchers at all stages and in any discipline.
 
@@ -38,4 +40,4 @@ By the end of the session, you’ll be ready to get going with drafting your pro
 - "So helpful – there were loads of extra tips packed in, plus it was great to hear from others. Thank you so much."
 - "This was a tremendously informative and engaging session which gave me a much clearer picture of what the academic publishing landscape looks like. I found this to be an extremely enjoyable and meaningful session.”
 
-{{< booking-info duration="3-hour" price="£775" >}}
+{{< booking-info duration="3-hour" price="800" >}}

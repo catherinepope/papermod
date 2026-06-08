@@ -36,4 +36,4 @@ With guidance from an experienced facilitator and examples from successful acade
 - "Found this terrifying, but very useful. Need to update and tackle the fear! Great session. Thank you."
 - "Thank you so much Catherine – very useful workshop and it has motivated me to start working on my web presence!"
 
-{{< booking-info duration="2-hour" price="£525" >}}
+{{< booking-info duration="2-hour" price="550" >}}
