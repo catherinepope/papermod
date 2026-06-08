@@ -39,6 +39,10 @@ I am also happy to design bespoke sessions.
 
 ### Writing with Impact
 
+### How to Turn Your Research into Journal Articles
+
+### Writing Collaboratively
+
 ## Tech
 
 ### Getting Started with Zotero
