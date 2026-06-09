@@ -2,10 +2,10 @@
 date: "2026-02-19T10:19:07Z"
 draft: false
 title: "CHASE Neurodiversity Network"
-searchHidden: true
 build:
-  list: false
-  publishResources: false
+  list: never
+robots: noindex
+searchHidden: true
 # tags: ["tag 1", "tag2", "tag3"]
 # categories: 
 # description: ""
@@ -124,9 +124,9 @@ What are some of the specific challenges around editing your own writing? What s
 - Reverse outlining
 - Improving the clarity of your writing
 
-<!--### Resources
+### Resources
 
-- [Improve Your Flow with Reverse Outlining](/posts/improve-your-flow-with-reverse-outlining/) -->
+- [Improve Your Flow with Reverse Outlining](/posts/improve-your-flow-with-reverse-outlining/)
 
 ## Half-day Writing Retreat
 
