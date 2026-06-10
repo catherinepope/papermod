@@ -128,6 +128,10 @@ What are some of the specific challenges around editing your own writing? What s
 
 - [Improve Your Flow with Reverse Outlining](/posts/improve-your-flow-with-reverse-outlining/)
 
+### Presentation
+
+- [Slides](/slides/nn-session-3/)
+
 ## Half-day Writing Retreat
 
 **Wednesday 8th July, 10am-1pm**
