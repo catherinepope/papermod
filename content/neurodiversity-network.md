@@ -136,4 +136,6 @@ What are some of the specific challenges around editing your own writing? What s
 
 **Wednesday 8th July, 10am-1pm**
 
-This online retreat gives you the opportunity to focus on your writing in a structured and supportive environment. In advance, you'll receive help with setting realistic goals and organising your research material.
+This online retreat gives you the opportunity to focus on your writing in a structured and supportive environment. 
+
+Here's [some guidance on how to prepare for the session](../writing-retreat/).
