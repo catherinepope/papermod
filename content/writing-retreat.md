@@ -44,5 +44,4 @@ Otherwise, I'll let you know (as gently as possible) when each session begins an
 
 Let me know if you have any questions.
 
-
 [^1]: This claim is based on extensive empirical research 🍪

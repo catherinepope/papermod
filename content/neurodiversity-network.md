@@ -6,10 +6,6 @@ build:
   list: never
 robots: noindex
 searchHidden: true
-# tags: ["tag 1", "tag2", "tag3"]
-# categories: 
-# description: ""
-# keywords: ["keyword 1", "keyword 2", "keyword 3"]
 ShowToc: true
 OpenToc: true
 hideMeta: true
