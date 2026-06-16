@@ -44,4 +44,6 @@ Otherwise, I'll let you know (as gently as possible) when each session begins an
 
 Let me know if you have any questions.
 
+You can find all the resources from previous sessions on [the Neurodiversity Network page](../neurodiversity-network/).
+
 [^1]: This claim is based on extensive empirical research 🍪
