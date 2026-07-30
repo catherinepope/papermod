@@ -1,1 +1,1 @@
-Hugo site with Papermod theme
+Hugo site with Papermod theme and a few customisations.
