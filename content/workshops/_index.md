@@ -11,7 +11,7 @@ I offer the following workshops for researchers. **They are all delivered online
 
 You’ll find more information in my [Workshop Terms and Conditions](/workshops/terms-and-conditions/).
 
-2-hour workshops cost £550 and 3-hour workshops cost £800.
+2-hour workshops cost £550 and 3-hour workshops cost £800. I don't charge VAT.
 
 If you would like to see the blurb and outline for any of the session, please contact me@catherinepope.com.
 

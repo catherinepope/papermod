@@ -22,22 +22,24 @@ I offer academic coaching and training independently, and also as an associate f
 My main areas are:
 
 - Building sustainable writing practices.
-- Using generative AI in research and writing.
+- Using generative AI responsibly in research and writing.
 - Project managing research.
 - Creating effective workflows with digital tools.
 - Making academic and technical concepts understandable for wider audiences.
 
 I'm also available to design and deliver bespoke training for academic or tech clients, either on Zoom or through video-based online courses. Currently, I'm unable to offer in-person training.
 
-## Content Creation
+## Online Course Creation
 
-You can also hire me for technical writing (user docs) or content creation projects (e.g. instructional videos). My tech experience includes:
+You can also hire me for creating online courses. I can manage everything from developing the content, through to recording and editing the videos. I've created around 30 courses for different clients. Topics include:
 
-- DevOps
-- Web development
-- Software engineering
+- Getting Started with Zotero
+- Planning, Structuring and Writing Your Thesis
+- Planning and Structuring Your Literature Review
+- Becoming a Principal Investigator
+- Editing Your Own Academic Writing
 
-All work is fully remote. I'm not currently seeking a full-time or permanent role.
+All work is fully remote and on a freelance basis. I'm not currently seeking a full-time or permanent role.
 
 ## Ready to talk?
 
