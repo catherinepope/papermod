@@ -19,7 +19,7 @@ A couple of years ago, I left the tech sector to coach and train academics, from
 
 🎹 Like many autistic people, I develop intense interests and am able to hyperfocus on them. My current obsession is [learning to play the piano](../learning-to-play-piano-at-50/). Because I often find it impossible to choose between things I love, I’m also learning classical guitar and the electric bass.
 
-I live in Brighton on the south coast of England with my partner [Tanya](https://www.tanyaizzard.co.uk) and [thousands of books](https://www.librarything.com/profile/catherinepope).
+🏳️‍🌈 I live in Brighton on the south coast of England with my partner [Tanya](https://www.tanyaizzard.co.uk) and [thousands of books](https://www.librarything.com/profile/catherinepope).
 
 📚 My site contains affiliate links for [bookshop.org](https://bookshop.org). If you click on them, I get a tiny amount of commission … which I promise to spend on more books to share with you. And you won't be funding a billionaire's Venetian wedding.
 
