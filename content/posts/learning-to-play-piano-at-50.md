@@ -2,7 +2,7 @@
 title:  "88 Keys to Happiness: Learning to Play Piano at 50"
 date:   2024-09-26 10:19:28 +0100
 draft: false
-# categories: 
+categories: ["Music"]
 tags: ["Learning", "piano"]
 showToc: true
 description: "A candid review of piano learning apps from a 50-year-old beginner. Compare FlowKey, Simply Piano, and Piano Marvel to discover which apps work best for adult learners, including pros and cons of each platform's teaching methods."

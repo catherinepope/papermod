@@ -3,7 +3,7 @@ date: "2024-10-13T16:29:09+01:00"
 draft: false
 title: "Playing Piano With Dinosaurs"
 tags: ["piano", "learning", "music"]
-# categories: 
+categories: ["Music"]
 description: "A candid account of transitioning from piano learning apps to real lessons at age 50. Discover how human instruction transforms your understanding of dynamics, physicality, and musical interpretation beyond what apps can teach."
 keywords: ["piano lessons", "adult piano learning", "piano teacher", "learning piano at 50", "piano technique", "adult music lessons", "piano practice"]
 ---
