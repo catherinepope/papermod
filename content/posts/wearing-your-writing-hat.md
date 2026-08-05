@@ -4,8 +4,8 @@ draft: false
 title: "Wearing Your Writing Hat"
 tags: ["Writing"]
 categories: ["Writing"]
-description: ""
-keywords: ["keyword 1", "keyword 2", "keyword 3"]
+# description: ""
+# keywords: ["keyword 1", "keyword 2", "keyword 3"]
 # ShowToc: true
 # OpenToc: true  
 ---
