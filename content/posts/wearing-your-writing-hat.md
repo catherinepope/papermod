@@ -1,6 +1,6 @@
 ---
 date: "2026-08-05T14:05:57+01:00"
-draft: true
+draft: false
 title: "Wearing Your Writing Hat"
 tags: ["Writing"]
 categories: ["Writing"]
