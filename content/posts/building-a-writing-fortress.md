@@ -18,10 +18,9 @@ Having lived next to a building site for the last year, I've been cultivating th
 
 ## Step 1 - Protect the time 🕰️
 
-As we all know, waiting until it's quieter or we feel more enthusiastic never works. Schedule that time in your calendar and treat it like any other appointment. Building a writing fortress starts with _protecting_ the time. If other people are unlikely to respect your commitments, pretend it's a medical appointment for something embarrassing that they'll never ask you about.
+As we all know, waiting until it's quieter or we feel more enthusiastic never works. Schedule that time in your calendar and treat it like any other commitment. In [_The Clockwork Muse_](https://uk.bookshop.org/a/2760/9780674135864), Eviatar Zerubavel says that writing needs to be a “non-negotiable appointment”. Building a writing fortress starts with _protecting_ the time. If other people are unlikely to respect your commitments, pretend it's a medical appointment for something embarrassing that they'll never ask you about.
 
-Platforms like the [London Writer's Salon](https://londonwriterssalon.com) and [Focusmate](/posts/improving-writing-accountability-with-focusmate/) are excellent for creating accountability. The LWS hosts facilitated Writer's Hours throughout the day where you write with a few hundred other people. On Focusmate, you can book 1-2-1 sessions with a writing buddy. [Mason Currey](https://masoncurrey.substack.com) also hosts monthly writing sessions through his Substack. Being around other writers can have a magical effect on our productivity.
-
+Platforms like the [London Writer's Salon](https://londonwriterssalon.com) and [Focusmate](/posts/improving-writing-accountability-with-focusmate/) are excellent for creating accountability. The LWS hosts facilitated Writer's Hours throughout the day where you write with a few hundred other people. On Focusmate, you can book 1-2-1 sessions with a writing buddy. [Mason Currey](https://masoncurrey.substack.com) also hosts monthly writing sessions through his Substack. Being around other writers can have a magical effect on our productivity. A [writing hat](/posts/wearing-your-writing-hat/) is also useful.
 
 ## Step 2 - Plan your time 📝
 
