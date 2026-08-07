@@ -13,7 +13,7 @@ You’ll find more information in my [Workshop Terms and Conditions](/workshops/
 
 2-hour workshops cost £550 and 3-hour workshops cost £800. I don't charge VAT.
 
-If you would like to see the blurb and outline for any of the session, please contact me@catherinepope.com.
+If you would like to see the blurb and outline for any of the sessions, please contact me@catherinepope.com.
 
 I am also happy to design bespoke sessions.
 
@@ -33,9 +33,9 @@ I am also happy to design bespoke sessions.
 - From Reading to Writing: Create a Workflow that Sticks (2 hours) 
 - Externalising and Organising Your Research Brain (2 hours)
 - How to Edit Your Own Academic Writing (3 hours)
-- Writing with Impact (3 hours)
 - How to Turn Your Research into Journal Articles (3 hours)
-- Writing Collaboratively (3 hours)
+
+_I also offer full- or half-day online writing retreats. Please [contact me](/contact/) to discuss your requirements._
 
 ## Tech
 
@@ -56,7 +56,7 @@ I am also happy to design bespoke sessions.
 ## Supporting and Leading Researchers
 
 - Supporting PhD Researchers (2 hours)
-- Getting Doctoral Researchers Writing (2 hours)
+- Supervising Researchers' Writing (2 hours)
 - Embracing Neurodivergence in the Supervisory Relationship (2 hours)
 - Managing a Research Project (3 hours)
-- Leading a Research Team (3 hours)
+- Next Steps in Managing Research Projects (3 hours)
