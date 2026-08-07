@@ -26,7 +26,7 @@ So, here are my tips for looking after your wellbeing.
 
 ## 1.Take breaks
 
-I know it’s tempting to put in a long session at your desk, especially if you’re facing a tight deadline. But sitting in one position for hours (especially when you’re tense) is bad for you. And you’re probably not being productive, either. It’s a good idea to stand up and stretch at least once an hour. Set a timer, as you won’t remember to do it. I try not to sit for longer than 25 minutes (I use the [Pomodoro Technique](../pomodoro-technique/)), as this is the point at which my body starts to grumble.
+I know it’s tempting to put in a long session at your desk, especially if you’re facing a tight deadline. But sitting in one position for hours (especially when you’re tense) is bad for you. And you’re probably not being productive, either. It’s a good idea to stand up and stretch at least once an hour. Set a timer, as you won’t remember to do it. I try not to sit for longer than 25 minutes (I use the [Pomodoro Technique](/posts/the-seven-habits-of-highly-effective-tomatoes/)), as this is the point at which my body starts to grumble.
 
 Yes, I’d much rather immerse myself in writing for long stretches, but it’s just not worth it. Coming up with [an effective plan](../overcoming-page-fright-plan-piece-academic-writing/) also means you can [achieve more in less time](../to-write-more-you-need-less-time/).
 
