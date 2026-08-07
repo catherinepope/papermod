@@ -20,7 +20,7 @@ With such tight restrictions in place, Bradbury had to think carefully about how
 
 It’s unlikely you can find a coin-operated typewriter, or even an open library at the moment. However, there are other ways of achieving the same effect:
 
-1) [The Pomodoro Technique](../pomodoro-technique/) improves focus by breaking down your tasks into 25-minute tasks. With a Pomodoro timer, you get a sense of urgency and a reminder to focus on your writing. Many researchers – myself included – find that doing a couple of pomodoros[^1] each day is far more effective than a whole day spent staring at the screen.
+1) [The Pomodoro Technique](/posts/the-seven-habits-of-highly-effective-tomatoes/) improves focus by breaking down your tasks into 25-minute tasks. With a Pomodoro timer, you get a sense of urgency and a reminder to focus on your writing. Many researchers – myself included – find that doing a couple of pomodoros[^1] each day is far more effective than a whole day spent staring at the screen.
 
 2) [Focusmate](../improving-writing-accountability-with-focusmate/) matches you with an online writing partner for 50-minute writing sessions. You stay connected with your webcam throughout, which makes you unlikely to wander off. Yes, it’s like being under surveillance, which is exactly why it works.
 

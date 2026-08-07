@@ -13,7 +13,7 @@ When I run project management workshops, there's always one problem that everyon
 
 ## Time Tracking
 
-One of the best solutions I've discovered is time tracking. Working on freelance projects, I sometimes need to track billable hours for clients. With time tracking tools like [Toggl](https://toggl.com), you record the start and end time for activities so you can generate reports on exactly how long you spent on that project. Within the project, you use tags or labels to track specific activities, such as emails, meetings, or researching. I use Toggl[^1] because it's easy record everything with the desktop timer, which also supports the Pomodoro Technique. Alternatives include [Clockify](https://clockify.me) and [RescueTime](https://rescuetime.com).
+One of the best solutions I've discovered is time tracking. Working on freelance projects, I sometimes need to track billable hours for clients. With time tracking tools like [Toggl](https://toggl.com), you record the start and end time for activities so you can generate reports on exactly how long you spent on that project. Within the project, you use tags or labels to track specific activities, such as emails, meetings, or researching. I use Toggl[^1] because it's easy record everything with the desktop timer, which also supports [the Pomodoro Technique](/posts/the-seven-habits-of-highly-effective-tomatoes/). Alternatives include [Clockify](https://clockify.me) and [RescueTime](https://rescuetime.com).
 
 {{< img src="images/toggl.jpg" alt="Screenshot of the Toggl timer" caption="The Toggl desktop timer" center="true" >}}
 
