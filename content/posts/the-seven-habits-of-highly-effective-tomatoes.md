@@ -74,7 +74,7 @@ Of course, it's very easy to set a timer. Apart from wearing velcro pants, how d
 
 I've tried various apps and platforms that bundle Pomodoro timers with focus-enhancing backing tracks. They often start well, then become unnecessarily complicated with annoying and expensive AI features. I tried one platform where you were supposed to chat with other people during the tomato breaks 🙀
 
-My preferred approach is [Toggl Timer](https://toggl.com) and [MyNoise](mynoise.net/). This gives me complete control over the duration and background sounds. And I don't have to talk to random strangers. This combination is my [imaginary Writing Fortress](/posts/building-a-writing-fortress/).
+My preferred approach is [Toggl Timer](https://toggl.com) and [MyNoise](https://mynoise.net/). This gives me complete control over the duration and background sounds. And I don't have to talk to random strangers. This combination is my [imaginary Writing Fortress](/posts/building-a-writing-fortress/).
 
 ### 7. Experiment with your own approach
 
