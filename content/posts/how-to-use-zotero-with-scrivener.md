@@ -21,7 +21,7 @@ I'm assuming you already have Zotero and Scrivener installed, and that you have 
 
 Although this step doesn't achieve proper integration, it enables a keyboard shortcut that summons your Zotero Library while you're writing. Once you get used the workflow, this reduces the friction significantly.
 
-In your Scrivener Settings, go to the **General** tab (the first one), then select **Citationse** from the list on the left.
+In your Scrivener Settings, go to the **General** tab (the first one), then select **Citations** from the list on the left.
 
 {{< img src="images/scrivener-bibliography-manager.jpg" alt="Screenshot of Bibliography Manage settings in Scrivener" caption="Bibliography Manager settings in Scrivener" center="true" >}}
 
@@ -123,6 +123,8 @@ Next, choose the referencing style you want for your final document and click **
 
 Your citations appear in footnotes and the bibliography is automatically generated at the end 💃🏽
 
+NB: I've been alerted to the fact that RTF Scan doesn't handle accents properly, so you might need [the other method](/posts/how-to-use-zotero-with-scrivener-part-2/) if you're writing in a language other than English.
+
 ## Conclusion
 
 Unfortunately, your output file won’t be linked to your Zotero Library, so you’d have to manually add or edit further citations. Another problem is that this method can’t differentiate between multiple publications by the same author in the same year. You'd have to unravel those problems when you run RTF Scan in Zotero and link the placeholders to the correct publication. 
@@ -138,7 +140,7 @@ To summarise on RTF Scan:
 
 💡 If you make sure your Zotero library is clean - i.e. correct information and no duplicates - you'll make life much easier for yourself.
 
-As I'll explain in [the next post](../how-to-use-zotero-with-scrivener-part-2/), there are more sophisticated approaches that give you better control in that final document. However, they are complicated and fragile. Currently, I think the RTF Scan approach offers the best combination of ease and reliability.
+As I'll explain in [the next post](../how-to-use-zotero-with-scrivener-part-2/), there is a more sophisticated approach that gives you better control in that final document - provided you're willing to install an add-on.
 
 [^1]: If Zotero is already open but not in the foreground, the Scrivener shortcut may not bring it to the front. You'll need to click on Zotero in the dock the first time.
 
