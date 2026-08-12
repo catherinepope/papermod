@@ -4,110 +4,101 @@ draft: false
 title: "How to Use Zotero with Scrivener - Part 2"
 tags: ["Zotero", "Scrivener", "Academic"]
 categories: ["Technology"] 
-description: "Why Zotero 7 broke Scrivener integration and what to do about it. Honest review of alternatives including Quarto, Zettlr, and Obsidian, plus why the RTF/ODF plugin won't return."
-keywords: ["Zotero 7 Scrivener", "Scrivener Zotero integration", "RTF ODF plugin broken", "Zotero Scrivener workflow", "academic writing tools", "Scrivener alternatives", "Zettlr Zotero", "Quarto citations", "Better BibTeX", "citation management", "academic workflow", "Obsidian Zotero", "research writing software", "Zotero plugin compatibility"]
+description: "Learn how to use the ODF/DOCX Scan plugin for Zotero"
+keywords: ["Zotero 7 Scrivener", "Scrivener Zotero integration", "Zotero Scrivener workflow", "academic writing tools", "citation management", "academic workflow", "research writing software"]
 ShowToc: true
 tocOpen: true  
 ---
 
-Around 10 years ago, I wrote a tutorial on using Zotero with Scrivener through the RTF/ODF plugin. This method was fiddly, but ultimately produced live Zotero citations in a Word or LibreOffice document. Unfortunately, since the launch of Zotero 7, this method no longer works.
+Around 10 years ago, I wrote a tutorial on using Zotero with Scrivener through the RTF/ODF plugin. This method was fiddly, but ultimately produced live Zotero citations in a Word or OpenOffice document. When Zotero 7 was launched, this method no longer worked. I updated my tutorial with a doom-laden reflection on why this problem was unlikely to be solved. Happily, the developers of the original plugin have not only updated it but also made it much better than the original. It's now called [ODF/DOCX Scan for Zotero](https://zotero-odf-scan.github.io/zotero-odf-scan/). I'm grateful to Sebastian Karcher and the other volunteers for all their work and also to Professor Michael Cantinotti for alerting me to the update.
 
-In [my previous post](../how-to-use-zotero-with-scrivener/), I described a simple Zotero-Scrivener workflow, using the RTF Scan tool. Here, I'll explain why the more complicated method is no longer working and outline some other alternatives.
+In [my previous post](../how-to-use-zotero-with-scrivener/), I described a simple Zotero-Scrivener workflow, using the RTF Scan tool. Here, I'll explain how to use the updated ODF/DOCX Scan plugin. This approach is slightly more complicated, but much more sophisticated.
 
-**Plot spoiler:** I haven't found any solutions to match the RTF/ODF plugin. And, I think it's unlikely the plugin will ever be compatible with the latest version of Zotero. Sorry. If you definitely want to use Zotero with Scrivener, I think [RTF Scan](../how-to-use-zotero-with-scrivener/) is the most reliable method.
+## Step 1 - Download the plugin
 
-If you're determined to find another answer, join me for a canter through the options.
+To download the plugin, go to the [GitHub repository](https://github.com/Juris-M/zotero-odf-scan-plugin/releases) and click on the latest release. You want the file with the `.xpi` extension.
 
-First, I'll explain my understanding of why the RTF/ODF plugin is no longer working, and why I think this is a permanent situation.
+{{< img src="images/zotero-odf-plugin.jpg" alt="Screenshot of Zotero ODF/DOCX plugin download page" caption="Download the XPI file from GitHub" center="true" >}}
 
-## What's happened to the RTF/ODF plugin for Zotero?
+## Step 2 - Install the plugin in Zotero
 
-As you probably know, Zotero is a free and open source tool. This means that contributors and plugin developers are giving their time for free. Whereas Zotero 6 used the legacy Firefox extension architecture, Zotero 7 represents a completely new plugin system, based on different web technologies. In short, many Zotero plugins need to be completely rewritten, not just updated. Trying to make a plugin compatible with different platforms and architecture updates is a full-time job. And Zotero volunteers already have full-time jobs elsewhere.
+In Zotero:
 
-## Why haven't the Scrivener developers improved Zotero compatibility?
+- Click **Tools > Plugins**. 
+- Click the cogwheel icon in the top right and choose **Install Plugin from File**.
+- Locate the file you downloaded.
 
-Scrivener is developed by a small team who have to prioritise feature development. Although they've not said as much publicly, I sense their focus is now much more on novelists. Citation management is a niche area. This is frustrating, given Scrivener was originally developed for writing a thesis. Still, a writing app can't please everyone and remain useful.
+{{< img src="images/zotero-install-odf-plugin.jpg" alt="Screenshot of Zotero ODF/DOCX plugin installation" caption="Install the plugin in Zotero" center="true" >}}
 
-Unlike Zotero, Scrivener isn't open source. As it's proprietary software, other developers are unable to create plugins to connect the two apps. At least, not without significant cooperation from Scrivener, whose limited development time is devoted to the highest-impact features.
 
-## What are the alternative solutions?
+## Step 3 - Configure the plugin
 
-### Downgrade to Zotero 6
+The plugin works partly by creating placeholders in a scannable format that are replaced by citations. You need to tell Zotero to use this format.
 
-If you want to retain the RTF/ODF approach, you could stick with Zotero 6. The [RTF/ODF plugin](https://zotero-odf-scan.github.io/zotero-odf-scan/) is still available, but is no longer updated.
+In Zotero:
 
-I think this is a short-term solution, though. At some point, you'll need to upgrade to Zotero 7 for either new features or security reasons.
+- Go to Settings.
+- Click the **Export** tab.
+- Under **Item Format**, change it to **Scannable Cite**.
 
-I tried running Zotero 6 and 7 in parallel, but that didn't work for me. You might get different results.
+{{< img src="images/zotero-scannable-cite.jpg" alt="Screenshot of Zotero export settings" caption="Change Item Format to Scannable Cite" center="true" >}}
 
-- ✅ Retain your existing workflow.
-- ❌ Short-term solution.
+## Step 4 - Insert placeholders in your Scrivener document
 
-### Use a different workflow
+There are two methods for inserting placeholders:
 
-From scouring the Zotero discussion forums, I see there are other approaches using Markdown. The simplest (but by no means simple) approach is with a Mac-only tool called [Docdown](https://github.com/lowercasename/docdown). You can find [a description and links on the Scrivener thread](https://forums.zotero.org/discussion/121053/a-scrivener-workflow-for-macs).
+- Click and drag them from Zotero into your Scrivener footnote.
+- Select the item in Zotero, use the quick copy keyboard shortcut, then paste it into your Scrivener footnote.
 
-Like other users, this method didn't work consistently for me. That's not a reflection on Docdown, which is excellent - it's much more to do with the complexity of the underlying workflow. Also, you won't get live citations in your final document (i.e. you'll be unable to edit them with the Zotero toolbar).
+The keyboard shortcut is <span class="key">Cmd</span> + <span class="key">Shift</span> + <span class="key">C</span> (Mac) <span class="key">Ctrl</span> + <span class="key">Shift</span> + <span class="key">C</span> (Windows).
 
-- ✅ If it works for you, offers a lot of control over your Zotero workflow.
-- ❌ Complicated and (for some users) inconsistent. 
+Your placeholders will look like this:
 
-### Use a different writing app
+{{< img src="images/scrivener-odf-footnotes.jpg" alt="Screenshot of Scrivener footnotes" caption="Scrivener footnotes with ODF placeholders" center="true" >}}
 
-I started using Scrivener well over a decade ago. At that time, it was essentially a choice between Word or Scrivener. Nowadays, there are dozens of alternatives. None offers Scrivener's sublime project management tools, but they do offer other benefits. If citation management is more important than visual tools like the Corkboard, then it might be time to experiment.
+You can now edit them to include additional information.
 
-The apps I'm outlining here all rely on the [Better BibTex plugin](https://retorque.re/zotero-better-bibtex/) for Zotero. This plugin generates stable citation keys and auto-updating files.
+If you peer closely at this expanded example, you'll see there are five fields, separated by a `|` (pipe) character.
 
-⚠️ You can generate a Word document from these apps, but you won't be able to edit your citations using the Zotero toolbar. Only the RTF/ODF plugin offers live citations.
+{{< img src="images/scrivener-expanded-odf-placeholder.jpg" alt="Screenshot of Scrivener footnotes" caption="The five placeholder fields in Scrivener" center="true" >}}
 
-I'm currently experimenting with:
+Here's what they each do:
 
-#### Quarto
+1.	Prefix (e.g. “Cited in”)
+2.	Displayed citation (author, year)
+3.	Locator (e.g. “p. 23”, “ch. 2”)
+4.	Suffix (e.g. “original emphasis”)
+5.	Item URI (this is what the plugin uses to link to Zotero, so do not modify this field).
 
-[Quarto](https://quarto.org) is a Markdown-based scientific and technical publishing system. This powerful but complex tool allows you to create articles, presentations, websites, and books. My early hunch is that I'll be using it for full-length books, as it offers a lot of control over layout and also tools for indexing.
+A fully populated placeholder might look like this: `{Cited in |Ashton, 2017|p. 23| (original emphasis)|zu:6612291:HYYHT3WH}`
 
-Theoretically, Quarto should integrate with your Zotero library and provide a citation picker in editors like Visual Studio Code, Positron, and RStudio. This feature didn't work for me in VS Code or Positron - and it looks like I'm not alone based on forum discussions. The Better BibTex workflow was fine, though.
+There are more instructions and options on the [plugin homepage](https://zotero-odf-scan.github.io/zotero-odf-scan/).
 
-Quarto is a big commitment and probably overkill for many use cases. Depending on your technical chops, expect to spend a month getting to grips with it.
+When you've finished adding your placeholders, export your Scrivener project as a `.docx` file if you're using Word, or `.odt` if you're using OpenOffice or LibreOffice.
 
-- ✅ Allows you to create and format content quickly, then output in a range of formats.
-- ❌ You need to be comfortable with using the Command Line Interface and installing lots of related tools. Or buckle up for a steep learning curve.
+ℹ️ You can use ODF/DOCX Scan with either Word or OpenOffice/LibreOffice. In the previous version, you had to use OpenOffice and then convert your document, so this is a big improvement for Word users.
 
-#### Zettlr
+## Step 5 - Scan your document
 
-[Zettlr](https://www.zettlr.com/) is the closest alternative to Scrivener that I found. It's both a note-taking app and a writing app, so it supports you from the initial idea through to the finished manuscript. Zettlr is free and open source, and it's available for Mac, Window, and Linux.
+Once you've exported your Scrivener project with the placeholders, you're ready to replace them with citations.
 
-Like in Scrivener, you can use split screen to view multiple documents and also set word targets. You'd need to be comfortable with Markdown, but you can grasp the basics in half an hour. Zettlr itself is also straightforward. You could probably be up and running in a weekend.
+In Zotero:
 
-Although Zettlr doesn't offer direct Zotero integration, there's a relatively simple workaround using the Better BibTex plugin. You'll find a [clear explanation in the Zettlr docs](https://docs.zettlr.com/en/core/citations/).
+- Click **Tools > ODF Scan**.
+- Ensure **Markers -> Zotero citations** is selected.
+- Choose your document with the placeholders as the **Input File** (by default, the plugin automatically creates an output file by adding `(converted)` to the filename).
+- Click **Process Document**.
 
-I suspect I'll be using Zettlr for shorter writing projects that don't need advanced features like indexes.
+{{< img src="images/zotero-odf-scan.jpg" alt="Screenshot of Zotero ODF/DOCX Scan" caption="Run ODF Scan in Zotero" center="true" >}}
 
-- ✅ Close to Scrivener's features, but with a simpler Zotero workflow.
-- ❌ Lacks Scrivener's visual planning capabilities.
+When you open the processed document, you should see those placeholders have been replaced with citations.
 
-#### Obsidian
+{{< img src="images/word-citations-footnotes.jpg" alt="Screenshot of Word with citations in footnotes" caption="The ODF/DOCX plugin has converted the placeholders to citations" center="true" >}}
 
-[Obsidian](https://obsidian.md) is my favourite note-taking tool. Like with Zotero, there are many community plugins available. One of the best is [Longform](https://github.com/kevboh/longform), which helps you manage and export multiple notes as one manuscript. 
+The citation format will be whatever you've specified for that document. You can change this format in **Document Preferences** on the Zotero toolbar.
 
-There are also several plugins that'll connect your Zotero library (through Better BibTex) and many successful [Obsidian-Zotero workflows](https://girlinbluemusic.com/how-to-connect-zotero-and-obsidian-for-the-ultimate-phd-workflow/). But I found them quite fragile. Everything is grand until one part of the toolchain is updated and everything falls apart. You then have to spend a boring afternoon trying to troubleshoot the problem (rather than actually doing some writing). This approach is fine if you don't resent the time required for making technology cooperate.
-
-Also, I discovered that I like keeping my main notebook and writing separate. If I try to draft a chapter in my notebook, I get overwhelmed by everyone else's ideas. But using Markdown-based solutions for both notetaking and writing means I can easily copy important quotes without worrying about formatting.
-
-- ✅ You can keep your writing and notes in one place and also connect your Zotero library.
-- ❌ It's a complicated toolchain that's likely to break.
-
-It's important to experiment with writing apps before committing. The advantage of Markdown-based solutions is that your work is portable.
+{{< img src="images/zotero-document-preferences.jpg" alt="Screenshot of Zotero document preferences" caption="Specify your citation style in the Zotero document preferences" center="true" >}}
 
 ## Conclusion
 
-As you can see, there are no easy or elegant solutions. In short, I think the options are:
-
-- Stick with Zotero 6 and hope someone updates the plugin (I don't think they will) 🙈
-- Pursue one of the more complicated solutions and prepare to spend time maintaining the toolchain.
-- Use the RTF Scan method - you don't get live citations, but it's simple and reliable.
-- Find a different writing tool, like Quarto, Zettlr, or Obsidian.
-
-Unfortunately, the pace of change means that we all need to keep reviewing our workflow, especially when we're relying on the generosity of developers giving their time and expertise for free. A big thank you to Frank Bennett and Sebastian Karcher who created the RTF/ODF plugin and have done so much for the Zotero community.
-
-There might be other options out there that I've not discovered. Please do let me know of any alternatives. Best of luck with finding a solution that works for you.
+I'm delighted this workflow is functioning again. When the plugin initially broke with Zotero 7, I spent a significant amount of time investigating alternatives to both Zotero and Scrivener. All paths led to a lot of frustration and not enough writing. I still don't think we'll ever get full integration between these tools, or an alternative that does everything we need. For now, though, this makes life easier. A big thank you to everyone who has made it possible 🙏🏼
