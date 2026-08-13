@@ -87,4 +87,4 @@ You can switch between Hugo versions by changing the image tag in the `docker-co
 
 ## Conclusion
 
-While  this initial setup can feel fiddly if you're unfamiliar with Docker, once you've got the `docker-compose.yml` file, it's quick to tweak it when you want to experiment with a different version. There's lots more you can do with `docker-compose.yml`, but I'm keeping it simple here. You can explore the [Hugomods documentation](https://docker.hugomods.com/) for additional Docker configurations and different image options. Good luck with your Hugo site!
+While this initial setup can feel fiddly if you're unfamiliar with Docker, once you've got the `docker-compose.yml` file, it's quick to tweak it when you want to experiment with a different version. There's lots more you can do with `docker-compose.yml`, but I'm keeping it simple here. You can explore the [Hugomods documentation](https://docker.hugomods.com/) for additional Docker configurations and different image options. Good luck with your Hugo site!

@@ -113,9 +113,3 @@ On the free plan, you get 100 submissions per month. Given it's good at filterin
 If you need something more sophisticated, you could use a third-party solution like [Tally](https://tally.so). It doesn't have to be directly integrated with your site. If you're capturing a lot of information, it's best to use a product that's specifically designed for that purpose.
 
 But for most of us, Netlify provides a simple and effective solution.
-
----
-
-I’m currently pondering a **Getting Started with Hugo** online course. Add your email below if you’d be interested, then I’ll let you know if it goes ahead:
-
-{{< newsletter-form tag="hugo" >}}

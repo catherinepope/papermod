@@ -69,9 +69,3 @@ If your visit isn't tracked, check:
 ## Conclusion
 
 Once your line of code is the right place, Fathom happily tracks visits to your Hugo site. If you experience any problems, the Fathom technical support people are very helpful. And there's [lots of information on their site](https://usefathom.com/docs/script/embed).
-
----
-
-I’m currently pondering whether to create a **Getting Started with Hugo** online course. Add your email below if you’d be interested, then I’ll let you know if it goes ahead:
-
-{{< newsletter-form tag="hugo" >}}

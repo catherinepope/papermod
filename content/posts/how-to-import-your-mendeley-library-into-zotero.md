@@ -68,9 +68,3 @@ When finished, you can delete this imported collection by right-clicking and cho
 ## Conclusion
 
 Method 1 would be simpler if it worked reliably, but Elsevier (the owners of Mendeley) have [implemented changes that make it harder to access your own data](https://www.zotero.org/support/kb/mendeley_import). That's probably a good reason to move to [Zotero](https://zotero.org). If you use Method 2, it should only take you a few minutes. Good luck!
-
----
-
-I'm currently creating a **Getting Started with Zotero** online course. Add your email below to be the first to know when it's launched:
-
-{{< newsletter-form tag="zotero" >}}

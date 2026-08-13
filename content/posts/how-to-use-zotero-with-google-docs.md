@@ -32,9 +32,3 @@ The Zotero functions are the same as the Word toolbar, but it's a text-based men
 This is a nuisance if you're using a Chromebook or other device where you can't install apps. One alternative is [Paperpile](https://paperpile.com), a cloud-based referencing tool that's designed to work with Google Docs. You can import your Zotero library into it.
 
 There are a few more limitations with the Google Docs version of Zotero. For details, [see the documentation](https://www.zotero.org/support/google_docs). If you're just using Google Docs for a specific project or collaboration, the Zotero integration might be sufficient for your needs. Or maybe you just want a break from Word.
-
----
-
-I'm currently creating a **Getting Started with Zotero** online course. Add your email below to be the first to know when it's launched:
-
-{{< newsletter-form tag="zotero" >}}

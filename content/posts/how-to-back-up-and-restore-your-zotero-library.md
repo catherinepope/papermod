@@ -113,9 +113,3 @@ To summarise:
 I haven't covered every issue or scenario here. You can find out lots more about backing up and restoring your Library in [Zotero's documentation](https://www.zotero.org/support/zotero_data). There's also advice on how you can get support in recovering from more complicated data losses.
 
 In the meantime, make sure you're backing up, and keep the cat away from your keyboard.
-
----
-
-I'm currently creating a **Getting Started with Zotero** online course. Add your email below to be the first to know when it's launched:
-
-{{< newsletter-form tag="zotero" >}}
