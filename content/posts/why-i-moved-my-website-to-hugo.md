@@ -45,9 +45,3 @@ Hugo is good if:
 ## What next with Hugo
 
 Now that I've gained confidence with Hugo, I've become more ambitious with creating my own templates and [databases](../how-to-create-a-book-database-with-hugo-and-yaml/). I'm also exploring alternative themes. Papermod is great for a simple blog, but there are limited layout options. I also have plans to use Hugo for some documentation, book, and portfolio projects. Naturally, I occasionally get distracted by other fancy SSGs, but Hugo is the right choice for me. At least for now. 
-
----
-
-I'm currently pondering a **Getting Started with Hugo** online course. Add your email below if you'd be interested, then I'll let you know if it goes ahead:
-
-{{< newsletter-form tag="hugo" >}}
