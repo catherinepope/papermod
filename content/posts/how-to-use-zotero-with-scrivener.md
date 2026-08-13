@@ -140,7 +140,7 @@ To summarise on RTF Scan:
 
 💡 If you make sure your Zotero library is clean - i.e. correct information and no duplicates - you'll make life much easier for yourself.
 
-As I'll explain in [the next post](../how-to-use-zotero-with-scrivener-part-2/), there is a more sophisticated approach that gives you better control in that final document - provided you're willing to install an add-on.
+As I'll explain in [the next post](../how-to-use-zotero-with-scrivener-part-2/), there is a more sophisticated approach that gives you better control in that final document,  provided you're willing to install a plugin.
 
 [^1]: If Zotero is already open but not in the foreground, the Scrivener shortcut may not bring it to the front. You'll need to click on Zotero in the dock the first time.
 
