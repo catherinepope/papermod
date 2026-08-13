@@ -166,12 +166,6 @@ toggl_track:
   subject: ["Productivity", "Project Management"]
   description: "Time tracker that shows where my day actually goes - the one-click timer reveals which activities are eating up my hours."
 
-toggl_focus:
-  title: "Toggl Focus"
-  url: "https://focus.toggl.com"
-  subject: ["Productivity", "Project Management"]
-  description: "Project planning tool with visual timelines and task boards - helps me see everything I'm doing in one place."
-
 trello:
   title: "Trello"
   url: "https://trello.com"
