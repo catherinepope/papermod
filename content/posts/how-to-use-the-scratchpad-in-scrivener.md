@@ -1,11 +1,11 @@
 ---
 date: "2026-08-14T14:30:32+01:00"
-draft: true
+draft: false
 title: "How to Use the Scratchpad in Scrivener"
 tags: ["Scrivener", "Writing"]
 categories: ["Technology"]
 # description: ""
-#keywords: ["keyword 1", "keyword 2", "keyword 3"]
+# keywords: ["keyword 1", "keyword 2", "keyword 3"]
 # ShowToc: true
 # OpenToc: true  
 ---
