@@ -10,7 +10,7 @@ categories: ["Technology"]
 # OpenToc: true  
 ---
 
-The Scratchpad might sound like something your cat would use, but it’s actually a very handy feature in Scrivener. Sometimes our writing can be interrupted by random thoughts; sometimes they’re even useful. With the Scratchpad you can quickly jot them down in a pop-up window and return to the task in hand. It’s not linked to any particular document so is perfect for anything that isn’t obviously related to your current project. The Scratchpad also works outside Scrivener, although it needs to be running in the background.
+The Scratchpad might sound like something your cat would use, but it’s actually a very handy feature in Scrivener. Sometimes our writing can be interrupted by random thoughts; sometimes they’re even useful. With the Scratchpad you can quickly jot them down in a pop-up window and return to the task in hand. It’s not linked to any particular document so is perfect for anything that isn’t obviously related to your current project. The Scratchpad also works outside Scrivener, although it needs to be running in the background. As the Scratchpad floats freely, you can place it alongside any other application. This makes it ideal for taking notes while you’re reading online.
 
 To open the Scratchpad, click **Window** then **Show Scratchpad** in the menu bar, or use the keyboard shortcut <span class="key">Cmd</span> + <span class="key">Shift</span> + <span class="key">⏎</span> on Mac or <span class="key">Alt</span> + <span class="key">Shift</span> + <span class="key">⏎</span> on Windows. As you'll see in a moment, you can change this shortcut if it conflicts with another application.
 
