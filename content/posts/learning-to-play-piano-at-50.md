@@ -43,8 +43,14 @@ Like Simply Piano, Piano Marvel offers a wide range of lessons and songs. Unlike
 
 Most importantly for me, I can study the music before playing it and I also have full control over the speed. Longer pieces are broken down into smaller chunks. Piano Marvel also offers substantial courses on technique and theory, including lots of exercises to help recognise notes by ear. While I enjoyed banging out tunes on SimplyPiano, I now really feel as though I’m learning to play the piano, rather than playing a game.
 
-Excitingly, Piano Marvel even allows you to upload music and use the software to break it down into smaller steps. I’m still experimenting with this feature, but will write a proper blog post about it soon.
+Excitingly, Piano Marvel even allows you to upload music and use the software to break it down into smaller steps. I’m still experimenting with this feature, but will write a proper blog post about it soon.[^1]
 
 ## Conclusion
 
 I’m glad I started with Simply Piano, as that got me addicted at the outset. With hindsight, I wish I’d hopped over to Piano Marvel after three months or so, as that would’ve provided a more thorough grounding. [Working with a piano teacher](../playing-piano-with-dinosaurs/) has also improved my technique significantly. Now that I’ve played every day for almost 400 days, it’s safe to say that the piano isn’t one of my whims. And I’ve proved to myself that it’s possible to learn a demanding musical instrument at 50. I won’t be appearing on Channel 4 any time soon, but I’ve found an activity that I love.
+
+---
+
+👀 If you're agog to learn the latest developments, take a look at [Piano Progress Update](/posts/piano-update/).
+
+[^1]: It was insanely fiddly, so I won't be writing a blog post.
