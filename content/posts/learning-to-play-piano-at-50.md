@@ -51,6 +51,6 @@ I’m glad I started with Simply Piano, as that got me addicted at the outset. W
 
 ---
 
-👀 If you're agog to learn the latest developments, take a look at [Piano Progress Update](/posts/piano-update/).
+👀 If you're agog to learn the latest developments, take a look at [Piano Progress Update](/posts/piano-progress/).
 
 [^1]: It was insanely fiddly, so I won't be writing a blog post.
