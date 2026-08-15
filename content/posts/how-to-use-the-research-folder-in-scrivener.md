@@ -10,6 +10,8 @@ categories: ["Technology"]
 # OpenToc: true  
 ---
 
+UPDATE THIS WITH MY SECTION FROM HOW TO WRITE YOU PHD WITH SCRIVENER (which is in Scrivener!)
+
 As you’ve no doubt discovered, writing is much easier when you have all your notes and research material to hand. This is one of the many reasons I love Scrivener, as the Research folder helps me keep everything together and display it alongside my writing. The split screen feature means I can easily refer to a journal article as I work, and also quickly copy across the quotes that I’m discussing:
 
 [screenshot showing the research folder and split screen]
