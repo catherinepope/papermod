@@ -9,14 +9,10 @@ keywords: ["literature review", "PhD literature review", "thesis writing", "acad
 ShowBreadCrumbs: true
 hideMeta: true
 searchHidden: true
-build:
-  list: false
-  publishResources: false
 disableShare: true
 build:
   list: never
 robots: noindex
-searchHidden: true
 ---
 
 Are you still wondering, “What on earth is a literature review?” You know it forms a substantial chunk of your thesis, but you haven’t yet managed to get started.

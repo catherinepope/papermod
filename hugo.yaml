@@ -1,5 +1,5 @@
 baseURL: https://catherinepope.com
-languageCode: en-gb
+locale: en-gb
 title: "Catherine Pope"
 theme: ["PaperMod"]
 enableEmoji: true
