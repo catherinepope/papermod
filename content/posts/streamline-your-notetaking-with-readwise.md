@@ -52,8 +52,6 @@ I always feel happy when my [Readwise](https://readwise.io) subscription is due 
 
 ---
 
-📺 You can also see [my video overview of Readwise](../readwise/) from 2021.
-
 👉 We discuss Readwise and similar tools in my workshop [Accelerate Your Research with AI](../../workshops/accelerating-research-with-ai/).
 
 [^1]: I'm not affiliated in any way with Readwise, just an enthusiastic user.
