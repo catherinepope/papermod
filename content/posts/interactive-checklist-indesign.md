@@ -10,4 +10,4 @@ keywords: ["InDesign tutorial", "interactive checklist", "Adobe InDesign", "prin
 
 In this short tutorial, I'll show you how you can create a checklist in InDesign that's both interactive and printable. I'm assuming you already know the basics of InDesign. If not, I recommend the [InDesign Essentials course]( https://skillshare.eqcm.net/6bbxDq) on Skillshare.
 
-{{< youtube uKBZ3PedL08 >}} 
+{{< bunny 3aa24e7c-e24b-4ebb-be90-29a2500b6a07 >}} 
