@@ -68,4 +68,6 @@ Before this split, my MacBook was making the decision. From now on, my MacBook w
 
 You could split the network without getting a repeater, but you'd likely find the 5GHz connection drops frequently when you're far from the router. The combination of repeater and network splitting completely solved the problem for me, giving me reliable high-speed internet throughout my home. I really hope it helps you, too.
 
+**UPDATE (August 2026):** My connection started dropping again after upgrading to Tahoe 26.6.2. In my case, the fix was to restart both my router and repeater.
+
 [^1]: I'm not affiliated in any way with FRITZ! - these are just the products that suit my needs.
