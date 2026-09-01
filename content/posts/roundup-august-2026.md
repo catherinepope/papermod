@@ -40,6 +40,6 @@ My plan to take a month off quickly evaporated once an idea got stuck in my head
 
 A quiet month meant I had a lot more time for writing. I joined a regular afternoon writing session which gave me some much-needed accountability and encouragement. I'm poised to start working on a new book, but need to be sure it's the right project before commiting myself to all that work. As I'm always saying to clients, writing a book is a long-term relationship: you need to be sure it's the Right One before you invest all that time and effort.
 
-It's also important to commit to your writing tools, something I'm really bad at. Having been a bit of a floozy over the last couple of years, I've now returned to Scrivener. Not least because the [Zotero add-on has been fixed](https://catherinepope.com/posts/how-to-use-zotero-with-scrivener-part-2/) 🎉
+It's also important to commit to your writing tools, something I'm really bad at. Having been a bit of a floozy over the last couple of years, I've now returned to Scrivener. Not least because the [Zotero add-on has been fixed](/posts/how-to-use-zotero-with-scrivener-part-2/) 🎉
 
 Here's to a cooler September 🤞
