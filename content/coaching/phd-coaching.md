@@ -5,8 +5,6 @@ title: "PhD Coaching"
 alias: "/phd-coaching/"
 showBreadcrumbs: true
 hideMeta: true
-build:
-  list: false
 ---
 
 Are you a PhD researcher, struggling to finish your thesis? Do you need help with time management or developing a more effective writing process? If so, you might benefit from 1-2-1 coaching.

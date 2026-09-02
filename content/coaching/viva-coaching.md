@@ -4,8 +4,6 @@ draft: false
 title: "PhD Viva Coaching"
 showBreadcrumbs: true
 hideMeta: true
-build:
-  list: false 
 ---
 
 The PhD viva is a crucial milestone that determines your doctoral success, yet many candidates approach it with a lot of anxiety and not enough preparation. I can demystify the viva process and equip you with practical strategies to perform confidently on the day.

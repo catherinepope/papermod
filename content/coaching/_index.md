@@ -1,11 +1,9 @@
 ---
 date: "2026-09-01T15:11:53+01:00"
 draft: false
-title: "Coaching"
+title: "Academic Coaching"
 permalink: "/coaching/"
 hideMeta: true
-build:
-  list: false
 ---
 
 I've been coaching for over 10 years. During that time, I've worked with thousands of people, from PhD researchers through to professors.

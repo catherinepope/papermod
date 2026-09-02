@@ -4,8 +4,6 @@ draft: false
 title: "Writing Coaching"
 ShowBreadCrumbs: true
 hideMeta: true
-build:
-  list: false
 ---
 
 Academic writing is hard. You're full of ideas, but everything else is getting in the way. I act as your accountability partner, providing structure, proven techniques, and new approaches. Together we build a realistic writing habit that works for *you*.
