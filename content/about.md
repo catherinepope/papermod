@@ -7,7 +7,7 @@ hideMeta: true
 
 {{< book-cover src="images/catherine-pope.png" alt="Photo of Catherine Pope" >}}
 
-Hello 👋 I’m Catherine Pope, a trainer, academic coach, and technical content creator. 
+Hello 👋 I’m Catherine Pope, a trainer, [academic coach](/coaching/), and technical content creator. 
 
 🎓 I have a PhD in [Victorian literature](/tags/victorian/), which I was awarded for my thesis on Florence Marryat, a prolific novelist who enjoyed a very colourful personal life. Her most famous novel is about a bisexual psychic vampire called Harriet. As you might have guessed, Marryat wasn’t a conventional Victorian.
 

@@ -82,6 +82,8 @@ params:
         url: /books/
       - name: Workshops
         url: /workshops/
+      - name: Coaching
+        url: /coaching/
       - name: Subscribe for updates
         url: /subscribe/
 
@@ -98,25 +100,25 @@ markup:
 
 menu:
   main:
-    - identifier: home
-      name: Home
-      url: /
-      weight: 10
+    # - identifier: home
+    #  name: Home
+    #  url: /
+    #  weight: 10
     
     - identifier: posts
       name: Blog
       url: /posts/
-      weight: 30
+      weight: 20
     
     - identifier: about
       name: About
       url: /about/
-      weight: 20
+      weight: 10
     
-    #- identifier: writing
-    #  name: Writing
-    #  url: /writing/
-    #  weight: 35
+    - identifier: coaching
+      name: Coaching
+      url: /coaching/
+      weight: 35
 
     - identifier: workshops
       name: "Workshops"
