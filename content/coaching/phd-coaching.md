@@ -23,6 +23,8 @@ For example:
 
 You can find [more information about my coaching practice](/coaching/) or [contact me with any questions](/contact/).
 
+If you can't afford coaching, you might be able to get my book [_How to Finish Your PhD_](/books/how-to-finish-your-phd/) through your library.
+
 ✅ Coaching is right for you if:
 
 - You need someone to hold you accountable.
@@ -36,8 +38,6 @@ You can find [more information about my coaching practice](/coaching/) or [conta
 - You need help with editing or proofreading your work.
 
 {{< coaching-costs >}}
-
-If you can't afford coaching, you might be able to get my book [_How to Finish Your PhD_](/books/how-to-finish-your-phd/) through your library.
 
 ## Ready to get started?
 

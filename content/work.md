@@ -17,7 +17,7 @@ During my long career, I’ve worked as a web developer, IT manager, technical w
 
 ## Coaching and Training
 
-I offer academic coaching and training independently, and also as an associate for [Research Coach](https://www.researchcoach.co.uk). You can find out more about my [workshop offerings](../workshops/).
+I offer academic coaching and training. You can find out more about my [workshop offerings](/workshops/) and my [coaching](/coaching/).
 
 My main areas are:
 
@@ -27,7 +27,7 @@ My main areas are:
 - Creating effective workflows with digital tools.
 - Making academic and technical concepts understandable for wider audiences.
 
-I'm also available to design and deliver bespoke training for academic or tech clients, either on Zoom or through video-based online courses. Currently, I'm unable to offer in-person training.
+I'm also available to design and deliver bespoke training for academic clients, either on Zoom or through video-based online courses. Currently, I'm unable to offer in-person training.
 
 ## Online Course Creation
 
@@ -46,5 +46,3 @@ All work is fully remote and on a freelance basis. I'm not currently seeking a f
 You're welcome to [email me](mailto:me@catherinepope.com) to discuss your requirements.
 
 You can find out much more about my employment history, qualifications, and skills on [my LinkedIn profile](https://www.linkedin.com/in/drcatherinepope/).
-
-
