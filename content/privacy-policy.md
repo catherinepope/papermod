@@ -7,7 +7,7 @@ build:
   list: false
 ---
 
-Last updated: 31 October 2025
+Last updated: 1 September 2026
 
 This privacy policy explains how I collect and use your personal data when you use this website.
 
@@ -40,6 +40,7 @@ I use Fathom Analytics to understand how visitors use this website. Fathom colle
 - **Netlify:** Stores contact form submissions (servers located in the US with GDPR-compliant data processing agreements)
 - **Buttondown:** Processes newsletter subscriptions (GDPR-compliant email service)
 - **Fathom Analytics:** Processes anonymous website analytics (GDPR-compliant, EU-based servers)
+- **Stripe:** Processes any information you provide when paying for coaching services.
 
 I do not sell or share your personal data with anyone else.
 

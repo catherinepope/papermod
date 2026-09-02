@@ -94,6 +94,34 @@ a[href^="http"]:not([href*="localhost"]):not([href*="catherinepope.com"]):after 
         .submit-btn:hover {
             background-color: #4a9a8e;
         }
+        
+        .contact-form fieldset {
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+
+.contact-form legend {
+    display: block;
+    margin-bottom: 8px;
+    padding: 0;
+    font-weight: normal;
+}
+
+.contact-form fieldset label {
+    display: inline-block;
+    margin-right: 20px;
+    margin-bottom: 0;
+    font-weight: normal;
+    cursor: pointer;
+}
+
+.contact-form input[type="radio"] {
+    width: auto;
+    margin-right: 6px;
+    accent-color: #5cab9f;
+    cursor: pointer;
+}
 
 .book-cover {
   float: right;

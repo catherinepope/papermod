@@ -1,0 +1,59 @@
+<div class="contact-form">    
+        <form name="phd" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/success/">
+            <!-- Hidden field for bot detection -->
+            <input type="hidden" name="form-name" value="phd" />
+            <div style="display: none;">
+                <label>Don't fill this out if you're human: <input name="bot-field" /></label>
+            </div>
+            
+            <div class="form-group">
+                <label for="name">Name</label>
+                <input type="text" id="name" name="name" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="email">Email Address</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="topic">Please tell me about your research topic. You're welcome to paste an abstract here.</label>
+                <textarea id="topic" name="topic" required></textarea>
+            </div>
+            
+            
+            <div class="form-group">
+                <label for="submission-date">When are you hoping to submit?</label>
+                <textarea id="submission-date" name="submission-date" required></textarea>
+            </div>
+            
+            <div class="form-group">
+                <label for="challenges">What challenges are you facing with completing your thesis?</label>
+                <textarea id="challenges" name="challenges"></textarea>
+            </div>
+            
+            <div class="form-group">
+                <label for="attempts">Is there anything you've tried that hasn't worked?</label>
+                <textarea id="attempts" name="attempts"></textarea>
+            </div>
+            
+             <div class="form-group">
+                <label for="support">What kind of support are you seeking for your thesis completion?</label>
+                <textarea id="support" name="support"></textarea>
+            </div>
+            
+            <div class="form-group">
+                <label for="sessions">How many sessions would you like?</label>
+                <textarea id="sessions" name="sessions" placeholder="This is to help me plan a programme, you're not committing yourself." required></textarea>
+            </div>
+            
+            <div class="form-group">
+                <label for="share">Is there anything else you'd like to share with me?</label>
+                <textarea id="share" name="share"></textarea>
+            </div>
+            
+            <button type="submit" class="submit-btn">Send Message</button>
+        </form>
+    </div>
+
+<p style="margin-top: 20px;">By submitting, you agree to my <a href="/privacy-policy/">Privacy Policy</a>.</p>
