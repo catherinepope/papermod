@@ -302,3 +302,8 @@ details.ocar-breakdown[open] {
   color: var(--primary, #007bff);
   font-weight: 500;
 }
+
+#menu a[href*="/workshops/"],
+#menu a[href*="/coaching/"] {
+    font-weight: bold;
+}
