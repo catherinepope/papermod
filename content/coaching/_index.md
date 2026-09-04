@@ -4,6 +4,8 @@ draft: false
 title: "Academic Coaching"
 permalink: "/coaching/"
 hideMeta: true
+build:
+  list: never
 ---
 
 I've been coaching for over 10 years. During that time, I've worked with thousands of people, from PhD researchers through to professors.
