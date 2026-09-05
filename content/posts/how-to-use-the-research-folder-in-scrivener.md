@@ -10,7 +10,7 @@ ShowToc: true
 # OpenToc: true  
 ---
 
-As you’ve no doubt discovered, writing is much easier when you have all your notes and research material to hand. This is one of the many reasons I love Scrivener, as the Research folder helps me keep everything together and display it alongside my writing. The split screen feature means I can easily refer to a journal article as I work, and also quickly copy across the quotes that I’m discussing:
+As you’ve no doubt discovered, writing is much easier when you have all your notes and research material to hand. This is one of the many reasons I love Scrivener, as the Research folder helps me keep everything together and display it alongside my writing. The split screen feature means I can easily refer to a journal article as I work, and also quickly copy across the quotes that I’m discussing.
 
 Scrivener can also display webpages, images, audio, and even videos. When you import a file, Scrivener takes a copy, so you don’t need to worry about messing up your original version.
 
@@ -21,9 +21,9 @@ There are two main ways to add files to your Research Folder:
 - Drag the file from elsewhere on your computer.
 - Right-click the **Research** folder in the Binder, then click **Add > Existing Files**.
 
-If the file is text-based, for example a Word document, it’ll be converted to Rich Text Format. Otherwise, Scrivener preserves the format. For PowerPoint slides, it’s best to convert them to PDF format before importing. Then Scrivener can display them correctly.
-
 {{< img src="images/scrivener-add-existing-files.jpg" alt="Screenshot of Scrivener" center="true" >}}
+
+If the file is text-based, for example a Word document, it’ll be converted to Rich Text Format. Otherwise, Scrivener preserves the format. For PowerPoint slides, it’s best to convert them to PDF format before importing. Then Scrivener can display them correctly.
 
 You can also add webpages by choosing **Add > Web Page** and pasting the URL. It automatically pastes whatever's on your clipboard. You can also give the page a title. Scrivener stores a snapshot of the webpage, so it won't be updated.
 
