@@ -100,6 +100,6 @@ This script finds all the `.jpg` files in the current directory and resizes them
 
 ⚠️ It's important to test any batch commands on one file before running a script. 
 
-Batch processing is even more powerful when you automate it. Mac users could create an Automator task that allows you to command-click a folder and automatically resize all the images inside. With [Hazel](https://www.noodlesoft.com), you could watch a folder and automatically resize any images you add to it. I'll explain how to do that in a future post.
+Batch processing is even more powerful when you automate it. Mac users could create an Automator task that allows you to command-click a folder and automatically resize all the images inside. With [Hazel](https://www.noodlesoft.com), you could watch a folder and automatically resize any images you add to it. I explain [how to do that in another post](/posts/automatically-resizing-and-converting-images-with-hazel-and-imagemagick/).
 
-For now, I'm hoping these ImageMagick commands will streamline your worfklow. Thank you to the developers for such an excellent tool.
+For now, I'm hoping these ImageMagick commands will streamline your workflow. Thank you to the developers for such an excellent tool.

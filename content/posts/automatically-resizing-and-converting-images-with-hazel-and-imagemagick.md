@@ -1,85 +1,90 @@
 ---
-date: "2026-08-21T11:07:53+01:00"
-draft: true
-title: "Automatically Resizing and Converting Images With Hazel and Imagemagick"
-tags: ["tag 1", "tag2", "tag3"]
-# categories: 
-description: ""
-keywords: ["keyword 1", "keyword 2", "keyword 3"]
-# ShowToc: true
+date: "2026-09-05T11:07:53+01:00"
+draft: false
+title: "Automatically Resizing and Optimising Images With Hazel and ImageMagick"
+tags: ["Tutorials"]
+categories: ["Technology"]
+# description: ""
+# keywords: ["keyword 1", "keyword 2", "keyword 3"]
+ShowToc: true
 # OpenToc: true  
 ---
 
-NEED TO REJIG THIS:
+On my other website, I frequently download photos from Unsplash for the header images. As the originals are enormous and high resolution, I needed a way to easily convert them to the correct format.
 
-1. HAZEL RULE
-2. SCRIPT (EMBED IN HAZEL)
-3. REMOVE PART ABOUT MOVING FILE TO DIFFERENT FOLDER.
+In this tutorial, I'll show you how to create an automated workflow with Hazel and ImageMagick that monitors a folder for images from Unsplash, optimises and resizes them, then archives the original file.
 
-In a previous post, I explained the joy of ImageMagick for quickly manipulating images. ImageMagick is even more powerful if you combine it with a Mac automation tool like Hazel. If you've not encountered it, [Hazel](https://www.noodlesoft.com/) watches whatever folders you tell it to, then automatically organises your files according to the rules you create. There's no AI calling the shots, you decide what should happen under what circumstances, then Hazel does the rest. 
+If you're unfamiliar with ImageMagick, you might find [my previous blog post useful](/posts/manipulating-images-with-imagemagick/).
 
-As I use a lot of book covers in my posts, I set up a workflow that converts any images I download with a `.webp` format to `.jpg`, resizes them 60% of the original, then deletes the original `.webp` file. Here's how you can create a similar workflow.
+## Prerequisites
 
-For this to work, you'll need [Hazel](https://www.noodlesoft.com/) and ImageMagick installed. At $42, Hazel is moderately expensive. However, this is a one-off cost. If they release a major new version, you'll get a big discount as an existing customer.
+- A Mac with [Hazel](https://www.noodlesoft.com/) installed.
+- [Homebrew](https://brew.sh/) installed.
 
-The easiest way to install ImageMagick is with Homebrew:
+## Step 1: Install ImageMagick
 
-`brew install imagemagick`
+Open Terminal and run:
 
-Once Hazel and ImageMagick are installed, you can start scripting.
-
-## Step 1 - Create the shell script
-
-Hazel can't interact with ImageMagick directly. You need a shell script for Hazel to execute. For example:
-
+```bash
+brew install imagemagick
 ```
-#!/bin/bash
 
+This installs the `magick` command-line tool, which handles the format conversion and resizing.
+
+## Step 2: Create the Hazel Rule
+
+In Hazel, you need to specify the conditions and the actions.
+
+{{< img src="images/hazel-add-rule.jpg" alt="Screenshot of Hazel" center="true" >}}
+
+1. Click **Add Folder**, then choose the folder you want to monitor. In this case it's `Downloads` , where I save the photos I want to use on my website.
+2. Click **New Rule** and give it a descriptive name, e.g. "Resize and optimise photos".
+3. Specify the conditions. Here, I'm stipulating that the rule applies only to files with a `.jpg` extension that I've downloaded from Unsplash.com. This way, I'm unlikely to accidentally apply the rule to the wrong image and I also avoid having to create a separate folder and remember to save photos to it.
+4. Specify the actions as **Run shell script**. As I'm using ImageMagick, which is a command-line tool, I need to include an embedded shell script. Hazel executes this script every time it spots an image matching those conditions.
+5. Click **Edit script** and create or paste your script. Here's my script, which you can adapt:
+
+```shell
 # Get the input file path
 INPUT_FILE="$1"
 
-# Create output filename (replace .webp with .jpg)
+# Create output filename
 OUTPUT_FILE="${INPUT_FILE%.*}.jpg"
 
-# Convert to JPG, resize to 60%, set quality to 85%
-magick "$INPUT_FILE" -resize 60% -quality 85 "$OUTPUT_FILE"
+# Set the folder where you want to keep the original
+ARCHIVE_FOLDER="/Users/catherinepope/Documents/Images/Featured"
 
-# Check if conversion was successful
-if [ $? -eq 0 ]; then
-    echo "Successfully converted: $(basename "$INPUT_FILE")"
-    # Remove original file
-    rm "$INPUT_FILE"
-else
-    echo "Error converting: $(basename "$INPUT_FILE")"
-    exit 1
-fi
-```
+# Copy the original file to the archive folder before converting
+cp "$INPUT_FILE" "$ARCHIVE_FOLDER/"
 
-As you can see, the script creates parameters and then uses them in the `magick` command. It also removes the original `webp` file so it doesn't clutter up your folder. The `fi` in the last line marks the end of the `if` statement. Yes, it looks like a typo.
-
-Save the file, e.g. in `~/Scripts/convert-webp.sh`. Then make it executable:
+# Convert to JPG, resize to 1200, set quality to 80%
+magick "$INPUT_FILE" -resize 1200 -quality 80 "$OUTPUT_FILE"
 
 ```
-chmod +x ~/Scripts/convert-webp.sh
-```
 
-## Step 3 - Create the Hazel rule
+{{< img src="images/hazel-edit-script.jpg" alt="Screenshot of Hazel" center="true" >}}
 
-- Open Hazel and select the folder you want to monitor (e.g. Downloads).
-- Click **+ New Rule** on the toolbar.
-- Set the rule name, e.g. `Convert webp to jpg`.
+For further options, consult [the ImageMagick documentation](https://imagemagick.org/).
 
-- **Conditions:** Extension is .webp
-- **Do the following:** Run shell script and choose 'other' to point to the script you created in Step 2
+⚠️ Test the script on non-critical images!
 
-ℹ️ Ensure "Pass matched file as argument" is selected so the file path is passed as `$1`.
+6. Click **Preview Rule** to check whether it's working. Hazel opens the monitored folder and prompts you to select a file that meets the criteria. You'll see green ticks if the rule has worked. If not, go back and double-check those criteria. Otherwise, click **Preview Rule** again, then **Save**, and your rule is live.
 
-Now your rule is in place, you can test it.
+{{< img src="images/hazel-preview-rule.jpg" alt="Screenshot of Hazel" center="true" >}}
 
-## Step 4 - Test the rule
+## Step 3: Test the Rule
 
-- Place a `.webp` file in the monitored folder.
-- Right-click the file and choose **Hazel --> Apply Rules (this lets you test manually without waiting for a new file to trigger it)
-- Check the destination folder for a new .jpg version that's 60% of the original size. 
+It's a good idea to test the rule with a few different images, just in case there are any blips or outliers. Here's my test plan:
 
+Download a photo from Unsplash.com and confirm that:
 
+- The `.jpg` file is now 1200px wide.
+- The `.jpg`  file size is now significantly smaller.
+- The original `.jpg` file has been saved to my `Images` folder in case I need it again.
+
+## Conclusion
+
+This is a very simple example, but hopefully it gives you an idea of how it could work for you. And even simple rules can save a lot of time with repeated actions.
+
+You might notice in my screenshot that I also have a Hazel rule for deleting application files. This deletes any files with a `.dmg` extension after they've been lurking in my Downloads folder for longer than 24 hours. That way, they don't clutter up my hard drive.
+
+Thank you to the developers of ImageMagick and Hazel for making life a little bit easier 🙏🏼
