@@ -2,7 +2,7 @@
 date: "2025-10-21T08:04:47+01:00"
 draft: false
 title: "How to Use Zotero with Scrivener"
-tags: ["Zotero", "Writing", "Academic"]
+tags: ["Zotero", "Writing", "Scrivener", "Tutorials"]
 categories: ["Technology"] 
 description: "Learn how to integrate Zotero and Scrivener using the RTF Scan method. Step-by-step guide to add citations and bibliographies to your academic writing workflow."
 keywords: ["Zotero", "Scrivener", "RTF Scan", "academic writing", "citations", "bibliography", "research tools", "writing workflow"]
