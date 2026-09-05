@@ -2,7 +2,7 @@
 date: "2026-08-18T16:19:09+01:00"
 draft: false
 title: "How to Use Scrivener Snapshots"
-tags: ["Scrivener", "Writing"]
+tags: ["Scrivener", "Writing", "Tutorials"]
 categories: ["Technology"]
 # description: ""
 # keywords: ["keyword 1", "keyword 2", "keyword 3"]
