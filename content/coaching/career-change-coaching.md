@@ -21,13 +21,13 @@ For example:
 
 You can find [more information about my coaching practice](/coaching/) or [contact me with any questions](/contact/).
 
-✅ Coaching is right for you if:
+✅ This coaching is right for you if:
 
 - You are pursuing a new career (including self-employment).
 - You are struggling with time, focus, and prioritisation.
 - You are ready to try a different approach.
 
-❌ Coaching isn't right for you if:
+❌ This coaching isn't right for you if:
 
 - You want an academic job or promotion.
 - You don’t know what you want to do.
