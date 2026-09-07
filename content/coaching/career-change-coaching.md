@@ -9,7 +9,7 @@ hideMeta: true
 
 Do you know where you want to go with your career, but feel unsure how to get there? Perhaps you're considering self-employment and don't know what's involved.
 
-I can help you clarify your direction, work out what you need to do, then start moving towards it with intention.
+I can help you clarify your direction, work out what you need to do, then start moving towards it with intention. I've also trained as a financial coach, so can discuss the financial implications of your career change.
 
 Depending on how many sessions you choose, I’ll design a coaching programme for your specific needs.
 
