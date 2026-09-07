@@ -57,12 +57,12 @@ params:
       url: "https://github.com/catherinepope"
     - name: linkedin
       url: "https://www.linkedin.com/in/drcatherinepope/"
-    - name: youtube
-      url: "https://www.youtube.com/@drcatherinepope"
+    # - name: youtube
+    #  url: "https://www.youtube.com/@drcatherinepope"
     # - name: Google Scholar
     #  url: https://scholar.google.com/citations?user=RFIKT2EAAAAJ&hl=en
-    - name: Bluesky
-      url: https://bsky.app/profile/catherinepope.bsky.social
+    # - name: Bluesky
+    #  url: https://bsky.app/profile/catherinepope.bsky.social
     - name: Email
       url: mailto:me@catherinepope.com
 
