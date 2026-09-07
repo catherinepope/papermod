@@ -15,6 +15,7 @@ I offer coaching in the following areas:
 - [PhD completion](/coaching/phd-coaching/)
 - [Viva preparation](/coaching/viva-coaching/)
 - [Academic writing](/coaching/writing-coaching/)
+- [Career change](/coaching/career-change-coaching/)
 
 My coaching style is practical and balanced. I combine traditional coaching techniques with targeted training and mentoring when needed. While I believe in empowering you to find your own solutions, I won't leave you struggling with technical details or to learn the hard way when my experience can save you time and frustration. As Eleanor Roosevelt said, "Learn from the mistakes of others. You can’t live long enough to make them all yourself."
 
@@ -32,7 +33,7 @@ Sessions last 1 hour and are hosted on Zoom.
 
 I charge a flat fee of £120 per session. There's no sales tax. As coaching is my livelihood, I'm unable to offer discounts.
 
-There's no commitment or pressure to book ongoing sessions. Some clients get all they need from the introductory session; others want to work with me more frequently. Either way is fine. I'm interested in helping you reach your goals, not monthly recurring revenue. 
+There's no commitment or pressure to book ongoing sessions. Some clients get all they need from the first session; others want to work with me more frequently. Either way is fine. I'm interested in helping you reach your goals, not in monthly recurring revenue. 
 
 Other coaches offer free "discovery calls". I don't do that. I charge a fee that represents the effort I put into coaching. If I offer my services for free, paying clients  subsidise everyone else. And I have to stare at myself on Zoom when people don't turn up.
 
@@ -51,6 +52,7 @@ If you're interested in coaching, please complete the enquiry form for:
 - [PhD completion](/coaching/phd-coaching/)
 - [Viva preparation](/coaching/viva-coaching/)
 - [Academic writing](/coaching/writing-coaching/)
+- [Career change](/coaching/career-change-coaching/)
 
 These questions help me evaluate whether we're a good fit. I'll get back to you within 48 hours. If I can help you:
 
