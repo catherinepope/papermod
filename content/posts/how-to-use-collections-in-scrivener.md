@@ -12,15 +12,15 @@ categories: ["Technology"]
 
 CHECK THE COMMENTS ON MY ORIGINAL POST
 
-For me, Collections really exemplify the flexibility offered by Scrivener. With this feature you can quickly bring together related documents from different parts of your project. You choose the relationship – it might be based on search criteria, status, or even something meaningful only to you.
+For me, Collections really exemplify the flexibility offered by Scrivener. With this feature, you can quickly bring together related documents from different parts of your project. You choose the relationship: it might be based on search criteria, status, or even something meaningful only to you.
 
-You could use a Collection to experiment with organising your writing in a different sequence, or to isolate particular chunks for more attention, for example by creating a Collection of  documents marked ‘To Do’.
+You could use a Collection to experiment with organising your writing in a different sequence, or to isolate particular chunks for more attention, for example by creating a Collection of documents marked ‘To Do’.
 
 There are two types of Collection in Scrivener, Standard Collections and Search Collections. Let’s take a look.
 
 ## Standard collection
 
-A Standard Collection is created manually by adding files, typically by dragging and dropping them. This could be useful if you want to send certain thesis sections to your supervisor or editor.
+A Standard Collection is created manually by adding files, typically by dragging and dropping them. This could be useful if you want to send certain sections to your supervisor or editor.
 
 To create a Standard Collection, click the Collection icon in the toolbar.
 
