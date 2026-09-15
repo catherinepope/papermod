@@ -1,0 +1,32 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+
+{{ $courses := .Site.Data.courses }}
+
+{{/* Step 1: build a de-duplicated, sorted list of every subject used */}}
+{{ $subjects := slice }}
+{{ range $key, $course := $courses }}
+  {{ $subjects = $subjects | union $course.subject }}
+{{ end }}
+{{ $subjects = sort $subjects }}
+
+{{/* Step 2: loop through each subject and show matching courses */}}
+{{ range $subjects }}
+  {{ $subject := . }}
+  <h2>{{ $subject }}</h2>
+  <div class="courses-grid">
+    {{ range $key, $course := $courses }}
+      {{ if in $course.subject $subject }}
+      <a href="{{ $course.url }}" target="_blank" rel="noopener" class="course-card">
+        <img src="{{ $course.image }}" alt="{{ $course.title }}">
+        <h3>{{ $course.title }}</h3>
+        <p>{{ $course.description }}</p>
+        <p class="course-subject">
+          {{ range $course.subject }}<span class="subject-tag">{{ . }}</span>{{ end }}
+        </p>
+      </a>
+      {{ end }}
+    {{ end }}
+  </div>
+{{ end }}
+{{ end }}

@@ -1,0 +1,13 @@
+ai_everyone:
+  title: "AI for Everyone"
+  url: "https://www.coursera.org/learn/ai-for-everyone"
+  image: "/images/course-placeholder.jpg"
+  subject: ["AI"]
+  description: "Excellent introductory course from Stanford's Professor Andrew Ng. Technical, but accessible."
+
+generative_ai:
+  title: "Generative AI for Everyone"
+  image: "/images/course-placeholder.jpg"
+  url: "https://www.deeplearning.ai/courses/generative-ai-for-everyone/"
+  subject: ["AI"]
+  description: "Goes deeper into how the tools work and using more sophisticated prompts with ChatGPT. Includes some technical hands-on projects."
