@@ -32,7 +32,7 @@ Here are the resources for my workshop **The Neurodivergent Researcher**.
 - [The Eisenhower Matrix](/workshops/resources/the-eisenhower-matrix/)
 - [Improve Your Project Management with Data-Driven Planning](/posts/time-tracking-for-researchers/)
 - [Wearing Your Writing Hat](/posts/wearing-your-writing-hat/)
-- Sequential Elimination
+- [Assessing Ideas with Sequential Elimination](/posts/assessing-ideas-with-sequential-elimination/)
 - Time Blocking
 
 
