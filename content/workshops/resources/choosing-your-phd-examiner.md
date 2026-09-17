@@ -71,3 +71,7 @@ Keep in mind:
 ## Conclusion
 
 You have a say in the selection of examiners. Use this power wisely and be proactive. Your supervisor is responsible for making the initial approach to those examiners and then referring them to your examinations office. But don’t rely on one person being available at the right time. You don’t have complete control, but you might get your choice if you propose someone suitable. Unless there are compelling reasons why you should pick the biggest name in your field, focus on ensuring the fairest possible viva. Good luck!
+
+---
+
+{{< viva-coaching >}}

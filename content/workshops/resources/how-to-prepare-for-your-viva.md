@@ -51,13 +51,7 @@ Once you’ve identified those questions, you need to start practising your answ
 
 Your viva is part of the PhD examination and often proves pivotal. Good preparation can make the difference between minor and major corrections. Following the 7 steps means you’re better placed to talk about your research and you’ll feel more confident on the day. Wishing you all the best with your viva, and beyond.
 
-If you’d like support with your viva preparation, take a look at [my coaching page](/coaching/viva-coaching/). I can help you:
-
-- Create a realistic viva preparation plan.
-- Anticipate questions.
-- Practice talking about weaknesses.
-
-I also offer a [_Preparing for Your Viva_ workshop](/workshops/) that can be booked by institutions.
+{{< viva-coaching >}}
 
 
 [^1]: _101 Top Tips for PhD Students_ by Iain H. Woodhouse

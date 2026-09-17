@@ -100,3 +100,7 @@ Adaptations are there to ensure you can demonstrate your knowledge on equal term
 What you can do is make sure the conditions are as fair as possible. Be explicit about your needs, confirm arrangements in writing, and don't assume anything has been taken care of unless you've checked.
 
 Best of luck with your viva.
+
+---
+
+{{< viva-coaching >}}

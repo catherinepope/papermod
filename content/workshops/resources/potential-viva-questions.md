@@ -103,3 +103,7 @@ Here are some potential viva questions to use in your practice sessions. You'll 
 - What does your integrative chapter add that the papers themselves do not?
 - If you were to write an additional paper to strengthen the thesis, what would it address and why?
 - How do you see these papers contributing to the field beyond the doctorate — for example, in terms of future research directions or practical applications?
+
+---
+
+{{< viva-coaching >}}
