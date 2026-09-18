@@ -1,6 +1,6 @@
 ---
 date: "2026-09-15T12:59:24Z"
-draft: true
+draft: false
 title: "The Neurodivergent Researcher - Resources"
 tags: ["PhD", "academic"]
 categories: ["PhD Progress", "Resources"]
@@ -18,7 +18,7 @@ Here are the resources for my workshop **The Neurodivergent Researcher**.
 - [Why I Use Obsidian for Notetaking](/posts/why-i-use-obsidian-for-notetaking/)
 - [How to Automatically Sync AudioPen Notes with Obsidian](/posts/how-to-automatically-sync-audiopen-obsidian/)
 - [MacWhisper: a Privacy-Focused Tool for Transcribing Audio](/posts/recording-and-transcribing-with-macwhisper/)
-- Trello
+- [Visual Planning with Trello](/posts/visual-planning-with-trello/)
 
 ## Wellbeing
 
@@ -33,8 +33,6 @@ Here are the resources for my workshop **The Neurodivergent Researcher**.
 - [Improve Your Project Management with Data-Driven Planning](/posts/time-tracking-for-researchers/)
 - [Wearing Your Writing Hat](/posts/wearing-your-writing-hat/)
 - [Assessing Ideas with Sequential Elimination](/posts/assessing-ideas-with-sequential-elimination/)
-- Time Blocking
-
 
 ## Communication
 

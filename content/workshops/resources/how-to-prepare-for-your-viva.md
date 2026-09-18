@@ -45,7 +45,7 @@ It’s impossible to predict what your examiners will ask you. It’s about prep
 
 ### Step 7 - Practice, practice, practice!
 
-Once you’ve identified those questions, you need to start practising your answers. It’s important that you don’t use exactly the same questions each time, though. The more difficult and random the question, the better. When you learn a foreign language, you have to get used to the fact that people don’t ask questions in exactly the same format as Duolingo. And you need to get used to thinking on the spot. The more you practice, the faster your retrieval, and the more pathways you’ve established in your brain. If you can’t bribe someone to interrogate you on your thesis, flashcard apps like [Anki](https://apps.ankiweb.net) can help. Make sure you include your Nightmare Questions 🦇
+Once you’ve identified those questions, you need to start practising your answers. It’s important that you don’t use exactly the same questions each time, though. The more difficult and random the question, the better. When you learn a foreign language, you have to get used to the fact that people don’t ask questions in exactly the same format as Duolingo. And you need to get used to thinking on the spot. The more you practice, the faster your retrieval, and the more pathways you’ve established in your brain. If you can’t bribe someone to interrogate you on your thesis, flashcard apps like [Anki](https://apps.ankiweb.net) can help. Or you could use [Trello](/posts/visual-planning-with-trello/). Make sure you include your Nightmare Questions 🦇
 
 ## Conclusion
 
