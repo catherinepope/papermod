@@ -23,6 +23,8 @@ body {
 .centered-figure img {
   display: block;
   margin: 0 auto;
+  max-width: 100%;
+  height: auto;
 }
 
 a[href^="http"]:not([href*="localhost"]):not([href*="catherinepope.com"]):after {
@@ -351,8 +353,3 @@ details.ocar-breakdown[open] {
 .course-subject {
   display: flex;
   flex-wrap: wrap;
-  
-.centered-figure {
-  max-width: 100%
-  height: auto;
-}
