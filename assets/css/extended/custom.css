@@ -351,3 +351,8 @@ details.ocar-breakdown[open] {
 .course-subject {
   display: flex;
   flex-wrap: wrap;
+  
+.centered-figure {
+  max-width: 100%
+  height: auto;
+}
