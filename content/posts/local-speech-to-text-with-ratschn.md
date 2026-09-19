@@ -13,7 +13,7 @@ tags: ["Notetaking", "AI"]
 Although I use a lot of tech, I’m becoming increasingly concerned about how much of my data is stored in the cloud and how it’s used. Sometimes I’m prepared to make a trade-off because an app is especially convenient. 
 [AudioPen](/posts/capturing-research-notes-with-audiopen/), for example, is brilliant at capturing thoughts very quickly on my phone before they pop out of my head. But when I’m sat at my desk, I don’t need to use the cloud at all. I was very excited to hear about a new app called [Ratschn](https://ratschn.com). This is a local speech-to-text app for Mac and Windows. You configure and press a hotkey, speak, and then Ratschn transcribes the audio recording and pastes it wherever you’re working, whether that’s an email client or a note-taking app.
 
-Everything is done on your computer. You download a speech model which does all the processing locally. Admittedly this takes up quite a lot of space on your hard drive, but you gain so much in terms of privacy and control. There’s a choice of model, depending on how much space you’ve got and how many different languages you require. There’s a lot more information about the [Ratschn architecture in the FAQ](https://ratschn.com/faq).
+Everything is done on your computer. You download a speech model which does all the processing locally. This takes up some space on your hard drive, but you gain a lot in terms of privacy and control. There’s a choice of model, depending on how much space you’ve got and how many different languages you require. There’s a lot more information about the [Ratschn architecture in the FAQ](https://ratschn.com/faq).
 
 {{< img src="images/ratschn-speech-models.jpg" alt="Screenshot of Ratschn settings" center=true >}}
 
