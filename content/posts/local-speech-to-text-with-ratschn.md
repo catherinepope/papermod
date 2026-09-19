@@ -17,7 +17,7 @@ Everything is done on your computer. You download a speech model which does all 
 
 {{< img src="images/ratschn-speech-models.jpg" alt="Screenshot of Ratschn settings" center=true >}}
 
-The interface is very simple and intuitive, which belies the sophistication of this tool. It’s highly configurable, including a custom dictionary for unusual words that are unlikely to be transcribed correctly. You can import an existing dictionary in CSV or JSON format. There’s also an automatic replacement feature for any words that are frequently mistranscribed. It much more sophisticated than the Mac's native dictation tool.
+The interface is very simple and intuitive, which belies the sophistication of this tool. It’s highly configurable, including a custom dictionary for unusual words that are unlikely to be transcribed correctly. You can import an existing dictionary in CSV or JSON format. There’s also an automatic replacement feature for any words that are frequently mistranscribed. It's much more sophisticated than the Mac's native dictation tool.
 
 {{< img src="images/ratschn-dictionary.jpg" alt="Screenshot of Ratschn dictionary settings" center=true >}}
 
