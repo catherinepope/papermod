@@ -23,6 +23,12 @@ Here are the recommended resources for my workshop on [Planning and Structuring 
 - {{< book "detox_writing" >}}
 - [_Succeeding with Your Doctorate_](https://uk.bookshop.org/a/2760/9781412901161) by Wellington et al
 
+## Resources 🧭
+
+- [Visual Planning with Trello](/posts/visual-planning-with-trello/)
+- [Streamline Your Notetaking with Readwise](/posts/streamline-your-notetaking-with-readwise/)
+<!-- The Bacon Method //-->
+
 ## Websites 🕸️
 
 - [The Thesis Whisperer](https://thesiswhisperer.com)
