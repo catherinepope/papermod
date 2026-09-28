@@ -27,7 +27,7 @@ Here are the recommended resources for my workshop on [Planning and Structuring 
 
 - [Visual Planning with Trello](/posts/visual-planning-with-trello/)
 - [Streamline Your Notetaking with Readwise](/posts/streamline-your-notetaking-with-readwise/)
-<!-- The Bacon Method //-->
+- [Reading Strategically with the Bacon Method](/posts/reading-strategically-with-the-bacon-method/)
 
 ## Websites 🕸️
 
