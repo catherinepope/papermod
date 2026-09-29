@@ -30,6 +30,8 @@ I can’t remember where I originally saw this quote, but I do vividly remember 
 
 {{< img src="images/trello-literature-review.jpg" alt="Screenshot of Trello" caption="" center="true" >}}
 
+In Zotero, you could create a similar system with [colour-coded tags](/posts/colour-coding-tags-in-zotero/).
+
 You can also apply the Bacon Method to individual sources. In a book, for instance, you might need to chew and digest specific chapters, but just taste others. There might even be some sections you can skip altogether. This feels rude, but the author really won’t know.
 
 There are some sources that shouldn’t be even touched, as they lie way beyond the scope of the current project. It’s tempting to think that researching _future_ projects is efficient, but it’s impossible to achieve the necessary depth if we’re trying to answer multiple research questions simultaneously. The more we limit the scope, the faster the progress. And with the Bacon Method we can dodge those rabbit holes 🐇
