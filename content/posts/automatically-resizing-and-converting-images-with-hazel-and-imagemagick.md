@@ -10,7 +10,7 @@ ShowToc: true
 # OpenToc: true  
 ---
 
-On my other website, I frequently download photos from Unsplash for the header images. As the originals are enormous and high resolution, I needed a way to easily convert them to the correct format.
+[On my other website](https://thelivelihood.org), I frequently download photos from Unsplash for the header images. As the originals are enormous and high resolution, I needed a way to easily convert them to the correct format.
 
 In this tutorial, I'll show you how to create an automated workflow with Hazel and ImageMagick that monitors a folder for images from Unsplash, optimises and resizes them, then archives the original file.
 
