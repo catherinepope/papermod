@@ -28,7 +28,7 @@ There were many highlights this month, including:
 - [*What It Takes to Heal*](https://uk.bookshop.org/a/2760/9781804950845) by Prentis Hemphill, an invigorating framework for healing ourselves , our relationships, and our communities.
 - [*The Reverse Centaur's Guide to Life After AI*](https://uk.bookshop.org/a/2760/9781836745525) by Cory Doctorow, a brilliant denunciation of all the AI bullshit we're subjected to. I'll be writing a proper review of this one.
 - *[Enshittification](https://uk.bookshop.org/a/2760/9781836743750)* by Cory Doctorow, a brilliant denunciation of the _broader_ bullshit we're subjected to. I think this one will also get a proper review, not least because it inspired me to make some big changes.
-- [*I Eat the Stars*](https://uk.bookshop.org/a/2760/9781837827213) by Sarah Wilson, a devastating account of what's happening to our climate and how it'll impact us. Although the second half is more uplifting, you'll still be reeling from the first few chapters. 
+- [*I Eat the Stars*](https://uk.bookshop.org/a/2760/9781837827213) by Sarah Wilson, a devastating account of what's happening to our climate and how it'll impact us. Although the second half is more uplifting, you'll still be reeling from the first few chapters. I wrote a more detailed review on [my other website](https://www.thelivelihood.org/i-eat-the-stars-by-sarah-wilson/). 
 
 The biggest disappointment was _The Gift of Not Belonging_ by Rami Kaminski. Apart from the outmoded views on neurodivergence, this book encourages binary thinking, hierarchies, and a sense of superiority. Exactly what we don't need in the 21st century 😫
 
