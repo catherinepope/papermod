@@ -22,7 +22,7 @@ outputs:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Catherine Pope
-  description: "Catherine Pope's Personal Website"
+  description: "Dr Catherine Pope - Trainer, Coach & Technical Content Creator"
   keywords: [Blog, Portfolio, PaperMod]
   author: Catherine Pope
   # author: ["Me", "You"] # multiple authors
