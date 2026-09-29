@@ -16,11 +16,11 @@ In Amsterdam, we visited the Rijksmuseum, dodging people who were checking their
 
 We continued the Rembrandt odyssey by visiting his house on Jodenbreestraat, which is a museum and gallery space. Although much more a modern museum than a preserved house, some of the spaces are utterly magical, such as Rembrandt’s art room where you can see his collection of curiosities.
 
-{{< figure src="images/rembrandt-house-museum.jpg" alt="Photo of Rembrandt House Museum" caption="Johnbod, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons" align="center" >}}
+{{< figure src="/images/rembrandt-house-museum.jpg" alt="Photo of Rembrandt House Museum" caption="Johnbod, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons" align="center" >}}
 
 Still very much mourning the loss of my cat, I was desperate to visit the KattenKabinet. This canal-side gallery is dedicated to artworks featuring cats. The collection includes paintings, drawings, sculptures by Picasso, Rembrandt, Toulouse-Lautrec, Corneille, Sal Meijer, Théophile Steinlen, Ed van der Elsken and Jože Ciuha. Even better, there are at least four resident cats. I was so busy talking to one on a chaise longue, I completely missed this incredible ceiling.
 
-{{< figure src="images/kattenkabinet.jpg" alt="Photo of KattenKabinet" caption="© [Jorge Royan](http://www.royan.com.ar) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)" align="center" >}}
+{{< figure src="/images/kattenkabinet.jpg" alt="Photo of KattenKabinet" caption="© [Jorge Royan](http://www.royan.com.ar) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)" align="center" >}}
 
 As all the furniture has already been downholstered by the mogs, you’re allowed to sit anywhere. It was such a restorative space.
 
