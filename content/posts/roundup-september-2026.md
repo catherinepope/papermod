@@ -65,4 +65,3 @@ I did quite a lot of writing in September, mainly for my new website [The Liveli
 I attended a lot of online writing retreats, mainly through [Shut Up and Write](https://www.shutupwrite.com). These sessions have provided a lot of structure, accountability, and support. I’m also joining most of the magnificent [Victorian Popular Fiction Association](https://victorianpopularfiction.org)’s writing retreats. I can’t easily attend their conferences these days, so this is a welcome way to meet with other people who enjoy spending time in the nineteenth century. Frankly, it was a lot simpler then.
 
 After tarting around with some other writing tools, I’m now going steady with [Scrivener](/tags/scrivener/) again. Hopefully, we’ll prove to be a good partnership in October.
-
