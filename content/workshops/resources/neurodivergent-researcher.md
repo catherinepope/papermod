@@ -33,6 +33,7 @@ Here are the resources for my workshop **The Neurodivergent Researcher**.
 - [Improve Your Project Management with Data-Driven Planning](/posts/time-tracking-for-researchers/)
 - [Wearing Your Writing Hat](/posts/wearing-your-writing-hat/)
 - [Assessing Ideas with Sequential Elimination](/posts/assessing-ideas-with-sequential-elimination/)
+- [Time-Tracking for Researchers](/posts/time-tracking-for-researchers/)
 
 ## Communication
 
