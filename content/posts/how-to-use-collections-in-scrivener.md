@@ -65,3 +65,7 @@ To delete a Collection, select it and then click the minus sign to the right of 
 I often use a Search Collection to compile all my documents marked ‘Revised Draft’. I can then easily print them out for scribbling and feedback from others. I also regularly use it for documents to which I’ve assigned my ‘Check References’ status. Some days my brain just doesn’t want to write, so it’s lovely to have an easily accessible drongo job – i.e. one that moves my project forward without taxing my mental faculties.
 
 Please do give Collections a try. They can streamline your workflow and make life a tiny bit easier. Who doesn't need that at the moment?
+
+---
+
+{{< scrivener >}}

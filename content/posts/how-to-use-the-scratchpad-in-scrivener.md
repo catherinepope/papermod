@@ -47,3 +47,7 @@ Once you've added them, click the **Reload notes from disk** icon at the bottom 
 ⚠️ As the Scratchpad is not part of your Scrivener project, it isn’t automatically backed up. Make sure this directory is included in your [regular backup routine](/posts/a-catastrophists-guide-to-backing-up-a-mac/). 
 
 So, that's the Scratchpad. Not much fun for your cat, but very useful for you 😾
+
+---
+
+{{< scrivener >}}

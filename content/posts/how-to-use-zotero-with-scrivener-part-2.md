@@ -102,3 +102,7 @@ The citation format will be whatever you've specified for that document. You can
 ## Conclusion
 
 I'm delighted this workflow is functioning again. When the plugin initially broke with Zotero 7, I spent a significant amount of time investigating alternatives to both Zotero and Scrivener. All paths led to a lot of frustration and not enough writing. I still don't think we'll ever get full integration between these tools, or an alternative that does everything we need. For now, though, this makes life easier. A big thank you to everyone who has made it possible 🙏🏼
+
+---
+
+{{< scrivener >}}

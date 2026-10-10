@@ -87,3 +87,7 @@ With this box checked, each time you press <span class="key">Cmd</span> + <span 
 ⚠️ If you permanently delete a document, you’ll also lose the Snapshots. Before deleting documents, it’s a good idea to take a Project Backup, under **File > Back Up > Back Up Now**.
 
 Once you've got your own workflow with Snapshots, it's a feature that'll make your writing a lot smoother. Unless you're willing to use a proper version control system like Git, there are few writing tools that give you this much control. This is an area in which Scrivener really shines.
+
+---
+
+{{< scrivener >}}

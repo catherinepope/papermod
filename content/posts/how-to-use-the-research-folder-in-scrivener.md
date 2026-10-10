@@ -100,4 +100,8 @@ It’s great for transcription (although [Macwhisper](/posts/recording-and-trans
 
 Researchers often ask me whether this method involves duplication of effort if they’re already using note-taking apps and Zotero for managing research material. The short answer is yes. In my longer answer, I explain that the effort is minimal, and the reward significant. It’s simply a case of copying notes into Scrivener, which takes a matter of seconds. A solution doesn’t have to be perfect, it just needs to offer significant benefits. That’s exactly what Scrivener does.
 
+---
+
+{{< scrivener >}}
+
 [^1]: Scrivener uses the default PDF viewer for your computer, so you specify it in the main settings, rather than in Scrivener itself.

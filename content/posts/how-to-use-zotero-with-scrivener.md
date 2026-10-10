@@ -145,3 +145,7 @@ As I'll explain in [the next post](../how-to-use-zotero-with-scrivener-part-2/),
 [^1]: If Zotero is already open but not in the foreground, the Scrivener shortcut may not bring it to the front. You'll need to click on Zotero in the dock the first time.
 
 [^2]: To keep this simple, I'm not going to cover inline citations. And, no, I haven't missed the irony of adding a footnote about footnotes.
+
+---
+
+{{< scrivener >}}
