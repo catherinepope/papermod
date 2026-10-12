@@ -12,6 +12,8 @@ hideMeta: true
 
 Here are the resources from my workshop [Working with Your PhD Supervisor](../../working-with-your-phd-supervisor/).
 
+🎆 [Slides](/docs/supervisor-handout.pdf)
+
 ## Books 📚
 
 - {{< book "words_minds" >}}
