@@ -1,23 +1,23 @@
 ---
 date: "2026-06-07T10:47:34+01:00"
 draft: false
-title: "Planning and Structuring Your Thesis"
+title: "Planning, Structuring, and Writing Your Thesis"
 tags: ["academic", "workshops"]
 categories: ["Training"] 
 # description: "Workshop for PhD students struggling to start their literature review. Learn to plan scope, develop research questions, critically evaluate sources, and create structured arguments that establish your original contribution."
 # keywords: ["literature review", "PhD literature review", "thesis writing", "academic research", "critical evaluation", "research planning", "thesis structure", "doctoral writing", "research methodology", "academic synthesis"]
 ShowBreadCrumbs: true
 hideMeta: true
-build:
-  list: never
-robots: noindex
-searchHidden: true
-disableShare: true
+# build:
+#   list: never
+# robots: noindex
+# searchHidden: true
+# disableShare: true
 ---
 
-You know your research. But turning it into a coherent, well-structured thesis is a different challenge altogether.
+You know your research. But turning it into a coherent, well-structured thesis is a different challenge altogether. This interactive workshop gives you the tools and frameworks to approach your thesis with confidence. You'll learn how to think about your thesis as a project with a clear deliverable, how to organise your ideas into a logical structure, and how to plan your writing so that you make consistent progress without losing sight of the bigger picture.
 
-This interactive workshop gives you the tools and frameworks to approach your thesis with confidence. You'll learn how to think about your thesis as a project with a clear deliverable, how to organise your ideas into a logical structure, and how to plan your writing so that you make consistent progress without losing sight of the bigger picture.
+<!--
 
 By the end of the session, you’ll have:
 
@@ -28,6 +28,10 @@ By the end of the session, you’ll have:
 - Created a sprint-based writing plan that fits your submission deadline.
 
 With the help of an experienced facilitator, you'll leave with a clear action plan and feel ready to take the next step.
+
+//-->
+
+⭐️ A full outline for this workshop is available on request.
 
 👩🏽‍🎓 **Audience:** PhD researchers at all stages in the Arts, Humanities, and Social Sciences.
 

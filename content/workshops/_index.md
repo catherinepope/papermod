@@ -13,17 +13,17 @@ You’ll find more information in my [Workshop Terms and Conditions](/workshops/
 
 2-hour workshops cost £550 and 3-hour workshops cost £800. I don't charge VAT.
 
-If you would like to see the blurb and outline for any of the sessions, please contact me@catherinepope.com.
+If you would like to see the full blurb and outline for any of the sessions, please contact me@catherinepope.com.
 
 I am also happy to design bespoke sessions.
 
 ## PhD Progress
 
-- How to Finish Your PhD (2 hours)
-- Planning and Structuring Your Literature Review (2 hours)
-- Planning and Structuring Your Thesis (2 hours)
-- Preparing for Your Viva (2 hours)
-- How to Publish Your PhD (3 hours)
+- [How to Finish Your PhD](./how-to-finish-your-phd/) (2 hours)
+- [Planning and Structuring Your Literature Review](./planning-and-structuring-your-literature-review/) (2 hours)
+- [Planning, Structuring, and Writing Your Thesis](./planning-and-structuring-your-thesis/) (2 hours)
+- [Preparing for Your Viva](./preparing-for-your-viva/) (2 hours)
+- [How to Publish Your PhD](./how-to-publish-your-phd/) (3 hours)
 
 <!-- A 2-hour workshop for PhD researchers who need a clear, practical approach to planning and writing their thesis. Attendees learn how to organise their research, structure an argument, and develop a realistic writing plan to meet the submission deadline.//-->
 

@@ -8,20 +8,22 @@ description: "Workshop for PhD students struggling to start their literature rev
 keywords: ["literature review", "PhD literature review", "thesis writing", "academic research", "critical evaluation", "research planning", "thesis structure", "doctoral writing", "research methodology", "academic synthesis"]
 ShowBreadCrumbs: true
 hideMeta: true
-searchHidden: true
-disableShare: true
-build:
-  list: never
-robots: noindex
+# searchHidden: true
+# disableShare: true
+# build:
+#   list: never
+# robots: noindex
 ---
 
 Are you still wondering, “What on earth is a literature review?” You know it forms a substantial chunk of your thesis, but you haven’t yet managed to get started.
 
-A well-executed literature review is essential for explaining the context for your thesis, identifying gaps, and establishing your original contribution. However, knowing where to begin and how to plan your approach can feel overwhelming.
+<!--A well-executed literature review is essential for explaining the context for your thesis, identifying gaps, and establishing your original contribution. However, knowing where to begin and how to plan your approach can feel overwhelming.//-->
 
 In this interactive workshop, you’ll learn how to critically evaluate the sources you’ve already gathered, synthesise information from multiple texts to build coherent arguments, and present your findings in a clear, structured way that demonstrates your understanding of the field.
 
-By the end of the session, you’ll have:
+⭐️ A full outline for this workshop is available on request.
+
+<!--By the end of the session, you’ll have:
 
 - Understood the purpose of the literature review and the process behind it.
 - Developed your research questions and identified keywords.
@@ -29,7 +31,7 @@ By the end of the session, you’ll have:
 - Assessed different structures and critical writing styles.
 - Created a personal action plan for moving forward with your literature review.
 
-With the help of an experienced facilitator, you’ll create a strategy that’s right for you and your PhD.
+With the help of an experienced facilitator, you’ll create a strategy that’s right for you and your PhD. //-->
 
 👩🏽‍🎓 **Audience:** PhD researchers at all stages and in any discipline.
 

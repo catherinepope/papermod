@@ -8,14 +8,18 @@ categories: ["Training"]
 # keywords: ["literature review", "PhD literature review", "thesis writing", "academic research", "critical evaluation", "research planning", "thesis structure", "doctoral writing", "research methodology", "academic synthesis"]
 ShowBreadCrumbs: true
 hideMeta: true
-build:
-  list: never
-robots: noindex
-searchHidden: true
-disableShare: true
+# build:
+#  list: never
+# robots: noindex
+# searchHidden: true
+# disableShare: true
 ---
 
 Finishing a PhD isn’t just about having a good research question – you also need a good plan. If you’re finding it hard to make consistent progress, this interactive workshop shows you how to get back on track. With the help of an experienced facilitator, you’ll understand what’s getting in the way and what you can do about it. 
+
+⭐️ A full outline for this workshop is available on request.
+
+<!--
 
 Through discussion, activities, and examples, you'll learn to:
 
@@ -25,7 +29,9 @@ Through discussion, activities, and examples, you'll learn to:
 - Anticipate problems before they derail you.
 - Get more from your supervisory relationship.
 
-By the end of the session, you’ll have the clarity and confidence you need to finish your PhD. Together we’ll create an action plan that’s right for you.
+By the end of the session, you’ll have the clarity and confidence you need to finish your PhD. Together we’ll create an action plan that’s right for you. 
+
+//-->
 
 👩🏽‍🎓 **Audience:** Mid-to-late-stage PhD researchers in the Arts, Humanities, and Social Sciences.
 

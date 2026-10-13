@@ -7,16 +7,16 @@ categories: ["Training"]
 description: "Learn how to prepare for and excel in your PhD viva examination. This comprehensive workshop covers strategic preparation, question handling techniques, examiner selection, and confidence-building strategies for doctoral candidates."
 keywords: ["PhD viva", "viva preparation", "doctoral examination", "thesis defense", "PhD examination", "viva voce", "doctoral viva", "PhD defense", "examiner questions", "thesis examination", "doctoral milestone", "PhD completion", "viva anxiety", "doctoral success", "PhD workshop"]
 hideMeta: true
-build:
-  list: never
-robots: noindex
-searchHidden: true
-disableShare: true
+# build:
+#   list: never
+# robots: noindex
+# searchHidden: true
+# disableShare: true
 ---
 
 The PhD viva is a crucial milestone that determines your doctoral success, yet many candidates approach it with a lot of anxiety and not enough preparation. This comprehensive workshop demystifies the viva process and equips you with practical strategies to perform confidently on the day.
 
-You'll learn how to prepare systematically in the months leading up to your viva, from re-reading your thesis thoroughly to anticipating examiner questions. Through interactive discussions and proven techniques, you'll develop the skills to articulate your research clearly and defend your work without becoming defensive.
+<!-- You'll learn how to prepare systematically in the months leading up to your viva, from re-reading your thesis thoroughly to anticipating examiner questions. Through interactive discussions and proven techniques, you'll develop the skills to articulate your research clearly and defend your work without becoming defensive.
 
 We'll cover:
 
@@ -32,7 +32,9 @@ By the end of the session, you'll have:
 - Developed a structured approach to your preparation.
 - Learned frameworks for handling questions effectively.
 - Practised techniques for discussing weaknesses constructively and defining your terms clearly.
-- Built confidence in your ability to demonstrate expertise in your research area.
+- Built confidence in your ability to demonstrate expertise in your research area.//-->
+
+⭐️ A full outline for this workshop is available on request.
 
 👩🏽‍🎓 **Audience:** Late-stage PhD researchers in the Arts, Humanities, and Social Sciences.
 

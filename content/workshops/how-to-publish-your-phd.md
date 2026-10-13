@@ -8,20 +8,20 @@ description: "Workshop for post-PhD researchers ready to publish their monograph
 keywords: ["monograph publishing", "academic book publishing", "PhD to book", "book proposal", "academic publishers", "scholarly publishing", "thesis to monograph", "academic writing", "book publishing", "scholarly books"]
 ShowBreadCrumbs: true
 hideMeta: true
-build:
-  list: never
-robots: noindex
-searchHidden: true
-disableShare: true
+# build:
+#   list: never
+# robots: noindex
+# searchHidden: true
+# disableShare: true
 ---
 
 You’ve passed your viva and got your life back. Now everyone keeps asking, “When are you going to publish your PhD?”
 
-You’re vaguely aware of what’s involved in writing a monograph, but you’re not sure where to start. There are so many options, decisions, and conflicting experiences. What’s right for you? And, more importantly, how long will it take? 
+<!-- You’re vaguely aware of what’s involved in writing a monograph, but you’re not sure where to start. There are so many options, decisions, and conflicting experiences. What’s right for you? And, more importantly, how long will it take? //-->
 
 This interactive workshop demystifies the process so you know exactly what’s involved at every stage.
 
-With the help of an experienced facilitator, you’ll develop a publishing strategy that’s right for you. 
+<!-- With the help of an experienced facilitator, you’ll develop a publishing strategy that’s right for you. 
 
 You’ll learn about: 
 
@@ -32,7 +32,9 @@ You’ll learn about:
 - Developing a productive writing process.
 - Alternatives to monographs.
 
-By the end of the session, you’ll be ready to get going with drafting your proposal.
+By the end of the session, you’ll be ready to get going with drafting your proposal. //-->
+
+⭐️ A full outline for this workshop is available on request.
 
 👩🏽‍🎓 **Audience:** Researchers at all stages and in any discipline.
 
