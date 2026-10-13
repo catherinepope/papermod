@@ -8,15 +8,15 @@ description: "Interactive workshop on building effective PhD supervisor relation
 keywords: ["PhD supervision", "supervisor relationship", "doctoral supervision", "PhD communication", "research supervision", "supervisor feedback", "PhD autonomy", "doctoral relationships", "supervisory meetings", "PhD guidance"]
 ShowBreadCrumbs: true
 hideMeta: true
-build:
-  list: never
-robots: noindex
-searchHidden: true
+# build:
+#   list: never
+# robots: noindex
+# searchHidden: true
 ---
 
 The supervisor-student relationship is one of the most important factors in PhD success, yet many researchers struggle to make it work effectively. This interactive workshop helps you build a productive professional relationship with your supervisors.
 
-You'll explore how to establish clear expectations, communicate your needs effectively, and adapt your working relationship as you develop greater autonomy throughout your PhD journey. Through practical frameworks and group discussions, you'll learn to navigate the transition from dependent student to independent researcher.
+<!-- You'll explore how to establish clear expectations, communicate your needs effectively, and adapt your working relationship as you develop greater autonomy throughout your PhD journey. Through practical frameworks and group discussions, you'll learn to navigate the transition from dependent student to independent researcher.
 
 We'll cover:
 
@@ -32,10 +32,12 @@ By the end of the session, you'll have:
 - Developed strategies for taking initiative in meetings and communications.
 - Learned techniques for requesting specific, actionable feedback.
 - Created an action plan for building a stronger working relationship with your supervisor.
-- Identified additional sources of support beyond your primary supervisor.
+- Identified additional sources of support beyond your primary supervisor. //-->
+
+⭐️ A full outline for this workshop is available on request.
 
 👩🏽‍🎓 **Audience:** PhD researchers at all stages and in any discipline.
 
 ⏰ **Duration:** 2 hours
 
-{{< booking-info duration="2-hour" price="£525" >}}
+{{< booking-info duration="2-hour" price="550" >}}

@@ -1,6 +1,6 @@
 ---
 date: "2026-06-07T16:37:34+01:00"
-draft: true
+draft: false
 title: "Managing Competing Priorities"
 tags: ["academic", "workshops"]
 categories: ["Training"] 
@@ -8,15 +8,15 @@ categories: ["Training"]
 # keywords: ["literature review", "PhD literature review", "thesis writing", "academic research", "critical evaluation", "research planning", "thesis structure", "doctoral writing", "research methodology", "academic synthesis"]
 ShowBreadCrumbs: true
 hideMeta: true
-build:
-  list: never
-robots: noindex
-searchHidden: true
+# build:
+#   list: never
+# robots: noindex
+# searchHidden: true
 ---
 
 Researchers face an ever-expanding set of demands: writing, teaching, administration, supervision, grant applications, knowledge exchange, and more. The challenge isn't just finding time — it's making deliberate decisions about where your time and energy actually go, and protecting what matters most from what's merely urgent.
 
-In this practical workshop, you'll develop strategies for taking back control of your workload in a way that is sustainable, values-led, and realistic.
+<!-- In this practical workshop, you'll develop strategies for taking back control of your workload in a way that is sustainable and realistic.
 
 You'll learn how to:
 
@@ -30,8 +30,9 @@ By the end of the workshop, you'll have:
 
 - A clearer picture of where your time is currently going and where it should be going.
 - A set of practical strategies to implement straight away.
-- A plan for your next steps.
+- A plan for your next steps. //-->
 
+⭐️ A full outline for this workshop is available on request.
 
 👩🏽‍🎓 **Audience:** Researchers at all stages and in all disciplines.
 

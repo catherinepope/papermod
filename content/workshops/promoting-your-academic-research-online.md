@@ -8,16 +8,18 @@ description: "Workshop on promoting academic research through digital scholarshi
 keywords: ["academic online presence", "digital scholarship", "research promotion", "Open Access", "academic blogging", "research podcasting", "academic videos", "science communication", "research impact", "scholarly communication"]
 ShowBreadCrumbs: true
 hideMeta: true
-disableShare: true
-build:
-  list: never
-robots: noindex
-searchHidden: true
+# disableShare: true
+# build:
+#   list: never
+# robots: noindex
+# searchHidden: true
 ---
 
 Are you ready to share your research with a wider audience but unsure how to move beyond traditional academic publishing? Your work deserves to reach people who can benefit from it, but navigating the digital landscape can feel daunting.
 
-This interactive workshop focuses on sustainable, long-form approaches to digital scholarship that can amplify your impact and build your reputation in your field and beyond. You’ll explore how to maximise the discoverability of your publications through Open Access communities, transform complex academic concepts into compelling blog posts, and bring your research to life through storytelling on podcasts and videos.
+This interactive workshop focuses on sustainable, long-form approaches to digital scholarship that can amplify your impact and build your reputation in your field and beyond. 
+
+<!-- You’ll explore how to maximise the discoverability of your publications through Open Access communities, transform complex academic concepts into compelling blog posts, and bring your research to life through storytelling on podcasts and videos.
 
 We’ll cover practical strategies for developing your unique voice across different platforms, maintaining consistency in your online presence, and building meaningful connections with your audience. The emphasis is on creating substantial, thoughtful content that reflects the depth of your expertise rather spending time on brief social media updates.
 
@@ -29,7 +31,9 @@ By the end of the session, you’ll have:
 - Discovered video and other visual content strategies that showcase your research effectively.
 - Created a roadmap for establishing and maintaining your online research presence.
 
-With guidance from an experienced facilitator and examples from successful academic communicators, you’ll develop the confidence and skills to share your research in meaningful, impactful ways.
+With guidance from an experienced facilitator and examples from successful academic communicators, you’ll develop the confidence and skills to share your research in meaningful, impactful ways. //-->
+
+⭐️ A full outline for this workshop is available on request.
 
 👩🏽‍🎓 **Audience:** Researchers at all stages and in any discipline.
 

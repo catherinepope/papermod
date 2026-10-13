@@ -8,18 +8,18 @@ description: "Interactive workshop on using AI tools to enhance academic writing
 keywords: ["AI writing tools", "academic writing", "AI for academics", "writing productivity", "AI ethics", "academic AI", "writing assistance", "scholarly writing", "AI integration", "writing workshop"]
 ShowBreadCrumbs: true
 hideMeta: true
-build:
-  list: never
-robots: noindex
-searchHidden: true
-disableShare: true
+# build:
+#   list: never
+# robots: noindex
+# searchHidden: true
+# disableShare: true
 ---
 
 AI tools promise to transform academic research and writing. But how do you take advantage of them without compromising your integrity or losing your scholarly voice?
 
 In this interactive session, you'll explore a range of AI tools for both the research and writing stages of your work. You'll learn how to find literature more efficiently, overcome writer's block, and improve the clarity and flow of your writing, all while using AI responsibly and transparently.
 
-We'll cover:
+<!-- We'll cover:
 
 - Understanding and evaluating AI-powered research and writing tools.
 - Finding relevant literature by refining your scope and identifying terms.
@@ -27,7 +27,9 @@ We'll cover:
 - Improving clarity, coherence, and flow while retaining your academic voice.
 - Integrating AI into your workflow responsibly and in line with institutional policies.
 
-By the end of the session, you'll have a clear framework for using AI tools confidently and ethically at every stage of your research.
+By the end of the session, you'll have a clear framework for using AI tools confidently and ethically at every stage of your research. //-->
+
+⭐️ A full outline for this workshop is available on request.
 
 _This session can be adapted to conform to institutional policies, if the relevant information is provided at time of booking._
 

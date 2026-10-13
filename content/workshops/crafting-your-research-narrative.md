@@ -8,16 +8,20 @@ categories: ["Training"]
 # keywords: ["literature review", "PhD literature review", "thesis writing", "academic research", "critical evaluation", "research planning", "thesis structure", "doctoral writing", "research methodology", "academic synthesis"]
 ShowBreadCrumbs: true
 hideMeta: true
-build:
-  list: never
-robots: noindex
-searchHidden: true
-disableShare: true
+# build:
+#   list: never
+# robots: noindex
+# searchHidden: true
+# disableShare: true
 ---
 
 You know your research inside out. But can you explain why it matters to someone outside your field? Whether you're giving a conference talk, presenting at a job interview, or making the case to a promotion panel, the ability to communicate your research clearly and confidently can be as important as the research itself.
 
-In this practical session, you'll develop a compelling narrative that works across a range of contexts. You'll learn how to grab your audience's attention, structure your story effectively, and pitch your message at exactly the right level, without losing the depth and rigour that makes your work valuable.
+In this practical session, you'll develop a compelling narrative that works across a range of contexts. 
+
+⭐️ A full outline for this workshop is available on request.
+
+<!-- You'll learn how to grab your audience's attention, structure your story effectively, and pitch your message at exactly the right level, without losing the depth and rigour that makes your work valuable.
 
 We'll cover:
 
@@ -27,7 +31,7 @@ We'll cover:
 - Crafting strong openings and endings.
 - Practising and refining your story with peer feedback.
 
-By the end of the session, you'll have a research narrative you can adapt and deploy with confidence — whatever the context.
+By the end of the session, you'll have a research narrative you can adapt and deploy with confidence — whatever the context. //-->
 
 👩🏽‍🎓 **Audience:** Researchers at all stages and in all disciplines.
 

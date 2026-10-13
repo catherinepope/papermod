@@ -19,7 +19,7 @@ Are you horrified by the thought of confronting your own work? Have you left it 
 
 Through activities and tutorials, this interactive workshop provides you with a three-stage strategy for turning that messy draft into a structured piece of writing. 
 
-With the help of an experienced facilitator, you’ll break the process down into more manageable chunks. You’ll also get the opportunity to apply the techniques to a piece of writing.
+<!-- With the help of an experienced facilitator, you’ll break the process down into more manageable chunks. You’ll also get the opportunity to apply the techniques to a piece of writing.
 
 Here’s what we’ll cover: 
 
@@ -28,7 +28,9 @@ Here’s what we’ll cover:
 - Signposting your argument.
 - Maintaining consistency, clarity, and connections.
 - Strengthening your academic voice and contribution.
-- Proofreading your own work. 
+- Proofreading your own work. //-->
+
+⭐️ A full outline for this workshop is available on request.
 
 This session can be adapted to focus specifically on editing a doctoral thesis.
 

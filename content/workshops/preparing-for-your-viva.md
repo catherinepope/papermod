@@ -46,4 +46,4 @@ By the end of the session, you'll have:
 - "Excellent, as always (well-prepared, very helpful and witty)."
 - "Brilliant! Simple and clear - very reassuring and informative."
 
-{{< booking-info duration="2-hour" price="£550" >}}
+{{< booking-info duration="2-hour" price="550" >}}

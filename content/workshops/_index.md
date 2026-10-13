@@ -24,39 +24,39 @@ I am also happy to design bespoke sessions.
 - [Planning, Structuring, and Writing Your Thesis](./planning-and-structuring-your-thesis/) (2 hours)
 - [Preparing for Your Viva](./preparing-for-your-viva/) (2 hours)
 - [How to Publish Your PhD](./how-to-publish-your-phd/) (3 hours)
+- [Working with Your PhD Supervisor](./working-with-your-phd-supervisor/) (2 hours)
 
 <!-- A 2-hour workshop for PhD researchers who need a clear, practical approach to planning and writing their thesis. Attendees learn how to organise their research, structure an argument, and develop a realistic writing plan to meet the submission deadline.//-->
 
 ## Writing
 
-- Making Time for Writing (2 hours)
-- From Reading to Writing: Create a Workflow that Sticks (2 hours) 
-- Externalising and Organising Your Research Brain (2 hours)
-- How to Edit Your Own Academic Writing (3 hours)
-- How to Turn Your Research into Journal Articles (3 hours)
+- [Making Time to Write](./making-time-to-write/) (2 hours)
+- [From Reading to Writing: Create a Workflow that Sticks](./from-reading-to-writing/) (2 hours) 
+- [Externalising and Organising Your Research Brain](./externalising-and-organising-your-research-brain/) (2 hours)
+- [How to Edit Your Own Academic Writing](./editing-your-own-academic-writing/) (3 hours)
+- [How to Turn Your Research into Journal Articles](./turning-your-research-into-journal-articles/) (3 hours)
 
 _I also offer full- or half-day online writing retreats. Please [contact me](/contact/) to discuss your requirements._
 
 ## Tech
 
-- Getting Started with Zotero (2 hours)
-- Using AI Responsibly in Your Research and Writing (3 hours)
-- Visual Planning with Trello (2 hours)
-- Promoting Your Research Online (2 hours)
-- Creating Your Digital Workflow (2 hours)
+- [Getting Started with Zotero](./getting-started-with-zotero/) (2 hours)
+- [Using AI Responsibly in Your Research and Writing](./using-ai-responsibly-in-your-research-and-writing/) (3 hours)
+- [Promoting Your Research Online](./promoting-your-academic-research-online/) (2 hours)
 
 ## Personal Effectiveness
 
-- The Neurodivergent Researcher (2 hours)
-- Managing Competing Priorities (2 hours)
-- Building Your Research Network (2 hours)
-- Crafting Your Research Narrative (3 hours)
-- Taking Control of Your Career (2 hours)
+- [The Neurodivergent Researcher](./the-neurodivergent-researcher/) (2 hours)
+- [Managing Competing Priorities](./managing-competing-priorities/) (2 hours)
+- [Building Your Research Network](./building-your-research-network/) (2 hours)
+- [Crafting Your Research Narrative](./crafting-your-research-narrative/) (3 hours)
+- [Taking Control of Your Career](./taking-control-of-your-career/) (2 hours)
+- [Writing a Narrative CV](./writing-a-narrative-cv/) (3 hours)
 
 ## Supporting and Leading Researchers
 
 - Supporting PhD Researchers (2 hours)
 - Supervising Researchers' Writing (2 hours)
 - Embracing Neurodivergence in the Supervisory Relationship (2 hours)
-- Managing a Research Project (3 hours)
-- Next Steps in Managing Research Projects (3 hours)
+- [Managing a Research Project](./project-managing-your-research/) (3 hours)
+- [Next Steps in Managing Research Projects](./advancing-your-project-management-skills/) (3 hours)

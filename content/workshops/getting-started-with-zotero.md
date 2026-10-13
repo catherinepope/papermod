@@ -8,16 +8,18 @@ description: "Interactive demonstration of Zotero reference management software.
 keywords: ["Zotero", "reference management", "citation software", "bibliography", "academic references", "research tools", "citation styles", "Zotero workshop", "academic writing tools", "research organization"]
 ShowBreadCrumbs: true
 hideMeta: true
-build:
-  list: never
-robots: noindex
-searchHidden: true
-disableShare: true
+# build:
+#   list: never
+# robots: noindex
+# searchHidden: true
+# disableShare: true
 ---
 
 Do you spend hours trying to find the source of that really important paper? Are you despairing at the thought of compiling your bibliography? Perhaps you have already a referencing tool, but it’s not right for you. You need Zotero! 
 
 In this interactive demonstration, you’ll learn all about Zotero, a free tool for organising and citing references. With the help of an experienced facilitator, you’ll assess Zotero’s features and find out how it can support your workflow.
+
+<!--
 
 You’ll learn how to:
 
@@ -27,7 +29,9 @@ You’ll learn how to:
 - Create citations in Word and Google Docs. 
 - Use different citation styles. 
 
-By the end of the session, you’ll be a confident Zotero user, ready to produce perfectly formatted citations and bibliographies. 
+By the end of the session, you’ll be a confident Zotero user, ready to produce perfectly formatted citations and bibliographies. //-->
+
+⭐️ A full outline for this workshop is available on request.
 
 👩🏽‍🎓 **Audience:** Researchers at all stages and in any discipline.
 

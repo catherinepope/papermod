@@ -8,16 +8,18 @@ categories: ["Training"]
 # keywords: ["literature review", "PhD literature review", "thesis writing", "academic research", "critical evaluation", "research planning", "thesis structure", "doctoral writing", "research methodology", "academic synthesis"]
 ShowBreadCrumbs: true
 hideMeta: true
-build:
-  list: never
-robots: noindex
-searchHidden: true
-disableShare: true
+# build:
+#   list: never
+# robots: noindex
+# searchHidden: true
+# disableShare: true
 ---
 
 Do you have a sense of where you want to go, but feel unsure how to get there? Or perhaps you’re struggling to work out what you actually want? It's easy to drift through a career, responding to opportunities as they arise and measuring success by other people's definitions. This workshop invites you to step back, think deliberately about your direction, and start moving towards it with intention.
 
-Drawing on frameworks from leadership and career development research, this practical session helps you identify what you can influence, clarify what matters to you, and distinguish between the path you're expected to follow and the one you genuinely want to take.
+⭐️ A full outline for this workshop is available on request.
+
+<!-- Drawing on frameworks from leadership and career development research, this practical session helps you identify what you can influence, clarify what matters to you, and distinguish between the path you're expected to follow and the one you genuinely want to take.
 
 By the end of the session, you’ll have:
 
@@ -27,7 +29,7 @@ By the end of the session, you’ll have:
 - Reflected on where you are now and what might be getting in the way of moving forward.
 - Identified the next step you can take immediately.
 
-With the help of an experienced facilitator, you'll leave with a plan and the confidence to put it into action.
+With the help of an experienced facilitator, you'll leave with a plan and the confidence to put it into action. //-->
 
 👩🏽‍🎓 **Audience:**  Researchers at all stages and in all disciplines.
 

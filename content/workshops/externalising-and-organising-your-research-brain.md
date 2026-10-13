@@ -8,16 +8,18 @@ categories: ["Training"]
 # keywords: ["literature review", "PhD literature review", "thesis writing", "academic research", "critical evaluation", "research planning", "thesis structure", "doctoral writing", "research methodology", "academic synthesis"]
 ShowBreadCrumbs: true
 hideMeta: true
-disableShare: true
-build:
-  list: never
-robots: noindex
-searchHidden: true
+# disableShare: true
+# build:
+#   list: never
+# robots: noindex
+# searchHidden: true
 ---
 
 Research thinking is seldom tidy. Ideas arrive out of sequence, connections appear from unexpected directions, and the sheer volume of material you're holding in your head at any one time makes progress difficult. For neurodivergent researchers, this challenge is often amplified, as your working memory is already managing additional demands.
 
-Led by a facilitator with her own lived experience of working as an AuDHD researcher, this workshop offers practical techniques for getting your research thinking out of your head and into a form you can actually work with. We'll explore visual organisation methods — including mind maps, concept maps, and affinity maps — and look at how to use them as a bridge towards written structure. Throughout, we'll consider how different neurodivergent traits affect the way we process and organise information, and what that means for finding approaches that genuinely work for you.
+Led by a facilitator with her own lived experience of working as an AuDHD researcher, this workshop offers practical techniques for getting your research thinking out of your head and into a form you can actually work with. 
+
+<!-- We'll explore visual organisation methods — including mind maps, concept maps, and affinity maps — and look at how to use them as a bridge towards written structure. Throughout, we'll consider how different neurodivergent traits affect the way we process and organise information, and what that means for finding approaches that genuinely work for you.
 
 Here’s what we'll cover:
 
@@ -29,7 +31,9 @@ By the end of the session, you'll have:
 
 - Created a visual map of part of your research.
 - Translated that map into the beginnings of a written structure.
-- Identified approaches that fit your individual thinking style.
+- Identified approaches that fit your individual thinking style. //-->
+
+⭐️ A full outline for this workshop is available on request.
 
 👩🏽‍🎓 **Audience:** PhD researchers at all stages and in any discipline.
 

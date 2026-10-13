@@ -8,15 +8,17 @@ description: "Interactive workshop on practical project management for academic 
 keywords: ["academic project management", "research project management", "PhD project management", "research planning", "academic productivity", "project scheduling", "research goals", "milestone tracking", "academic workflow", "research organization"]
 ShowBreadCrumbs: true
 hideMeta: true
-build:
-  list: never
-robots: noindex
-searchHidden: true
+# build:
+#   list: never
+# robots: noindex
+# searchHidden: true
 ---
 
 Are you ready to take control of your research? As an academic, you’re probably juggling multiple projects, requiring effective planning and execution. As an academic, you probably also lack the time to devise a proper strategy.
 
-In this interactive session, you’ll discover the core elements of project management and how to apply them in your research projects. There’s no complicated methodology, just practical tips and templates you can apply right away. With the help of an experienced facilitator, you’ll establish an approach that’s right for you.
+In this interactive session, you’ll discover the core elements of project management and how to apply them in your research projects. 
+
+<!-- There’s no complicated methodology, just practical tips and templates you can apply right away. With the help of an experienced facilitator, you’ll establish an approach that’s right for you.
 
 Through discussion, activities, and examples, you’ll learn to:
 
@@ -26,7 +28,9 @@ Through discussion, activities, and examples, you’ll learn to:
 - Identify and mitigate risks.
 - Communicate effectively with stakeholders.
 
-This workshop equips you with the skills and tools you need to achieve your research goals on time and within budget.
+This workshop equips you with the skills and tools you need to achieve your research goals on time and within budget. //-->
+
+⭐️ A full outline for this workshop is available on request.
 
 If required, the content can be tailored specifically for PhD researchers. I also offer [a more advanced workshop for those with project management experience](/workshops/advancing-your-project-management-skills/).
 
@@ -40,4 +44,4 @@ If required, the content can be tailored specifically for PhD researchers. I als
 - "Provided useful approaches and tools for how to take a step back and manage research when it gets overwhelming, and how to create schedules that include contingency for when things go wrong."
 - "Catherine is an amazing trainer – really well managed session and lots of tips for success and very supportive atmosphere."
 
-{{< booking-info duration="3-hour" price="£775" >}}
+{{< booking-info duration="3-hour" price="800" >}}

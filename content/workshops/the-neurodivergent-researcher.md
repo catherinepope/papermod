@@ -8,18 +8,18 @@ categories: ["Training"]
 # keywords: ["literature review", "PhD literature review", "thesis writing", "academic research", "critical evaluation", "research planning", "thesis structure", "doctoral writing", "research methodology", "academic synthesis"]
 ShowBreadCrumbs: true
 hideMeta: true
-build:
-  list: never
-robots: noindex
-searchHidden: true
-disableShare: true
+# build:
+#   list: never
+# robots: noindex
+# searchHidden: true
+# disableShare: true
 ---
 
 A PhD makes unique demands at every stage — from establishing yourself as a researcher in the early years, to sustaining momentum through the middle stretch, to the particular pressures of writing up and submission. It's an exciting journey, but it can also be a demanding one, especially if your brain works in ways that don’t always fit the default structures of academic life.
 
 This workshop is designed specifically for PhD students who identify as neurodivergent, whether you have a formal diagnosis, or simply recognise yourself in those experiences. It's led by a facilitator with her own lived experience of navigating academia as an AuDHD researcher, so we'll look honestly at the challenges the PhD presents, and also at the very real strengths that neurodivergent thinking brings to research.
 
-Here’s what we'll cover:
+<!-- Here’s what we'll cover:
 
 - Understanding why the PhD can be particularly demanding for neurodivergent researchers.
 - Recognising your neurodivergent strengths and how to deploy them strategically in your research.
@@ -31,7 +31,9 @@ By the end of the session, you'll have:
 
 - A clearer understanding of neurodivergence in a PhD context. 
 - Practical strategies you can apply immediately to your research work.
-- A personal action plan for your next steps.
+- A personal action plan for your next steps. //-->
+
+⭐️ A full outline for this workshop is available on request.
 
 👩🏽‍🎓 **Audience:** PhD researchers at any stage and in any discipline.
 

@@ -8,18 +8,20 @@ categories: ["Training"]
 # keywords: ["literature review", "PhD literature review", "thesis writing", "academic research", "critical evaluation", "research planning", "thesis structure", "doctoral writing", "research methodology", "academic synthesis"]
 ShowBreadCrumbs: true
 hideMeta: true
-build:
-  list: never
-robots: noindex
-searchHidden: true
-disableShare: true
+# build:
+#   list: never
+# robots: noindex
+# searchHidden: true
+# disableShare: true
 ---
 
 A strong professional network isn't a luxury or a sign of self-promotion: it's one of the most important tools you have for developing your research, advancing your career, and staying connected to what's happening in your field and beyond. Yet most of us rely on the contacts we already have.
 
 In this practical workshop, you'll learn how to audit and extend your network with intention, moving beyond the familiar to build relationships that genuinely support where you're heading.
 
-You'll learn how to:
+⭐️ A full outline for this workshop is available on request.
+
+<!-- You'll learn how to:
 
 - Understand the difference between operational, personal, and strategic networks — and why all three matter.
 - Identify the gaps and blind spots in your current network, including the value of weak ties and diverse connections.
@@ -31,7 +33,7 @@ By the end of the workshop, you'll have:
 
 - An audit of your current network.
 - A practical plan for building the connections that will support your research and career.
-- A clearly identified next step.
+- A clearly identified next step. //-->
 
 👩🏽‍🎓 **Audience:** Researchers at all stages and in all disciplines.
 
