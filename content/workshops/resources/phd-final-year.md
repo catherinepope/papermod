@@ -17,6 +17,9 @@ Here are the resources for [my workshop on Planning the Final Year of Your PhD](
 
 ## Books 📚
 
+- [How to Finish Your PhD](/books/how-to-finish-your-phd/)
+- [How to Publish Your PhD](/books/how-to-publish-your-phd/)
+
 {{< book-subject "PhD" >}}
 
 ## Websites 🕸️
